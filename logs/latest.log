@@ -1,52 +1,53 @@
-[20:22:23] [main/INFO]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLTweaker
-[20:22:24] [main/INFO]: Using primary tweak class name net.minecraftforge.fml.common.launcher.FMLTweaker
-[20:22:24] [main/INFO]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLTweaker
-[20:22:24] [main/INFO]: Forge Mod Loader version 14.23.5.2838 for Minecraft 1.12.2 loading
-[20:22:24] [main/INFO]: Java is Java HotSpot(TM) 64-Bit Server VM, version 1.8.0_51, running on Windows 10:amd64:10.0, installed at C:\Users\Sebwo\Documents\Curse\Minecraft\Install\runtime\jre-x64
-[20:22:24] [main/INFO]: Searching C:\Users\Sebwo\Documents\Curse\Minecraft\Instances\Dropbox\good vs. evil\mods for mods
-[20:22:24] [main/INFO]: Loading tweaker guichaguri.betterfps.tweaker.BetterFpsTweaker from BetterFps-1.4.8.jar
-[20:22:24] [main/WARN]: Found FMLCorePluginContainsFMLMod marker in CTM-MC1.12.2-1.0.1.30.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
-[20:22:24] [main/WARN]: The coremod team.chisel.ctm.client.asm.CTMCorePlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
-[20:22:24] [main/WARN]: The coremod CTMCorePlugin (team.chisel.ctm.client.asm.CTMCorePlugin) is not signed!
-[20:22:24] [main/WARN]: Found FMLCorePluginContainsFMLMod marker in InventoryTweaks-1.63.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
-[20:22:24] [main/WARN]: The coremod invtweaks.forge.asm.FMLPlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
-[20:22:24] [main/INFO]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
-[20:22:25] [main/INFO]: Loading tweak class name guichaguri.betterfps.tweaker.BetterFpsTweaker
-[20:22:25] [main/INFO]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
-[20:22:25] [main/INFO]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
-[20:22:25] [main/INFO]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
-[20:22:25] [main/INFO]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
-[20:22:33] [main/INFO]: Found valid fingerprint for Minecraft Forge. Certificate fingerprint e3c3d50c7c986df74c645c0ac54639741c90a557
-[20:22:33] [main/INFO]: Found valid fingerprint for Minecraft. Certificate fingerprint cd99959656f753dc28d863b46769f7f8fbaefcfc
-[20:22:33] [main/INFO]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
-[20:22:33] [main/INFO]: Calling tweak class guichaguri.betterfps.tweaker.BetterFpsTweaker
-[20:22:33] [main/INFO]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
-[20:22:35] [main/INFO]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
-[20:22:37] [main/INFO]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
-[20:22:37] [main/INFO]: Loading tweak class name net.minecraftforge.fml.common.launcher.TerminalTweaker
-[20:22:37] [main/INFO]: Calling tweak class net.minecraftforge.fml.common.launcher.TerminalTweaker
-[20:22:37] [main/INFO]: Launching wrapped minecraft {net.minecraft.client.main.Main}
-[20:22:37] [main/INFO]: Patching net.minecraft.client.Minecraft... (bib)
-[20:22:45] [main/INFO]: Patching net.minecraft.client.entity.EntityPlayerSP... (bud)
-[20:22:53] [main/INFO]: [team.chisel.ctm.client.asm.CTMTransformer:preTransform:230]: Transforming Class [net.minecraftforge.client.ForgeHooksClient], Method [getDamageModel]
-[20:22:53] [main/INFO]: [team.chisel.ctm.client.asm.CTMTransformer:finishTransform:242]: Transforming net.minecraftforge.client.ForgeHooksClient Finished.
-[20:22:53] [Client thread/INFO]: Setting user: DieInsel
-[20:22:54] [Client thread/INFO]: Patching net.minecraft.block.Block... (aow)
-[20:22:54] [Client thread/INFO]: [team.chisel.ctm.client.asm.CTMTransformer:preTransform:230]: Transforming Class [net.minecraft.block.Block], Method [getExtendedState]
-[20:22:54] [Client thread/INFO]: [team.chisel.ctm.client.asm.CTMTransformer:finishTransform:242]: Transforming net.minecraft.block.Block Finished.
-[20:22:57] [Client thread/INFO]: Patching math utils with "RIVENS_HALF" algorithm
-[20:23:02] [Client thread/INFO]: Patching net.minecraft.tileentity.TileEntityBeacon... (avh)
-[20:23:02] [Client thread/INFO]: Patching net.minecraft.block.BlockHopper... (arl)
-[20:23:02] [Client thread/INFO]: Patching net.minecraft.tileentity.TileEntityHopper... (avw)
-[20:23:13] [Client thread/INFO]: LWJGL Version: 2.9.4
-[20:23:18] [Client thread/INFO]: Could not load splash.properties, will create a default one
-[20:23:19] [Client thread/INFO]: -- System Details --
+[18:59:45] [main/INFO]: Using primary tweak class name net.minecraftforge.fml.common.launcher.FMLTweaker
+[18:59:45] [main/INFO]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLTweaker
+[18:59:45] [main/INFO]: Forge Mod Loader version 14.23.5.2847 for Minecraft 1.12.2 loading
+[18:59:45] [main/INFO]: Java is Java HotSpot(TM) 64-Bit Server VM, version 1.8.0_51, running on Windows 10:amd64:10.0, installed at C:\Users\Sebwo\Documents\Curse\Minecraft\Install\runtime\jre-x64
+[18:59:45] [main/WARN]: The coremod FMLCorePlugin (net.minecraftforge.fml.relauncher.FMLCorePlugin) is not signed!
+[18:59:45] [main/WARN]: The coremod FMLForgePlugin (net.minecraftforge.classloading.FMLForgePlugin) is not signed!
+[18:59:45] [main/INFO]: Searching C:\Users\Sebwo\Documents\Curse\Minecraft\Instances\goodvsevil\mods for mods
+[18:59:45] [main/INFO]: Loading tweaker guichaguri.betterfps.tweaker.BetterFpsTweaker from BetterFps-1.4.8.jar
+[18:59:45] [main/WARN]: Found FMLCorePluginContainsFMLMod marker in CTM-MC1.12.2-1.0.1.30.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[18:59:45] [main/WARN]: The coremod team.chisel.ctm.client.asm.CTMCorePlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[18:59:45] [main/WARN]: The coremod CTMCorePlugin (team.chisel.ctm.client.asm.CTMCorePlugin) is not signed!
+[18:59:45] [main/WARN]: Found FMLCorePluginContainsFMLMod marker in InventoryTweaks-1.63.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[18:59:45] [main/WARN]: The coremod invtweaks.forge.asm.FMLPlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[18:59:45] [main/INFO]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[18:59:45] [main/INFO]: Loading tweak class name guichaguri.betterfps.tweaker.BetterFpsTweaker
+[18:59:45] [main/INFO]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[18:59:45] [main/INFO]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[18:59:45] [main/INFO]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[18:59:45] [main/INFO]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[18:59:49] [main/INFO]: Found valid fingerprint for Minecraft. Certificate fingerprint cd99959656f753dc28d863b46769f7f8fbaefcfc
+[18:59:49] [main/ERROR]: FML appears to be missing any signature data. This is not a good thing
+[18:59:49] [main/INFO]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[18:59:49] [main/INFO]: Calling tweak class guichaguri.betterfps.tweaker.BetterFpsTweaker
+[18:59:49] [main/INFO]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[18:59:49] [main/INFO]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[18:59:49] [main/INFO]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[18:59:49] [main/INFO]: Loading tweak class name net.minecraftforge.fml.common.launcher.TerminalTweaker
+[18:59:49] [main/INFO]: Calling tweak class net.minecraftforge.fml.common.launcher.TerminalTweaker
+[18:59:49] [main/INFO]: Launching wrapped minecraft {net.minecraft.client.main.Main}
+[18:59:49] [main/INFO]: Patching net.minecraft.client.Minecraft... (bib)
+[18:59:50] [main/INFO]: Patching net.minecraft.client.entity.EntityPlayerSP... (bud)
+[18:59:52] [main/INFO]: [team.chisel.ctm.client.asm.CTMTransformer:preTransform:230]: Transforming Class [net.minecraftforge.client.ForgeHooksClient], Method [getDamageModel]
+[18:59:52] [main/INFO]: [team.chisel.ctm.client.asm.CTMTransformer:finishTransform:242]: Transforming net.minecraftforge.client.ForgeHooksClient Finished.
+[18:59:53] [Client thread/INFO]: Setting user: DieInsel
+[18:59:53] [Client thread/INFO]: Patching net.minecraft.block.Block... (aow)
+[18:59:53] [Client thread/INFO]: [team.chisel.ctm.client.asm.CTMTransformer:preTransform:230]: Transforming Class [net.minecraft.block.Block], Method [getExtendedState]
+[18:59:53] [Client thread/INFO]: [team.chisel.ctm.client.asm.CTMTransformer:finishTransform:242]: Transforming net.minecraft.block.Block Finished.
+[18:59:54] [Client thread/INFO]: Patching math utils with "RIVENS_HALF" algorithm
+[18:59:55] [Client thread/INFO]: Patching net.minecraft.tileentity.TileEntityBeacon... (avh)
+[18:59:55] [Client thread/INFO]: Patching net.minecraft.block.BlockHopper... (arl)
+[18:59:55] [Client thread/INFO]: Patching net.minecraft.tileentity.TileEntityHopper... (avw)
+[18:59:57] [Client thread/WARN]: Skipping bad option: lastServer:
+[18:59:57] [Client thread/INFO]: LWJGL Version: 2.9.4
+[19:00:00] [Client thread/INFO]: -- System Details --
 Details:
 	Minecraft Version: 1.12.2
 	Operating System: Windows 10 (amd64) version 10.0
 	Java Version: 1.8.0_51, Oracle Corporation
 	Java VM Version: Java HotSpot(TM) 64-Bit Server VM (mixed mode), Oracle Corporation
-	Memory: 843457064 bytes (804 MB) / 970981376 bytes (926 MB) up to 3817865216 bytes (3641 MB)
+	Memory: 886795632 bytes (845 MB) / 993525760 bytes (947 MB) up to 3817865216 bytes (3641 MB)
 	JVM Flags: 4 total; -XX:HeapDumpPath=MojangTricksIntelDriversForPerformance_javaw.exe_minecraft.exe.heapdump -Xmx4096m -Xms256m -XX:PermSize=256m
 	IntCache: cache: 0, tcache: 0, allocated: 0, tallocated: 0
 	FML: 
@@ -56,259 +57,278 @@ Inventory Tweaks Coremod (InventoryTweaks-1.63.jar)
 CTMCorePlugin (CTM-MC1.12.2-1.0.1.30.jar)
   team.chisel.ctm.client.asm.CTMTransformer
 	GL info: ' Vendor: 'NVIDIA Corporation' Version: '4.6.0 NVIDIA 436.15' Renderer: 'GeForce GTX 1060 6GB/PCIe/SSE2'
-[20:23:19] [Client thread/INFO]: MinecraftForge v14.23.5.2838 Initialized
-[20:23:20] [Client thread/INFO]: Starts to replace vanilla recipe ingredients with ore ingredients.
-[20:23:20] [Client thread/INFO]: Invalid recipe found with multiple oredict ingredients in the same ingredient...
-[20:23:20] [Client thread/INFO]: Replaced 1227 ore ingredients
-[20:23:21] [Client thread/INFO]: Searching C:\Users\Sebwo\Documents\Curse\Minecraft\Instances\Dropbox\good vs. evil\mods for mods
-[20:23:24] [Client thread/WARN]: Mod ironchest is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 1.12.2-7.0.67.844
-[20:23:25] [Thread-3/INFO]: Using alternative sync timing : 200 frames of Display.update took 1754483718 nanos
-[20:23:25] [Client thread/INFO]: Forge Mod Loader has identified 19 mods to load
-[20:23:26] [Client thread/INFO]: Attempting connection with missing mods [minecraft, mcp, FML, forge, antiqueatlas, antiqueatlasoverlay, chisel, chiselsandbits, controlling, ctm, ftbbackups, ftbguides, ftblib, ftbutilities, inventorytweaks, ironchest, jei, letsencryptcraft, morpheus] at CLIENT
-[20:23:26] [Client thread/INFO]: Attempting connection with missing mods [minecraft, mcp, FML, forge, antiqueatlas, antiqueatlasoverlay, chisel, chiselsandbits, controlling, ctm, ftbbackups, ftbguides, ftblib, ftbutilities, inventorytweaks, ironchest, jei, letsencryptcraft, morpheus] at SERVER
-[20:23:28] [Client thread/INFO]: [team.chisel.ctm.client.asm.CTMTransformer:preTransform:230]: Transforming Class [net.minecraft.client.renderer.texture.TextureMap], Method [registerSprite]
-[20:23:28] [Client thread/INFO]: [team.chisel.ctm.client.asm.CTMTransformer:finishTransform:242]: Transforming net.minecraft.client.renderer.texture.TextureMap Finished.
-[20:23:28] [Client thread/INFO]: [team.chisel.ctm.client.asm.CTMTransformer:preTransform:230]: Transforming Class [net.minecraft.client.renderer.texture.TextureAtlasSprite], Method [updateAnimationInterpolated]
-[20:23:28] [Client thread/INFO]: [team.chisel.ctm.client.asm.CTMTransformer:finishTransform:242]: Transforming net.minecraft.client.renderer.texture.TextureAtlasSprite Finished.
-[20:23:30] [Client thread/INFO]: Adding Let's Encrypt certificate...
-[20:23:31] [Client thread/INFO]: Done, attempting to connect to https://helloworld.letsencrypt.org...
-[20:23:32] [Client thread/INFO]: Done - you are now able to access resources with a Let's Encrypt certificate :D
-[20:23:32] [Client thread/INFO]: Reloading ResourceManager: BetterFps, Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Antique Atlas, FMLFileResourcePack:Antique Atlas Overlay, FMLFileResourcePack:Chisel, FMLFileResourcePack:Chisels & Bits, FMLFileResourcePack:Controlling, FMLFileResourcePack:CTM, FMLFileResourcePack:FTB Backups, FMLFileResourcePack:FTB Guides, FMLFileResourcePack:FTB Library, FMLFileResourcePack:FTB Utilities, FMLFileResourcePack:Inventory Tweaks, FMLFileResourcePack:Iron Chest, FMLFileResourcePack:Just Enough Items, FMLFileResourcePack:Let's Encrypt Craft, FMLFileResourcePack:Morpheus
-[20:23:33] [Client thread/INFO]: Patching net.minecraft.client.renderer.EntityRenderer... (buq)
-[20:23:34] [BetterFps Update Checker/WARN]: Could not check for updates: Connection timed out: connect
-[20:23:35] [Client thread/INFO]: Processing ObjectHolder annotations
-[20:23:35] [Client thread/INFO]: Found 1278 ObjectHolder annotations
-[20:23:35] [Client thread/INFO]: Identifying ItemStackHolder annotations
-[20:23:35] [Client thread/INFO]: Found 0 ItemStackHolder annotations
-[20:23:36] [Client thread/INFO]: Configured a dormant chunk cache size of 0
-[20:23:36] [Forge Version Check/INFO]: [forge] Starting version check at http://files.minecraftforge.net/maven/net/minecraftforge/forge/promotions_slim.json
-[20:23:36] [Client thread/INFO]: Config tileids.json not found; creating new
-[20:23:36] [Client thread/INFO]: Saving ext tile id config
-[20:23:36] [Forge Version Check/INFO]: [forge] Found status: OUTDATED Target: 14.23.5.2847
-[20:23:36] [Client thread/INFO]: Config texture_sets.json not found; creating new
-[20:23:36] [Client thread/INFO]: Config tile_textures.json not found; creating new
-[20:23:37] [Client thread/INFO]: [team.chisel.ctm.client.asm.CTMTransformer:preTransform:230]: Transforming Class [net.minecraftforge.client.model.ModelLoader$VanillaModelWrapper], Method [getTextures]
-[20:23:37] [Client thread/INFO]: [team.chisel.ctm.client.asm.CTMTransformer:finishTransform:242]: Transforming net.minecraftforge.client.model.ModelLoader$VanillaModelWrapper Finished.
-[20:23:39] [Client thread/INFO]: Applying holder lookups
-[20:23:39] [Client thread/INFO]: Holder lookups applied
-[20:23:41] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `mod.chiselsandbits.tileentitychiseled`, expected `chiselsandbits`. This could be a intended override, but in most cases indicates a broken mod.
-[20:23:41] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `mod.chiselsandbits.tileentitychiseled.tesr`, expected `chiselsandbits`. This could be a intended override, but in most cases indicates a broken mod.
-[20:23:41] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `mod.chiselsandbits.tileentitybittank`, expected `chiselsandbits`. This could be a intended override, but in most cases indicates a broken mod.
-[20:23:45] [Client thread/WARN]: Replacing com.feed_the_beast.ftblib.lib.config.DefaultRankConfigHandler with com.feed_the_beast.ftbutilities.ranks.FTBUtilitiesPermissionHandler
-[20:23:47] [Client thread/WARN]: Replacing net.minecraftforge.server.permission.DefaultPermissionHandler with com.feed_the_beast.ftbutilities.ranks.FTBUtilitiesPermissionHandler
-[20:23:48] [Client thread/INFO]: Loading configuration
-[20:23:48] [Client thread/INFO]: Loading blocks...
-[20:23:50] [Client thread/INFO]: Skipping feature arcaneStone as its required mod thaumcraft was missing.
-[20:23:51] [Client thread/INFO]: Skipping feature bloodMagic as its required mod bloodmagic was missing.
-[20:23:52] [Client thread/INFO]: Skipping feature certus as its required mod appliedenergistics2 was missing.
-[20:23:56] [Client thread/INFO]: 72 Feature's blocks loaded.
-[20:23:56] [Client thread/INFO]: Loading Tile Entities...
-[20:23:56] [Client thread/INFO]: Tile Entities loaded.
-[20:23:56] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `ironchest.iron`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
-[20:23:56] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `ironchest.gold`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
-[20:23:56] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `ironchest.diamond`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
-[20:23:56] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `ironchest.copper`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
-[20:23:56] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `ironchest.silver`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
-[20:23:56] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `ironchest.crystal`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
-[20:23:56] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `ironchest.obsidian`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
-[20:23:56] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `ironchest.dirtchest9000`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
-[20:23:56] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `ironshulkerbox.iron`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
-[20:23:56] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `ironshulkerbox.gold`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
-[20:23:56] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `ironshulkerbox.diamond`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
-[20:23:56] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `ironshulkerbox.copper`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
-[20:23:56] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `ironshulkerbox.silver`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
-[20:23:56] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `ironshulkerbox.crystal`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
-[20:23:56] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `ironshulkerbox.obsidian`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
-[20:23:56] [Client thread/INFO]: Applying holder lookups
-[20:23:56] [Client thread/INFO]: Holder lookups applied
-[20:23:56] [Client thread/INFO]: Loading items...
-[20:23:56] [Client thread/INFO]: Skipping feature arcaneStone as its required mod thaumcraft was missing.
-[20:23:57] [Client thread/INFO]: Skipping feature bloodMagic as its required mod bloodmagic was missing.
-[20:23:57] [Client thread/INFO]: Skipping feature certus as its required mod appliedenergistics2 was missing.
-[20:23:58] [Client thread/INFO]: 72 Feature's items loaded.
-[20:23:58] [Client thread/INFO]: Applying holder lookups
-[20:23:58] [Client thread/INFO]: Holder lookups applied
-[20:23:58] [Client thread/INFO]: Applying holder lookups
-[20:23:58] [Client thread/INFO]: Holder lookups applied
-[20:23:58] [Client thread/INFO]: Applying holder lookups
-[20:23:58] [Client thread/INFO]: Holder lookups applied
-[20:23:58] [Client thread/INFO]: Injecting itemstacks
-[20:23:58] [Client thread/INFO]: Itemstack injection complete
-[20:24:04] [Sound Library Loader/INFO]: Starting up SoundSystem...
-[20:24:04] [Thread-6/INFO]: Initializing LWJGL OpenAL
-[20:24:04] [Thread-6/INFO]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
-[20:24:07] [Thread-6/INFO]: OpenAL initialized.
-[20:24:07] [Sound Library Loader/INFO]: Sound engine started
-[20:25:04] [Client thread/INFO]: Max texture size: 16384
-[20:25:35] [Client thread/INFO]: Created: 2048x2048 textures-atlas
-[20:26:07] [Client thread/INFO]: Loading recipes...
-[20:26:07] [Client thread/INFO]: Skipping feature arcaneStone as its required mod thaumcraft was missing.
-[20:26:07] [Client thread/INFO]: Skipping feature bloodMagic as its required mod bloodmagic was missing.
-[20:26:07] [Client thread/INFO]: Skipping feature certus as its required mod appliedenergistics2 was missing.
-[20:26:08] [Client thread/INFO]: 72 Feature's recipes loaded.
-[20:26:08] [Client thread/INFO]: Applying holder lookups
-[20:26:08] [Client thread/INFO]: Holder lookups applied
-[20:26:09] [Client thread/INFO]: Config biome_textures.json not found; creating new
-[20:26:09] [Client thread/INFO]: Config markers.json not found; creating new
-[20:26:10] [Client thread/INFO]: Created: 256x128 textures-atlas
-[20:26:10] [Client thread/WARN]: Backing up file: %1$s to %2$s
-[20:26:10] [Client thread/INFO]: InvTweaks: C:\Users\Sebwo\Documents\Curse\Minecraft\Instances\Dropbox\good vs. evil\config\InvTweaksRules.txt missing, creating default one.
-[20:26:10] [Client thread/INFO]: InvTweaks: C:\Users\Sebwo\Documents\Curse\Minecraft\Instances\Dropbox\good vs. evil\config\InvTweaksTree.txt missing, creating default one.
-[20:26:10] [Client thread/INFO]: Mod initialized
-[20:26:11] [Client thread/INFO]: Injecting itemstacks
-[20:26:11] [Client thread/INFO]: Itemstack injection complete
-[20:26:11] [Client thread/INFO]: Starting JEI...
-[20:26:13] [Client thread/INFO]: Registering recipe categories...
-[20:26:13] [Client thread/INFO]: Registering recipe categories took 95.82 ms
-[20:26:13] [Client thread/INFO]: Registering mod plugins...
-[20:26:14] [Client thread/INFO]: Added recipe registry plugin: class team.chisel.common.integration.jei.ChiselRecipeRegistryPlugin
-[20:26:14] [Client thread/INFO]: Registering mod plugins took 868.5 ms
-[20:26:14] [Client thread/INFO]: Building recipe registry...
-[20:26:15] [Client thread/INFO]: Building recipe registry took 1.242 s
-[20:26:15] [Client thread/INFO]: Building ingredient list...
-[20:26:15] [Client thread/INFO]: Building ingredient list took 128.3 ms
-[20:26:15] [Client thread/INFO]: Building ingredient filter...
-[20:26:18] [Client thread/INFO]: Building ingredient filter took 2.982 s
-[20:26:18] [Client thread/INFO]: Building bookmarks...
-[20:26:18] [Client thread/INFO]: Building bookmarks took 16.65 ms
-[20:26:18] [Client thread/INFO]: Building runtime...
-[20:26:19] [Client thread/INFO]: InvTweaks: successfully transformed setFocused/func_146195_b
-[20:26:19] [Client thread/INFO]: Building runtime took 423.6 ms
-[20:26:19] [Client thread/INFO]: Starting JEI took 7.886 s
-[20:26:22] [Client thread/INFO]: Forge Mod Loader has successfully loaded 19 mods
-[20:26:22] [Client thread/INFO]: Narrator library for x64 successfully loaded
-[20:26:22] [Client thread/INFO]: Patching net.minecraft.client.gui.GuiOptions... (ble)
-[20:26:59] [Server thread/INFO]: Starting integrated minecraft server version 1.12.2
-[20:26:59] [Server thread/INFO]: Generating keypair
-[20:27:00] [Server thread/INFO]: Injecting existing registry data into this server instance
-[20:27:04] [Server thread/INFO]: Applying holder lookups
-[20:27:04] [Server thread/INFO]: Holder lookups applied
-[20:27:05] [Server thread/INFO]: Loading dimension 0 (New World) (net.minecraft.server.integrated.IntegratedServer@13fdd39e)
-[20:27:06] [Server thread/INFO]: Loaded 488 advancements
-[20:27:08] [Server thread/INFO]: Loaded 488 advancements
-[20:27:08] [Server thread/INFO]: Reloaded server in 89ms
-[20:27:09] [Server thread/INFO]: Loading dimension -1 (New World) (net.minecraft.server.integrated.IntegratedServer@13fdd39e)
-[20:27:09] [Server thread/INFO]: Loading dimension 1 (New World) (net.minecraft.server.integrated.IntegratedServer@13fdd39e)
-[20:27:09] [Server thread/INFO]: Preparing start region for level 0
-[20:27:10] [Server thread/INFO]: Preparing spawn area: 4%
-[20:27:11] [Server thread/INFO]: Preparing spawn area: 5%
-[20:27:12] [Server thread/INFO]: Preparing spawn area: 7%
-[20:27:13] [Server thread/INFO]: Preparing spawn area: 8%
-[20:27:14] [Server thread/INFO]: Preparing spawn area: 10%
-[20:27:16] [Server thread/INFO]: Preparing spawn area: 12%
-[20:27:17] [Server thread/INFO]: Preparing spawn area: 16%
-[20:27:18] [Server thread/INFO]: Preparing spawn area: 19%
-[20:27:19] [Server thread/INFO]: Preparing spawn area: 21%
-[20:27:20] [Server thread/INFO]: Preparing spawn area: 23%
-[20:27:21] [Server thread/INFO]: Preparing spawn area: 24%
-[20:27:22] [Server thread/INFO]: Preparing spawn area: 26%
-[20:27:23] [Server thread/INFO]: Preparing spawn area: 27%
-[20:27:24] [Server thread/INFO]: Preparing spawn area: 28%
-[20:27:25] [Server thread/INFO]: Preparing spawn area: 31%
-[20:27:27] [Server thread/INFO]: Preparing spawn area: 34%
-[20:27:28] [Server thread/INFO]: Preparing spawn area: 37%
-[20:27:29] [Server thread/INFO]: Preparing spawn area: 40%
-[20:27:30] [Server thread/INFO]: Preparing spawn area: 42%
-[20:27:31] [Server thread/INFO]: Preparing spawn area: 45%
-[20:27:32] [Server thread/INFO]: Preparing spawn area: 47%
-[20:27:33] [Server thread/INFO]: Preparing spawn area: 49%
-[20:27:34] [Server thread/INFO]: Preparing spawn area: 52%
-[20:27:35] [Server thread/INFO]: Preparing spawn area: 54%
-[20:27:36] [Server thread/INFO]: Preparing spawn area: 58%
-[20:27:37] [Server thread/INFO]: Preparing spawn area: 61%
-[20:27:38] [Server thread/INFO]: Preparing spawn area: 65%
-[20:27:39] [Server thread/INFO]: Preparing spawn area: 67%
-[20:27:40] [Server thread/INFO]: Preparing spawn area: 70%
-[20:27:41] [Server thread/INFO]: Preparing spawn area: 72%
-[20:27:42] [Server thread/INFO]: Preparing spawn area: 75%
-[20:27:43] [Server thread/INFO]: Preparing spawn area: 77%
-[20:27:44] [Server thread/INFO]: Preparing spawn area: 79%
-[20:27:45] [Server thread/INFO]: Preparing spawn area: 83%
-[20:27:46] [Server thread/INFO]: Preparing spawn area: 86%
-[20:27:48] [Server thread/INFO]: Preparing spawn area: 89%
-[20:27:49] [Server thread/INFO]: Preparing spawn area: 90%
-[20:27:50] [Server thread/INFO]: Preparing spawn area: 93%
-[20:27:51] [Server thread/INFO]: Preparing spawn area: 96%
-[20:27:52] [Server thread/INFO]: Preparing spawn area: 99%
-[20:27:53] [Server thread/INFO]: Backups folder - C:\Users\Sebwo\Documents\Curse\Minecraft\Instances\Dropbox\good vs. evil\backups
-[20:27:53] [Server thread/INFO]: Overridden 87 commands
-[20:27:53] [Server thread/INFO]: Unloading dimension -1
-[20:27:54] [Server thread/INFO]: Unloading dimension 1
-[20:27:54] [Server thread/INFO]: Changing view distance to 12, from 10
-[20:27:59] [Netty Local Client IO #0/INFO]: Server protocol version 2
-[20:27:59] [Netty Server IO #1/INFO]: Client protocol version 2
-[20:27:59] [Netty Server IO #1/INFO]: Client attempting to join with 19 mods : minecraft@1.12.2,letsencryptcraft@@VERSION@,FML@8.0.99.99,inventorytweaks@1.63+release.109.220f184,chisel@MC1.12.2-1.0.1.44,morpheus@1.12.2-3.5.106,antiqueatlasoverlay@1.2,ftblib@5.4.4.5,jei@4.15.0.291,forge@14.23.5.2838,chiselsandbits@14.33,ftbutilities@5.4.0.124,mcp@9.42,ftbbackups@1.1.0.1,antiqueatlas@4.6.3,ctm@MC1.12.2-1.0.1.30,controlling@3.0.7,ironchest@1.12.2-7.0.67.844,ftbguides@2.0.0.52
-[20:27:59] [Server thread/INFO]: [Server thread] Server side modded connection established
-[20:27:59] [Netty Local Client IO #0/INFO]: [Netty Local Client IO #0] Client side modded connection established
-[20:27:59] [Server thread/INFO]: DieInsel[local:E:690278d7] logged in with entity id 940 at (197.5, 64.0, 193.5)
-[20:27:59] [Server thread/INFO]: DieInsel joined the game
-[20:27:59] [Server thread/INFO]: Sent custom biome data to player DieInsel
-[20:27:59] [Server thread/INFO]: Sent markers data #-1 to player DieInsel
-[20:28:06] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 12204ms behind, skipping 244 tick(s)
-[20:28:17] [Server thread/INFO]: Saving and pausing game...
-[20:28:17] [Client thread/INFO]: [CHAT] InvTweaks: C:\Users\Sebwo\Documents\Curse\Minecraft\Instances\Dropbox\good vs. evil\config\InvTweaksRules.txt missing, creating default one.
-[20:28:17] [Client thread/INFO]: [CHAT] InvTweaks: C:\Users\Sebwo\Documents\Curse\Minecraft\Instances\Dropbox\good vs. evil\config\InvTweaksTree.txt missing, creating default one.
-[20:28:18] [Server thread/INFO]: Saving chunks for level 'New World'/overworld
-[20:28:18] [Server thread/INFO]: Saving local markers data to NBT
-[20:28:20] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 8573ms behind, skipping 171 tick(s)
-[20:28:28] [Server thread/INFO]: DieInsel lost connection: Timed out
-[20:28:28] [Server thread/INFO]: DieInsel left the game
-[20:28:28] [Server thread/INFO]: Stopping singleplayer server as player logged out
-[20:28:28] [Server thread/INFO]: Stopping server
-[20:28:28] [Server thread/INFO]: Saving players
-[20:28:28] [Server thread/INFO]: Saving worlds
-[20:28:28] [Server thread/INFO]: Saving chunks for level 'New World'/overworld
-[20:28:34] [Server thread/INFO]: Unloading dimension 0
-[20:28:39] [Server thread/INFO]: Applying holder lookups
-[20:28:39] [Server thread/INFO]: Holder lookups applied
-[20:28:48] [Server thread/INFO]: Starting integrated minecraft server version 1.12.2
-[20:28:48] [Server thread/INFO]: Generating keypair
-[20:28:49] [Server thread/INFO]: Injecting existing registry data into this server instance
-[20:28:51] [Server thread/INFO]: Applying holder lookups
-[20:28:51] [Server thread/INFO]: Holder lookups applied
-[20:28:51] [Server thread/INFO]: Loading dimension 0 (New World) (net.minecraft.server.integrated.IntegratedServer@26a26400)
-[20:28:52] [Server thread/INFO]: Loaded 488 advancements
-[20:28:53] [Server thread/INFO]: Loaded 488 advancements
-[20:28:53] [Server thread/INFO]: Reloaded server in 6ms
-[20:28:53] [Server thread/INFO]: Loading dimension -1 (New World) (net.minecraft.server.integrated.IntegratedServer@26a26400)
-[20:28:53] [Server thread/INFO]: Loading dimension 1 (New World) (net.minecraft.server.integrated.IntegratedServer@26a26400)
-[20:28:53] [Server thread/INFO]: Preparing start region for level 0
-[20:28:54] [Server thread/INFO]: Preparing spawn area: 15%
-[20:28:55] [Server thread/INFO]: Preparing spawn area: 42%
-[20:28:56] [Server thread/INFO]: Preparing spawn area: 74%
-[20:28:56] [Server thread/INFO]: Backups folder - C:\Users\Sebwo\Documents\Curse\Minecraft\Instances\Dropbox\good vs. evil\backups
-[20:28:56] [Server thread/INFO]: Overridden 87 commands
-[20:28:56] [Server thread/INFO]: Unloading dimension -1
-[20:28:56] [Server thread/INFO]: Unloading dimension 1
-[20:28:56] [Server thread/INFO]: Changing view distance to 12, from 10
-[20:28:56] [Netty Local Client IO #1/INFO]: Server protocol version 2
-[20:28:56] [Netty Server IO #3/INFO]: Client protocol version 2
-[20:28:56] [Netty Server IO #3/INFO]: Client attempting to join with 19 mods : minecraft@1.12.2,letsencryptcraft@@VERSION@,FML@8.0.99.99,inventorytweaks@1.63+release.109.220f184,chisel@MC1.12.2-1.0.1.44,morpheus@1.12.2-3.5.106,antiqueatlasoverlay@1.2,ftblib@5.4.4.5,jei@4.15.0.291,forge@14.23.5.2838,chiselsandbits@14.33,ftbutilities@5.4.0.124,mcp@9.42,ftbbackups@1.1.0.1,antiqueatlas@4.6.3,ctm@MC1.12.2-1.0.1.30,controlling@3.0.7,ironchest@1.12.2-7.0.67.844,ftbguides@2.0.0.52
-[20:28:57] [Netty Local Client IO #1/INFO]: [Netty Local Client IO #1] Client side modded connection established
-[20:28:57] [Server thread/INFO]: [Server thread] Server side modded connection established
-[20:28:57] [Server thread/INFO]: DieInsel[local:E:129da63c] logged in with entity id 3056 at (197.5, 64.0, 193.5)
-[20:28:57] [Server thread/INFO]: DieInsel joined the game
-[20:28:57] [Server thread/INFO]: Sent custom biome data to player DieInsel
-[20:28:57] [Server thread/INFO]: Sent markers data #-1 to player DieInsel
-[20:28:58] [Server thread/INFO]: Saving and pausing game...
-[20:28:59] [Server thread/INFO]: Saving chunks for level 'New World'/overworld
-[20:29:04] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 6240ms behind, skipping 124 tick(s)
-[20:29:24] [Server thread/INFO]: Saving and pausing game...
-[20:29:24] [Server thread/INFO]: Saving chunks for level 'New World'/overworld
-[20:29:28] [Client thread/INFO]: Updating ingredient filter...
-[20:29:28] [Client thread/INFO]: Updated  ingredient filter in 1 ms
-[20:29:38] [Server thread/INFO]: Saving and pausing game...
-[20:29:39] [Server thread/INFO]: Saving chunks for level 'New World'/overworld
-[20:29:39] [Server thread/INFO]: Stopping server
-[20:29:39] [Server thread/INFO]: Saving players
-[20:29:40] [Server thread/INFO]: DieInsel lost connection: Disconnected
-[20:29:40] [Server thread/INFO]: DieInsel left the game
-[20:29:40] [Server thread/INFO]: Stopping singleplayer server as player logged out
-[20:29:40] [Server thread/INFO]: Saving worlds
-[20:29:40] [Server thread/INFO]: Saving chunks for level 'New World'/overworld
-[20:29:43] [Server thread/INFO]: Unloading dimension 0
-[20:29:49] [Server thread/INFO]: Applying holder lookups
-[20:29:49] [Server thread/INFO]: Holder lookups applied
-[20:29:54] [Client thread/INFO]: Stopping!
-[20:29:54] [Client thread/INFO]: SoundSystem shutting down...
-[20:29:54] [Client thread/WARN]: Author: Paul Lamb, www.paulscode.com
+[19:00:01] [Client thread/INFO]: MinecraftForge v14.23.5.2847 Initialized
+[19:00:01] [Client thread/INFO]: Starts to replace vanilla recipe ingredients with ore ingredients.
+[19:00:01] [Client thread/INFO]: Invalid recipe found with multiple oredict ingredients in the same ingredient...
+[19:00:01] [Client thread/INFO]: Replaced 1227 ore ingredients
+[19:00:02] [Client thread/INFO]: Searching C:\Users\Sebwo\Documents\Curse\Minecraft\Instances\goodvsevil\mods for mods
+[19:00:04] [Client thread/WARN]: Mod ironchest is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 1.12.2-7.0.67.844
+[19:00:04] [Client thread/INFO]: Forge Mod Loader has identified 19 mods to load
+[19:00:04] [Client thread/INFO]: Attempting connection with missing mods [minecraft, mcp, FML, forge, antiqueatlas, antiqueatlasoverlay, chisel, chiselsandbits, controlling, ctm, ftbbackups, ftbguides, ftblib, ftbutilities, inventorytweaks, ironchest, jei, letsencryptcraft, morpheus] at CLIENT
+[19:00:04] [Client thread/INFO]: Attempting connection with missing mods [minecraft, mcp, FML, forge, antiqueatlas, antiqueatlasoverlay, chisel, chiselsandbits, controlling, ctm, ftbbackups, ftbguides, ftblib, ftbutilities, inventorytweaks, ironchest, jei, letsencryptcraft, morpheus] at SERVER
+[19:00:06] [Client thread/INFO]: [team.chisel.ctm.client.asm.CTMTransformer:preTransform:230]: Transforming Class [net.minecraft.client.renderer.texture.TextureMap], Method [registerSprite]
+[19:00:06] [Client thread/INFO]: [team.chisel.ctm.client.asm.CTMTransformer:finishTransform:242]: Transforming net.minecraft.client.renderer.texture.TextureMap Finished.
+[19:00:06] [Client thread/INFO]: [team.chisel.ctm.client.asm.CTMTransformer:preTransform:230]: Transforming Class [net.minecraft.client.renderer.texture.TextureAtlasSprite], Method [updateAnimationInterpolated]
+[19:00:06] [Client thread/INFO]: [team.chisel.ctm.client.asm.CTMTransformer:finishTransform:242]: Transforming net.minecraft.client.renderer.texture.TextureAtlasSprite Finished.
+[19:00:09] [Client thread/INFO]: Adding Let's Encrypt certificate...
+[19:00:09] [Client thread/INFO]: Done, attempting to connect to https://helloworld.letsencrypt.org...
+[19:00:10] [Client thread/INFO]: Done - you are now able to access resources with a Let's Encrypt certificate :D
+[19:00:10] [Client thread/INFO]: Reloading ResourceManager: BetterFps, Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Antique Atlas, FMLFileResourcePack:Antique Atlas Overlay, FMLFileResourcePack:Chisel, FMLFileResourcePack:Chisels & Bits, FMLFileResourcePack:Controlling, FMLFileResourcePack:CTM, FMLFileResourcePack:FTB Backups, FMLFileResourcePack:FTB Guides, FMLFileResourcePack:FTB Library, FMLFileResourcePack:FTB Utilities, FMLFileResourcePack:Inventory Tweaks, FMLFileResourcePack:Iron Chest, FMLFileResourcePack:Just Enough Items, FMLFileResourcePack:Let's Encrypt Craft, FMLFileResourcePack:Morpheus
+[19:00:10] [Client thread/INFO]: Patching net.minecraft.client.renderer.EntityRenderer... (buq)
+[19:00:10] [Client thread/INFO]: Processing ObjectHolder annotations
+[19:00:10] [Client thread/INFO]: Found 1278 ObjectHolder annotations
+[19:00:10] [Client thread/INFO]: Identifying ItemStackHolder annotations
+[19:00:10] [Client thread/INFO]: Found 0 ItemStackHolder annotations
+[19:00:11] [Client thread/INFO]: Configured a dormant chunk cache size of 0
+[19:00:11] [Forge Version Check/INFO]: [forge] Starting version check at http://files.minecraftforge.net/maven/net/minecraftforge/forge/promotions_slim.json
+[19:00:11] [Client thread/INFO]: Loaded texture set TEST with 2 custom texture(s)
+[19:00:11] [Client thread/INFO]: Registered texture set END_ISLAND for tile "endIsland"
+[19:00:11] [Client thread/INFO]: Registered texture set END_ISLAND_PLANTS for tile "endIslandPlants"
+[19:00:11] [Client thread/INFO]: Registered texture set END_VOID for tile "endVoid"
+[19:00:11] [Client thread/INFO]: Registered texture set LAVA for tile "lava"
+[19:00:11] [Client thread/INFO]: Registered texture set LAVA_SHORE for tile "lavaShore"
+[19:00:11] [Client thread/INFO]: Registered texture set NETHER_BRIDGE for tile "netherBridge"
+[19:00:11] [Client thread/INFO]: Registered texture set NETHER_BRIDGE_END_X for tile "netherBridgeEndX"
+[19:00:11] [Client thread/INFO]: Registered texture set NETHER_BRIDGE_END_Z for tile "netherBridgeEndZ"
+[19:00:11] [Client thread/INFO]: Registered texture set NETHER_BRIDGE_GATE for tile "netherBridgeGate"
+[19:00:11] [Client thread/INFO]: Registered texture set NETHER_BRIDGE_X for tile "netherBridgeX"
+[19:00:11] [Client thread/INFO]: Registered texture set NETHER_BRIDGE_Z for tile "netherBridgeZ"
+[19:00:11] [Client thread/INFO]: Registered texture set NETHER_FORT_STAIRS for tile "netherFortStairs"
+[19:00:11] [Client thread/INFO]: Registered texture set NETHER_HALL for tile "netherHall"
+[19:00:11] [Client thread/INFO]: Registered texture set NETHER_THRONE for tile "netherThrone"
+[19:00:11] [Client thread/INFO]: Registered texture set NETHER_TOWER for tile "netherTower"
+[19:00:11] [Client thread/INFO]: Registered texture set NETHER_WALL for tile "netherWall"
+[19:00:11] [Client thread/INFO]: Registered texture set BUTCHERS_SHOP for tile "npcVillageButchersShop"
+[19:00:11] [Client thread/INFO]: Registered texture set CHURCH for tile "npcVillageChurch"
+[19:00:11] [Client thread/INFO]: Registered texture set FARMLAND_LARGE for tile "npcVillageFarmlandLarge"
+[19:00:11] [Client thread/INFO]: Registered texture set FARMLAND_SMALL for tile "npcVillageFarmlandSmall"
+[19:00:11] [Client thread/INFO]: Registered texture set HUT for tile "npcVillageHut"
+[19:00:11] [Client thread/INFO]: Registered texture set L-HOUSE for tile "npcVillageLHouse"
+[19:00:11] [Client thread/INFO]: Registered texture set LIBRARY for tile "npcVillageLibrary"
+[19:00:11] [Client thread/INFO]: Registered texture set HOUSE_SMALL for tile "npcVillageSmallHouse"
+[19:00:11] [Client thread/INFO]: Registered texture set SMITHY for tile "npcVillageSmithy"
+[19:00:11] [Client thread/INFO]: Registered texture set VILLAGE_TORCH for tile "npcVillageTorch"
+[19:00:11] [Client thread/INFO]: Registered texture set WELL for tile "npcVillageWell"
+[19:00:11] [Client thread/INFO]: Registered texture set RAVINE for tile "ravine"
+[19:00:11] [Forge Version Check/INFO]: [forge] Found status: AHEAD Target: null
+[19:00:12] [Client thread/INFO]: [team.chisel.ctm.client.asm.CTMTransformer:preTransform:230]: Transforming Class [net.minecraftforge.client.model.ModelLoader$VanillaModelWrapper], Method [getTextures]
+[19:00:12] [Client thread/INFO]: [team.chisel.ctm.client.asm.CTMTransformer:finishTransform:242]: Transforming net.minecraftforge.client.model.ModelLoader$VanillaModelWrapper Finished.
+[19:00:12] [Client thread/INFO]: Applying holder lookups
+[19:00:12] [Client thread/INFO]: Holder lookups applied
+[19:00:12] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `mod.chiselsandbits.tileentitychiseled`, expected `chiselsandbits`. This could be a intended override, but in most cases indicates a broken mod.
+[19:00:12] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `mod.chiselsandbits.tileentitychiseled.tesr`, expected `chiselsandbits`. This could be a intended override, but in most cases indicates a broken mod.
+[19:00:13] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `mod.chiselsandbits.tileentitybittank`, expected `chiselsandbits`. This could be a intended override, but in most cases indicates a broken mod.
+[19:00:13] [Client thread/WARN]: Replacing com.feed_the_beast.ftblib.lib.config.DefaultRankConfigHandler with com.feed_the_beast.ftbutilities.ranks.FTBUtilitiesPermissionHandler
+[19:00:14] [Thread-3/INFO]: Using alternative sync timing : 200 frames of Display.update took 5732622500 nanos
+[19:00:14] [Client thread/WARN]: Replacing net.minecraftforge.server.permission.DefaultPermissionHandler with com.feed_the_beast.ftbutilities.ranks.FTBUtilitiesPermissionHandler
+[19:00:14] [Client thread/INFO]: Loading configuration
+[19:00:14] [Client thread/INFO]: Loading blocks...
+[19:00:14] [Client thread/INFO]: Skipping feature arcaneStone as its required mod thaumcraft was missing.
+[19:00:14] [Client thread/INFO]: Skipping feature bloodMagic as its required mod bloodmagic was missing.
+[19:00:14] [Client thread/INFO]: Skipping feature certus as its required mod appliedenergistics2 was missing.
+[19:00:16] [Client thread/INFO]: 72 Feature's blocks loaded.
+[19:00:16] [Client thread/INFO]: Loading Tile Entities...
+[19:00:16] [Client thread/INFO]: Tile Entities loaded.
+[19:00:16] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `ironchest.iron`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
+[19:00:16] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `ironchest.gold`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
+[19:00:16] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `ironchest.diamond`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
+[19:00:16] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `ironchest.copper`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
+[19:00:16] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `ironchest.silver`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
+[19:00:16] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `ironchest.crystal`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
+[19:00:16] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `ironchest.obsidian`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
+[19:00:16] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `ironchest.dirtchest9000`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
+[19:00:16] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `ironshulkerbox.iron`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
+[19:00:16] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `ironshulkerbox.gold`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
+[19:00:16] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `ironshulkerbox.diamond`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
+[19:00:16] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `ironshulkerbox.copper`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
+[19:00:16] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `ironshulkerbox.silver`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
+[19:00:16] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `ironshulkerbox.crystal`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
+[19:00:16] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `ironshulkerbox.obsidian`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
+[19:00:16] [Client thread/INFO]: Applying holder lookups
+[19:00:16] [Client thread/INFO]: Holder lookups applied
+[19:00:16] [Client thread/INFO]: Loading items...
+[19:00:16] [Client thread/INFO]: Skipping feature arcaneStone as its required mod thaumcraft was missing.
+[19:00:16] [Client thread/INFO]: Skipping feature bloodMagic as its required mod bloodmagic was missing.
+[19:00:16] [Client thread/INFO]: Skipping feature certus as its required mod appliedenergistics2 was missing.
+[19:00:16] [Client thread/INFO]: 72 Feature's items loaded.
+[19:00:16] [Client thread/INFO]: Applying holder lookups
+[19:00:16] [Client thread/INFO]: Holder lookups applied
+[19:00:16] [Client thread/INFO]: Applying holder lookups
+[19:00:16] [Client thread/INFO]: Holder lookups applied
+[19:00:16] [Client thread/INFO]: Applying holder lookups
+[19:00:16] [Client thread/INFO]: Holder lookups applied
+[19:00:16] [Client thread/INFO]: Injecting itemstacks
+[19:00:16] [Client thread/INFO]: Itemstack injection complete
+[19:00:17] [Sound Library Loader/INFO]: Starting up SoundSystem...
+[19:00:18] [Thread-6/INFO]: Initializing LWJGL OpenAL
+[19:00:18] [Thread-6/INFO]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
+[19:00:18] [BetterFps Update Checker/WARN]: Could not check for updates: Connection timed out: connect
+[19:00:20] [Thread-6/INFO]: OpenAL initialized.
+[19:00:21] [Sound Library Loader/INFO]: Sound engine started
+[19:00:45] [Client thread/INFO]: Max texture size: 16384
+[19:00:54] [Client thread/INFO]: Created: 2048x2048 textures-atlas
+[19:01:01] [Client thread/INFO]: Loading recipes...
+[19:01:01] [Client thread/INFO]: Skipping feature arcaneStone as its required mod thaumcraft was missing.
+[19:01:01] [Client thread/INFO]: Skipping feature bloodMagic as its required mod bloodmagic was missing.
+[19:01:01] [Client thread/INFO]: Skipping feature certus as its required mod appliedenergistics2 was missing.
+[19:01:01] [Client thread/INFO]: 72 Feature's recipes loaded.
+[19:01:01] [Client thread/INFO]: Applying holder lookups
+[19:01:01] [Client thread/INFO]: Holder lookups applied
+[19:01:01] [Client thread/INFO]: Registered texture set SHORE for biome minecraft:beaches
+[19:01:01] [Client thread/INFO]: Registered texture set BIRCH for biome minecraft:birch_forest
+[19:01:01] [Client thread/INFO]: Registered texture set BIRCH_HILLS for biome minecraft:birch_forest_hills
+[19:01:01] [Client thread/INFO]: Registered texture set SHORE for biome minecraft:cold_beach
+[19:01:01] [Client thread/INFO]: Registered texture set WATER for biome minecraft:deep_ocean
+[19:01:01] [Client thread/INFO]: Registered texture set DESERT for biome minecraft:desert
+[19:01:01] [Client thread/INFO]: Registered texture set DESERT_HILLS for biome minecraft:desert_hills
+[19:01:01] [Client thread/INFO]: Registered texture set MOUNTAINS for biome minecraft:extreme_hills
+[19:01:01] [Client thread/INFO]: Registered texture set MOUNTAINS_ALL for biome minecraft:extreme_hills_with_trees
+[19:01:01] [Client thread/INFO]: Registered texture set FOREST for biome minecraft:forest
+[19:01:01] [Client thread/INFO]: Registered texture set FOREST_HILLS for biome minecraft:forest_hills
+[19:01:01] [Client thread/INFO]: Registered texture set ICE for biome minecraft:frozen_ocean
+[19:01:01] [Client thread/INFO]: Registered texture set ICE for biome minecraft:frozen_river
+[19:01:01] [Client thread/INFO]: Registered texture set CAVE_WALLS for biome minecraft:hell
+[19:01:01] [Client thread/INFO]: Registered texture set SNOW for biome minecraft:ice_flats
+[19:01:01] [Client thread/INFO]: Registered texture set SNOW_HILLS for biome minecraft:ice_mountains
+[19:01:01] [Client thread/INFO]: Registered texture set JUNGLE for biome minecraft:jungle
+[19:01:01] [Client thread/INFO]: Registered texture set JUNGLE_EDGE for biome minecraft:jungle_edge
+[19:01:01] [Client thread/INFO]: Registered texture set JUNGLE_HILLS for biome minecraft:jungle_hills
+[19:01:01] [Client thread/INFO]: Registered texture set MESA for biome minecraft:mesa
+[19:01:01] [Client thread/INFO]: Registered texture set PLATEAU_MESA for biome minecraft:mesa_clear_rock
+[19:01:01] [Client thread/INFO]: Registered texture set PLATEAU_MESA_TREES for biome minecraft:mesa_rock
+[19:01:01] [Client thread/INFO]: Registered texture set MUSHROOM for biome minecraft:mushroom_island
+[19:01:01] [Client thread/INFO]: Registered texture set SHORE for biome minecraft:mushroom_island_shore
+[19:01:01] [Client thread/INFO]: Registered texture set TALL_BIRCH for biome minecraft:mutated_birch_forest
+[19:01:01] [Client thread/INFO]: Registered texture set TALL_BIRCH_HILLS for biome minecraft:mutated_birch_forest_hills
+[19:01:01] [Client thread/INFO]: Registered texture set DESERT for biome minecraft:mutated_desert
+[19:01:01] [Client thread/INFO]: Registered texture set MOUNTAINS_SNOW_CAPS for biome minecraft:mutated_extreme_hills
+[19:01:01] [Client thread/INFO]: Registered texture set MOUNTAINS_SNOW_CAPS for biome minecraft:mutated_extreme_hills_with_trees
+[19:01:01] [Client thread/INFO]: Registered texture set FOREST_FLOWERS for biome minecraft:mutated_forest
+[19:01:01] [Client thread/INFO]: Registered texture set ICE_SPIKES for biome minecraft:mutated_ice_flats
+[19:01:01] [Client thread/INFO]: Registered texture set JUNGLE_CLIFFS for biome minecraft:mutated_jungle
+[19:01:01] [Client thread/INFO]: Registered texture set JUNGLE_EDGE_HILLS for biome minecraft:mutated_jungle_edge
+[19:01:01] [Client thread/INFO]: Registered texture set BRYCE for biome minecraft:mutated_mesa
+[19:01:01] [Client thread/INFO]: Registered texture set PLATEAU_MESA_LOW for biome minecraft:mutated_mesa_clear_rock
+[19:01:01] [Client thread/INFO]: Registered texture set PLATEAU_MESA_TREES_LOW for biome minecraft:mutated_mesa_rock
+[19:01:01] [Client thread/INFO]: Registered texture set SUNFLOWERS for biome minecraft:mutated_plains
+[19:01:01] [Client thread/INFO]: Registered texture set MEGA_SPRUCE for biome minecraft:mutated_redwood_taiga
+[19:01:01] [Client thread/INFO]: Registered texture set MEGA_SPRUCE_HILLS for biome minecraft:mutated_redwood_taiga_hills
+[19:01:01] [Client thread/INFO]: Registered texture set DENSE_FOREST_HILLS for biome minecraft:mutated_roofed_forest
+[19:01:01] [Client thread/INFO]: Registered texture set SAVANNA_CLIFFS for biome minecraft:mutated_savanna
+[19:01:01] [Client thread/INFO]: Registered texture set PLATEAU_SAVANNA_M for biome minecraft:mutated_savanna_rock
+[19:01:01] [Client thread/INFO]: Registered texture set SWAMP_HILLS for biome minecraft:mutated_swampland
+[19:01:01] [Client thread/INFO]: Registered texture set PINES_HILLS for biome minecraft:mutated_taiga
+[19:01:01] [Client thread/INFO]: Registered texture set SNOW_PINES_HILLS for biome minecraft:mutated_taiga_cold
+[19:01:01] [Client thread/INFO]: Registered texture set WATER for biome minecraft:ocean
+[19:01:01] [Client thread/INFO]: Registered texture set PLAINS for biome minecraft:plains
+[19:01:01] [Client thread/INFO]: Registered texture set MEGA_TAIGA for biome minecraft:redwood_taiga
+[19:01:01] [Client thread/INFO]: Registered texture set MEGA_TAIGA_HILLS for biome minecraft:redwood_taiga_hills
+[19:01:01] [Client thread/INFO]: Registered texture set WATER for biome minecraft:river
+[19:01:01] [Client thread/INFO]: Registered texture set DENSE_FOREST for biome minecraft:roofed_forest
+[19:01:01] [Client thread/INFO]: Registered texture set SAVANNA for biome minecraft:savanna
+[19:01:01] [Client thread/INFO]: Registered texture set PLATEAU_SAVANNA for biome minecraft:savanna_rock
+[19:01:01] [Client thread/INFO]: Registered texture set SHORE for biome minecraft:sky
+[19:01:01] [Client thread/INFO]: Registered texture set MOUNTAINS for biome minecraft:smaller_extreme_hills
+[19:01:01] [Client thread/INFO]: Registered texture set ROCK_SHORE for biome minecraft:stone_beach
+[19:01:01] [Client thread/INFO]: Registered texture set SWAMP for biome minecraft:swampland
+[19:01:01] [Client thread/INFO]: Registered texture set PINES for biome minecraft:taiga
+[19:01:01] [Client thread/INFO]: Registered texture set SNOW_PINES for biome minecraft:taiga_cold
+[19:01:01] [Client thread/INFO]: Registered texture set SNOW_PINES_HILLS for biome minecraft:taiga_cold_hills
+[19:01:01] [Client thread/INFO]: Registered texture set PINES_HILLS for biome minecraft:taiga_hills
+[19:01:01] [Client thread/INFO]: Registered texture set END_VOID for biome minecraft:void
+[19:01:01] [Client thread/INFO]: Created: 256x128 textures-atlas
+[19:01:02] [Client thread/INFO]: Mod initialized
+[19:01:02] [Client thread/INFO]: Injecting itemstacks
+[19:01:02] [Client thread/INFO]: Itemstack injection complete
+[19:01:02] [Client thread/INFO]: Starting JEI...
+[19:01:02] [Client thread/INFO]: Registering recipe categories...
+[19:01:02] [Client thread/INFO]: Registering recipe categories took 29.61 ms
+[19:01:02] [Client thread/INFO]: Registering mod plugins...
+[19:01:03] [Client thread/INFO]: Added recipe registry plugin: class team.chisel.common.integration.jei.ChiselRecipeRegistryPlugin
+[19:01:03] [Client thread/INFO]: Registering mod plugins took 232.3 ms
+[19:01:03] [Client thread/INFO]: Building recipe registry...
+[19:01:03] [Client thread/INFO]: Building recipe registry took 282.0 ms
+[19:01:03] [Client thread/INFO]: Building ingredient list...
+[19:01:03] [Client thread/INFO]: Building ingredient list took 71.72 ms
+[19:01:03] [Client thread/INFO]: Building ingredient filter...
+[19:01:06] [Client thread/INFO]: Building ingredient filter took 2.865 s
+[19:01:06] [Client thread/INFO]: Building bookmarks...
+[19:01:06] [Client thread/INFO]: Building bookmarks took 6.884 ms
+[19:01:06] [Client thread/INFO]: Building runtime...
+[19:01:06] [Client thread/INFO]: InvTweaks: successfully transformed setFocused/func_146195_b
+[19:01:06] [Client thread/INFO]: Building runtime took 177.6 ms
+[19:01:06] [Client thread/INFO]: Starting JEI took 3.967 s
+[19:01:07] [Client thread/INFO]: Forge Mod Loader has successfully loaded 19 mods
+[19:01:07] [Client thread/WARN]: Skipping bad option: lastServer:
+[19:01:08] [Client thread/INFO]: Narrator library for x64 successfully loaded
+[19:01:10] [Client thread/INFO]: Patching net.minecraft.client.gui.GuiOptions... (ble)
+[19:01:50] [Server thread/INFO]: Starting integrated minecraft server version 1.12.2
+[19:01:50] [Server thread/INFO]: Generating keypair
+[19:01:50] [Server thread/INFO]: This world was saved with mod forge version 14.23.5.2838 and it is now at version 14.23.5.2847, things may not work well
+[19:01:50] [Server thread/INFO]: Injecting existing registry data into this server instance
+[19:01:52] [Server thread/INFO]: Applying holder lookups
+[19:01:52] [Server thread/INFO]: Holder lookups applied
+[19:01:52] [Server thread/INFO]: Loading dimension 0 (New World) (net.minecraft.server.integrated.IntegratedServer@73c0b6b1)
+[19:01:53] [Server thread/INFO]: Loaded 488 advancements
+[19:01:53] [Server thread/INFO]: Loaded 488 advancements
+[19:01:53] [Server thread/INFO]: Reloaded server in 12ms
+[19:01:53] [Server thread/INFO]: Loading dimension -1 (New World) (net.minecraft.server.integrated.IntegratedServer@73c0b6b1)
+[19:01:54] [Server thread/INFO]: Loading dimension 1 (New World) (net.minecraft.server.integrated.IntegratedServer@73c0b6b1)
+[19:01:54] [Server thread/INFO]: Preparing start region for level 0
+[19:01:55] [Server thread/INFO]: Preparing spawn area: 7%
+[19:01:56] [Server thread/INFO]: Preparing spawn area: 43%
+[19:01:57] [Server thread/INFO]: Preparing spawn area: 92%
+[19:01:57] [Server thread/INFO]: Backups folder - C:\Users\Sebwo\Documents\Curse\Minecraft\Instances\goodvsevil\backups
+[19:01:57] [Server thread/INFO]: Overridden 75 commands
+[19:01:58] [Server thread/INFO]: Unloading dimension -1
+[19:01:58] [Server thread/INFO]: Unloading dimension 1
+[19:01:58] [Server thread/INFO]: Changing view distance to 12, from 10
+[19:02:01] [Netty Local Client IO #0/INFO]: Server protocol version 2
+[19:02:01] [Netty Server IO #1/INFO]: Client protocol version 2
+[19:02:01] [Netty Server IO #1/INFO]: Client attempting to join with 19 mods : minecraft@1.12.2,letsencryptcraft@@VERSION@,FML@8.0.99.99,inventorytweaks@1.63+release.109.220f184,chisel@MC1.12.2-1.0.1.44,morpheus@1.12.2-3.5.106,antiqueatlasoverlay@1.2,ftblib@5.4.4.5,jei@4.15.0.291,forge@14.23.5.2847,chiselsandbits@14.33,ftbutilities@5.4.0.124,mcp@9.42,ftbbackups@1.1.0.1,antiqueatlas@4.6.3,ctm@MC1.12.2-1.0.1.30,controlling@3.0.7,ironchest@1.12.2-7.0.67.844,ftbguides@2.0.0.52
+[19:02:01] [Netty Local Client IO #0/INFO]: [Netty Local Client IO #0] Client side modded connection established
+[19:02:01] [Server thread/INFO]: [Server thread] Server side modded connection established
+[19:02:02] [Server thread/INFO]: DieInsel[local:E:ae7f7086] logged in with entity id 312 at (187.3705792823357, 66.0, 188.71648876954958)
+[19:02:02] [Server thread/INFO]: DieInsel joined the game
+[19:02:02] [Server thread/INFO]: Sent custom biome data to player DieInsel
+[19:02:02] [Server thread/INFO]: Sent markers data #-1 to player DieInsel
+[19:02:05] [Server thread/INFO]: Saving and pausing game...
+[19:02:06] [Server thread/INFO]: Saving chunks for level 'New World'/overworld
+[19:02:06] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4893ms behind, skipping 97 tick(s)
+[19:02:07] [Client thread/INFO]: [CHAT] Guten Tag!
+[19:03:21] [Client thread/INFO]: Created: 256x128 textures-atlas
+[19:03:22] [Server thread/INFO]: Saving and pausing game...
+[19:03:22] [Server thread/INFO]: Saving chunks for level 'New World'/overworld
+[19:06:53] [Client thread/INFO]: [CHAT] Unknown command. Try /help for a list of commands
+[19:07:01] [Client thread/INFO]: [CHAT] Unknown command. Try /help for a list of commands
+[19:07:03] [Client thread/INFO]: [CHAT] --- Showing help page 1 of 11 (/help <page>) ---
+[19:07:03] [Client thread/INFO]: [CHAT] /advancement <grant|revoke|test> <player>
+[19:07:03] [Client thread/INFO]: [CHAT] command.backup.usage
+[19:07:03] [Client thread/INFO]: [CHAT] /blockdata <x> <y> <z> <dataTag>
+[19:07:03] [Client thread/INFO]: [CHAT] /chunks
+[19:07:03] [Client thread/INFO]: [CHAT] /clear [player] [item] [data] [maxCount] [dataTag]
+[19:07:03] [Client thread/INFO]: [CHAT] /clone <x1> <y1> <z1> <x2> <y2> <z2> <x> <y> <z> [maskMode] [cloneMode]
+[19:07:03] [Client thread/INFO]: [CHAT] /debug <start|stop>
+[19:07:03] [Client thread/INFO]: [CHAT] Tip: Use the <tab> key while typing a command to auto-complete the command or its arguments
+[19:07:12] [Client thread/INFO]: [CHAT] ?, advancement, back, backup, blockdata, chunks, clear, clone, debug, defaultgamemode, delhome, delwarp, difficulty, effect, enchant, entitydata, execute, fill, forge, function, gamemode, gamerule, give, help, home, inv, kill, leaderboards, locate, me, morpheus, msg, my_settings, particle, playsound, publish, ranks, rec, recipe, reload, replaceitem, say, scoreboard, seed, setblock, sethome, setwarp, setworldspawn, sleepvote, spawn, spawnpoint, spreadplayers, stats, stopsound, summon, team, teleport, tell, tellraw, testfor, testforblock, testforblocks, time, title, toggledownfall, tp, tpa, tpaccept, tpl, trigger, w, warp, weather, worldborder, xp
+[19:07:13] [Client thread/INFO]: [CHAT] ?, advancement, back, backup, blockdata, chunks, clear, clone, debug, defaultgamemode, delhome, delwarp, difficulty, effect, enchant, entitydata, execute, fill, forge, function, gamemode, gamerule, give, help, home, inv, kill, leaderboards, locate, me, morpheus, msg, my_settings, particle, playsound, publish, ranks, rec, recipe, reload, replaceitem, say, scoreboard, seed, setblock, sethome, setwarp, setworldspawn, sleepvote, spawn, spawnpoint, spreadplayers, stats, stopsound, summon, team, teleport, tell, tellraw, testfor, testforblock, testforblocks, time, title, toggledownfall, tp, tpa, tpaccept, tpl, trigger, w, warp, weather, worldborder, xp
+[19:07:14] [Client thread/INFO]: [CHAT] ?, advancement, back, backup, blockdata, chunks, clear, clone, debug, defaultgamemode, delhome, delwarp, difficulty, effect, enchant, entitydata, execute, fill, forge, function, gamemode, gamerule, give, help, home, inv, kill, leaderboards, locate, me, morpheus, msg, my_settings, particle, playsound, publish, ranks, rec, recipe, reload, replaceitem, say, scoreboard, seed, setblock, sethome, setwarp, setworldspawn, sleepvote, spawn, spawnpoint, spreadplayers, stats, stopsound, summon, team, teleport, tell, tellraw, testfor, testforblock, testforblocks, time, title, toggledownfall, tp, tpa, tpaccept, tpl, trigger, w, warp, weather, worldborder, xp
+[19:07:14] [Client thread/INFO]: [CHAT] ?, advancement, back, backup, blockdata, chunks, clear, clone, debug, defaultgamemode, delhome, delwarp, difficulty, effect, enchant, entitydata, execute, fill, forge, function, gamemode, gamerule, give, help, home, inv, kill, leaderboards, locate, me, morpheus, msg, my_settings, particle, playsound, publish, ranks, rec, recipe, reload, replaceitem, say, scoreboard, seed, setblock, sethome, setwarp, setworldspawn, sleepvote, spawn, spawnpoint, spreadplayers, stats, stopsound, summon, team, teleport, tell, tellraw, testfor, testforblock, testforblocks, time, title, toggledownfall, tp, tpa, tpaccept, tpl, trigger, w, warp, weather, worldborder, xp
+[19:07:14] [Client thread/INFO]: [CHAT] ?, advancement, back, backup, blockdata, chunks, clear, clone, debug, defaultgamemode, delhome, delwarp, difficulty, effect, enchant, entitydata, execute, fill, forge, function, gamemode, gamerule, give, help, home, inv, kill, leaderboards, locate, me, morpheus, msg, my_settings, particle, playsound, publish, ranks, rec, recipe, reload, replaceitem, say, scoreboard, seed, setblock, sethome, setwarp, setworldspawn, sleepvote, spawn, spawnpoint, spreadplayers, stats, stopsound, summon, team, teleport, tell, tellraw, testfor, testforblock, testforblocks, time, title, toggledownfall, tp, tpa, tpaccept, tpl, trigger, w, warp, weather, worldborder, xp
+[19:07:15] [Client thread/INFO]: [CHAT] ?, advancement, back, backup, blockdata, chunks, clear, clone, debug, defaultgamemode, delhome, delwarp, difficulty, effect, enchant, entitydata, execute, fill, forge, function, gamemode, gamerule, give, help, home, inv, kill, leaderboards, locate, me, morpheus, msg, my_settings, particle, playsound, publish, ranks, rec, recipe, reload, replaceitem, say, scoreboard, seed, setblock, sethome, setwarp, setworldspawn, sleepvote, spawn, spawnpoint, spreadplayers, stats, stopsound, summon, team, teleport, tell, tellraw, testfor, testforblock, testforblocks, time, title, toggledownfall, tp, tpa, tpaccept, tpl, trigger, w, warp, weather, worldborder, xp
+[19:07:15] [Client thread/INFO]: [CHAT] ?, advancement, back, backup, blockdata, chunks, clear, clone, debug, defaultgamemode, delhome, delwarp, difficulty, effect, enchant, entitydata, execute, fill, forge, function, gamemode, gamerule, give, help, home, inv, kill, leaderboards, locate, me, morpheus, msg, my_settings, particle, playsound, publish, ranks, rec, recipe, reload, replaceitem, say, scoreboard, seed, setblock, sethome, setwarp, setworldspawn, sleepvote, spawn, spawnpoint, spreadplayers, stats, stopsound, summon, team, teleport, tell, tellraw, testfor, testforblock, testforblocks, time, title, toggledownfall, tp, tpa, tpaccept, tpl, trigger, w, warp, weather, worldborder, xp
+[19:07:15] [Client thread/INFO]: [CHAT] ?, advancement, back, backup, blockdata, chunks, clear, clone, debug, defaultgamemode, delhome, delwarp, difficulty, effect, enchant, entitydata, execute, fill, forge, function, gamemode, gamerule, give, help, home, inv, kill, leaderboards, locate, me, morpheus, msg, my_settings, particle, playsound, publish, ranks, rec, recipe, reload, replaceitem, say, scoreboard, seed, setblock, sethome, setwarp, setworldspawn, sleepvote, spawn, spawnpoint, spreadplayers, stats, stopsound, summon, team, teleport, tell, tellraw, testfor, testforblock, testforblocks, time, title, toggledownfall, tp, tpa, tpaccept, tpl, trigger, w, warp, weather, worldborder, xp
+[19:07:15] [Client thread/INFO]: [CHAT] ?, advancement, back, backup, blockdata, chunks, clear, clone, debug, defaultgamemode, delhome, delwarp, difficulty, effect, enchant, entitydata, execute, fill, forge, function, gamemode, gamerule, give, help, home, inv, kill, leaderboards, locate, me, morpheus, msg, my_settings, particle, playsound, publish, ranks, rec, recipe, reload, replaceitem, say, scoreboard, seed, setblock, sethome, setwarp, setworldspawn, sleepvote, spawn, spawnpoint, spreadplayers, stats, stopsound, summon, team, teleport, tell, tellraw, testfor, testforblock, testforblocks, time, title, toggledownfall, tp, tpa, tpaccept, tpl, trigger, w, warp, weather, worldborder, xp
+[19:08:17] [Client thread/INFO]: [CHAT] Usage: /team
+[19:08:24] [Client thread/INFO]: [CHAT] Available SubCommands: settings, list, delete, help, create_server_team, settings_for, kick, leave, transfer_ownership, get, create, join, request_invite, status and info
+[19:10:07] [Client thread/INFO]: Loaded 7 advancements
+[19:12:22] [Server thread/INFO]: Loaded 488 advancements
+[19:12:22] [Server thread/INFO]: Reloaded server in 2ms
+[19:12:22] [Client thread/INFO]: Loaded 7 advancements
+[19:13:20] [Server thread/INFO]: Saving and pausing game...
+[19:13:20] [Server thread/INFO]: Saving chunks for level 'New World'/overworld
+[19:13:43] [Server thread/INFO]: Saving and pausing game...
+[19:13:43] [Server thread/INFO]: Saving chunks for level 'New World'/overworld
+[19:16:34] [Server thread/INFO]: Saving and pausing game...
+[19:16:34] [Server thread/INFO]: Saving chunks for level 'New World'/overworld
+[19:16:38] [Client thread/INFO]: Created: 256x128 textures-atlas
