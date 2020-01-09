@@ -11,9 +11,21 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/root": {
+    "criteria": {
+      "tick": "2020-01-09 20:01:35 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/birch_boat": {
     "criteria": {
       "entered_water": "2020-01-09 19:10:06 +0100"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2020-01-09 20:05:26 +0100"
     },
     "done": true
   },
