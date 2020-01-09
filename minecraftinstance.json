@@ -2432,6 +2432,85 @@
       "installedTargets": []
     },
     {
+      "addonID": 293905,
+      "gameInstanceID": "670196a3-c61a-4c57-aa38-1e50776546fd",
+      "installedFile": {
+        "id": 2565793,
+        "displayName": "AetherWorks-1.12.2-1.0.0.3.jar",
+        "fileName": "AetherWorks-1.12.2-1.0.0.3.jar",
+        "fileDate": "2018-05-25T19:37:28.953Z",
+        "fileLength": 444205,
+        "releaseType": 1,
+        "fileStatus": 4,
+        "downloadUrl": "https://edge.forgecdn.net/files/2565/793/AetherWorks-1.12.2-1.0.0.3.jar",
+        "isAlternate": false,
+        "alternateFileId": 0,
+        "dependencies": [
+          {
+            "id": 0,
+            "addonId": 251918,
+            "type": 3,
+            "fileId": 0
+          }
+        ],
+        "isAvailable": true,
+        "modules": [
+          {
+            "foldername": "META-INF",
+            "fingerprint": 808315249,
+            "type": 0
+          },
+          {
+            "foldername": "v0id",
+            "fingerprint": 518029998,
+            "type": 0
+          },
+          {
+            "foldername": "assets",
+            "fingerprint": 412277063,
+            "type": 0
+          },
+          {
+            "foldername": "mcmod.info",
+            "fingerprint": 352254287,
+            "type": 0
+          },
+          {
+            "foldername": "pack.mcmeta",
+            "fingerprint": 1227219638,
+            "type": 0
+          }
+        ],
+        "packageFingerprint": 3287248864,
+        "gameVersion": [
+          "1.12.2"
+        ],
+        "hasInstallScript": false,
+        "isCompatibleWithClient": false,
+        "categorySectionPackageType": 0,
+        "restrictProjectFileAccess": 0,
+        "projectStatus": 0,
+        "projectId": 0,
+        "gameVersionDateReleased": "2008-03-01T06:00:00Z",
+        "gameId": 0,
+        "isServerPack": false,
+        "FileNameOnDisk": "AetherWorks-1.12.2-1.0.0.3.jar"
+      },
+      "dateInstalled": "2020-01-09T19:31:55.5952724Z",
+      "dateUpdated": "2020-01-09T19:31:55.5992329Z",
+      "dateLastUpdateAttempted": "2020-01-09T19:31:55.5992329Z",
+      "status": 4,
+      "preferenceAutoInstallUpdates": false,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null,
+      "installedTargets": []
+    },
+    {
       "addonID": 297057,
       "gameInstanceID": "670196a3-c61a-4c57-aa38-1e50776546fd",
       "installedFile": {
@@ -4771,6 +4850,73 @@
       "dateInstalled": "2020-01-09T18:37:41.9880983Z",
       "dateUpdated": "2020-01-09T18:37:42.0000667Z",
       "dateLastUpdateAttempted": "2020-01-09T18:37:42.0000667Z",
+      "status": 4,
+      "preferenceAutoInstallUpdates": false,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null,
+      "installedTargets": []
+    },
+    {
+      "addonID": 251918,
+      "gameInstanceID": "670196a3-c61a-4c57-aa38-1e50776546fd",
+      "installedFile": {
+        "id": 2495586,
+        "displayName": "embers-0.230.jar",
+        "fileName": "embers-0.230.jar",
+        "fileDate": "2017-10-30T03:36:07.217Z",
+        "fileLength": 1649380,
+        "releaseType": 1,
+        "fileStatus": 4,
+        "downloadUrl": "https://edge.forgecdn.net/files/2495/586/embers-0.230.jar",
+        "isAlternate": false,
+        "alternateFileId": 0,
+        "dependencies": [],
+        "isAvailable": true,
+        "modules": [
+          {
+            "foldername": "META-INF",
+            "fingerprint": 2464251221,
+            "type": 0
+          },
+          {
+            "foldername": "teamroots",
+            "fingerprint": 950420627,
+            "type": 0
+          },
+          {
+            "foldername": "assets",
+            "fingerprint": 2873157009,
+            "type": 0
+          },
+          {
+            "foldername": "mcmod.info",
+            "fingerprint": 4212758337,
+            "type": 0
+          }
+        ],
+        "packageFingerprint": 3976727820,
+        "gameVersion": [
+          "1.12.2"
+        ],
+        "hasInstallScript": false,
+        "isCompatibleWithClient": false,
+        "categorySectionPackageType": 0,
+        "restrictProjectFileAccess": 0,
+        "projectStatus": 0,
+        "projectId": 0,
+        "gameVersionDateReleased": "2008-03-01T06:00:00Z",
+        "gameId": 0,
+        "isServerPack": false,
+        "FileNameOnDisk": "embers-0.230.jar"
+      },
+      "dateInstalled": "2020-01-09T19:31:54.406059Z",
+      "dateUpdated": "2020-01-09T19:31:54.4110195Z",
+      "dateLastUpdateAttempted": "2020-01-09T19:31:54.4110195Z",
       "status": 4,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
