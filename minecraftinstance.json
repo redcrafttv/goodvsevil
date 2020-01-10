@@ -195,21 +195,6 @@
       "fileSize": 199047
     },
     {
-      "folderName": "SereneSeasons-1.12.2-1.2.18-universal.jar",
-      "fingerprint": 122247611,
-      "fileDateHash": 3231342335,
-      "sectionID": 8,
-      "individualFingerprints": [
-        122247611
-      ],
-      "status": 1,
-      "timestamp": "2020-01-09T18:55:01.3565287Z",
-      "lastWriteTimeUtc": "2020-01-09T18:33:12.9797611Z",
-      "queryTimestamp": "2020-01-09T18:55:02.4974805Z",
-      "fileCount": 1,
-      "fileSize": 185187
-    },
-    {
       "folderName": "iceandfire-1.8.3.jar",
       "fingerprint": 3044910845,
       "fileDateHash": 1837208184,
@@ -223,6 +208,21 @@
       "queryTimestamp": "2020-01-09T18:55:02.4974805Z",
       "fileCount": 1,
       "fileSize": 19002941
+    },
+    {
+      "folderName": "SereneSeasons-1.12.2-1.2.18-universal.jar",
+      "fingerprint": 122247611,
+      "fileDateHash": 3231342335,
+      "sectionID": 8,
+      "individualFingerprints": [
+        122247611
+      ],
+      "status": 1,
+      "timestamp": "2020-01-09T18:55:01.3565287Z",
+      "lastWriteTimeUtc": "2020-01-09T18:33:12.9797611Z",
+      "queryTimestamp": "2020-01-09T18:55:02.4974805Z",
+      "fileCount": 1,
+      "fileSize": 185187
     },
     {
       "folderName": "Guide-API-1.12-2.1.8-63.jar",
@@ -689,19 +689,19 @@
       "fileSize": 47505
     },
     {
-      "folderName": "TektopiaInformation-1.12.2-1.1.0-1.4.0.jar",
-      "fingerprint": 1079814017,
-      "fileDateHash": 3275382148,
+      "folderName": "Baubles-1.12-1.5.2.jar",
+      "fingerprint": 4247051032,
+      "fileDateHash": 3889221927,
       "sectionID": 8,
       "individualFingerprints": [
-        1079814017
+        4247051032
       ],
       "status": 1,
-      "timestamp": "2020-01-09T18:55:01.4485597Z",
-      "lastWriteTimeUtc": "2020-01-09T18:53:17.5400351Z",
+      "timestamp": "2020-01-09T18:55:01.0578031Z",
+      "lastWriteTimeUtc": "2020-01-09T18:39:26.7397004Z",
       "queryTimestamp": "2020-01-09T18:55:02.5014954Z",
       "fileCount": 1,
-      "fileSize": 1122936
+      "fileSize": 108450
     },
     {
       "folderName": "LootTweaker-0.1.4+MC1.12.2.jar",
@@ -719,19 +719,19 @@
       "fileSize": 60548
     },
     {
-      "folderName": "Baubles-1.12-1.5.2.jar",
-      "fingerprint": 4247051032,
-      "fileDateHash": 3889221927,
+      "folderName": "TektopiaInformation-1.12.2-1.1.0-1.4.0.jar",
+      "fingerprint": 1079814017,
+      "fileDateHash": 3275382148,
       "sectionID": 8,
       "individualFingerprints": [
-        4247051032
+        1079814017
       ],
       "status": 1,
-      "timestamp": "2020-01-09T18:55:01.0578031Z",
-      "lastWriteTimeUtc": "2020-01-09T18:39:26.7397004Z",
+      "timestamp": "2020-01-09T18:55:01.4485597Z",
+      "lastWriteTimeUtc": "2020-01-09T18:53:17.5400351Z",
       "queryTimestamp": "2020-01-09T18:55:02.5014954Z",
       "fileCount": 1,
-      "fileSize": 108450
+      "fileSize": 1122936
     },
     {
       "folderName": "CraftTweaker2-1.12-4.1.20.jar",
@@ -926,7 +926,7 @@
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
       "manifestName": null,
-      "installedTargets": []
+      "installedTargets": null
     },
     {
       "addonID": 225643,
@@ -1024,7 +1024,7 @@
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
       "manifestName": null,
-      "installedTargets": []
+      "installedTargets": null
     },
     {
       "addonID": 331829,
@@ -1121,7 +1121,7 @@
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
       "manifestName": null,
-      "installedTargets": []
+      "installedTargets": null
     },
     {
       "addonID": 295114,
@@ -1224,7 +1224,7 @@
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
       "manifestName": null,
-      "installedTargets": []
+      "installedTargets": null
     },
     {
       "addonID": 237167,
@@ -1542,7 +1542,7 @@
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
       "manifestName": null,
-      "installedTargets": []
+      "installedTargets": null
     },
     {
       "addonID": 255257,
@@ -1624,7 +1624,7 @@
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
       "manifestName": null,
-      "installedTargets": []
+      "installedTargets": null
     },
     {
       "addonID": 306770,
@@ -1691,7 +1691,7 @@
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
       "manifestName": null,
-      "installedTargets": []
+      "installedTargets": null
     },
     {
       "addonID": 310745,
@@ -1782,7 +1782,7 @@
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
       "manifestName": null,
-      "installedTargets": []
+      "installedTargets": null
     },
     {
       "addonID": 278141,
@@ -1862,7 +1862,7 @@
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
       "manifestName": null,
-      "installedTargets": []
+      "installedTargets": null
     },
     {
       "addonID": 302254,
@@ -1941,7 +1941,7 @@
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
       "manifestName": null,
-      "installedTargets": []
+      "installedTargets": null
     },
     {
       "addonID": 228823,
@@ -2052,7 +2052,7 @@
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
       "manifestName": null,
-      "installedTargets": []
+      "installedTargets": null
     },
     {
       "addonID": 234851,
@@ -2172,7 +2172,7 @@
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
       "manifestName": null,
-      "installedTargets": []
+      "installedTargets": null
     },
     {
       "addonID": 282940,
@@ -2269,7 +2269,7 @@
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
       "manifestName": null,
-      "installedTargets": []
+      "installedTargets": null
     },
     {
       "addonID": 253211,
@@ -2338,7 +2338,7 @@
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
       "manifestName": null,
-      "installedTargets": []
+      "installedTargets": null
     },
     {
       "addonID": 298969,
@@ -2429,7 +2429,7 @@
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
       "manifestName": null,
-      "installedTargets": []
+      "installedTargets": null
     },
     {
       "addonID": 293905,
@@ -2508,7 +2508,7 @@
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
       "manifestName": null,
-      "installedTargets": []
+      "installedTargets": null
     },
     {
       "addonID": 297057,
@@ -2814,80 +2814,7 @@
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
       "manifestName": null,
-      "installedTargets": []
-    },
-    {
-      "addonID": 277064,
-      "gameInstanceID": "670196a3-c61a-4c57-aa38-1e50776546fd",
-      "installedFile": {
-        "id": 2817910,
-        "displayName": "mysticallib-1.12.2-1.4.0.jar",
-        "fileName": "mysticallib-1.12.2-1.4.0.jar",
-        "fileDate": "2019-10-28T12:15:08.113Z",
-        "fileLength": 355287,
-        "releaseType": 1,
-        "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/2817/910/mysticallib-1.12.2-1.4.0.jar",
-        "isAlternate": false,
-        "alternateFileId": 0,
-        "dependencies": [],
-        "isAvailable": true,
-        "modules": [
-          {
-            "foldername": "META-INF",
-            "fingerprint": 2620318324,
-            "type": 0
-          },
-          {
-            "foldername": "epicsquid",
-            "fingerprint": 1898094455,
-            "type": 0
-          },
-          {
-            "foldername": "assets",
-            "fingerprint": 4236373008,
-            "type": 0
-          },
-          {
-            "foldername": "mcmod.info",
-            "fingerprint": 1855984948,
-            "type": 0
-          },
-          {
-            "foldername": "pack.mcmeta",
-            "fingerprint": 3273911401,
-            "type": 0
-          }
-        ],
-        "packageFingerprint": 776734229,
-        "gameVersion": [
-          "Forge",
-          "1.12.2"
-        ],
-        "hasInstallScript": false,
-        "isCompatibleWithClient": false,
-        "categorySectionPackageType": 0,
-        "restrictProjectFileAccess": 0,
-        "projectStatus": 0,
-        "projectId": 0,
-        "gameVersionDateReleased": "2017-09-18T05:00:00Z",
-        "gameId": 0,
-        "isServerPack": false,
-        "FileNameOnDisk": "mysticallib-1.12.2-1.4.0.jar"
-      },
-      "dateInstalled": "2020-01-09T19:26:23.6551227Z",
-      "dateUpdated": "2020-01-09T19:26:23.658104Z",
-      "dateLastUpdateAttempted": "2020-01-09T19:26:23.658104Z",
-      "status": 4,
-      "preferenceAutoInstallUpdates": false,
-      "preferenceAlternateFile": false,
-      "preferenceIsIgnored": false,
-      "isModified": false,
-      "isWorkingCopy": false,
-      "isFuzzyMatch": false,
-      "preferenceReleaseType": null,
-      "manifestName": null,
-      "installedTargets": []
+      "installedTargets": null
     },
     {
       "addonID": 235279,
@@ -2988,6 +2915,79 @@
       "installedTargets": null
     },
     {
+      "addonID": 277064,
+      "gameInstanceID": "670196a3-c61a-4c57-aa38-1e50776546fd",
+      "installedFile": {
+        "id": 2817910,
+        "displayName": "mysticallib-1.12.2-1.4.0.jar",
+        "fileName": "mysticallib-1.12.2-1.4.0.jar",
+        "fileDate": "2019-10-28T12:15:08.113Z",
+        "fileLength": 355287,
+        "releaseType": 1,
+        "fileStatus": 4,
+        "downloadUrl": "https://edge.forgecdn.net/files/2817/910/mysticallib-1.12.2-1.4.0.jar",
+        "isAlternate": false,
+        "alternateFileId": 0,
+        "dependencies": [],
+        "isAvailable": true,
+        "modules": [
+          {
+            "foldername": "META-INF",
+            "fingerprint": 2620318324,
+            "type": 0
+          },
+          {
+            "foldername": "epicsquid",
+            "fingerprint": 1898094455,
+            "type": 0
+          },
+          {
+            "foldername": "assets",
+            "fingerprint": 4236373008,
+            "type": 0
+          },
+          {
+            "foldername": "mcmod.info",
+            "fingerprint": 1855984948,
+            "type": 0
+          },
+          {
+            "foldername": "pack.mcmeta",
+            "fingerprint": 3273911401,
+            "type": 0
+          }
+        ],
+        "packageFingerprint": 776734229,
+        "gameVersion": [
+          "Forge",
+          "1.12.2"
+        ],
+        "hasInstallScript": false,
+        "isCompatibleWithClient": false,
+        "categorySectionPackageType": 0,
+        "restrictProjectFileAccess": 0,
+        "projectStatus": 0,
+        "projectId": 0,
+        "gameVersionDateReleased": "2017-09-18T05:00:00Z",
+        "gameId": 0,
+        "isServerPack": false,
+        "FileNameOnDisk": "mysticallib-1.12.2-1.4.0.jar"
+      },
+      "dateInstalled": "2020-01-09T19:26:23.6551227Z",
+      "dateUpdated": "2020-01-09T19:26:23.658104Z",
+      "dateLastUpdateAttempted": "2020-01-09T19:26:23.658104Z",
+      "status": 4,
+      "preferenceAutoInstallUpdates": false,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null,
+      "installedTargets": null
+    },
+    {
       "addonID": 243363,
       "gameInstanceID": "670196a3-c61a-4c57-aa38-1e50776546fd",
       "installedFile": {
@@ -3058,7 +3058,7 @@
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
       "manifestName": null,
-      "installedTargets": []
+      "installedTargets": null
     },
     {
       "addonID": 229664,
@@ -3147,7 +3147,7 @@
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
       "manifestName": null,
-      "installedTargets": []
+      "installedTargets": null
     },
     {
       "addonID": 241721,
@@ -3234,7 +3234,7 @@
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
       "manifestName": null,
-      "installedTargets": []
+      "installedTargets": null
     },
     {
       "addonID": 221857,
@@ -3312,7 +3312,7 @@
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
       "manifestName": null,
-      "installedTargets": []
+      "installedTargets": null
     },
     {
       "addonID": 223094,
@@ -3489,7 +3489,7 @@
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
       "manifestName": null,
-      "installedTargets": []
+      "installedTargets": null
     },
     {
       "addonID": 69118,
@@ -3645,7 +3645,7 @@
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
       "manifestName": null,
-      "installedTargets": []
+      "installedTargets": null
     },
     {
       "addonID": 255308,
@@ -3717,7 +3717,7 @@
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
       "manifestName": null,
-      "installedTargets": []
+      "installedTargets": null
     },
     {
       "addonID": 314904,
@@ -3929,7 +3929,7 @@
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
       "manifestName": null,
-      "installedTargets": []
+      "installedTargets": null
     },
     {
       "addonID": 74610,
@@ -4009,7 +4009,7 @@
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
       "manifestName": null,
-      "installedTargets": []
+      "installedTargets": null
     },
     {
       "addonID": 242436,
@@ -4078,7 +4078,7 @@
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
       "manifestName": null,
-      "installedTargets": []
+      "installedTargets": null
     },
     {
       "addonID": 237102,
@@ -4184,6 +4184,85 @@
       "installedTargets": null
     },
     {
+      "addonID": 264231,
+      "gameInstanceID": "670196a3-c61a-4c57-aa38-1e50776546fd",
+      "installedFile": {
+        "id": 2803425,
+        "displayName": "iceandfire-1.8.3-1.12.2",
+        "fileName": "iceandfire-1.8.3.jar",
+        "fileDate": "2019-10-07T02:36:45.477Z",
+        "fileLength": 19002941,
+        "releaseType": 1,
+        "fileStatus": 4,
+        "downloadUrl": "https://edge.forgecdn.net/files/2803/425/iceandfire-1.8.3.jar",
+        "isAlternate": false,
+        "alternateFileId": 0,
+        "dependencies": [
+          {
+            "id": 0,
+            "addonId": 243298,
+            "type": 3,
+            "fileId": 0
+          }
+        ],
+        "isAvailable": true,
+        "modules": [
+          {
+            "foldername": "META-INF",
+            "fingerprint": 825317098,
+            "type": 0
+          },
+          {
+            "foldername": "com",
+            "fingerprint": 2528276580,
+            "type": 0
+          },
+          {
+            "foldername": "assets",
+            "fingerprint": 2905437341,
+            "type": 0
+          },
+          {
+            "foldername": "mcmod.info",
+            "fingerprint": 3123559951,
+            "type": 0
+          },
+          {
+            "foldername": "pack.mcmeta",
+            "fingerprint": 3330779370,
+            "type": 0
+          }
+        ],
+        "packageFingerprint": 3044910845,
+        "gameVersion": [
+          "1.12.2"
+        ],
+        "hasInstallScript": false,
+        "isCompatibleWithClient": false,
+        "categorySectionPackageType": 0,
+        "restrictProjectFileAccess": 0,
+        "projectStatus": 0,
+        "projectId": 0,
+        "gameVersionDateReleased": "2017-09-18T05:00:00Z",
+        "gameId": 0,
+        "isServerPack": false,
+        "FileNameOnDisk": "iceandfire-1.8.3.jar"
+      },
+      "dateInstalled": "2020-01-09T18:49:46.2061534Z",
+      "dateUpdated": "2020-01-09T18:49:46.2240761Z",
+      "dateLastUpdateAttempted": "2020-01-09T18:49:46.2240761Z",
+      "status": 4,
+      "preferenceAutoInstallUpdates": false,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null,
+      "installedTargets": null
+    },
+    {
       "addonID": 312318,
       "gameInstanceID": "670196a3-c61a-4c57-aa38-1e50776546fd",
       "installedFile": {
@@ -4266,86 +4345,7 @@
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
       "manifestName": null,
-      "installedTargets": []
-    },
-    {
-      "addonID": 264231,
-      "gameInstanceID": "670196a3-c61a-4c57-aa38-1e50776546fd",
-      "installedFile": {
-        "id": 2803425,
-        "displayName": "iceandfire-1.8.3-1.12.2",
-        "fileName": "iceandfire-1.8.3.jar",
-        "fileDate": "2019-10-07T02:36:45.477Z",
-        "fileLength": 19002941,
-        "releaseType": 1,
-        "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/2803/425/iceandfire-1.8.3.jar",
-        "isAlternate": false,
-        "alternateFileId": 0,
-        "dependencies": [
-          {
-            "id": 0,
-            "addonId": 243298,
-            "type": 3,
-            "fileId": 0
-          }
-        ],
-        "isAvailable": true,
-        "modules": [
-          {
-            "foldername": "META-INF",
-            "fingerprint": 825317098,
-            "type": 0
-          },
-          {
-            "foldername": "com",
-            "fingerprint": 2528276580,
-            "type": 0
-          },
-          {
-            "foldername": "assets",
-            "fingerprint": 2905437341,
-            "type": 0
-          },
-          {
-            "foldername": "mcmod.info",
-            "fingerprint": 3123559951,
-            "type": 0
-          },
-          {
-            "foldername": "pack.mcmeta",
-            "fingerprint": 3330779370,
-            "type": 0
-          }
-        ],
-        "packageFingerprint": 3044910845,
-        "gameVersion": [
-          "1.12.2"
-        ],
-        "hasInstallScript": false,
-        "isCompatibleWithClient": false,
-        "categorySectionPackageType": 0,
-        "restrictProjectFileAccess": 0,
-        "projectStatus": 0,
-        "projectId": 0,
-        "gameVersionDateReleased": "2017-09-18T05:00:00Z",
-        "gameId": 0,
-        "isServerPack": false,
-        "FileNameOnDisk": "iceandfire-1.8.3.jar"
-      },
-      "dateInstalled": "2020-01-09T18:49:46.2061534Z",
-      "dateUpdated": "2020-01-09T18:49:46.2240761Z",
-      "dateLastUpdateAttempted": "2020-01-09T18:49:46.2240761Z",
-      "status": 4,
-      "preferenceAutoInstallUpdates": false,
-      "preferenceAlternateFile": false,
-      "preferenceIsIgnored": false,
-      "isModified": false,
-      "isWorkingCopy": false,
-      "isFuzzyMatch": false,
-      "preferenceReleaseType": null,
-      "manifestName": null,
-      "installedTargets": []
+      "installedTargets": null
     },
     {
       "addonID": 347803,
@@ -4411,85 +4411,6 @@
       "dateUpdated": "2020-01-09T18:53:18.8617149Z",
       "dateLastUpdateAttempted": "2020-01-09T18:53:18.8617149Z",
       "status": 4,
-      "preferenceAutoInstallUpdates": false,
-      "preferenceAlternateFile": false,
-      "preferenceIsIgnored": false,
-      "isModified": false,
-      "isWorkingCopy": false,
-      "isFuzzyMatch": false,
-      "preferenceReleaseType": null,
-      "manifestName": null,
-      "installedTargets": []
-    },
-    {
-      "addonID": 250398,
-      "gameInstanceID": "670196a3-c61a-4c57-aa38-1e50776546fd",
-      "installedFile": {
-        "id": 2731319,
-        "displayName": "Controlling-3.0.7",
-        "fileName": "Controlling-3.0.7.jar",
-        "fileDate": "2019-06-27T09:25:29.777Z",
-        "fileLength": 27162,
-        "releaseType": 1,
-        "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/2731/319/Controlling-3.0.7.jar",
-        "isAlternate": false,
-        "alternateFileId": 0,
-        "dependencies": [],
-        "isAvailable": true,
-        "modules": [
-          {
-            "foldername": "META-INF",
-            "fingerprint": 3475994140,
-            "type": 3
-          },
-          {
-            "foldername": "us",
-            "fingerprint": 2410164597,
-            "type": 3
-          },
-          {
-            "foldername": "assets",
-            "fingerprint": 1022131806,
-            "type": 3
-          },
-          {
-            "foldername": "mcmod.info",
-            "fingerprint": 3193961234,
-            "type": 3
-          }
-        ],
-        "packageFingerprint": 2962360278,
-        "gameVersion": [
-          "1.12.2"
-        ],
-        "sortableGameVersion": [
-          {
-            "gameVersionPadded": "0000000001.0000000012.0000000002",
-            "gameVersion": "1.12.2",
-            "gameVersionReleaseDate": "2017-09-18T05:00:00Z",
-            "gameVersionName": "1.12.2"
-          }
-        ],
-        "hasInstallScript": false,
-        "isCompatibleWithClient": false,
-        "categorySectionPackageType": 6,
-        "restrictProjectFileAccess": 1,
-        "projectStatus": 4,
-        "renderCacheId": 1583643,
-        "projectId": 250398,
-        "packageFingerprintId": 327723223,
-        "gameVersionDateReleased": "2008-03-01T06:00:00Z",
-        "gameVersionMappingId": 1844864,
-        "gameVersionId": 4458,
-        "gameId": 432,
-        "isServerPack": false,
-        "FileNameOnDisk": "Controlling-3.0.7.jar"
-      },
-      "dateInstalled": "2020-01-08T19:47:41.0870404Z",
-      "dateUpdated": "2019-01-08T19:47:41.0870404Z",
-      "dateLastUpdateAttempted": "0001-01-01T00:00:00",
-      "status": 3,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -4570,7 +4491,86 @@
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
       "manifestName": null,
-      "installedTargets": []
+      "installedTargets": null
+    },
+    {
+      "addonID": 250398,
+      "gameInstanceID": "670196a3-c61a-4c57-aa38-1e50776546fd",
+      "installedFile": {
+        "id": 2731319,
+        "displayName": "Controlling-3.0.7",
+        "fileName": "Controlling-3.0.7.jar",
+        "fileDate": "2019-06-27T09:25:29.777Z",
+        "fileLength": 27162,
+        "releaseType": 1,
+        "fileStatus": 4,
+        "downloadUrl": "https://edge.forgecdn.net/files/2731/319/Controlling-3.0.7.jar",
+        "isAlternate": false,
+        "alternateFileId": 0,
+        "dependencies": [],
+        "isAvailable": true,
+        "modules": [
+          {
+            "foldername": "META-INF",
+            "fingerprint": 3475994140,
+            "type": 3
+          },
+          {
+            "foldername": "us",
+            "fingerprint": 2410164597,
+            "type": 3
+          },
+          {
+            "foldername": "assets",
+            "fingerprint": 1022131806,
+            "type": 3
+          },
+          {
+            "foldername": "mcmod.info",
+            "fingerprint": 3193961234,
+            "type": 3
+          }
+        ],
+        "packageFingerprint": 2962360278,
+        "gameVersion": [
+          "1.12.2"
+        ],
+        "sortableGameVersion": [
+          {
+            "gameVersionPadded": "0000000001.0000000012.0000000002",
+            "gameVersion": "1.12.2",
+            "gameVersionReleaseDate": "2017-09-18T05:00:00Z",
+            "gameVersionName": "1.12.2"
+          }
+        ],
+        "hasInstallScript": false,
+        "isCompatibleWithClient": false,
+        "categorySectionPackageType": 6,
+        "restrictProjectFileAccess": 1,
+        "projectStatus": 4,
+        "renderCacheId": 1583643,
+        "projectId": 250398,
+        "packageFingerprintId": 327723223,
+        "gameVersionDateReleased": "2008-03-01T06:00:00Z",
+        "gameVersionMappingId": 1844864,
+        "gameVersionId": 4458,
+        "gameId": 432,
+        "isServerPack": false,
+        "FileNameOnDisk": "Controlling-3.0.7.jar"
+      },
+      "dateInstalled": "2020-01-08T19:47:41.0870404Z",
+      "dateUpdated": "2019-01-08T19:47:41.0870404Z",
+      "dateLastUpdateAttempted": "0001-01-01T00:00:00",
+      "status": 3,
+      "preferenceAutoInstallUpdates": false,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null,
+      "installedTargets": null
     },
     {
       "addonID": 227795,
@@ -4827,7 +4827,7 @@
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
       "manifestName": null,
-      "installedTargets": []
+      "installedTargets": null
     },
     {
       "addonID": 220954,
@@ -4901,7 +4901,7 @@
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
       "manifestName": null,
-      "installedTargets": []
+      "installedTargets": null
     },
     {
       "addonID": 224791,
@@ -4987,7 +4987,7 @@
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
       "manifestName": null,
-      "installedTargets": []
+      "installedTargets": null
     },
     {
       "addonID": 251918,
@@ -5054,7 +5054,7 @@
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
       "manifestName": null,
-      "installedTargets": []
+      "installedTargets": null
     },
     {
       "addonID": 231095,
@@ -5252,84 +5252,6 @@
       "installedTargets": null
     },
     {
-      "addonID": 333029,
-      "gameInstanceID": "670196a3-c61a-4c57-aa38-1e50776546fd",
-      "installedFile": {
-        "id": 2763046,
-        "displayName": "tektopia-1.1.0.jar",
-        "fileName": "tektopia-1.1.0.jar",
-        "fileDate": "2019-08-16T08:02:52.683Z",
-        "fileLength": 13648391,
-        "releaseType": 1,
-        "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/2763/46/tektopia-1.1.0.jar",
-        "isAlternate": false,
-        "alternateFileId": 0,
-        "dependencies": [],
-        "isAvailable": true,
-        "modules": [
-          {
-            "foldername": "META-INF",
-            "fingerprint": 1213347036,
-            "type": 0
-          },
-          {
-            "foldername": "com",
-            "fingerprint": 1462183912,
-            "type": 0
-          },
-          {
-            "foldername": "net",
-            "fingerprint": 1034702504,
-            "type": 0
-          },
-          {
-            "foldername": "assets",
-            "fingerprint": 349642294,
-            "type": 0
-          },
-          {
-            "foldername": "mcmod.info",
-            "fingerprint": 646217439,
-            "type": 0
-          },
-          {
-            "foldername": "pack.mcmeta",
-            "fingerprint": 3273911401,
-            "type": 0
-          }
-        ],
-        "packageFingerprint": 2141021463,
-        "gameVersion": [
-          "Forge",
-          "1.12.2"
-        ],
-        "hasInstallScript": false,
-        "isCompatibleWithClient": false,
-        "categorySectionPackageType": 0,
-        "restrictProjectFileAccess": 0,
-        "projectStatus": 0,
-        "projectId": 0,
-        "gameVersionDateReleased": "2017-09-18T05:00:00Z",
-        "gameId": 0,
-        "isServerPack": false,
-        "FileNameOnDisk": "tektopia-1.1.0.jar"
-      },
-      "dateInstalled": "2020-01-09T18:53:14.8832056Z",
-      "dateUpdated": "2020-01-09T18:53:14.8991854Z",
-      "dateLastUpdateAttempted": "2020-01-09T18:53:14.8991854Z",
-      "status": 4,
-      "preferenceAutoInstallUpdates": false,
-      "preferenceAlternateFile": false,
-      "preferenceIsIgnored": false,
-      "isModified": false,
-      "isWorkingCopy": false,
-      "isFuzzyMatch": false,
-      "preferenceReleaseType": null,
-      "manifestName": null,
-      "installedTargets": []
-    },
-    {
       "addonID": 53686,
       "gameInstanceID": "670196a3-c61a-4c57-aa38-1e50776546fd",
       "installedFile": {
@@ -5411,7 +5333,85 @@
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
       "manifestName": null,
-      "installedTargets": []
+      "installedTargets": null
+    },
+    {
+      "addonID": 333029,
+      "gameInstanceID": "670196a3-c61a-4c57-aa38-1e50776546fd",
+      "installedFile": {
+        "id": 2763046,
+        "displayName": "tektopia-1.1.0.jar",
+        "fileName": "tektopia-1.1.0.jar",
+        "fileDate": "2019-08-16T08:02:52.683Z",
+        "fileLength": 13648391,
+        "releaseType": 1,
+        "fileStatus": 4,
+        "downloadUrl": "https://edge.forgecdn.net/files/2763/46/tektopia-1.1.0.jar",
+        "isAlternate": false,
+        "alternateFileId": 0,
+        "dependencies": [],
+        "isAvailable": true,
+        "modules": [
+          {
+            "foldername": "META-INF",
+            "fingerprint": 1213347036,
+            "type": 0
+          },
+          {
+            "foldername": "com",
+            "fingerprint": 1462183912,
+            "type": 0
+          },
+          {
+            "foldername": "net",
+            "fingerprint": 1034702504,
+            "type": 0
+          },
+          {
+            "foldername": "assets",
+            "fingerprint": 349642294,
+            "type": 0
+          },
+          {
+            "foldername": "mcmod.info",
+            "fingerprint": 646217439,
+            "type": 0
+          },
+          {
+            "foldername": "pack.mcmeta",
+            "fingerprint": 3273911401,
+            "type": 0
+          }
+        ],
+        "packageFingerprint": 2141021463,
+        "gameVersion": [
+          "Forge",
+          "1.12.2"
+        ],
+        "hasInstallScript": false,
+        "isCompatibleWithClient": false,
+        "categorySectionPackageType": 0,
+        "restrictProjectFileAccess": 0,
+        "projectStatus": 0,
+        "projectId": 0,
+        "gameVersionDateReleased": "2017-09-18T05:00:00Z",
+        "gameId": 0,
+        "isServerPack": false,
+        "FileNameOnDisk": "tektopia-1.1.0.jar"
+      },
+      "dateInstalled": "2020-01-09T18:53:14.8832056Z",
+      "dateUpdated": "2020-01-09T18:53:14.8991854Z",
+      "dateLastUpdateAttempted": "2020-01-09T18:53:14.8991854Z",
+      "status": 4,
+      "preferenceAutoInstallUpdates": false,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null,
+      "installedTargets": null
     },
     {
       "addonID": 237541,
@@ -5483,7 +5483,7 @@
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
       "manifestName": null,
-      "installedTargets": []
+      "installedTargets": null
     },
     {
       "addonID": 340977,
@@ -5582,7 +5582,7 @@
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
       "manifestName": null,
-      "installedTargets": []
+      "installedTargets": null
     },
     {
       "addonID": 243298,
@@ -5654,7 +5654,7 @@
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
       "manifestName": null,
-      "installedTargets": []
+      "installedTargets": null
     },
     {
       "addonID": 220698,
@@ -5727,7 +5727,7 @@
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
       "manifestName": null,
-      "installedTargets": []
+      "installedTargets": null
     },
     {
       "addonID": 233029,
@@ -5847,86 +5847,7 @@
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
       "manifestName": null,
-      "installedTargets": []
-    },
-    {
-      "addonID": 351809,
-      "gameInstanceID": "670196a3-c61a-4c57-aa38-1e50776546fd",
-      "installedFile": {
-        "id": 2833442,
-        "displayName": "Aether Additions 1.12.2-v1.2",
-        "fileName": "aeadditions-1.12.2-1.2.jar",
-        "fileDate": "2019-11-27T20:35:54.747Z",
-        "fileLength": 897780,
-        "releaseType": 1,
-        "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/2833/442/aeadditions-1.12.2-1.2.jar",
-        "isAlternate": false,
-        "alternateFileId": 0,
-        "dependencies": [
-          {
-            "id": 0,
-            "addonId": 255308,
-            "type": 3,
-            "fileId": 0
-          }
-        ],
-        "isAvailable": true,
-        "modules": [
-          {
-            "foldername": "META-INF",
-            "fingerprint": 4119966976,
-            "type": 0
-          },
-          {
-            "foldername": "com",
-            "fingerprint": 2889386599,
-            "type": 0
-          },
-          {
-            "foldername": "assets",
-            "fingerprint": 799838853,
-            "type": 0
-          },
-          {
-            "foldername": "mcmod.info",
-            "fingerprint": 4143542112,
-            "type": 0
-          },
-          {
-            "foldername": "pack.mcmeta",
-            "fingerprint": 3273911401,
-            "type": 0
-          }
-        ],
-        "packageFingerprint": 1509157695,
-        "gameVersion": [
-          "1.12.2"
-        ],
-        "hasInstallScript": false,
-        "isCompatibleWithClient": false,
-        "categorySectionPackageType": 0,
-        "restrictProjectFileAccess": 0,
-        "projectStatus": 0,
-        "projectId": 0,
-        "gameVersionDateReleased": "2017-09-18T05:00:00Z",
-        "gameId": 0,
-        "isServerPack": false,
-        "FileNameOnDisk": "aeadditions-1.12.2-1.2.jar"
-      },
-      "dateInstalled": "2020-01-09T19:31:26.8959801Z",
-      "dateUpdated": "2020-01-09T19:31:26.8989588Z",
-      "dateLastUpdateAttempted": "2020-01-09T19:31:26.8989588Z",
-      "status": 4,
-      "preferenceAutoInstallUpdates": false,
-      "preferenceAlternateFile": false,
-      "preferenceIsIgnored": false,
-      "isModified": false,
-      "isWorkingCopy": false,
-      "isFuzzyMatch": false,
-      "preferenceReleaseType": null,
-      "manifestName": null,
-      "installedTargets": []
+      "installedTargets": null
     },
     {
       "addonID": 294269,
@@ -6005,7 +5926,86 @@
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
       "manifestName": null,
-      "installedTargets": []
+      "installedTargets": null
+    },
+    {
+      "addonID": 351809,
+      "gameInstanceID": "670196a3-c61a-4c57-aa38-1e50776546fd",
+      "installedFile": {
+        "id": 2833442,
+        "displayName": "Aether Additions 1.12.2-v1.2",
+        "fileName": "aeadditions-1.12.2-1.2.jar",
+        "fileDate": "2019-11-27T20:35:54.747Z",
+        "fileLength": 897780,
+        "releaseType": 1,
+        "fileStatus": 4,
+        "downloadUrl": "https://edge.forgecdn.net/files/2833/442/aeadditions-1.12.2-1.2.jar",
+        "isAlternate": false,
+        "alternateFileId": 0,
+        "dependencies": [
+          {
+            "id": 0,
+            "addonId": 255308,
+            "type": 3,
+            "fileId": 0
+          }
+        ],
+        "isAvailable": true,
+        "modules": [
+          {
+            "foldername": "META-INF",
+            "fingerprint": 4119966976,
+            "type": 0
+          },
+          {
+            "foldername": "com",
+            "fingerprint": 2889386599,
+            "type": 0
+          },
+          {
+            "foldername": "assets",
+            "fingerprint": 799838853,
+            "type": 0
+          },
+          {
+            "foldername": "mcmod.info",
+            "fingerprint": 4143542112,
+            "type": 0
+          },
+          {
+            "foldername": "pack.mcmeta",
+            "fingerprint": 3273911401,
+            "type": 0
+          }
+        ],
+        "packageFingerprint": 1509157695,
+        "gameVersion": [
+          "1.12.2"
+        ],
+        "hasInstallScript": false,
+        "isCompatibleWithClient": false,
+        "categorySectionPackageType": 0,
+        "restrictProjectFileAccess": 0,
+        "projectStatus": 0,
+        "projectId": 0,
+        "gameVersionDateReleased": "2017-09-18T05:00:00Z",
+        "gameId": 0,
+        "isServerPack": false,
+        "FileNameOnDisk": "aeadditions-1.12.2-1.2.jar"
+      },
+      "dateInstalled": "2020-01-09T19:31:26.8959801Z",
+      "dateUpdated": "2020-01-09T19:31:26.8989588Z",
+      "dateLastUpdateAttempted": "2020-01-09T19:31:26.8989588Z",
+      "status": 4,
+      "preferenceAutoInstallUpdates": false,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null,
+      "installedTargets": null
     },
     {
       "addonID": 246183,
@@ -6098,7 +6098,80 @@
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
       "manifestName": null,
-      "installedTargets": []
+      "installedTargets": null
+    },
+    {
+      "addonID": 232758,
+      "gameInstanceID": "670196a3-c61a-4c57-aa38-1e50776546fd",
+      "installedFile": {
+        "id": 2831241,
+        "displayName": "CyclopsCore-1.12.2-1.6.0.jar",
+        "fileName": "CyclopsCore-1.12.2-1.6.0.jar",
+        "fileDate": "2019-11-23T10:24:09.957Z",
+        "fileLength": 1060822,
+        "releaseType": 1,
+        "fileStatus": 4,
+        "downloadUrl": "https://edge.forgecdn.net/files/2831/241/CyclopsCore-1.12.2-1.6.0.jar",
+        "isAlternate": false,
+        "alternateFileId": 2831243,
+        "dependencies": [],
+        "isAvailable": true,
+        "modules": [
+          {
+            "foldername": "META-INF",
+            "fingerprint": 2611809642,
+            "type": 0
+          },
+          {
+            "foldername": "assets",
+            "fingerprint": 1031855971,
+            "type": 0
+          },
+          {
+            "foldername": "mcmod.info",
+            "fingerprint": 1307083126,
+            "type": 0
+          },
+          {
+            "foldername": "org",
+            "fingerprint": 3812249794,
+            "type": 0
+          },
+          {
+            "foldername": "pack.mcmeta",
+            "fingerprint": 2761376034,
+            "type": 0
+          }
+        ],
+        "packageFingerprint": 677188026,
+        "gameVersion": [
+          "Forge",
+          "1.12.2"
+        ],
+        "hasInstallScript": false,
+        "isCompatibleWithClient": false,
+        "categorySectionPackageType": 0,
+        "restrictProjectFileAccess": 0,
+        "projectStatus": 0,
+        "projectId": 0,
+        "gameVersionDateReleased": "2008-03-01T06:00:00Z",
+        "gameId": 0,
+        "isServerPack": false,
+        "FileNameOnDisk": "CyclopsCore-1.12.2-1.6.0.jar"
+      },
+      "dateInstalled": "2020-01-09T18:45:04.3040808Z",
+      "dateUpdated": "2020-01-09T18:45:04.3130565Z",
+      "dateLastUpdateAttempted": "2020-01-09T18:45:04.3130565Z",
+      "status": 4,
+      "preferenceAutoInstallUpdates": false,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null,
+      "installedTargets": null
     },
     {
       "addonID": 239197,
@@ -6175,80 +6248,7 @@
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
       "manifestName": null,
-      "installedTargets": []
-    },
-    {
-      "addonID": 232758,
-      "gameInstanceID": "670196a3-c61a-4c57-aa38-1e50776546fd",
-      "installedFile": {
-        "id": 2831241,
-        "displayName": "CyclopsCore-1.12.2-1.6.0.jar",
-        "fileName": "CyclopsCore-1.12.2-1.6.0.jar",
-        "fileDate": "2019-11-23T10:24:09.957Z",
-        "fileLength": 1060822,
-        "releaseType": 1,
-        "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/2831/241/CyclopsCore-1.12.2-1.6.0.jar",
-        "isAlternate": false,
-        "alternateFileId": 2831243,
-        "dependencies": [],
-        "isAvailable": true,
-        "modules": [
-          {
-            "foldername": "META-INF",
-            "fingerprint": 2611809642,
-            "type": 0
-          },
-          {
-            "foldername": "assets",
-            "fingerprint": 1031855971,
-            "type": 0
-          },
-          {
-            "foldername": "mcmod.info",
-            "fingerprint": 1307083126,
-            "type": 0
-          },
-          {
-            "foldername": "org",
-            "fingerprint": 3812249794,
-            "type": 0
-          },
-          {
-            "foldername": "pack.mcmeta",
-            "fingerprint": 2761376034,
-            "type": 0
-          }
-        ],
-        "packageFingerprint": 677188026,
-        "gameVersion": [
-          "Forge",
-          "1.12.2"
-        ],
-        "hasInstallScript": false,
-        "isCompatibleWithClient": false,
-        "categorySectionPackageType": 0,
-        "restrictProjectFileAccess": 0,
-        "projectStatus": 0,
-        "projectId": 0,
-        "gameVersionDateReleased": "2008-03-01T06:00:00Z",
-        "gameId": 0,
-        "isServerPack": false,
-        "FileNameOnDisk": "CyclopsCore-1.12.2-1.6.0.jar"
-      },
-      "dateInstalled": "2020-01-09T18:45:04.3040808Z",
-      "dateUpdated": "2020-01-09T18:45:04.3130565Z",
-      "dateLastUpdateAttempted": "2020-01-09T18:45:04.3130565Z",
-      "status": 4,
-      "preferenceAutoInstallUpdates": false,
-      "preferenceAlternateFile": false,
-      "preferenceIsIgnored": false,
-      "isModified": false,
-      "isWorkingCopy": false,
-      "isFuzzyMatch": false,
-      "preferenceReleaseType": null,
-      "manifestName": null,
-      "installedTargets": []
+      "installedTargets": null
     },
     {
       "addonID": 226321,
@@ -6315,7 +6315,7 @@
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
       "manifestName": null,
-      "installedTargets": []
+      "installedTargets": null
     },
     {
       "addonID": 265642,
@@ -6401,7 +6401,7 @@
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
       "manifestName": null,
-      "installedTargets": []
+      "installedTargets": null
     }
   ],
   "isMigrated": false,
