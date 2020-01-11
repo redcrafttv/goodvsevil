@@ -704,21 +704,6 @@
       "fileSize": 1122936
     },
     {
-      "folderName": "LootTweaker-0.1.4+MC1.12.2.jar",
-      "fingerprint": 3932168985,
-      "fileDateHash": 2560172913,
-      "sectionID": 8,
-      "individualFingerprints": [
-        3932168985
-      ],
-      "status": 1,
-      "timestamp": "2020-01-09T18:55:01.3256117Z",
-      "lastWriteTimeUtc": "2020-01-09T18:34:06.8468002Z",
-      "queryTimestamp": "2020-01-09T18:55:02.5014954Z",
-      "fileCount": 1,
-      "fileSize": 60548
-    },
-    {
       "folderName": "Baubles-1.12-1.5.2.jar",
       "fingerprint": 4247051032,
       "fileDateHash": 3889221927,
@@ -1083,6 +1068,73 @@
       "preferenceReleaseType": null,
       "manifestName": null,
       "installedTargets": null
+    },
+    {
+      "addonID": 74246,
+      "gameInstanceID": "670196a3-c61a-4c57-aa38-1e50776546fd",
+      "installedFile": {
+        "id": 2767198,
+        "displayName": "DoomlikeDungeons-1.12.10-MC1.12.2.jar",
+        "fileName": "DoomlikeDungeons-1.12.10-MC1.12.2.jar",
+        "fileDate": "2019-08-22T01:06:49.707Z",
+        "fileLength": 691858,
+        "releaseType": 1,
+        "fileStatus": 4,
+        "downloadUrl": "https://edge.forgecdn.net/files/2767/198/DoomlikeDungeons-1.12.10-MC1.12.2.jar",
+        "isAlternate": false,
+        "alternateFileId": 2767199,
+        "dependencies": [],
+        "isAvailable": true,
+        "modules": [
+          {
+            "foldername": "META-INF",
+            "fingerprint": 1750178754,
+            "type": 0
+          },
+          {
+            "foldername": "jaredbgreat",
+            "fingerprint": 3236845897,
+            "type": 0
+          },
+          {
+            "foldername": "DLDLogo2.png",
+            "fingerprint": 1631140699,
+            "type": 0
+          },
+          {
+            "foldername": "mcmod.info",
+            "fingerprint": 1381422058,
+            "type": 0
+          }
+        ],
+        "packageFingerprint": 786836887,
+        "gameVersion": [
+          "1.12.2"
+        ],
+        "hasInstallScript": false,
+        "isCompatibleWithClient": false,
+        "categorySectionPackageType": 0,
+        "restrictProjectFileAccess": 0,
+        "projectStatus": 0,
+        "projectId": 0,
+        "gameVersionDateReleased": "2008-03-01T06:00:00Z",
+        "gameId": 0,
+        "isServerPack": false,
+        "FileNameOnDisk": "DoomlikeDungeons-1.12.10-MC1.12.2.jar"
+      },
+      "dateInstalled": "2020-01-11T16:38:54.6380346Z",
+      "dateUpdated": "2020-01-11T16:38:54.6410285Z",
+      "dateLastUpdateAttempted": "2020-01-11T16:38:54.6410285Z",
+      "status": 4,
+      "preferenceAutoInstallUpdates": false,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null,
+      "installedTargets": []
     },
     {
       "addonID": 226321,
@@ -2642,6 +2694,85 @@
       "installedTargets": null
     },
     {
+      "addonID": 316696,
+      "gameInstanceID": "670196a3-c61a-4c57-aa38-1e50776546fd",
+      "installedFile": {
+        "id": 2685974,
+        "displayName": "BiomeSpecificDungeons-1.12.2-1.0.3.jar",
+        "fileName": "BiomeSpecificDungeons-1.12.2-1.0.3.jar",
+        "fileDate": "2019-03-11T20:29:40.993Z",
+        "fileLength": 38171,
+        "releaseType": 1,
+        "fileStatus": 4,
+        "downloadUrl": "https://edge.forgecdn.net/files/2685/974/BiomeSpecificDungeons-1.12.2-1.0.3.jar",
+        "isAlternate": false,
+        "alternateFileId": 2685975,
+        "dependencies": [
+          {
+            "id": 0,
+            "addonId": 228525,
+            "type": 3,
+            "fileId": 0
+          }
+        ],
+        "isAvailable": true,
+        "modules": [
+          {
+            "foldername": "META-INF",
+            "fingerprint": 2026336028,
+            "type": 0
+          },
+          {
+            "foldername": "LICENSE",
+            "fingerprint": 1302837405,
+            "type": 0
+          },
+          {
+            "foldername": "data",
+            "fingerprint": 2948510432,
+            "type": 0
+          },
+          {
+            "foldername": "mcmod.info",
+            "fingerprint": 547126155,
+            "type": 0
+          },
+          {
+            "foldername": "net",
+            "fingerprint": 3362466398,
+            "type": 0
+          }
+        ],
+        "packageFingerprint": 3408394990,
+        "gameVersion": [
+          "1.12.2"
+        ],
+        "hasInstallScript": false,
+        "isCompatibleWithClient": false,
+        "categorySectionPackageType": 0,
+        "restrictProjectFileAccess": 0,
+        "projectStatus": 0,
+        "projectId": 0,
+        "gameVersionDateReleased": "2008-03-01T06:00:00Z",
+        "gameId": 0,
+        "isServerPack": false,
+        "FileNameOnDisk": "BiomeSpecificDungeons-1.12.2-1.0.3.jar"
+      },
+      "dateInstalled": "2020-01-11T16:45:18.503014Z",
+      "dateUpdated": "2020-01-11T16:45:18.5070126Z",
+      "dateLastUpdateAttempted": "2020-01-11T16:45:18.5070126Z",
+      "status": 4,
+      "preferenceAutoInstallUpdates": false,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null,
+      "installedTargets": []
+    },
+    {
       "addonID": 298969,
       "gameInstanceID": "670196a3-c61a-4c57-aa38-1e50776546fd",
       "installedFile": {
@@ -3455,6 +3586,84 @@
       "installedTargets": null
     },
     {
+      "addonID": 332234,
+      "gameInstanceID": "670196a3-c61a-4c57-aa38-1e50776546fd",
+      "installedFile": {
+        "id": 2841053,
+        "displayName": "Wesley's Roguelike Dungeons V0.8.1",
+        "fileName": "Wesley's Roguelike Dungeons V0.8.1.jar",
+        "fileDate": "2019-12-11T16:45:34.777Z",
+        "fileLength": 15568845,
+        "releaseType": 2,
+        "fileStatus": 4,
+        "downloadUrl": "https://edge.forgecdn.net/files/2841/53/Wesley's Roguelike Dungeons V0.8.1.jar",
+        "isAlternate": false,
+        "alternateFileId": 0,
+        "dependencies": [],
+        "isAvailable": true,
+        "modules": [
+          {
+            "foldername": "META-INF",
+            "fingerprint": 2034720194,
+            "type": 0
+          },
+          {
+            "foldername": "net",
+            "fingerprint": 1329372062,
+            "type": 0
+          },
+          {
+            "foldername": "assets",
+            "fingerprint": 1731551787,
+            "type": 0
+          },
+          {
+            "foldername": "mcmod.info",
+            "fingerprint": 1455878277,
+            "type": 0
+          },
+          {
+            "foldername": "MCreator-README.txt",
+            "fingerprint": 1756242058,
+            "type": 0
+          },
+          {
+            "foldername": "pack.mcmeta",
+            "fingerprint": 2434049227,
+            "type": 0
+          }
+        ],
+        "packageFingerprint": 1344093345,
+        "gameVersion": [
+          "Forge",
+          "1.12.2"
+        ],
+        "hasInstallScript": false,
+        "isCompatibleWithClient": false,
+        "categorySectionPackageType": 0,
+        "restrictProjectFileAccess": 0,
+        "projectStatus": 0,
+        "projectId": 0,
+        "gameVersionDateReleased": "2017-09-18T05:00:00Z",
+        "gameId": 0,
+        "isServerPack": false,
+        "FileNameOnDisk": "Wesley's Roguelike Dungeons V0.8.1.jar"
+      },
+      "dateInstalled": "2020-01-11T16:38:50.055294Z",
+      "dateUpdated": "2020-01-11T16:38:50.070285Z",
+      "dateLastUpdateAttempted": "2020-01-11T16:38:50.070285Z",
+      "status": 4,
+      "preferenceAutoInstallUpdates": false,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null,
+      "installedTargets": []
+    },
+    {
       "addonID": 297057,
       "gameInstanceID": "670196a3-c61a-4c57-aa38-1e50776546fd",
       "installedFile": {
@@ -3775,6 +3984,75 @@
       "installedTargets": null
     },
     {
+      "addonID": 261339,
+      "gameInstanceID": "670196a3-c61a-4c57-aa38-1e50776546fd",
+      "installedFile": {
+        "id": 2541554,
+        "displayName": "LootTableTweaker-1.12.2-1.1.14.jar",
+        "fileName": "LootTableTweaker-1.12.2-1.1.14.jar",
+        "fileDate": "2018-03-16T01:12:15.937Z",
+        "fileLength": 25043,
+        "releaseType": 1,
+        "fileStatus": 4,
+        "downloadUrl": "https://edge.forgecdn.net/files/2541/554/LootTableTweaker-1.12.2-1.1.14.jar",
+        "isAlternate": false,
+        "alternateFileId": 2541555,
+        "dependencies": [
+          {
+            "id": 0,
+            "addonId": 239197,
+            "type": 3,
+            "fileId": 0
+          }
+        ],
+        "isAvailable": true,
+        "modules": [
+          {
+            "foldername": "META-INF",
+            "fingerprint": 1217759552,
+            "type": 0
+          },
+          {
+            "foldername": "assets",
+            "fingerprint": 4086565539,
+            "type": 0
+          },
+          {
+            "foldername": "net",
+            "fingerprint": 1962672455,
+            "type": 0
+          }
+        ],
+        "packageFingerprint": 2368967896,
+        "gameVersion": [
+          "1.12.2"
+        ],
+        "hasInstallScript": false,
+        "isCompatibleWithClient": false,
+        "categorySectionPackageType": 0,
+        "restrictProjectFileAccess": 0,
+        "projectStatus": 0,
+        "projectId": 0,
+        "gameVersionDateReleased": "2008-03-01T06:00:00Z",
+        "gameId": 0,
+        "isServerPack": false,
+        "FileNameOnDisk": "LootTableTweaker-1.12.2-1.1.14.jar"
+      },
+      "dateInstalled": "2020-01-11T16:34:55.5622448Z",
+      "dateUpdated": "2020-01-11T16:34:55.5647824Z",
+      "dateLastUpdateAttempted": "2020-01-11T16:34:55.5647824Z",
+      "status": 4,
+      "preferenceAutoInstallUpdates": false,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null,
+      "installedTargets": []
+    },
+    {
       "addonID": 306770,
       "gameInstanceID": "670196a3-c61a-4c57-aa38-1e50776546fd",
       "installedFile": {
@@ -3915,88 +4193,6 @@
       "dateInstalled": "2020-01-09T19:22:18.5298183Z",
       "dateUpdated": "2020-01-09T19:22:18.5337674Z",
       "dateLastUpdateAttempted": "2020-01-09T19:22:18.5337674Z",
-      "status": 5,
-      "preferenceAutoInstallUpdates": false,
-      "preferenceAlternateFile": false,
-      "preferenceIsIgnored": false,
-      "isModified": false,
-      "isWorkingCopy": false,
-      "isFuzzyMatch": false,
-      "preferenceReleaseType": null,
-      "manifestName": null,
-      "installedTargets": null
-    },
-    {
-      "addonID": 255257,
-      "gameInstanceID": "670196a3-c61a-4c57-aa38-1e50776546fd",
-      "installedFile": {
-        "id": 2847240,
-        "displayName": "LootTweaker-0.1.4+MC1.12.2.jar",
-        "fileName": "LootTweaker-0.1.4+MC1.12.2.jar",
-        "fileDate": "2019-12-23T02:57:13.317Z",
-        "fileLength": 60548,
-        "releaseType": 2,
-        "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/2847/240/LootTweaker-0.1.4+MC1.12.2.jar",
-        "isAlternate": false,
-        "alternateFileId": 0,
-        "dependencies": [
-          {
-            "id": 0,
-            "addonId": 239197,
-            "type": 3,
-            "fileId": 0
-          }
-        ],
-        "isAvailable": true,
-        "modules": [
-          {
-            "foldername": "META-INF",
-            "fingerprint": 2307135004,
-            "type": 0
-          },
-          {
-            "foldername": "leviathan143",
-            "fingerprint": 2936245036,
-            "type": 0
-          },
-          {
-            "foldername": "assets",
-            "fingerprint": 3816577989,
-            "type": 0
-          },
-          {
-            "foldername": "mcmod.info",
-            "fingerprint": 1751844163,
-            "type": 0
-          },
-          {
-            "foldername": "pack.mcmeta",
-            "fingerprint": 1353275925,
-            "type": 0
-          }
-        ],
-        "packageFingerprint": 3932168985,
-        "gameVersion": [
-          "1.12",
-          "1.12.1",
-          "Forge",
-          "1.12.2"
-        ],
-        "hasInstallScript": false,
-        "isCompatibleWithClient": false,
-        "categorySectionPackageType": 0,
-        "restrictProjectFileAccess": 0,
-        "projectStatus": 0,
-        "projectId": 0,
-        "gameVersionDateReleased": "2017-06-07T05:00:00Z",
-        "gameId": 0,
-        "isServerPack": false,
-        "FileNameOnDisk": "LootTweaker-0.1.4+MC1.12.2.jar"
-      },
-      "dateInstalled": "2020-01-09T18:34:06.8468002Z",
-      "dateUpdated": "2020-01-09T18:34:06.8527851Z",
-      "dateLastUpdateAttempted": "2020-01-09T18:34:06.8527851Z",
       "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
@@ -5041,6 +5237,83 @@
       "installedTargets": null
     },
     {
+      "addonID": 227875,
+      "gameInstanceID": "670196a3-c61a-4c57-aa38-1e50776546fd",
+      "installedFile": {
+        "id": 2771611,
+        "displayName": "AtomicStryker's Infernal Mobs",
+        "fileName": "InfernalMobs-1.12.2.jar",
+        "fileDate": "2019-08-26T20:24:41.79Z",
+        "fileLength": 183579,
+        "releaseType": 1,
+        "fileStatus": 4,
+        "downloadUrl": "https://edge.forgecdn.net/files/2771/611/InfernalMobs-1.12.2.jar",
+        "isAlternate": false,
+        "alternateFileId": 0,
+        "dependencies": [],
+        "isAvailable": true,
+        "modules": [
+          {
+            "foldername": "META-INF",
+            "fingerprint": 1589342584,
+            "type": 0
+          },
+          {
+            "foldername": "atomicstryker",
+            "fingerprint": 3841078067,
+            "type": 0
+          },
+          {
+            "foldername": "assets",
+            "fingerprint": 2488225296,
+            "type": 0
+          },
+          {
+            "foldername": "changelog.txt",
+            "fingerprint": 978123111,
+            "type": 0
+          },
+          {
+            "foldername": "mcmod.info",
+            "fingerprint": 3092396333,
+            "type": 0
+          },
+          {
+            "foldername": "src",
+            "fingerprint": 606944096,
+            "type": 0
+          }
+        ],
+        "packageFingerprint": 3421693817,
+        "gameVersion": [
+          "1.12.2"
+        ],
+        "hasInstallScript": false,
+        "isCompatibleWithClient": false,
+        "categorySectionPackageType": 0,
+        "restrictProjectFileAccess": 0,
+        "projectStatus": 0,
+        "projectId": 0,
+        "gameVersionDateReleased": "2008-03-01T06:00:00Z",
+        "gameId": 0,
+        "isServerPack": false,
+        "FileNameOnDisk": "InfernalMobs-1.12.2.jar"
+      },
+      "dateInstalled": "2020-01-11T16:37:55.6963411Z",
+      "dateUpdated": "2020-01-11T16:37:55.6993326Z",
+      "dateLastUpdateAttempted": "2020-01-11T16:37:55.6993326Z",
+      "status": 4,
+      "preferenceAutoInstallUpdates": false,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null,
+      "installedTargets": []
+    },
+    {
       "addonID": 290201,
       "gameInstanceID": "670196a3-c61a-4c57-aa38-1e50776546fd",
       "installedFile": {
@@ -5109,6 +5382,83 @@
       "dateInstalled": "2020-01-11T16:27:34.3445584Z",
       "dateUpdated": "2020-01-11T16:27:34.3475455Z",
       "dateLastUpdateAttempted": "2020-01-11T16:27:34.3475455Z",
+      "status": 4,
+      "preferenceAutoInstallUpdates": false,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null,
+      "installedTargets": []
+    },
+    {
+      "addonID": 227877,
+      "gameInstanceID": "670196a3-c61a-4c57-aa38-1e50776546fd",
+      "installedFile": {
+        "id": 2817288,
+        "displayName": "AtomicStryker's Battle Towers",
+        "fileName": "BattleTowers-1.12.2.jar",
+        "fileDate": "2019-10-27T08:30:45.62Z",
+        "fileLength": 886037,
+        "releaseType": 1,
+        "fileStatus": 4,
+        "downloadUrl": "https://edge.forgecdn.net/files/2817/288/BattleTowers-1.12.2.jar",
+        "isAlternate": false,
+        "alternateFileId": 0,
+        "dependencies": [],
+        "isAvailable": true,
+        "modules": [
+          {
+            "foldername": "META-INF",
+            "fingerprint": 4129713625,
+            "type": 0
+          },
+          {
+            "foldername": "atomicstryker",
+            "fingerprint": 3180522239,
+            "type": 0
+          },
+          {
+            "foldername": "assets",
+            "fingerprint": 1550567912,
+            "type": 0
+          },
+          {
+            "foldername": "changelog.txt",
+            "fingerprint": 1660690343,
+            "type": 0
+          },
+          {
+            "foldername": "mcmod.info",
+            "fingerprint": 1747959666,
+            "type": 0
+          },
+          {
+            "foldername": "src",
+            "fingerprint": 675514291,
+            "type": 0
+          }
+        ],
+        "packageFingerprint": 1751242918,
+        "gameVersion": [
+          "1.12.2"
+        ],
+        "hasInstallScript": false,
+        "isCompatibleWithClient": false,
+        "categorySectionPackageType": 0,
+        "restrictProjectFileAccess": 0,
+        "projectStatus": 0,
+        "projectId": 0,
+        "gameVersionDateReleased": "2008-03-01T06:00:00Z",
+        "gameId": 0,
+        "isServerPack": false,
+        "FileNameOnDisk": "BattleTowers-1.12.2.jar"
+      },
+      "dateInstalled": "2020-01-11T16:37:57.3670877Z",
+      "dateUpdated": "2020-01-11T16:37:57.37605Z",
+      "dateLastUpdateAttempted": "2020-01-11T16:37:57.37605Z",
       "status": 4,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
@@ -6922,6 +7272,68 @@
       "preferenceReleaseType": null,
       "manifestName": null,
       "installedTargets": null
+    },
+    {
+      "addonID": 221585,
+      "gameInstanceID": "670196a3-c61a-4c57-aa38-1e50776546fd",
+      "installedFile": {
+        "id": 2492586,
+        "displayName": "RoguelikeDungeons-1.12.2-1.8.0.jar",
+        "fileName": "RoguelikeDungeons-1.12.2-1.8.0.jar",
+        "fileDate": "2017-10-20T19:07:15.16Z",
+        "fileLength": 701215,
+        "releaseType": 1,
+        "fileStatus": 4,
+        "downloadUrl": "https://edge.forgecdn.net/files/2492/586/RoguelikeDungeons-1.12.2-1.8.0.jar",
+        "isAlternate": false,
+        "alternateFileId": 0,
+        "dependencies": [],
+        "isAvailable": true,
+        "modules": [
+          {
+            "foldername": "META-INF",
+            "fingerprint": 2464251221,
+            "type": 0
+          },
+          {
+            "foldername": "greymerk",
+            "fingerprint": 4210190164,
+            "type": 0
+          },
+          {
+            "foldername": "mcmod.info",
+            "fingerprint": 42257697,
+            "type": 0
+          }
+        ],
+        "packageFingerprint": 4054234996,
+        "gameVersion": [
+          "1.12.2"
+        ],
+        "hasInstallScript": false,
+        "isCompatibleWithClient": false,
+        "categorySectionPackageType": 0,
+        "restrictProjectFileAccess": 0,
+        "projectStatus": 0,
+        "projectId": 0,
+        "gameVersionDateReleased": "2008-03-01T06:00:00Z",
+        "gameId": 0,
+        "isServerPack": false,
+        "FileNameOnDisk": "RoguelikeDungeons-1.12.2-1.8.0.jar"
+      },
+      "dateInstalled": "2020-01-11T16:38:51.3866395Z",
+      "dateUpdated": "2020-01-11T16:38:51.3906284Z",
+      "dateLastUpdateAttempted": "2020-01-11T16:38:51.3906284Z",
+      "status": 4,
+      "preferenceAutoInstallUpdates": false,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null,
+      "installedTargets": []
     },
     {
       "addonID": 226294,
