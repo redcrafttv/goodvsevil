@@ -2817,6 +2817,70 @@
       "installedTargets": null
     },
     {
+      "addonID": 225957,
+      "gameInstanceID": "670196a3-c61a-4c57-aa38-1e50776546fd",
+      "installedFile": {
+        "id": 2499443,
+        "displayName": "HardcoreDarkness-MC1.12.2-2.0.jar",
+        "fileName": "HardcoreDarkness-MC1.12.2-2.0.jar",
+        "fileDate": "2017-11-12T12:49:18.307Z",
+        "fileLength": 32327,
+        "releaseType": 1,
+        "fileStatus": 4,
+        "downloadUrl": "https://edge.forgecdn.net/files/2499/443/HardcoreDarkness-MC1.12.2-2.0.jar",
+        "isAlternate": false,
+        "alternateFileId": 0,
+        "dependencies": [],
+        "isAvailable": true,
+        "modules": [
+          {
+            "foldername": "META-INF",
+            "fingerprint": 1045281428,
+            "type": 0
+          },
+          {
+            "foldername": "lumien",
+            "fingerprint": 845476084,
+            "type": 0
+          },
+          {
+            "foldername": "mcmod.info",
+            "fingerprint": 1640070401,
+            "type": 0
+          }
+        ],
+        "packageFingerprint": 1381892724,
+        "gameVersion": [
+          "1.12",
+          "1.12.1",
+          "1.12.2"
+        ],
+        "hasInstallScript": false,
+        "isCompatibleWithClient": false,
+        "categorySectionPackageType": 0,
+        "restrictProjectFileAccess": 0,
+        "projectStatus": 0,
+        "projectId": 0,
+        "gameVersionDateReleased": "2006-12-11T00:00:00Z",
+        "gameId": 0,
+        "isServerPack": false,
+        "FileNameOnDisk": "HardcoreDarkness-MC1.12.2-2.0.jar"
+      },
+      "dateInstalled": "2020-01-11T15:54:38.3076973Z",
+      "dateUpdated": "2020-01-11T15:54:38.3146791Z",
+      "dateLastUpdateAttempted": "2020-01-11T15:54:38.3146791Z",
+      "status": 4,
+      "preferenceAutoInstallUpdates": false,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null,
+      "installedTargets": []
+    },
+    {
       "addonID": 235279,
       "gameInstanceID": "670196a3-c61a-4c57-aa38-1e50776546fd",
       "installedFile": {
