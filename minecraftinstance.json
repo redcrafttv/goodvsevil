@@ -3070,6 +3070,91 @@
       "installedTargets": null
     },
     {
+      "addonID": 231951,
+      "gameInstanceID": "670196a3-c61a-4c57-aa38-1e50776546fd",
+      "installedFile": {
+        "id": 2799143,
+        "displayName": "Immersive Engineering 0.12 - 92",
+        "fileName": "ImmersiveEngineering-0.12-92.jar",
+        "fileDate": "2019-09-30T18:25:57.95Z",
+        "fileLength": 6802153,
+        "releaseType": 1,
+        "fileStatus": 4,
+        "downloadUrl": "https://edge.forgecdn.net/files/2799/143/ImmersiveEngineering-0.12-92.jar",
+        "isAlternate": false,
+        "alternateFileId": 0,
+        "dependencies": [
+          {
+            "id": 0,
+            "addonId": 267602,
+            "type": 2,
+            "fileId": 0
+          }
+        ],
+        "isAvailable": true,
+        "modules": [
+          {
+            "foldername": "META-INF",
+            "fingerprint": 2347371583,
+            "type": 0
+          },
+          {
+            "foldername": "assets",
+            "fingerprint": 1036822632,
+            "type": 0
+          },
+          {
+            "foldername": "blusunrize",
+            "fingerprint": 1859369350,
+            "type": 0
+          },
+          {
+            "foldername": "invtweaks",
+            "fingerprint": 783127171,
+            "type": 0
+          },
+          {
+            "foldername": "mcmod.info",
+            "fingerprint": 476805138,
+            "type": 0
+          },
+          {
+            "foldername": "pack.mcmeta",
+            "fingerprint": 2007758541,
+            "type": 0
+          }
+        ],
+        "packageFingerprint": 1384009829,
+        "gameVersion": [
+          "Forge",
+          "1.12.2"
+        ],
+        "hasInstallScript": false,
+        "isCompatibleWithClient": false,
+        "categorySectionPackageType": 0,
+        "restrictProjectFileAccess": 0,
+        "projectStatus": 0,
+        "projectId": 0,
+        "gameVersionDateReleased": "2008-03-01T06:00:00Z",
+        "gameId": 0,
+        "isServerPack": false,
+        "FileNameOnDisk": "ImmersiveEngineering-0.12-92.jar"
+      },
+      "dateInstalled": "2020-01-11T16:26:02.1885453Z",
+      "dateUpdated": "2020-01-11T16:26:02.2005138Z",
+      "dateLastUpdateAttempted": "2020-01-11T16:26:02.2005138Z",
+      "status": 4,
+      "preferenceAutoInstallUpdates": false,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null,
+      "installedTargets": []
+    },
+    {
       "addonID": 235279,
       "gameInstanceID": "670196a3-c61a-4c57-aa38-1e50776546fd",
       "installedFile": {
@@ -3924,6 +4009,78 @@
       "installedTargets": null
     },
     {
+      "addonID": 253874,
+      "gameInstanceID": "670196a3-c61a-4c57-aa38-1e50776546fd",
+      "installedFile": {
+        "id": 2727861,
+        "displayName": "Guidebook-1.12.2-2.9.2.jar",
+        "fileName": "Guidebook-1.12.2-2.9.2.jar",
+        "fileDate": "2019-06-21T23:34:14.817Z",
+        "fileLength": 248725,
+        "releaseType": 1,
+        "fileStatus": 4,
+        "downloadUrl": "https://edge.forgecdn.net/files/2727/861/Guidebook-1.12.2-2.9.2.jar",
+        "isAlternate": false,
+        "alternateFileId": 0,
+        "dependencies": [],
+        "isAvailable": true,
+        "modules": [
+          {
+            "foldername": "META-INF",
+            "fingerprint": 3446027911,
+            "type": 0
+          },
+          {
+            "foldername": "gigaherz",
+            "fingerprint": 3986805996,
+            "type": 0
+          },
+          {
+            "foldername": "assets",
+            "fingerprint": 3895558624,
+            "type": 0
+          },
+          {
+            "foldername": "mcmod.info",
+            "fingerprint": 1117911455,
+            "type": 0
+          },
+          {
+            "foldername": "pack.mcmeta",
+            "fingerprint": 3273911401,
+            "type": 0
+          }
+        ],
+        "packageFingerprint": 3174633892,
+        "gameVersion": [
+          "1.12.2"
+        ],
+        "hasInstallScript": false,
+        "isCompatibleWithClient": false,
+        "categorySectionPackageType": 0,
+        "restrictProjectFileAccess": 0,
+        "projectStatus": 0,
+        "projectId": 0,
+        "gameVersionDateReleased": "2017-09-18T05:00:00Z",
+        "gameId": 0,
+        "isServerPack": false,
+        "FileNameOnDisk": "Guidebook-1.12.2-2.9.2.jar"
+      },
+      "dateInstalled": "2020-01-11T16:16:05.0651249Z",
+      "dateUpdated": "2020-01-11T16:16:05.0700901Z",
+      "dateLastUpdateAttempted": "2020-01-11T16:16:05.0700901Z",
+      "status": 4,
+      "preferenceAutoInstallUpdates": false,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null,
+      "installedTargets": []
+    },
+    {
       "addonID": 224791,
       "gameInstanceID": "670196a3-c61a-4c57-aa38-1e50776546fd",
       "installedFile": {
@@ -4328,6 +4485,91 @@
       "preferenceReleaseType": null,
       "manifestName": null,
       "installedTargets": null
+    },
+    {
+      "addonID": 269398,
+      "gameInstanceID": "670196a3-c61a-4c57-aa38-1e50776546fd",
+      "installedFile": {
+        "id": 2643976,
+        "displayName": "DimensionStages-1.12.2-2.0.23.jar",
+        "fileName": "DimensionStages-1.12.2-2.0.23.jar",
+        "fileDate": "2018-12-03T23:14:30.2Z",
+        "fileLength": 18251,
+        "releaseType": 1,
+        "fileStatus": 4,
+        "downloadUrl": "https://edge.forgecdn.net/files/2643/976/DimensionStages-1.12.2-2.0.23.jar",
+        "isAlternate": false,
+        "alternateFileId": 2643977,
+        "dependencies": [
+          {
+            "id": 0,
+            "addonId": 239197,
+            "type": 3,
+            "fileId": 0
+          },
+          {
+            "id": 0,
+            "addonId": 268655,
+            "type": 3,
+            "fileId": 0
+          }
+        ],
+        "isAvailable": true,
+        "modules": [
+          {
+            "foldername": "META-INF",
+            "fingerprint": 1100308284,
+            "type": 0
+          },
+          {
+            "foldername": "LICENSE",
+            "fingerprint": 3634485962,
+            "type": 0
+          },
+          {
+            "foldername": "assets",
+            "fingerprint": 3594345772,
+            "type": 0
+          },
+          {
+            "foldername": "mcmod.info",
+            "fingerprint": 2761705975,
+            "type": 0
+          },
+          {
+            "foldername": "net",
+            "fingerprint": 3194936940,
+            "type": 0
+          }
+        ],
+        "packageFingerprint": 2857534586,
+        "gameVersion": [
+          "1.12.2"
+        ],
+        "hasInstallScript": false,
+        "isCompatibleWithClient": false,
+        "categorySectionPackageType": 0,
+        "restrictProjectFileAccess": 0,
+        "projectStatus": 0,
+        "projectId": 0,
+        "gameVersionDateReleased": "2008-03-01T06:00:00Z",
+        "gameId": 0,
+        "isServerPack": false,
+        "FileNameOnDisk": "DimensionStages-1.12.2-2.0.23.jar"
+      },
+      "dateInstalled": "2020-01-11T16:25:30.4053489Z",
+      "dateUpdated": "2020-01-11T16:25:30.4083427Z",
+      "dateLastUpdateAttempted": "2020-01-11T16:25:30.4083427Z",
+      "status": 4,
+      "preferenceAutoInstallUpdates": false,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null,
+      "installedTargets": []
     },
     {
       "addonID": 243363,
@@ -4799,6 +5041,86 @@
       "installedTargets": null
     },
     {
+      "addonID": 290201,
+      "gameInstanceID": "670196a3-c61a-4c57-aa38-1e50776546fd",
+      "installedFile": {
+        "id": 2632997,
+        "displayName": "OreStages-1.12.2-2.0.37.jar",
+        "fileName": "OreStages-1.12.2-2.0.37.jar",
+        "fileDate": "2018-10-29T05:04:46.157Z",
+        "fileLength": 31806,
+        "releaseType": 1,
+        "fileStatus": 4,
+        "downloadUrl": "https://edge.forgecdn.net/files/2632/997/OreStages-1.12.2-2.0.37.jar",
+        "isAlternate": false,
+        "alternateFileId": 2632998,
+        "dependencies": [
+          {
+            "id": 0,
+            "addonId": 268655,
+            "type": 3,
+            "fileId": 0
+          },
+          {
+            "id": 0,
+            "addonId": 239197,
+            "type": 3,
+            "fileId": 0
+          }
+        ],
+        "isAvailable": true,
+        "modules": [
+          {
+            "foldername": "META-INF",
+            "fingerprint": 374904470,
+            "type": 0
+          },
+          {
+            "foldername": "LICENSE",
+            "fingerprint": 3634485962,
+            "type": 0
+          },
+          {
+            "foldername": "mcmod.info",
+            "fingerprint": 1777568294,
+            "type": 0
+          },
+          {
+            "foldername": "net",
+            "fingerprint": 2010377902,
+            "type": 0
+          }
+        ],
+        "packageFingerprint": 36627731,
+        "gameVersion": [
+          "1.12.2"
+        ],
+        "hasInstallScript": false,
+        "isCompatibleWithClient": false,
+        "categorySectionPackageType": 0,
+        "restrictProjectFileAccess": 0,
+        "projectStatus": 0,
+        "projectId": 0,
+        "gameVersionDateReleased": "2008-03-01T06:00:00Z",
+        "gameId": 0,
+        "isServerPack": false,
+        "FileNameOnDisk": "OreStages-1.12.2-2.0.37.jar"
+      },
+      "dateInstalled": "2020-01-11T16:27:34.3445584Z",
+      "dateUpdated": "2020-01-11T16:27:34.3475455Z",
+      "dateLastUpdateAttempted": "2020-01-11T16:27:34.3475455Z",
+      "status": 4,
+      "preferenceAutoInstallUpdates": false,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null,
+      "installedTargets": []
+    },
+    {
       "addonID": 220954,
       "gameInstanceID": "670196a3-c61a-4c57-aa38-1e50776546fd",
       "installedFile": {
@@ -5253,6 +5575,179 @@
       "installedTargets": null
     },
     {
+      "addonID": 269452,
+      "gameInstanceID": "670196a3-c61a-4c57-aa38-1e50776546fd",
+      "installedFile": {
+        "id": 2557675,
+        "displayName": "WailaStages-1.12.2-2.0.23.jar",
+        "fileName": "WailaStages-1.12.2-2.0.23.jar",
+        "fileDate": "2018-05-02T03:03:26.617Z",
+        "fileLength": 18422,
+        "releaseType": 1,
+        "fileStatus": 4,
+        "downloadUrl": "https://edge.forgecdn.net/files/2557/675/WailaStages-1.12.2-2.0.23.jar",
+        "isAlternate": false,
+        "alternateFileId": 2557676,
+        "dependencies": [
+          {
+            "id": 0,
+            "addonId": 253449,
+            "type": 3,
+            "fileId": 0
+          },
+          {
+            "id": 0,
+            "addonId": 268655,
+            "type": 3,
+            "fileId": 0
+          },
+          {
+            "id": 0,
+            "addonId": 239197,
+            "type": 3,
+            "fileId": 0
+          }
+        ],
+        "isAvailable": true,
+        "modules": [
+          {
+            "foldername": "META-INF",
+            "fingerprint": 2228509612,
+            "type": 0
+          },
+          {
+            "foldername": "LICENSE",
+            "fingerprint": 3634485962,
+            "type": 0
+          },
+          {
+            "foldername": "com",
+            "fingerprint": 816113405,
+            "type": 0
+          },
+          {
+            "foldername": "mcmod.info",
+            "fingerprint": 3704248774,
+            "type": 0
+          }
+        ],
+        "packageFingerprint": 2078917584,
+        "gameVersion": [
+          "1.12.2"
+        ],
+        "hasInstallScript": false,
+        "isCompatibleWithClient": false,
+        "categorySectionPackageType": 0,
+        "restrictProjectFileAccess": 0,
+        "projectStatus": 0,
+        "projectId": 0,
+        "gameVersionDateReleased": "2008-03-01T06:00:00Z",
+        "gameId": 0,
+        "isServerPack": false,
+        "FileNameOnDisk": "WailaStages-1.12.2-2.0.23.jar"
+      },
+      "dateInstalled": "2020-01-11T16:24:33.2822092Z",
+      "dateUpdated": "2020-01-11T16:24:33.284166Z",
+      "dateLastUpdateAttempted": "2020-01-11T16:24:33.284166Z",
+      "status": 4,
+      "preferenceAutoInstallUpdates": false,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null,
+      "installedTargets": []
+    },
+    {
+      "addonID": 284139,
+      "gameInstanceID": "670196a3-c61a-4c57-aa38-1e50776546fd",
+      "installedFile": {
+        "id": 2821069,
+        "displayName": "multiblockstages-1.2.0.jar",
+        "fileName": "multiblockstages-1.2.0.jar",
+        "fileDate": "2019-11-03T00:52:03.957Z",
+        "fileLength": 16601,
+        "releaseType": 1,
+        "fileStatus": 4,
+        "downloadUrl": "https://edge.forgecdn.net/files/2821/69/multiblockstages-1.2.0.jar",
+        "isAlternate": false,
+        "alternateFileId": 0,
+        "dependencies": [
+          {
+            "id": 0,
+            "addonId": 239197,
+            "type": 3,
+            "fileId": 0
+          },
+          {
+            "id": 0,
+            "addonId": 231951,
+            "type": 3,
+            "fileId": 0
+          },
+          {
+            "id": 0,
+            "addonId": 268655,
+            "type": 3,
+            "fileId": 0
+          }
+        ],
+        "isAvailable": true,
+        "modules": [
+          {
+            "foldername": "META-INF",
+            "fingerprint": 4131736794,
+            "type": 0
+          },
+          {
+            "foldername": "com",
+            "fingerprint": 2393940083,
+            "type": 0
+          },
+          {
+            "foldername": "mcmod.info",
+            "fingerprint": 44941095,
+            "type": 0
+          },
+          {
+            "foldername": "logo.png",
+            "fingerprint": 3360789047,
+            "type": 0
+          }
+        ],
+        "packageFingerprint": 2683046958,
+        "gameVersion": [
+          "Forge",
+          "1.12.2"
+        ],
+        "hasInstallScript": false,
+        "isCompatibleWithClient": false,
+        "categorySectionPackageType": 0,
+        "restrictProjectFileAccess": 0,
+        "projectStatus": 0,
+        "projectId": 0,
+        "gameVersionDateReleased": "2008-03-01T06:00:00Z",
+        "gameId": 0,
+        "isServerPack": false,
+        "FileNameOnDisk": "multiblockstages-1.2.0.jar"
+      },
+      "dateInstalled": "2020-01-11T16:26:02.5281992Z",
+      "dateUpdated": "2020-01-11T16:26:02.5301866Z",
+      "dateLastUpdateAttempted": "2020-01-11T16:26:02.5301866Z",
+      "status": 4,
+      "preferenceAutoInstallUpdates": false,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null,
+      "installedTargets": []
+    },
+    {
       "addonID": 227083,
       "gameInstanceID": "670196a3-c61a-4c57-aa38-1e50776546fd",
       "installedFile": {
@@ -5636,6 +6131,92 @@
       "preferenceReleaseType": null,
       "manifestName": null,
       "installedTargets": null
+    },
+    {
+      "addonID": 280554,
+      "gameInstanceID": "670196a3-c61a-4c57-aa38-1e50776546fd",
+      "installedFile": {
+        "id": 2767378,
+        "displayName": "RecipeStages-1.1.3",
+        "fileName": "RecipeStages-1.1.3.jar",
+        "fileDate": "2019-08-22T11:08:46.44Z",
+        "fileLength": 43662,
+        "releaseType": 1,
+        "fileStatus": 4,
+        "downloadUrl": "https://edge.forgecdn.net/files/2767/378/RecipeStages-1.1.3.jar",
+        "isAlternate": false,
+        "alternateFileId": 0,
+        "dependencies": [
+          {
+            "id": 0,
+            "addonId": 239197,
+            "type": 3,
+            "fileId": 0
+          },
+          {
+            "id": 0,
+            "addonId": 268655,
+            "type": 3,
+            "fileId": 0
+          }
+        ],
+        "isAvailable": true,
+        "modules": [
+          {
+            "foldername": "META-INF",
+            "fingerprint": 4125806243,
+            "type": 0
+          },
+          {
+            "foldername": "com",
+            "fingerprint": 212470762,
+            "type": 0
+          },
+          {
+            "foldername": "assets",
+            "fingerprint": 4100133293,
+            "type": 0
+          },
+          {
+            "foldername": "mcmod.info",
+            "fingerprint": 458074352,
+            "type": 0
+          },
+          {
+            "foldername": "recipestages_at.cfg",
+            "fingerprint": 672544080,
+            "type": 0
+          }
+        ],
+        "packageFingerprint": 3275707186,
+        "gameVersion": [
+          "Forge",
+          "1.12.2"
+        ],
+        "hasInstallScript": false,
+        "isCompatibleWithClient": false,
+        "categorySectionPackageType": 0,
+        "restrictProjectFileAccess": 0,
+        "projectStatus": 0,
+        "projectId": 0,
+        "gameVersionDateReleased": "2008-03-01T06:00:00Z",
+        "gameId": 0,
+        "isServerPack": false,
+        "FileNameOnDisk": "RecipeStages-1.1.3.jar"
+      },
+      "dateInstalled": "2020-01-11T16:24:58.4878911Z",
+      "dateUpdated": "2020-01-11T16:24:58.4898877Z",
+      "dateLastUpdateAttempted": "2020-01-11T16:24:58.4898877Z",
+      "status": 4,
+      "preferenceAutoInstallUpdates": false,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null,
+      "installedTargets": []
     },
     {
       "addonID": 228756,
@@ -6610,6 +7191,91 @@
       "preferenceReleaseType": null,
       "manifestName": null,
       "installedTargets": null
+    },
+    {
+      "addonID": 280316,
+      "gameInstanceID": "670196a3-c61a-4c57-aa38-1e50776546fd",
+      "installedFile": {
+        "id": 2696766,
+        "displayName": "ItemStages-1.12.2-2.0.49.jar",
+        "fileName": "ItemStages-1.12.2-2.0.49.jar",
+        "fileDate": "2019-04-08T04:08:19.657Z",
+        "fileLength": 43129,
+        "releaseType": 1,
+        "fileStatus": 4,
+        "downloadUrl": "https://edge.forgecdn.net/files/2696/766/ItemStages-1.12.2-2.0.49.jar",
+        "isAlternate": false,
+        "alternateFileId": 2696767,
+        "dependencies": [
+          {
+            "id": 0,
+            "addonId": 239197,
+            "type": 3,
+            "fileId": 0
+          },
+          {
+            "id": 0,
+            "addonId": 268655,
+            "type": 3,
+            "fileId": 0
+          }
+        ],
+        "isAvailable": true,
+        "modules": [
+          {
+            "foldername": "META-INF",
+            "fingerprint": 2809844725,
+            "type": 0
+          },
+          {
+            "foldername": "LICENSE",
+            "fingerprint": 3634485962,
+            "type": 0
+          },
+          {
+            "foldername": "assets",
+            "fingerprint": 1242466894,
+            "type": 0
+          },
+          {
+            "foldername": "mcmod.info",
+            "fingerprint": 2663281147,
+            "type": 0
+          },
+          {
+            "foldername": "net",
+            "fingerprint": 2096928430,
+            "type": 0
+          }
+        ],
+        "packageFingerprint": 53601876,
+        "gameVersion": [
+          "1.12.2"
+        ],
+        "hasInstallScript": false,
+        "isCompatibleWithClient": false,
+        "categorySectionPackageType": 0,
+        "restrictProjectFileAccess": 0,
+        "projectStatus": 0,
+        "projectId": 0,
+        "gameVersionDateReleased": "2008-03-01T06:00:00Z",
+        "gameId": 0,
+        "isServerPack": false,
+        "FileNameOnDisk": "ItemStages-1.12.2-2.0.49.jar"
+      },
+      "dateInstalled": "2020-01-11T16:25:25.7341324Z",
+      "dateUpdated": "2020-01-11T16:25:25.7381256Z",
+      "dateLastUpdateAttempted": "2020-01-11T16:25:25.7381256Z",
+      "status": 4,
+      "preferenceAutoInstallUpdates": false,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null,
+      "installedTargets": []
     },
     {
       "addonID": 253449,
