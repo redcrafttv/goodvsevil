@@ -29,7 +29,7 @@
   "isUnlocked": true,
   "javaArgsOverride": null,
   "javaDirOverride": null,
-  "lastPlayed": "2020-01-11T16:00:30.2703097Z",
+  "lastPlayed": "2020-01-11T17:12:15.4598089Z",
   "manifest": null,
   "fileDate": "0001-01-01T00:00:00",
   "installedModpack": null,
@@ -45,693 +45,19 @@
   "name": "goodvsevil",
   "cachedScans": [
     {
-      "folderName": "FTBLib-5.4.4.5.jar",
-      "fingerprint": 3921299937,
-      "fileDateHash": 3060209777,
+      "folderName": "OreStages-1.12.2-2.0.37.jar",
+      "fingerprint": 36627731,
+      "fileDateHash": 4241971743,
       "sectionID": 8,
       "individualFingerprints": [
-        3921299937
+        36627731
       ],
       "status": 1,
-      "timestamp": "2020-01-08T19:47:39.5581201Z",
-      "lastWriteTimeUtc": "2020-01-08T18:59:41Z",
-      "queryTimestamp": "2020-01-08T19:47:40.2961124Z",
+      "timestamp": "2020-01-11T17:05:26.0346192Z",
+      "lastWriteTimeUtc": "2020-01-11T16:27:34.3445584Z",
+      "queryTimestamp": "2020-01-11T17:05:27.1297403Z",
       "fileCount": 1,
-      "fileSize": 934358
-    },
-    {
-      "folderName": "Tektopia-Harvestcraft-Compat-1.3.jar",
-      "fingerprint": 593085157,
-      "fileDateHash": 3711750452,
-      "sectionID": 8,
-      "individualFingerprints": [
-        593085157
-      ],
-      "status": 1,
-      "timestamp": "2020-01-09T18:55:01.4485597Z",
-      "lastWriteTimeUtc": "2020-01-09T18:53:56.4105376Z",
-      "queryTimestamp": "2020-01-09T18:55:02.4954862Z",
-      "fileCount": 1,
-      "fileSize": 25405
-    },
-    {
-      "folderName": "FTBUtilities-5.4.0.124.jar",
-      "fingerprint": 1650828278,
-      "fileDateHash": 2487638753,
-      "sectionID": 8,
-      "individualFingerprints": [
-        1650828278
-      ],
-      "status": 1,
-      "timestamp": "2020-01-08T19:47:39.5670632Z",
-      "lastWriteTimeUtc": "2020-01-08T18:59:42Z",
-      "queryTimestamp": "2020-01-08T19:47:40.2961124Z",
-      "fileCount": 1,
-      "fileSize": 424109
-    },
-    {
-      "folderName": "chiselsandbits-14.33.jar",
-      "fingerprint": 3211462819,
-      "fileDateHash": 3727450343,
-      "sectionID": 8,
-      "individualFingerprints": [
-        3211462819
-      ],
-      "status": 1,
-      "timestamp": "2020-01-08T19:47:39.5471492Z",
-      "lastWriteTimeUtc": "2020-01-08T19:05:06.8607716Z",
-      "queryTimestamp": "2020-01-08T19:47:40.2971085Z",
-      "fileCount": 1,
-      "fileSize": 737407
-    },
-    {
-      "folderName": "FTBGuides-2.0.0.52.jar",
-      "fingerprint": 2232798769,
-      "fileDateHash": 2792466283,
-      "sectionID": 8,
-      "individualFingerprints": [
-        2232798769
-      ],
-      "status": 1,
-      "timestamp": "2020-01-08T19:47:39.5550947Z",
-      "lastWriteTimeUtc": "2020-01-08T19:02:49Z",
-      "queryTimestamp": "2020-01-08T19:47:40.2971085Z",
-      "fileCount": 1,
-      "fileSize": 272574
-    },
-    {
-      "folderName": "jei_1.12.2-4.15.0.291.jar",
-      "fingerprint": 3391578337,
-      "fileDateHash": 4293409185,
-      "sectionID": 8,
-      "individualFingerprints": [
-        3391578337
-      ],
-      "status": 1,
-      "timestamp": "2020-01-08T19:47:39.5850139Z",
-      "lastWriteTimeUtc": "2020-01-08T18:57:35.8174952Z",
-      "queryTimestamp": "2020-01-08T19:47:40.2971085Z",
-      "fileCount": 1,
-      "fileSize": 651473
-    },
-    {
-      "folderName": "TheBetweenlands-3.5.5-universal.jar",
-      "fingerprint": 2945727436,
-      "fileDateHash": 1936516543,
-      "sectionID": 8,
-      "individualFingerprints": [
-        2945727436
-      ],
-      "status": 1,
-      "timestamp": "2020-01-09T18:55:01.4565391Z",
-      "lastWriteTimeUtc": "2020-01-09T18:49:27.8524199Z",
-      "queryTimestamp": "2020-01-09T18:55:02.4964832Z",
-      "fileCount": 1,
-      "fileSize": 89378206
-    },
-    {
-      "folderName": "Vampirism-1.12.2-1.5.7.jar",
-      "fingerprint": 1331390753,
-      "fileDateHash": 1660463307,
-      "sectionID": 8,
-      "individualFingerprints": [
-        1331390753
-      ],
-      "status": 1,
-      "timestamp": "2020-01-09T18:55:01.9687189Z",
-      "lastWriteTimeUtc": "2020-01-09T18:46:36.2525671Z",
-      "queryTimestamp": "2020-01-09T18:55:02.4964832Z",
-      "fileCount": 1,
-      "fileSize": 8319311
-    },
-    {
-      "folderName": "BloodArsenal-1.12.2-2.2.1-29.jar",
-      "fingerprint": 1207293857,
-      "fileDateHash": 1600434558,
-      "sectionID": 8,
-      "individualFingerprints": [
-        1207293857
-      ],
-      "status": 1,
-      "timestamp": "2020-01-09T18:55:01.0588413Z",
-      "lastWriteTimeUtc": "2020-01-09T18:39:27.7176212Z",
-      "queryTimestamp": "2020-01-09T18:55:02.4964832Z",
-      "fileCount": 1,
-      "fileSize": 665308
-    },
-    {
-      "folderName": "CTM-MC1.12.2-1.0.1.30.jar",
-      "fingerprint": 151427549,
-      "fileDateHash": 804255464,
-      "sectionID": 8,
-      "individualFingerprints": [
-        151427549
-      ],
-      "status": 1,
-      "timestamp": "2020-01-08T19:47:39.5531001Z",
-      "lastWriteTimeUtc": "2020-01-08T19:05:03.6165345Z",
-      "queryTimestamp": "2020-01-08T19:47:40.2971085Z",
-      "fileCount": 1,
-      "fileSize": 199047
-    },
-    {
-      "folderName": "iceandfire-1.8.3.jar",
-      "fingerprint": 3044910845,
-      "fileDateHash": 1837208184,
-      "sectionID": 8,
-      "individualFingerprints": [
-        3044910845
-      ],
-      "status": 1,
-      "timestamp": "2020-01-09T18:55:01.2109347Z",
-      "lastWriteTimeUtc": "2020-01-09T18:49:46.2051612Z",
-      "queryTimestamp": "2020-01-09T18:55:02.4974805Z",
-      "fileCount": 1,
-      "fileSize": 19002941
-    },
-    {
-      "folderName": "SereneSeasons-1.12.2-1.2.18-universal.jar",
-      "fingerprint": 122247611,
-      "fileDateHash": 3231342335,
-      "sectionID": 8,
-      "individualFingerprints": [
-        122247611
-      ],
-      "status": 1,
-      "timestamp": "2020-01-09T18:55:01.3565287Z",
-      "lastWriteTimeUtc": "2020-01-09T18:33:12.9797611Z",
-      "queryTimestamp": "2020-01-09T18:55:02.4974805Z",
-      "fileCount": 1,
-      "fileSize": 185187
-    },
-    {
-      "folderName": "Guide-API-1.12-2.1.8-63.jar",
-      "fingerprint": 1899009469,
-      "fileDateHash": 2358509991,
-      "sectionID": 8,
-      "individualFingerprints": [
-        1899009469
-      ],
-      "status": 1,
-      "timestamp": "2020-01-09T18:55:01.209938Z",
-      "lastWriteTimeUtc": "2020-01-09T18:37:35.3093059Z",
-      "queryTimestamp": "2020-01-09T18:55:02.4974805Z",
-      "fileCount": 1,
-      "fileSize": 169528
-    },
-    {
-      "folderName": "Morpheus-1.12.2-3.5.106.jar",
-      "fingerprint": 783395017,
-      "fileDateHash": 1276171310,
-      "sectionID": 8,
-      "individualFingerprints": [
-        783395017
-      ],
-      "status": 1,
-      "timestamp": "2020-01-08T19:47:39.5910248Z",
-      "lastWriteTimeUtc": "2020-01-08T19:08:38.2429296Z",
-      "queryTimestamp": "2020-01-08T19:47:40.2951168Z",
-      "fileCount": 1,
-      "fileSize": 21508
-    },
-    {
-      "folderName": "BloodMagic-1.12.2-2.4.3-105.jar",
-      "fingerprint": 4036556600,
-      "fileDateHash": 3290184112,
-      "sectionID": 8,
-      "individualFingerprints": [
-        4036556600
-      ],
-      "status": 1,
-      "timestamp": "2020-01-09T18:55:01.0628234Z",
-      "lastWriteTimeUtc": "2020-01-09T18:37:41.9880983Z",
-      "queryTimestamp": "2020-01-09T18:55:02.4974805Z",
-      "fileCount": 1,
-      "fileSize": 7208594
-    },
-    {
-      "folderName": "Erebus-1.0.31.jar",
-      "fingerprint": 3104077458,
-      "fileDateHash": 48167040,
-      "sectionID": 8,
-      "individualFingerprints": [
-        3104077458
-      ],
-      "status": 1,
-      "timestamp": "2020-01-09T18:55:01.1281704Z",
-      "lastWriteTimeUtc": "2020-01-09T18:47:57.2618224Z",
-      "queryTimestamp": "2020-01-09T18:55:02.4974805Z",
-      "fileCount": 1,
-      "fileSize": 12363576
-    },
-    {
-      "folderName": "tektopia-1.1.0.jar",
-      "fingerprint": 2141021463,
-      "fileDateHash": 736775135,
-      "sectionID": 8,
-      "individualFingerprints": [
-        2141021463
-      ],
-      "status": 1,
-      "timestamp": "2020-01-09T18:55:01.3735222Z",
-      "lastWriteTimeUtc": "2020-01-09T18:53:14.8832056Z",
-      "queryTimestamp": "2020-01-09T18:55:02.4974805Z",
-      "fileCount": 1,
-      "fileSize": 13648391
-    },
-    {
-      "folderName": "SpartanShields-1.12.2-1.5.4.jar",
-      "fingerprint": 681427294,
-      "fileDateHash": 94072541,
-      "sectionID": 8,
-      "individualFingerprints": [
-        681427294
-      ],
-      "status": 1,
-      "timestamp": "2020-01-09T18:55:01.3635112Z",
-      "lastWriteTimeUtc": "2020-01-09T18:52:20.7882112Z",
-      "queryTimestamp": "2020-01-09T18:55:02.4984776Z",
-      "fileCount": 1,
-      "fileSize": 430944
-    },
-    {
-      "folderName": "SpartanWeaponryArcana-1.12.2-beta-1.0.3.jar",
-      "fingerprint": 827465518,
-      "fileDateHash": 2181035611,
-      "sectionID": 8,
-      "individualFingerprints": [
-        827465518
-      ],
-      "status": 1,
-      "timestamp": "2020-01-09T18:55:01.3705642Z",
-      "lastWriteTimeUtc": "2020-01-09T18:52:22.2208428Z",
-      "queryTimestamp": "2020-01-09T18:55:02.4984776Z",
-      "fileCount": 1,
-      "fileSize": 373710
-    },
-    {
-      "folderName": "letsencryptcraft-1.10.2-1.2.0.jar",
-      "fingerprint": 758535815,
-      "fileDateHash": 832571871,
-      "sectionID": 8,
-      "individualFingerprints": [
-        758535815
-      ],
-      "status": 1,
-      "timestamp": "2020-01-08T19:47:39.5900009Z",
-      "lastWriteTimeUtc": "2020-01-08T19:02:48Z",
-      "queryTimestamp": "2020-01-08T19:47:40.2961124Z",
-      "fileCount": 1,
-      "fileSize": 7091
-    },
-    {
-      "folderName": "antiqueatlas-1.12.2-4.6.3.jar",
-      "fingerprint": 3949702391,
-      "fileDateHash": 4029870203,
-      "sectionID": 8,
-      "individualFingerprints": [
-        3949702391
-      ],
-      "status": 1,
-      "timestamp": "2020-01-08T19:47:39.5072227Z",
-      "lastWriteTimeUtc": "2020-01-08T18:58:18.4203276Z",
-      "queryTimestamp": "2020-01-08T19:47:40.2961124Z",
-      "fileCount": 1,
-      "fileSize": 1239580
-    },
-    {
-      "folderName": "dragonsattacktektopians-1.12.2-1.0.jar",
-      "fingerprint": 3904682880,
-      "fileDateHash": 2111851305,
-      "sectionID": 8,
-      "individualFingerprints": [
-        3904682880
-      ],
-      "status": 1,
-      "timestamp": "2020-01-09T18:55:01.1281704Z",
-      "lastWriteTimeUtc": "2020-01-09T18:53:18.8596881Z",
-      "queryTimestamp": "2020-01-09T18:55:02.4984776Z",
-      "fileCount": 1,
-      "fileSize": 4123
-    },
-    {
-      "folderName": "Ore Tweaker-1.0.2-1.12.0.jar",
-      "fingerprint": 3022013007,
-      "fileDateHash": 1583894882,
-      "sectionID": 8,
-      "individualFingerprints": [
-        3022013007
-      ],
-      "status": 1,
-      "timestamp": "2020-01-09T18:55:01.3296004Z",
-      "lastWriteTimeUtc": "2020-01-09T18:31:40.8145645Z",
-      "queryTimestamp": "2020-01-09T18:55:02.4984776Z",
-      "fileCount": 1,
-      "fileSize": 12684
-    },
-    {
-      "folderName": "spartanfire-0.07.jar",
-      "fingerprint": 4050557992,
-      "fileDateHash": 932381674,
-      "sectionID": 8,
-      "individualFingerprints": [
-        4050557992
-      ],
-      "status": 1,
-      "timestamp": "2020-01-09T18:55:01.3585251Z",
-      "lastWriteTimeUtc": "2020-01-09T18:50:08.4253195Z",
-      "queryTimestamp": "2020-01-09T18:55:02.4984776Z",
-      "fileCount": 1,
-      "fileSize": 708329
-    },
-    {
-      "folderName": "InventoryTweaks-1.63.jar",
-      "fingerprint": 4009982705,
-      "fileDateHash": 3882072194,
-      "sectionID": 8,
-      "individualFingerprints": [
-        4009982705
-      ],
-      "status": 1,
-      "timestamp": "2020-01-08T19:47:39.5710522Z",
-      "lastWriteTimeUtc": "2020-01-08T19:05:22.5801005Z",
-      "queryTimestamp": "2020-01-08T19:47:40.2961124Z",
-      "fileCount": 1,
-      "fileSize": 263258
-    },
-    {
-      "folderName": "Controlling-3.0.7.jar",
-      "fingerprint": 2962360278,
-      "fileDateHash": 3000387083,
-      "sectionID": 8,
-      "individualFingerprints": [
-        2962360278
-      ],
-      "status": 1,
-      "timestamp": "2020-01-08T19:47:39.5531001Z",
-      "lastWriteTimeUtc": "2020-01-08T19:07:48.6856706Z",
-      "queryTimestamp": "2020-01-08T19:47:40.2961124Z",
-      "fileCount": 1,
-      "fileSize": 27162
-    },
-    {
-      "folderName": "ironchest-1.12.2-7.0.72.847.jar",
-      "fingerprint": 3272096001,
-      "fileDateHash": 2481275459,
-      "sectionID": 8,
-      "individualFingerprints": [
-        3272096001
-      ],
-      "status": 1,
-      "timestamp": "2020-01-08T19:47:39.5730478Z",
-      "lastWriteTimeUtc": "2020-01-08T19:07:55.1920778Z",
-      "queryTimestamp": "2020-01-08T19:47:40.2961124Z",
-      "fileCount": 1,
-      "fileSize": 956692
-    },
-    {
-      "folderName": "Animus-1.12-2.1.6.jar",
-      "fingerprint": 3169195530,
-      "fileDateHash": 712723550,
-      "sectionID": 8,
-      "individualFingerprints": [
-        3169195530
-      ],
-      "status": 1,
-      "timestamp": "2020-01-09T18:55:01.05436Z",
-      "lastWriteTimeUtc": "2020-01-09T18:41:01.926211Z",
-      "queryTimestamp": "2020-01-09T18:55:02.4994749Z",
-      "fileCount": 1,
-      "fileSize": 349854
-    },
-    {
-      "folderName": "SpartanWeaponry-1.12.2-beta-1.3.8.jar",
-      "fingerprint": 15740874,
-      "fileDateHash": 3311078652,
-      "sectionID": 8,
-      "individualFingerprints": [
-        15740874
-      ],
-      "status": 1,
-      "timestamp": "2020-01-09T18:55:01.3655276Z",
-      "lastWriteTimeUtc": "2020-01-09T18:49:47.8642961Z",
-      "queryTimestamp": "2020-01-09T18:55:02.4994749Z",
-      "fileCount": 1,
-      "fileSize": 937558
-    },
-    {
-      "folderName": "OptiFine_1.12.2_HD_U_F5.jar",
-      "fingerprint": 3290870215,
-      "fileDateHash": 1829897253,
-      "sectionID": 8,
-      "individualFingerprints": [
-        3290870215
-      ],
-      "status": 1,
-      "timestamp": "2020-01-09T19:09:58.2038851Z",
-      "lastWriteTimeUtc": "2020-01-09T19:09:57.6893601Z",
-      "queryTimestamp": "2020-01-09T19:09:58.8587505Z",
-      "fileCount": 1,
-      "fileSize": 2598821
-    },
-    {
-      "folderName": "MineTweakerRecipeMaker-1.12.2-1.2.2.30.jar",
-      "fingerprint": 2660857366,
-      "fileDateHash": 1181430160,
-      "sectionID": 8,
-      "individualFingerprints": [
-        2660857366
-      ],
-      "status": 1,
-      "timestamp": "2020-01-09T18:55:01.3266087Z",
-      "lastWriteTimeUtc": "2020-01-09T18:34:31.5910194Z",
-      "queryTimestamp": "2020-01-09T18:55:02.4994749Z",
-      "fileCount": 1,
-      "fileSize": 33240
-    },
-    {
-      "folderName": "AbyssalCraft Integration-1.12.2-1.9.0.jar",
-      "fingerprint": 3296158119,
-      "fileDateHash": 3209626256,
-      "sectionID": 8,
-      "individualFingerprints": [
-        3296158119
-      ],
-      "status": 1,
-      "timestamp": "2020-01-09T18:55:00.9679005Z",
-      "lastWriteTimeUtc": "2020-01-09T18:44:38.7840474Z",
-      "queryTimestamp": "2020-01-09T18:55:02.4994749Z",
-      "fileCount": 1,
-      "fileSize": 464673
-    },
-    {
-      "folderName": "BlockTweaker-1.1.0.jar",
-      "fingerprint": 739570077,
-      "fileDateHash": 1136136209,
-      "sectionID": 8,
-      "individualFingerprints": [
-        739570077
-      ],
-      "status": 1,
-      "timestamp": "2020-01-09T18:55:01.0588413Z",
-      "lastWriteTimeUtc": "2020-01-09T18:32:14.1308389Z",
-      "queryTimestamp": "2020-01-09T18:55:02.5004723Z",
-      "fileCount": 1,
-      "fileSize": 31254
-    },
-    {
-      "folderName": "New World",
-      "fingerprint": 1819041792,
-      "fileDateHash": 1319900017,
-      "sectionID": 10,
-      "individualFingerprints": [
-        16873012,
-        489458212,
-        489458212,
-        489458212,
-        489458212,
-        489458212,
-        489458212,
-        489458212,
-        489458212,
-        638875458,
-        745898794,
-        758054953,
-        758054953,
-        758054953,
-        758054953,
-        758054953,
-        758054953,
-        758054953,
-        758054953,
-        758054953,
-        844188728,
-        1016887519,
-        1103694097,
-        1177701522,
-        1187306177,
-        1187498422,
-        1233918909,
-        1300519152,
-        1395786969,
-        1614557524,
-        1789340702,
-        2033220201,
-        2088082196,
-        2088082196,
-        2088082196,
-        2088082196,
-        2088082196,
-        2088082196,
-        2088082196,
-        2088082196,
-        2316814055,
-        2518698173,
-        2518698173,
-        2518698173,
-        2518698173,
-        2518698173,
-        2518698173,
-        2518698173,
-        2518698173,
-        2763463119,
-        2799112816,
-        2928841135,
-        3041235973,
-        3145697078,
-        3208295511,
-        3386878352,
-        3453123686,
-        4228808913,
-        4267120505,
-        4272588933
-      ],
-      "status": 1,
-      "timestamp": "2020-01-09T19:09:58.2188115Z",
-      "lastWriteTimeUtc": "2020-01-09T19:09:21.6231832Z",
-      "queryTimestamp": "2020-01-09T19:09:58.8587505Z",
-      "fileCount": 18,
-      "fileSize": 0
-    },
-    {
-      "folderName": "modtweaker-4.0.17.jar",
-      "fingerprint": 2501908090,
-      "fileDateHash": 362035012,
-      "sectionID": 8,
-      "individualFingerprints": [
-        2501908090
-      ],
-      "status": 1,
-      "timestamp": "2020-01-09T18:55:01.3266087Z",
-      "lastWriteTimeUtc": "2020-01-09T18:34:21.2636449Z",
-      "queryTimestamp": "2020-01-09T18:55:02.5004723Z",
-      "fileCount": 1,
-      "fileSize": 447874
-    },
-    {
-      "folderName": "CyclopsCore-1.12.2-1.6.0.jar",
-      "fingerprint": 677188026,
-      "fileDateHash": 4137896768,
-      "sectionID": 8,
-      "individualFingerprints": [
-        677188026
-      ],
-      "status": 1,
-      "timestamp": "2020-01-09T18:55:01.1211886Z",
-      "lastWriteTimeUtc": "2020-01-09T18:45:04.3040808Z",
-      "queryTimestamp": "2020-01-09T18:55:02.5004723Z",
-      "fileCount": 1,
-      "fileSize": 1060822
-    },
-    {
-      "folderName": "Chisel-MC1.12.2-1.0.1.44.jar",
-      "fingerprint": 4061449822,
-      "fileDateHash": 280962538,
-      "sectionID": 8,
-      "individualFingerprints": [
-        4061449822
-      ],
-      "status": 1,
-      "timestamp": "2020-01-08T19:47:39.5181939Z",
-      "lastWriteTimeUtc": "2020-01-08T19:05:05.499902Z",
-      "queryTimestamp": "2020-01-08T19:47:40.2971085Z",
-      "fileCount": 1,
-      "fileSize": 4754821
-    },
-    {
-      "folderName": "EvilCraft-1.12.2-0.10.78.jar",
-      "fingerprint": 3670568557,
-      "fileDateHash": 2294855575,
-      "sectionID": 8,
-      "individualFingerprints": [
-        3670568557
-      ],
-      "status": 1,
-      "timestamp": "2020-01-09T18:55:01.1939933Z",
-      "lastWriteTimeUtc": "2020-01-09T18:45:06.8747194Z",
-      "queryTimestamp": "2020-01-09T18:55:02.5004723Z",
-      "fileCount": 1,
-      "fileSize": 2957006
-    },
-    {
-      "folderName": "Bloodmoon-MC1.12.2-1.5.3.jar",
-      "fingerprint": 2259388848,
-      "fileDateHash": 1935438471,
-      "sectionID": 8,
-      "individualFingerprints": [
-        2259388848
-      ],
-      "status": 1,
-      "timestamp": "2020-01-09T18:55:01.1102192Z",
-      "lastWriteTimeUtc": "2020-01-09T18:54:31.9120136Z",
-      "queryTimestamp": "2020-01-09T18:55:02.5004723Z",
-      "fileCount": 1,
-      "fileSize": 47505
-    },
-    {
-      "folderName": "TektopiaInformation-1.12.2-1.1.0-1.4.0.jar",
-      "fingerprint": 1079814017,
-      "fileDateHash": 3275382148,
-      "sectionID": 8,
-      "individualFingerprints": [
-        1079814017
-      ],
-      "status": 1,
-      "timestamp": "2020-01-09T18:55:01.4485597Z",
-      "lastWriteTimeUtc": "2020-01-09T18:53:17.5400351Z",
-      "queryTimestamp": "2020-01-09T18:55:02.5014954Z",
-      "fileCount": 1,
-      "fileSize": 1122936
-    },
-    {
-      "folderName": "Baubles-1.12-1.5.2.jar",
-      "fingerprint": 4247051032,
-      "fileDateHash": 3889221927,
-      "sectionID": 8,
-      "individualFingerprints": [
-        4247051032
-      ],
-      "status": 1,
-      "timestamp": "2020-01-09T18:55:01.0578031Z",
-      "lastWriteTimeUtc": "2020-01-09T18:39:26.7397004Z",
-      "queryTimestamp": "2020-01-09T18:55:02.5014954Z",
-      "fileCount": 1,
-      "fileSize": 108450
-    },
-    {
-      "folderName": "CraftTweaker2-1.12-4.1.20.jar",
-      "fingerprint": 4244191030,
-      "fileDateHash": 3774560042,
-      "sectionID": 8,
-      "individualFingerprints": [
-        4244191030
-      ],
-      "status": 1,
-      "timestamp": "2020-01-09T18:55:01.1111814Z",
-      "lastWriteTimeUtc": "2020-01-09T18:34:06.6206269Z",
-      "queryTimestamp": "2020-01-09T18:55:02.5014954Z",
-      "fileCount": 1,
-      "fileSize": 1363036
+      "fileSize": 31806
     },
     {
       "folderName": "AbyssalCraft-1.12.2-1.9.15.jar",
@@ -744,9 +70,84 @@
       "status": 1,
       "timestamp": "2020-01-09T18:55:00.9728873Z",
       "lastWriteTimeUtc": "2020-01-09T18:43:56.8641493Z",
-      "queryTimestamp": "2020-01-09T18:55:02.5014954Z",
+      "queryTimestamp": "2020-01-11T17:05:27.1297403Z",
       "fileCount": 1,
       "fileSize": 13899068
+    },
+    {
+      "folderName": "Hwyla-1.8.26-B41_1.12.2.jar",
+      "fingerprint": 637705220,
+      "fileDateHash": 3261525109,
+      "sectionID": 8,
+      "individualFingerprints": [
+        637705220
+      ],
+      "status": 1,
+      "timestamp": "2020-01-11T17:05:25.9628119Z",
+      "lastWriteTimeUtc": "2020-01-10T16:22:46.8246802Z",
+      "queryTimestamp": "2020-01-11T17:05:27.1297403Z",
+      "fileCount": 1,
+      "fileSize": 453778
+    },
+    {
+      "folderName": "FTBGuides-2.0.0.52.jar",
+      "fingerprint": 2232798769,
+      "fileDateHash": 2792466283,
+      "sectionID": 8,
+      "individualFingerprints": [
+        2232798769
+      ],
+      "status": 1,
+      "timestamp": "2020-01-08T19:47:39.5550947Z",
+      "lastWriteTimeUtc": "2020-01-08T19:02:49Z",
+      "queryTimestamp": "2020-01-11T17:05:27.1297403Z",
+      "fileCount": 1,
+      "fileSize": 272574
+    },
+    {
+      "folderName": "Totemic-1.12.2-0.11.6.jar",
+      "fingerprint": 354033785,
+      "fileDateHash": 2656057103,
+      "sectionID": 8,
+      "individualFingerprints": [
+        354033785
+      ],
+      "status": 1,
+      "timestamp": "2020-01-11T17:05:26.0545658Z",
+      "lastWriteTimeUtc": "2020-01-09T19:27:03.4993602Z",
+      "queryTimestamp": "2020-01-11T17:05:27.1297403Z",
+      "fileCount": 1,
+      "fileSize": 1112095
+    },
+    {
+      "folderName": "SeedsForWizardry 1.0 For MC Forge 1.12.2.jar",
+      "fingerprint": 143495703,
+      "fileDateHash": 1634628708,
+      "sectionID": 8,
+      "individualFingerprints": [
+        143495703
+      ],
+      "status": 1,
+      "timestamp": "2020-01-11T17:05:26.0545658Z",
+      "lastWriteTimeUtc": "2020-01-09T19:22:29.0585132Z",
+      "queryTimestamp": "2020-01-11T17:05:27.1307376Z",
+      "fileCount": 1,
+      "fileSize": 25313
+    },
+    {
+      "folderName": "LootTableTweaker-1.12.2-1.1.14.jar",
+      "fingerprint": 2368967896,
+      "fileDateHash": 1464422794,
+      "sectionID": 8,
+      "individualFingerprints": [
+        2368967896
+      ],
+      "status": 1,
+      "timestamp": "2020-01-11T17:05:26.0096857Z",
+      "lastWriteTimeUtc": "2020-01-11T16:34:55.5622448Z",
+      "queryTimestamp": "2020-01-11T17:05:27.1307376Z",
+      "fileCount": 1,
+      "fileSize": 25043
     },
     {
       "folderName": "Pam's HarvestCraft 1.12.2zf.jar",
@@ -759,39 +160,69 @@
       "status": 1,
       "timestamp": "2020-01-09T18:55:01.3296004Z",
       "lastWriteTimeUtc": "2020-01-09T18:53:55.8019586Z",
-      "queryTimestamp": "2020-01-09T18:55:02.5014954Z",
+      "queryTimestamp": "2020-01-11T17:05:27.1307376Z",
       "fileCount": 1,
       "fileSize": 4907780
     },
     {
-      "folderName": "MTLib-3.0.6.jar",
-      "fingerprint": 396445966,
-      "fileDateHash": 1632134561,
+      "folderName": "chiselsandbits-14.33.jar",
+      "fingerprint": 3211462819,
+      "fileDateHash": 3727450343,
       "sectionID": 8,
       "individualFingerprints": [
-        396445966
+        3211462819
       ],
       "status": 1,
-      "timestamp": "2020-01-09T18:55:01.3296004Z",
-      "lastWriteTimeUtc": "2020-01-09T18:34:20.645524Z",
-      "queryTimestamp": "2020-01-09T18:55:02.5014954Z",
+      "timestamp": "2020-01-08T19:47:39.5471492Z",
+      "lastWriteTimeUtc": "2020-01-08T19:05:06.8607716Z",
+      "queryTimestamp": "2020-01-11T17:05:27.1307376Z",
       "fileCount": 1,
-      "fileSize": 30002
+      "fileSize": 737407
     },
     {
-      "folderName": "FTBBackups-1.1.0.1.jar",
-      "fingerprint": 752442057,
-      "fileDateHash": 2487638753,
+      "folderName": "multiblockstages-1.2.0.jar",
+      "fingerprint": 2683046958,
+      "fileDateHash": 265613835,
       "sectionID": 8,
       "individualFingerprints": [
-        752442057
+        2683046958
       ],
       "status": 1,
-      "timestamp": "2020-01-08T19:47:39.5550947Z",
-      "lastWriteTimeUtc": "2020-01-08T18:59:42Z",
-      "queryTimestamp": "2020-01-08T19:47:40.2971085Z",
+      "timestamp": "2020-01-11T17:05:26.0096857Z",
+      "lastWriteTimeUtc": "2020-01-11T16:26:02.5281992Z",
+      "queryTimestamp": "2020-01-11T17:05:27.1307376Z",
       "fileCount": 1,
-      "fileSize": 43764
+      "fileSize": 16601
+    },
+    {
+      "folderName": "BattleTowers-1.12.2.jar",
+      "fingerprint": 1751242918,
+      "fileDateHash": 3118905042,
+      "sectionID": 8,
+      "individualFingerprints": [
+        1751242918
+      ],
+      "status": 1,
+      "timestamp": "2020-01-11T17:05:25.7653395Z",
+      "lastWriteTimeUtc": "2020-01-11T16:37:57.3660607Z",
+      "queryTimestamp": "2020-01-11T17:05:27.1307376Z",
+      "fileCount": 1,
+      "fileSize": 886037
+    },
+    {
+      "folderName": "aether_continuation-1.12.2-v1.2.3.jar",
+      "fingerprint": 2263930213,
+      "fileDateHash": 3666474203,
+      "sectionID": 8,
+      "individualFingerprints": [
+        2263930213
+      ],
+      "status": 1,
+      "timestamp": "2020-01-11T17:05:25.4930681Z",
+      "lastWriteTimeUtc": "2020-01-09T19:31:18.2781162Z",
+      "queryTimestamp": "2020-01-11T17:05:27.1317349Z",
+      "fileCount": 1,
+      "fileSize": 248923
     },
     {
       "folderName": "llibrary-1.7.19-1.12.2.jar",
@@ -804,13 +235,1196 @@
       "status": 1,
       "timestamp": "2020-01-09T18:55:01.3206249Z",
       "lastWriteTimeUtc": "2020-01-09T18:49:30.8703045Z",
-      "queryTimestamp": "2020-01-09T18:55:02.5024918Z",
+      "queryTimestamp": "2020-01-11T17:05:27.1317349Z",
       "fileCount": 1,
       "fileSize": 884837
+    },
+    {
+      "folderName": "Guidebook-1.12.2-2.9.2.jar",
+      "fingerprint": 3174633892,
+      "fileDateHash": 3466858118,
+      "sectionID": 8,
+      "individualFingerprints": [
+        3174633892
+      ],
+      "status": 1,
+      "timestamp": "2020-01-11T17:05:25.9588223Z",
+      "lastWriteTimeUtc": "2020-01-11T16:16:05.0651249Z",
+      "queryTimestamp": "2020-01-11T17:05:27.1317349Z",
+      "fileCount": 1,
+      "fileSize": 248725
+    },
+    {
+      "folderName": "ImmersiveEngineering-0.12-92.jar",
+      "fingerprint": 1384009829,
+      "fileDateHash": 3423021821,
+      "sectionID": 8,
+      "individualFingerprints": [
+        1384009829
+      ],
+      "status": 1,
+      "timestamp": "2020-01-11T17:05:25.9668041Z",
+      "lastWriteTimeUtc": "2020-01-11T16:26:02.1885453Z",
+      "queryTimestamp": "2020-01-11T17:05:27.1317349Z",
+      "fileCount": 1,
+      "fileSize": 6802153
+    },
+    {
+      "folderName": "mysticallib-1.12.2-1.4.0.jar",
+      "fingerprint": 776734229,
+      "fileDateHash": 2545287218,
+      "sectionID": 8,
+      "individualFingerprints": [
+        776734229
+      ],
+      "status": 1,
+      "timestamp": "2020-01-11T17:05:26.0116812Z",
+      "lastWriteTimeUtc": "2020-01-09T19:26:23.6541115Z",
+      "queryTimestamp": "2020-01-11T17:05:27.1317349Z",
+      "fileCount": 1,
+      "fileSize": 355287
+    },
+    {
+      "folderName": "HardcoreDarkness-MC1.12.2-2.0.jar",
+      "fingerprint": 1381892724,
+      "fileDateHash": 2444661392,
+      "sectionID": 8,
+      "individualFingerprints": [
+        1381892724
+      ],
+      "status": 1,
+      "timestamp": "2020-01-11T17:05:25.9618144Z",
+      "lastWriteTimeUtc": "2020-01-11T15:54:38.3057034Z",
+      "queryTimestamp": "2020-01-11T17:05:27.1327322Z",
+      "fileCount": 1,
+      "fileSize": 32327
+    },
+    {
+      "folderName": "BiomeSpecificDungeons-1.12.2-1.0.3.jar",
+      "fingerprint": 3408394990,
+      "fileDateHash": 2888890792,
+      "sectionID": 8,
+      "individualFingerprints": [
+        3408394990
+      ],
+      "status": 1,
+      "timestamp": "2020-01-11T17:05:25.7703291Z",
+      "lastWriteTimeUtc": "2020-01-11T16:45:18.503014Z",
+      "queryTimestamp": "2020-01-11T17:05:27.1327322Z",
+      "fileCount": 1,
+      "fileSize": 38171
+    },
+    {
+      "folderName": "Blocklings 6.0.1_b - 1.12.2.jar",
+      "fingerprint": 3111816899,
+      "fileDateHash": 2359015996,
+      "sectionID": 8,
+      "individualFingerprints": [
+        3111816899
+      ],
+      "status": 1,
+      "timestamp": "2020-01-11T17:05:25.7703291Z",
+      "lastWriteTimeUtc": "2020-01-11T15:58:17.7776048Z",
+      "queryTimestamp": "2020-01-11T17:05:27.1327322Z",
+      "fileCount": 1,
+      "fileSize": 560834
+    },
+    {
+      "folderName": "RoguelikeDungeons-1.12.2-1.8.0.jar",
+      "fingerprint": 4054234996,
+      "fileDateHash": 749420901,
+      "sectionID": 8,
+      "individualFingerprints": [
+        4054234996
+      ],
+      "status": 1,
+      "timestamp": "2020-01-11T17:05:26.0386084Z",
+      "lastWriteTimeUtc": "2020-01-11T16:38:51.3866395Z",
+      "queryTimestamp": "2020-01-11T17:05:27.1327322Z",
+      "fileCount": 1,
+      "fileSize": 701215
+    },
+    {
+      "folderName": "DoomlikeDungeons-1.12.10-MC1.12.2.jar",
+      "fingerprint": 786836887,
+      "fileDateHash": 143576780,
+      "sectionID": 8,
+      "individualFingerprints": [
+        786836887
+      ],
+      "status": 1,
+      "timestamp": "2020-01-11T17:05:25.8920024Z",
+      "lastWriteTimeUtc": "2020-01-11T16:38:54.6380346Z",
+      "queryTimestamp": "2020-01-11T17:05:27.1327322Z",
+      "fileCount": 1,
+      "fileSize": 691858
+    },
+    {
+      "folderName": "Controlling-3.0.7.jar",
+      "fingerprint": 2962360278,
+      "fileDateHash": 3000387083,
+      "sectionID": 8,
+      "individualFingerprints": [
+        2962360278
+      ],
+      "status": 1,
+      "timestamp": "2020-01-08T19:47:39.5531001Z",
+      "lastWriteTimeUtc": "2020-01-08T19:07:48.6856706Z",
+      "queryTimestamp": "2020-01-11T17:05:27.1327322Z",
+      "fileCount": 1,
+      "fileSize": 27162
+    },
+    {
+      "folderName": "ExtraSpells-1.12.2-1.1.4.jar",
+      "fingerprint": 3136320538,
+      "fileDateHash": 3996955719,
+      "sectionID": 8,
+      "individualFingerprints": [
+        3136320538
+      ],
+      "status": 1,
+      "timestamp": "2020-01-11T17:05:25.9578255Z",
+      "lastWriteTimeUtc": "2020-01-09T19:22:26.3991269Z",
+      "queryTimestamp": "2020-01-11T17:05:27.1337295Z",
+      "fileCount": 1,
+      "fileSize": 95054
+    },
+    {
+      "folderName": "TheBetweenlands-3.5.5-universal.jar",
+      "fingerprint": 2945727436,
+      "fileDateHash": 1936516543,
+      "sectionID": 8,
+      "individualFingerprints": [
+        2945727436
+      ],
+      "status": 1,
+      "timestamp": "2020-01-09T18:55:01.4565391Z",
+      "lastWriteTimeUtc": "2020-01-09T18:49:27.8524199Z",
+      "queryTimestamp": "2020-01-11T17:05:27.1337295Z",
+      "fileCount": 1,
+      "fileSize": 89378206
+    },
+    {
+      "folderName": "Chisel-MC1.12.2-1.0.1.44.jar",
+      "fingerprint": 4061449822,
+      "fileDateHash": 280962538,
+      "sectionID": 8,
+      "individualFingerprints": [
+        4061449822
+      ],
+      "status": 1,
+      "timestamp": "2020-01-08T19:47:39.5181939Z",
+      "lastWriteTimeUtc": "2020-01-08T19:05:05.499902Z",
+      "queryTimestamp": "2020-01-11T17:05:27.1347277Z",
+      "fileCount": 1,
+      "fileSize": 4754821
+    },
+    {
+      "folderName": "Guide-API-1.12-2.1.8-63.jar",
+      "fingerprint": 1899009469,
+      "fileDateHash": 2358509991,
+      "sectionID": 8,
+      "individualFingerprints": [
+        1899009469
+      ],
+      "status": 1,
+      "timestamp": "2020-01-09T18:55:01.209938Z",
+      "lastWriteTimeUtc": "2020-01-09T18:37:35.3093059Z",
+      "queryTimestamp": "2020-01-11T17:05:27.1347277Z",
+      "fileCount": 1,
+      "fileSize": 169528
+    },
+    {
+      "folderName": "SpartanWeaponryArcana-1.12.2-beta-1.0.3.jar",
+      "fingerprint": 827465518,
+      "fileDateHash": 2181035611,
+      "sectionID": 8,
+      "individualFingerprints": [
+        827465518
+      ],
+      "status": 1,
+      "timestamp": "2020-01-09T18:55:01.3705642Z",
+      "lastWriteTimeUtc": "2020-01-09T18:52:22.2208428Z",
+      "queryTimestamp": "2020-01-11T17:05:27.1347277Z",
+      "fileCount": 1,
+      "fileSize": 373710
+    },
+    {
+      "folderName": "TektopiaInformation-1.12.2-1.1.0-1.4.0.jar",
+      "fingerprint": 1079814017,
+      "fileDateHash": 3275382148,
+      "sectionID": 8,
+      "individualFingerprints": [
+        1079814017
+      ],
+      "status": 1,
+      "timestamp": "2020-01-09T18:55:01.4485597Z",
+      "lastWriteTimeUtc": "2020-01-09T18:53:17.5400351Z",
+      "queryTimestamp": "2020-01-11T17:05:27.1347277Z",
+      "fileCount": 1,
+      "fileSize": 1122936
+    },
+    {
+      "folderName": "Animus-1.12-2.1.6.jar",
+      "fingerprint": 3169195530,
+      "fileDateHash": 712723550,
+      "sectionID": 8,
+      "individualFingerprints": [
+        3169195530
+      ],
+      "status": 1,
+      "timestamp": "2020-01-09T18:55:01.05436Z",
+      "lastWriteTimeUtc": "2020-01-09T18:41:01.926211Z",
+      "queryTimestamp": "2020-01-11T17:05:27.135724Z",
+      "fileCount": 1,
+      "fileSize": 349854
+    },
+    {
+      "folderName": "embers-0.230.jar",
+      "fingerprint": 3976727820,
+      "fileDateHash": 588282527,
+      "sectionID": 8,
+      "individualFingerprints": [
+        3976727820
+      ],
+      "status": 1,
+      "timestamp": "2020-01-11T17:05:25.94486Z",
+      "lastWriteTimeUtc": "2020-01-09T19:31:54.406059Z",
+      "queryTimestamp": "2020-01-11T17:05:27.1387166Z",
+      "fileCount": 1,
+      "fileSize": 1649380
+    },
+    {
+      "folderName": "Wesley's Roguelike Dungeons V0.8.1.jar",
+      "fingerprint": 1344093345,
+      "fileDateHash": 3312222647,
+      "sectionID": 8,
+      "individualFingerprints": [
+        1344093345
+      ],
+      "status": 1,
+      "timestamp": "2020-01-11T17:05:26.2510399Z",
+      "lastWriteTimeUtc": "2020-01-11T16:38:50.055294Z",
+      "queryTimestamp": "2020-01-11T17:05:27.1397135Z",
+      "fileCount": 1,
+      "fileSize": 15568845
+    },
+    {
+      "folderName": "FTBUtilities-5.4.0.124.jar",
+      "fingerprint": 1650828278,
+      "fileDateHash": 2487638753,
+      "sectionID": 8,
+      "individualFingerprints": [
+        1650828278
+      ],
+      "status": 1,
+      "timestamp": "2020-01-08T19:47:39.5670632Z",
+      "lastWriteTimeUtc": "2020-01-08T18:59:42Z",
+      "queryTimestamp": "2020-01-11T17:05:27.1397135Z",
+      "fileCount": 1,
+      "fileSize": 424109
+    },
+    {
+      "folderName": "Tektopia-Harvestcraft-Compat-1.3.jar",
+      "fingerprint": 593085157,
+      "fileDateHash": 3711750452,
+      "sectionID": 8,
+      "individualFingerprints": [
+        593085157
+      ],
+      "status": 1,
+      "timestamp": "2020-01-09T18:55:01.4485597Z",
+      "lastWriteTimeUtc": "2020-01-09T18:53:56.4105376Z",
+      "queryTimestamp": "2020-01-11T17:05:27.1397135Z",
+      "fileCount": 1,
+      "fileSize": 25405
+    },
+    {
+      "folderName": "EvilCraft-1.12.2-0.10.78.jar",
+      "fingerprint": 3670568557,
+      "fileDateHash": 2294855575,
+      "sectionID": 8,
+      "individualFingerprints": [
+        3670568557
+      ],
+      "status": 1,
+      "timestamp": "2020-01-09T18:55:01.1939933Z",
+      "lastWriteTimeUtc": "2020-01-09T18:45:06.8747194Z",
+      "queryTimestamp": "2020-01-11T17:05:27.1397135Z",
+      "fileCount": 1,
+      "fileSize": 2957006
+    },
+    {
+      "folderName": "antiqueatlas-1.12.2-4.6.3.jar",
+      "fingerprint": 3949702391,
+      "fileDateHash": 4029870203,
+      "sectionID": 8,
+      "individualFingerprints": [
+        3949702391
+      ],
+      "status": 1,
+      "timestamp": "2020-01-08T19:47:39.5072227Z",
+      "lastWriteTimeUtc": "2020-01-08T18:58:18.4203276Z",
+      "queryTimestamp": "2020-01-11T17:05:27.1407113Z",
+      "fileCount": 1,
+      "fileSize": 1239580
+    },
+    {
+      "folderName": "AbyssalCraft Integration-1.12.2-1.9.0.jar",
+      "fingerprint": 3296158119,
+      "fileDateHash": 3209626256,
+      "sectionID": 8,
+      "individualFingerprints": [
+        3296158119
+      ],
+      "status": 1,
+      "timestamp": "2020-01-09T18:55:00.9679005Z",
+      "lastWriteTimeUtc": "2020-01-09T18:44:38.7840474Z",
+      "queryTimestamp": "2020-01-11T17:05:27.1407113Z",
+      "fileCount": 1,
+      "fileSize": 464673
+    },
+    {
+      "folderName": "tektopia-1.1.0.jar",
+      "fingerprint": 2141021463,
+      "fileDateHash": 736775135,
+      "sectionID": 8,
+      "individualFingerprints": [
+        2141021463
+      ],
+      "status": 1,
+      "timestamp": "2020-01-09T18:55:01.3735222Z",
+      "lastWriteTimeUtc": "2020-01-09T18:53:14.8832056Z",
+      "queryTimestamp": "2020-01-11T17:05:27.1407113Z",
+      "fileCount": 1,
+      "fileSize": 13648391
+    },
+    {
+      "folderName": "twilightforest-1.12.2-3.10.1013-universal.jar",
+      "fingerprint": 3686156447,
+      "fileDateHash": 3793101776,
+      "sectionID": 8,
+      "individualFingerprints": [
+        3686156447
+      ],
+      "status": 1,
+      "timestamp": "2020-01-11T17:05:26.0635416Z",
+      "lastWriteTimeUtc": "2020-01-09T19:35:01.4692045Z",
+      "queryTimestamp": "2020-01-11T17:05:27.1407113Z",
+      "fileCount": 1,
+      "fileSize": 28721750
+    },
+    {
+      "folderName": "DimensionStages-1.12.2-2.0.23.jar",
+      "fingerprint": 2857534586,
+      "fileDateHash": 1811306536,
+      "sectionID": 8,
+      "individualFingerprints": [
+        2857534586
+      ],
+      "status": 1,
+      "timestamp": "2020-01-11T17:05:25.8910044Z",
+      "lastWriteTimeUtc": "2020-01-11T16:25:30.4053489Z",
+      "queryTimestamp": "2020-01-11T17:05:27.1407113Z",
+      "fileCount": 1,
+      "fileSize": 18251
+    },
+    {
+      "folderName": "Botania r1.10-363.jar",
+      "fingerprint": 3763127432,
+      "fileDateHash": 244660556,
+      "sectionID": 8,
+      "individualFingerprints": [
+        3763127432
+      ],
+      "status": 1,
+      "timestamp": "2020-01-11T17:05:25.7783051Z",
+      "lastWriteTimeUtc": "2020-01-09T19:24:28.2289381Z",
+      "queryTimestamp": "2020-01-11T17:05:27.1417085Z",
+      "fileCount": 1,
+      "fileSize": 13814617
+    },
+    {
+      "folderName": "OptiFine_1.12.2_HD_U_F5.jar",
+      "fingerprint": 3290870215,
+      "fileDateHash": 1829897253,
+      "sectionID": 8,
+      "individualFingerprints": [
+        3290870215
+      ],
+      "status": 1,
+      "timestamp": "2020-01-09T19:09:58.2038851Z",
+      "lastWriteTimeUtc": "2020-01-09T19:09:57.6893601Z",
+      "queryTimestamp": "2020-01-11T17:05:27.1417085Z",
+      "fileCount": 1,
+      "fileSize": 2598821
+    },
+    {
+      "folderName": "BloodMagic-1.12.2-2.4.3-105.jar",
+      "fingerprint": 4036556600,
+      "fileDateHash": 3290184112,
+      "sectionID": 8,
+      "individualFingerprints": [
+        4036556600
+      ],
+      "status": 1,
+      "timestamp": "2020-01-09T18:55:01.0628234Z",
+      "lastWriteTimeUtc": "2020-01-09T18:37:41.9880983Z",
+      "queryTimestamp": "2020-01-11T17:05:27.1417085Z",
+      "fileCount": 1,
+      "fileSize": 7208594
+    },
+    {
+      "folderName": "BloodArsenal-1.12.2-2.2.1-29.jar",
+      "fingerprint": 1207293857,
+      "fileDateHash": 1600434558,
+      "sectionID": 8,
+      "individualFingerprints": [
+        1207293857
+      ],
+      "status": 1,
+      "timestamp": "2020-01-09T18:55:01.0588413Z",
+      "lastWriteTimeUtc": "2020-01-09T18:39:27.7176212Z",
+      "queryTimestamp": "2020-01-11T17:05:27.1417085Z",
+      "fileCount": 1,
+      "fileSize": 665308
+    },
+    {
+      "folderName": "Patchouli-1.0-20.jar",
+      "fingerprint": 1352456101,
+      "fileDateHash": 670021279,
+      "sectionID": 8,
+      "individualFingerprints": [
+        1352456101
+      ],
+      "status": 1,
+      "timestamp": "2020-01-11T17:05:26.0346192Z",
+      "lastWriteTimeUtc": "2020-01-09T19:26:24.5368095Z",
+      "queryTimestamp": "2020-01-11T17:05:27.1427056Z",
+      "fileCount": 1,
+      "fileSize": 466243
+    },
+    {
+      "folderName": "InventoryTweaks-1.63.jar",
+      "fingerprint": 4009982705,
+      "fileDateHash": 3882072194,
+      "sectionID": 8,
+      "individualFingerprints": [
+        4009982705
+      ],
+      "status": 1,
+      "timestamp": "2020-01-08T19:47:39.5710522Z",
+      "lastWriteTimeUtc": "2020-01-08T19:05:22.5801005Z",
+      "queryTimestamp": "2020-01-11T17:05:27.1427056Z",
+      "fileCount": 1,
+      "fileSize": 263258
+    },
+    {
+      "folderName": "Morpheus-1.12.2-3.5.106.jar",
+      "fingerprint": 783395017,
+      "fileDateHash": 1276171310,
+      "sectionID": 8,
+      "individualFingerprints": [
+        783395017
+      ],
+      "status": 1,
+      "timestamp": "2020-01-08T19:47:39.5910248Z",
+      "lastWriteTimeUtc": "2020-01-08T19:08:38.2429296Z",
+      "queryTimestamp": "2020-01-11T17:05:27.1427056Z",
+      "fileCount": 1,
+      "fileSize": 21508
+    },
+    {
+      "folderName": "New World",
+      "fingerprint": 907826346,
+      "fileDateHash": 3062315430,
+      "sectionID": 10,
+      "individualFingerprints": [
+        16873012,
+        322988789,
+        489458212,
+        489458212,
+        489458212,
+        489458212,
+        489458212,
+        489458212,
+        489458212,
+        489458212,
+        489458212,
+        489458212,
+        758054953,
+        758054953,
+        758054953,
+        758054953,
+        758054953,
+        758054953,
+        758054953,
+        758054953,
+        758054953,
+        758054953,
+        758054953,
+        1055185717,
+        1103694097,
+        1177701522,
+        1233918909,
+        1238075791,
+        1292147667,
+        1763994004,
+        1789340702,
+        1796550012,
+        1796550012,
+        1796550012,
+        1796550012,
+        1796550012,
+        1796550012,
+        1796550012,
+        1796550012,
+        1988294870,
+        2033220201,
+        2065718298,
+        2077006850,
+        2088082196,
+        2088082196,
+        2217066179,
+        2316814055,
+        2518698173,
+        2518698173,
+        2518698173,
+        2518698173,
+        2518698173,
+        2518698173,
+        2518698173,
+        2518698173,
+        2518698173,
+        2518698173,
+        2593791926,
+        2763463119,
+        2799112816,
+        2928841135,
+        3208295511,
+        3453123686,
+        3533626746,
+        3592974222,
+        3640225141,
+        3769553292,
+        3842669369,
+        3954123295,
+        4041831599,
+        4167847308,
+        4213863462,
+        4228808913,
+        4272588933
+      ],
+      "status": 1,
+      "timestamp": "2020-01-11T17:05:26.3567575Z",
+      "lastWriteTimeUtc": "2020-01-09T19:48:33.9333235Z",
+      "queryTimestamp": "2020-01-11T17:05:27.1427056Z",
+      "fileCount": 21,
+      "fileSize": 0
+    },
+    {
+      "folderName": "Bookshelf-1.12.2-2.3.590.jar",
+      "fingerprint": 2546524333,
+      "fileDateHash": 588503889,
+      "sectionID": 8,
+      "individualFingerprints": [
+        2546524333
+      ],
+      "status": 1,
+      "timestamp": "2020-01-11T17:05:25.7763104Z",
+      "lastWriteTimeUtc": "2020-01-11T16:15:37.4742807Z",
+      "queryTimestamp": "2020-01-11T17:05:27.1427056Z",
+      "fileCount": 1,
+      "fileSize": 266636
+    },
+    {
+      "folderName": "InfernalMobs-1.12.2.jar",
+      "fingerprint": 3421693817,
+      "fileDateHash": 1312318142,
+      "sectionID": 8,
+      "individualFingerprints": [
+        3421693817
+      ],
+      "status": 1,
+      "timestamp": "2020-01-11T17:05:26.0086883Z",
+      "lastWriteTimeUtc": "2020-01-11T16:37:55.6963411Z",
+      "queryTimestamp": "2020-01-11T17:05:27.1427056Z",
+      "fileCount": 1,
+      "fileSize": 183579
+    },
+    {
+      "folderName": "AetherWorks-1.12.2-1.0.0.3.jar",
+      "fingerprint": 3287248864,
+      "fileDateHash": 769133623,
+      "sectionID": 8,
+      "individualFingerprints": [
+        3287248864
+      ],
+      "status": 1,
+      "timestamp": "2020-01-11T17:05:25.4900763Z",
+      "lastWriteTimeUtc": "2020-01-09T19:31:55.5952724Z",
+      "queryTimestamp": "2020-01-11T17:05:27.1437029Z",
+      "fileCount": 1,
+      "fileSize": 444205
+    },
+    {
+      "folderName": "SpartanWeaponry-1.12.2-beta-1.3.8.jar",
+      "fingerprint": 15740874,
+      "fileDateHash": 3311078652,
+      "sectionID": 8,
+      "individualFingerprints": [
+        15740874
+      ],
+      "status": 1,
+      "timestamp": "2020-01-09T18:55:01.3655276Z",
+      "lastWriteTimeUtc": "2020-01-09T18:49:47.8642961Z",
+      "queryTimestamp": "2020-01-11T17:05:27.1437029Z",
+      "fileCount": 1,
+      "fileSize": 937558
+    },
+    {
+      "folderName": "Roots-1.12.2-3.0.21.jar",
+      "fingerprint": 1183273956,
+      "fileDateHash": 4180929550,
+      "sectionID": 8,
+      "individualFingerprints": [
+        1183273956
+      ],
+      "status": 1,
+      "timestamp": "2020-01-11T17:05:26.0436026Z",
+      "lastWriteTimeUtc": "2020-01-09T19:26:37.9355272Z",
+      "queryTimestamp": "2020-01-11T17:05:27.1437029Z",
+      "fileCount": 1,
+      "fileSize": 1465641
+    },
+    {
+      "folderName": "BlockTweaker-1.1.0.jar",
+      "fingerprint": 739570077,
+      "fileDateHash": 1136136209,
+      "sectionID": 8,
+      "individualFingerprints": [
+        739570077
+      ],
+      "status": 1,
+      "timestamp": "2020-01-09T18:55:01.0588413Z",
+      "lastWriteTimeUtc": "2020-01-09T18:32:14.1308389Z",
+      "queryTimestamp": "2020-01-11T17:05:27.1437029Z",
+      "fileCount": 1,
+      "fileSize": 31254
+    },
+    {
+      "folderName": "aeadditions-1.12.2-1.2.jar",
+      "fingerprint": 1509157695,
+      "fileDateHash": 1206098318,
+      "sectionID": 8,
+      "individualFingerprints": [
+        1509157695
+      ],
+      "status": 1,
+      "timestamp": "2020-01-11T17:05:25.4830953Z",
+      "lastWriteTimeUtc": "2020-01-09T19:31:26.8959801Z",
+      "queryTimestamp": "2020-01-11T17:05:27.1437029Z",
+      "fileCount": 1,
+      "fileSize": 897780
+    },
+    {
+      "folderName": "SpartanShields-1.12.2-1.5.4.jar",
+      "fingerprint": 681427294,
+      "fileDateHash": 94072541,
+      "sectionID": 8,
+      "individualFingerprints": [
+        681427294
+      ],
+      "status": 1,
+      "timestamp": "2020-01-09T18:55:01.3635112Z",
+      "lastWriteTimeUtc": "2020-01-09T18:52:20.7882112Z",
+      "queryTimestamp": "2020-01-11T17:05:27.1437029Z",
+      "fileCount": 1,
+      "fileSize": 430944
+    },
+    {
+      "folderName": "Erebus-1.0.31.jar",
+      "fingerprint": 3104077458,
+      "fileDateHash": 48167040,
+      "sectionID": 8,
+      "individualFingerprints": [
+        3104077458
+      ],
+      "status": 1,
+      "timestamp": "2020-01-09T18:55:01.1281704Z",
+      "lastWriteTimeUtc": "2020-01-09T18:47:57.2618224Z",
+      "queryTimestamp": "2020-01-11T17:05:27.1447004Z",
+      "fileCount": 1,
+      "fileSize": 12363576
+    },
+    {
+      "folderName": "botaniatweaks-1.8.6.jar",
+      "fingerprint": 2662926713,
+      "fileDateHash": 3458266200,
+      "sectionID": 8,
+      "individualFingerprints": [
+        2662926713
+      ],
+      "status": 1,
+      "timestamp": "2020-01-11T17:05:25.8690618Z",
+      "lastWriteTimeUtc": "2020-01-09T19:24:30.0204272Z",
+      "queryTimestamp": "2020-01-11T17:05:27.1447004Z",
+      "fileCount": 1,
+      "fileSize": 255295
+    },
+    {
+      "folderName": "MTLib-3.0.6.jar",
+      "fingerprint": 396445966,
+      "fileDateHash": 1632134561,
+      "sectionID": 8,
+      "individualFingerprints": [
+        396445966
+      ],
+      "status": 1,
+      "timestamp": "2020-01-09T18:55:01.3296004Z",
+      "lastWriteTimeUtc": "2020-01-09T18:34:20.645524Z",
+      "queryTimestamp": "2020-01-11T17:05:27.1447004Z",
+      "fileCount": 1,
+      "fileSize": 30002
+    },
+    {
+      "folderName": "CTM-MC1.12.2-1.0.1.30.jar",
+      "fingerprint": 151427549,
+      "fileDateHash": 804255464,
+      "sectionID": 8,
+      "individualFingerprints": [
+        151427549
+      ],
+      "status": 1,
+      "timestamp": "2020-01-08T19:47:39.5531001Z",
+      "lastWriteTimeUtc": "2020-01-08T19:05:03.6165345Z",
+      "queryTimestamp": "2020-01-11T17:05:27.1447004Z",
+      "fileCount": 1,
+      "fileSize": 199047
+    },
+    {
+      "folderName": "SereneSeasons-1.12.2-1.2.18-universal.jar",
+      "fingerprint": 122247611,
+      "fileDateHash": 3231342335,
+      "sectionID": 8,
+      "individualFingerprints": [
+        122247611
+      ],
+      "status": 1,
+      "timestamp": "2020-01-09T18:55:01.3565287Z",
+      "lastWriteTimeUtc": "2020-01-09T18:33:12.9797611Z",
+      "queryTimestamp": "2020-01-11T17:05:27.1447004Z",
+      "fileCount": 1,
+      "fileSize": 185187
+    },
+    {
+      "folderName": "ItemStages-1.12.2-2.0.49.jar",
+      "fingerprint": 53601876,
+      "fileDateHash": 1580520372,
+      "sectionID": 8,
+      "individualFingerprints": [
+        53601876
+      ],
+      "status": 1,
+      "timestamp": "2020-01-11T17:05:26.0096857Z",
+      "lastWriteTimeUtc": "2020-01-11T16:25:25.7341324Z",
+      "queryTimestamp": "2020-01-11T17:05:27.1447004Z",
+      "fileCount": 1,
+      "fileSize": 43129
+    },
+    {
+      "folderName": "ChocolateQuestRepoured-1.12.2-1.2.0A.jar",
+      "fingerprint": 1006640195,
+      "fileDateHash": 448583396,
+      "sectionID": 8,
+      "individualFingerprints": [
+        1006640195
+      ],
+      "status": 1,
+      "timestamp": "2020-01-11T17:05:25.871057Z",
+      "lastWriteTimeUtc": "2020-01-11T16:52:33.892676Z",
+      "queryTimestamp": "2020-01-11T17:05:27.1457095Z",
+      "fileCount": 1,
+      "fileSize": 3346609
+    },
+    {
+      "folderName": "modtweaker-4.0.17.jar",
+      "fingerprint": 2501908090,
+      "fileDateHash": 362035012,
+      "sectionID": 8,
+      "individualFingerprints": [
+        2501908090
+      ],
+      "status": 1,
+      "timestamp": "2020-01-09T18:55:01.3266087Z",
+      "lastWriteTimeUtc": "2020-01-09T18:34:21.2636449Z",
+      "queryTimestamp": "2020-01-11T17:05:27.1457095Z",
+      "fileCount": 1,
+      "fileSize": 447874
+    },
+    {
+      "folderName": "letsencryptcraft-1.10.2-1.2.0.jar",
+      "fingerprint": 758535815,
+      "fileDateHash": 832571871,
+      "sectionID": 8,
+      "individualFingerprints": [
+        758535815
+      ],
+      "status": 1,
+      "timestamp": "2020-01-08T19:47:39.5900009Z",
+      "lastWriteTimeUtc": "2020-01-08T19:02:48Z",
+      "queryTimestamp": "2020-01-11T17:05:27.1457095Z",
+      "fileCount": 1,
+      "fileSize": 7091
+    },
+    {
+      "folderName": "GameStages-1.12.2-2.0.115.jar",
+      "fingerprint": 3463458978,
+      "fileDateHash": 761073391,
+      "sectionID": 8,
+      "individualFingerprints": [
+        3463458978
+      ],
+      "status": 1,
+      "timestamp": "2020-01-11T17:05:25.9588223Z",
+      "lastWriteTimeUtc": "2020-01-11T16:15:50.2015686Z",
+      "queryTimestamp": "2020-01-11T17:05:27.1457095Z",
+      "fileCount": 1,
+      "fileSize": 56291
+    },
+    {
+      "folderName": "Ore Tweaker-1.0.2-1.12.0.jar",
+      "fingerprint": 3022013007,
+      "fileDateHash": 1583894882,
+      "sectionID": 8,
+      "individualFingerprints": [
+        3022013007
+      ],
+      "status": 1,
+      "timestamp": "2020-01-09T18:55:01.3296004Z",
+      "lastWriteTimeUtc": "2020-01-09T18:31:40.8145645Z",
+      "queryTimestamp": "2020-01-11T17:05:27.1457095Z",
+      "fileCount": 1,
+      "fileSize": 12684
+    },
+    {
+      "folderName": "Bloodmoon-MC1.12.2-1.5.3.jar",
+      "fingerprint": 2259388848,
+      "fileDateHash": 1935438471,
+      "sectionID": 8,
+      "individualFingerprints": [
+        2259388848
+      ],
+      "status": 1,
+      "timestamp": "2020-01-09T18:55:01.1102192Z",
+      "lastWriteTimeUtc": "2020-01-09T18:54:31.9120136Z",
+      "queryTimestamp": "2020-01-11T17:05:27.1457095Z",
+      "fileCount": 1,
+      "fileSize": 47505
+    },
+    {
+      "folderName": "mysticalworld-1.12.2-1.6.1.jar",
+      "fingerprint": 468542988,
+      "fileDateHash": 2288024853,
+      "sectionID": 8,
+      "individualFingerprints": [
+        468542988
+      ],
+      "status": 1,
+      "timestamp": "2020-01-11T17:05:26.0146726Z",
+      "lastWriteTimeUtc": "2020-01-09T19:26:31.2043972Z",
+      "queryTimestamp": "2020-01-11T17:05:27.1457095Z",
+      "fileCount": 1,
+      "fileSize": 2746357
+    },
+    {
+      "folderName": "astralsorcery-1.12.2-1.10.20.jar",
+      "fingerprint": 630155927,
+      "fileDateHash": 1708879029,
+      "sectionID": 8,
+      "individualFingerprints": [
+        630155927
+      ],
+      "status": 1,
+      "timestamp": "2020-01-11T17:05:25.5977878Z",
+      "lastWriteTimeUtc": "2020-01-09T19:28:32.4007215Z",
+      "queryTimestamp": "2020-01-11T17:05:27.146695Z",
+      "fileCount": 1,
+      "fileSize": 24973981
+    },
+    {
+      "folderName": "Vampirism-1.12.2-1.5.7.jar",
+      "fingerprint": 1331390753,
+      "fileDateHash": 1660463307,
+      "sectionID": 8,
+      "individualFingerprints": [
+        1331390753
+      ],
+      "status": 1,
+      "timestamp": "2020-01-09T18:55:01.9687189Z",
+      "lastWriteTimeUtc": "2020-01-09T18:46:36.2525671Z",
+      "queryTimestamp": "2020-01-11T17:05:27.146695Z",
+      "fileCount": 1,
+      "fileSize": 8319311
+    },
+    {
+      "folderName": "ElectroblobsWizardry-4.2.7-MC1.12.2.jar",
+      "fingerprint": 3070562874,
+      "fileDateHash": 637879829,
+      "sectionID": 8,
+      "individualFingerprints": [
+        3070562874
+      ],
+      "status": 1,
+      "timestamp": "2020-01-11T17:05:25.8969875Z",
+      "lastWriteTimeUtc": "2020-01-09T19:22:16.2223785Z",
+      "queryTimestamp": "2020-01-11T17:05:27.146695Z",
+      "fileCount": 1,
+      "fileSize": 6648694
+    },
+    {
+      "folderName": "jei_1.12.2-4.15.0.291.jar",
+      "fingerprint": 3391578337,
+      "fileDateHash": 4293409185,
+      "sectionID": 8,
+      "individualFingerprints": [
+        3391578337
+      ],
+      "status": 1,
+      "timestamp": "2020-01-08T19:47:39.5850139Z",
+      "lastWriteTimeUtc": "2020-01-08T18:57:35.8174952Z",
+      "queryTimestamp": "2020-01-11T17:05:27.146695Z",
+      "fileCount": 1,
+      "fileSize": 651473
+    },
+    {
+      "folderName": "CyclopsCore-1.12.2-1.6.0.jar",
+      "fingerprint": 677188026,
+      "fileDateHash": 4137896768,
+      "sectionID": 8,
+      "individualFingerprints": [
+        677188026
+      ],
+      "status": 1,
+      "timestamp": "2020-01-09T18:55:01.1211886Z",
+      "lastWriteTimeUtc": "2020-01-09T18:45:04.3040808Z",
+      "queryTimestamp": "2020-01-11T17:05:27.146695Z",
+      "fileCount": 1,
+      "fileSize": 1060822
+    },
+    {
+      "folderName": "iceandfire-1.8.3.jar",
+      "fingerprint": 3044910845,
+      "fileDateHash": 1837208184,
+      "sectionID": 8,
+      "individualFingerprints": [
+        3044910845
+      ],
+      "status": 1,
+      "timestamp": "2020-01-09T18:55:01.2109347Z",
+      "lastWriteTimeUtc": "2020-01-09T18:49:46.2051612Z",
+      "queryTimestamp": "2020-01-11T17:05:27.146695Z",
+      "fileCount": 1,
+      "fileSize": 19002941
+    },
+    {
+      "folderName": "WailaStages-1.12.2-2.0.23.jar",
+      "fingerprint": 2078917584,
+      "fileDateHash": 1023263789,
+      "sectionID": 8,
+      "individualFingerprints": [
+        2078917584
+      ],
+      "status": 1,
+      "timestamp": "2020-01-11T17:05:26.2510399Z",
+      "lastWriteTimeUtc": "2020-01-11T16:24:33.2822092Z",
+      "queryTimestamp": "2020-01-11T17:05:27.1476922Z",
+      "fileCount": 1,
+      "fileSize": 18422
+    },
+    {
+      "folderName": "Baubles-1.12-1.5.2.jar",
+      "fingerprint": 4247051032,
+      "fileDateHash": 3889221927,
+      "sectionID": 8,
+      "individualFingerprints": [
+        4247051032
+      ],
+      "status": 1,
+      "timestamp": "2020-01-09T18:55:01.0578031Z",
+      "lastWriteTimeUtc": "2020-01-09T18:39:26.7397004Z",
+      "queryTimestamp": "2020-01-11T17:05:27.1476922Z",
+      "fileCount": 1,
+      "fileSize": 108450
+    },
+    {
+      "folderName": "aether_legacy-1.12.2-v1.4.4.jar",
+      "fingerprint": 1887406433,
+      "fileDateHash": 1010865723,
+      "sectionID": 8,
+      "individualFingerprints": [
+        1887406433
+      ],
+      "status": 1,
+      "timestamp": "2020-01-11T17:05:25.495063Z",
+      "lastWriteTimeUtc": "2020-01-09T19:31:16.8184838Z",
+      "queryTimestamp": "2020-01-11T17:05:27.1476922Z",
+      "fileCount": 1,
+      "fileSize": 14129163
+    },
+    {
+      "folderName": "FTBLib-5.4.4.5.jar",
+      "fingerprint": 3921299937,
+      "fileDateHash": 3060209777,
+      "sectionID": 8,
+      "individualFingerprints": [
+        3921299937
+      ],
+      "status": 1,
+      "timestamp": "2020-01-08T19:47:39.5581201Z",
+      "lastWriteTimeUtc": "2020-01-08T18:59:41Z",
+      "queryTimestamp": "2020-01-11T17:05:27.1476922Z",
+      "fileCount": 1,
+      "fileSize": 934358
+    },
+    {
+      "folderName": "dragonsattacktektopians-1.12.2-1.0.jar",
+      "fingerprint": 3904682880,
+      "fileDateHash": 2111851305,
+      "sectionID": 8,
+      "individualFingerprints": [
+        3904682880
+      ],
+      "status": 1,
+      "timestamp": "2020-01-09T18:55:01.1281704Z",
+      "lastWriteTimeUtc": "2020-01-09T18:53:18.8596881Z",
+      "queryTimestamp": "2020-01-11T17:05:27.1476922Z",
+      "fileCount": 1,
+      "fileSize": 4123
+    },
+    {
+      "folderName": "Arcane Essentials-0.9.2.jar",
+      "fingerprint": 3315917461,
+      "fileDateHash": 3500072846,
+      "sectionID": 8,
+      "individualFingerprints": [
+        3315917461
+      ],
+      "status": 1,
+      "timestamp": "2020-01-11T17:05:25.5888119Z",
+      "lastWriteTimeUtc": "2020-01-09T19:22:18.528781Z",
+      "queryTimestamp": "2020-01-11T17:05:27.1486897Z",
+      "fileCount": 1,
+      "fileSize": 1192524
+    },
+    {
+      "folderName": "RecipeStages-1.1.3.jar",
+      "fingerprint": 3275707186,
+      "fileDateHash": 3842663356,
+      "sectionID": 8,
+      "individualFingerprints": [
+        3275707186
+      ],
+      "status": 1,
+      "timestamp": "2020-01-11T17:05:26.0386084Z",
+      "lastWriteTimeUtc": "2020-01-11T16:24:58.4868697Z",
+      "queryTimestamp": "2020-01-11T17:05:27.1486897Z",
+      "fileCount": 1,
+      "fileSize": 43662
+    },
+    {
+      "folderName": "spartanfire-0.07.jar",
+      "fingerprint": 4050557992,
+      "fileDateHash": 932381674,
+      "sectionID": 8,
+      "individualFingerprints": [
+        4050557992
+      ],
+      "status": 1,
+      "timestamp": "2020-01-09T18:55:01.3585251Z",
+      "lastWriteTimeUtc": "2020-01-09T18:50:08.4253195Z",
+      "queryTimestamp": "2020-01-11T17:05:27.1486897Z",
+      "fileCount": 1,
+      "fileSize": 708329
+    },
+    {
+      "folderName": "ironchest-1.12.2-7.0.72.847.jar",
+      "fingerprint": 3272096001,
+      "fileDateHash": 2481275459,
+      "sectionID": 8,
+      "individualFingerprints": [
+        3272096001
+      ],
+      "status": 1,
+      "timestamp": "2020-01-08T19:47:39.5730478Z",
+      "lastWriteTimeUtc": "2020-01-08T19:07:55.1920778Z",
+      "queryTimestamp": "2020-01-11T17:05:27.1486897Z",
+      "fileCount": 1,
+      "fileSize": 956692
+    },
+    {
+      "folderName": "CraftTweaker2-1.12-4.1.20.jar",
+      "fingerprint": 4244191030,
+      "fileDateHash": 3774560042,
+      "sectionID": 8,
+      "individualFingerprints": [
+        4244191030
+      ],
+      "status": 1,
+      "timestamp": "2020-01-09T18:55:01.1111814Z",
+      "lastWriteTimeUtc": "2020-01-09T18:34:06.6206269Z",
+      "queryTimestamp": "2020-01-11T17:05:27.1486897Z",
+      "fileCount": 1,
+      "fileSize": 1363036
+    },
+    {
+      "folderName": "MineTweakerRecipeMaker-1.12.2-1.2.2.30.jar",
+      "fingerprint": 2660857366,
+      "fileDateHash": 1181430160,
+      "sectionID": 8,
+      "individualFingerprints": [
+        2660857366
+      ],
+      "status": 1,
+      "timestamp": "2020-01-09T18:55:01.3266087Z",
+      "lastWriteTimeUtc": "2020-01-09T18:34:31.5910194Z",
+      "queryTimestamp": "2020-01-11T17:05:27.1486897Z",
+      "fileCount": 1,
+      "fileSize": 33240
+    },
+    {
+      "folderName": "FTBBackups-1.1.0.1.jar",
+      "fingerprint": 752442057,
+      "fileDateHash": 2487638753,
+      "sectionID": 8,
+      "individualFingerprints": [
+        752442057
+      ],
+      "status": 1,
+      "timestamp": "2020-01-08T19:47:39.5550947Z",
+      "lastWriteTimeUtc": "2020-01-08T18:59:42Z",
+      "queryTimestamp": "2020-01-11T17:05:27.149687Z",
+      "fileCount": 1,
+      "fileSize": 43764
+    },
+    {
+      "folderName": "HardcoreItemStages MC1.12.2 v1.0.jar",
+      "fingerprint": 1935166692,
+      "fileDateHash": 1790417938,
+      "sectionID": 8,
+      "individualFingerprints": [
+        1935166692
+      ],
+      "status": 1,
+      "timestamp": "2020-01-11T17:05:25.9628119Z",
+      "lastWriteTimeUtc": "2020-01-11T16:28:37.8015658Z",
+      "queryTimestamp": "2020-01-11T17:05:27.149687Z",
+      "fileCount": 1,
+      "fileSize": 13350
     }
   ],
   "isValid": true,
-  "lastPreviousMatchUpdate": "2020-01-09T18:55:02.9228413Z",
+  "lastPreviousMatchUpdate": "2020-01-11T17:05:27.6997913Z",
   "isEnabled": true,
   "isPinned": false,
   "gameVersion": "1.12.2",
@@ -3382,6 +3996,89 @@
       "preferenceReleaseType": null,
       "manifestName": null,
       "installedTargets": null
+    },
+    {
+      "addonID": 303422,
+      "gameInstanceID": "670196a3-c61a-4c57-aa38-1e50776546fd",
+      "installedFile": {
+        "id": 2858374,
+        "displayName": "Alpha 8",
+        "fileName": "ChocolateQuestRepoured-1.12.2-1.2.0A.jar",
+        "fileDate": "2020-01-11T15:39:29.267Z",
+        "fileLength": 3346609,
+        "releaseType": 2,
+        "fileStatus": 4,
+        "downloadUrl": "https://edge.forgecdn.net/files/2858/374/ChocolateQuestRepoured-1.12.2-1.2.0A.jar",
+        "isAlternate": false,
+        "alternateFileId": 0,
+        "dependencies": [],
+        "isAvailable": true,
+        "modules": [
+          {
+            "foldername": "META-INF",
+            "fingerprint": 1138408684,
+            "type": 0
+          },
+          {
+            "foldername": "com",
+            "fingerprint": 4113934060,
+            "type": 0
+          },
+          {
+            "foldername": "de",
+            "fingerprint": 1853144860,
+            "type": 0
+          },
+          {
+            "foldername": "mcalibrary",
+            "fingerprint": 2397752699,
+            "type": 0
+          },
+          {
+            "foldername": "assets",
+            "fingerprint": 1932826806,
+            "type": 0
+          },
+          {
+            "foldername": "mcmod.info",
+            "fingerprint": 154292875,
+            "type": 0
+          },
+          {
+            "foldername": "pack.mcmeta",
+            "fingerprint": 3273911401,
+            "type": 0
+          }
+        ],
+        "packageFingerprint": 1006640195,
+        "gameVersion": [
+          "Forge",
+          "1.12.2"
+        ],
+        "hasInstallScript": false,
+        "isCompatibleWithClient": false,
+        "categorySectionPackageType": 0,
+        "restrictProjectFileAccess": 0,
+        "projectStatus": 0,
+        "projectId": 0,
+        "gameVersionDateReleased": "2017-09-18T05:00:00Z",
+        "gameId": 0,
+        "isServerPack": false,
+        "FileNameOnDisk": "ChocolateQuestRepoured-1.12.2-1.2.0A.jar"
+      },
+      "dateInstalled": "2020-01-11T16:52:33.892676Z",
+      "dateUpdated": "2020-01-11T16:52:33.8986839Z",
+      "dateLastUpdateAttempted": "2020-01-11T16:52:33.8986839Z",
+      "status": 4,
+      "preferenceAutoInstallUpdates": false,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null,
+      "installedTargets": []
     },
     {
       "addonID": 223094,
@@ -7829,7 +8526,7 @@
       "dateInstalled": "2020-01-10T16:22:46.8266463Z",
       "dateUpdated": "2020-01-10T16:22:46.835622Z",
       "dateLastUpdateAttempted": "2020-01-10T16:22:46.835622Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
