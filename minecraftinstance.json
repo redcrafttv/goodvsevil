@@ -29,7 +29,7 @@
   "isUnlocked": true,
   "javaArgsOverride": null,
   "javaDirOverride": null,
-  "lastPlayed": "2020-01-11T17:12:15.4598089Z",
+  "lastPlayed": "2020-01-11T17:34:21.9384868Z",
   "manifest": null,
   "fileDate": "0001-01-01T00:00:00",
   "installedModpack": null,
@@ -1243,19 +1243,19 @@
       "fileSize": 18422
     },
     {
-      "folderName": "Baubles-1.12-1.5.2.jar",
-      "fingerprint": 4247051032,
-      "fileDateHash": 3889221927,
+      "folderName": "FTBLib-5.4.4.5.jar",
+      "fingerprint": 3921299937,
+      "fileDateHash": 3060209777,
       "sectionID": 8,
       "individualFingerprints": [
-        4247051032
+        3921299937
       ],
       "status": 1,
-      "timestamp": "2020-01-09T18:55:01.0578031Z",
-      "lastWriteTimeUtc": "2020-01-09T18:39:26.7397004Z",
+      "timestamp": "2020-01-08T19:47:39.5581201Z",
+      "lastWriteTimeUtc": "2020-01-08T18:59:41Z",
       "queryTimestamp": "2020-01-11T17:05:27.1476922Z",
       "fileCount": 1,
-      "fileSize": 108450
+      "fileSize": 934358
     },
     {
       "folderName": "aether_legacy-1.12.2-v1.4.4.jar",
@@ -1273,19 +1273,19 @@
       "fileSize": 14129163
     },
     {
-      "folderName": "FTBLib-5.4.4.5.jar",
-      "fingerprint": 3921299937,
-      "fileDateHash": 3060209777,
+      "folderName": "Baubles-1.12-1.5.2.jar",
+      "fingerprint": 4247051032,
+      "fileDateHash": 3889221927,
       "sectionID": 8,
       "individualFingerprints": [
-        3921299937
+        4247051032
       ],
       "status": 1,
-      "timestamp": "2020-01-08T19:47:39.5581201Z",
-      "lastWriteTimeUtc": "2020-01-08T18:59:41Z",
+      "timestamp": "2020-01-09T18:55:01.0578031Z",
+      "lastWriteTimeUtc": "2020-01-09T18:39:26.7397004Z",
       "queryTimestamp": "2020-01-11T17:05:27.1476922Z",
       "fileCount": 1,
-      "fileSize": 934358
+      "fileSize": 108450
     },
     {
       "folderName": "dragonsattacktektopians-1.12.2-1.0.jar",
@@ -1318,21 +1318,6 @@
       "fileSize": 1192524
     },
     {
-      "folderName": "RecipeStages-1.1.3.jar",
-      "fingerprint": 3275707186,
-      "fileDateHash": 3842663356,
-      "sectionID": 8,
-      "individualFingerprints": [
-        3275707186
-      ],
-      "status": 1,
-      "timestamp": "2020-01-11T17:05:26.0386084Z",
-      "lastWriteTimeUtc": "2020-01-11T16:24:58.4868697Z",
-      "queryTimestamp": "2020-01-11T17:05:27.1486897Z",
-      "fileCount": 1,
-      "fileSize": 43662
-    },
-    {
       "folderName": "spartanfire-0.07.jar",
       "fingerprint": 4050557992,
       "fileDateHash": 932381674,
@@ -1346,6 +1331,21 @@
       "queryTimestamp": "2020-01-11T17:05:27.1486897Z",
       "fileCount": 1,
       "fileSize": 708329
+    },
+    {
+      "folderName": "RecipeStages-1.1.3.jar",
+      "fingerprint": 3275707186,
+      "fileDateHash": 3842663356,
+      "sectionID": 8,
+      "individualFingerprints": [
+        3275707186
+      ],
+      "status": 1,
+      "timestamp": "2020-01-11T17:05:26.0386084Z",
+      "lastWriteTimeUtc": "2020-01-11T16:24:58.4868697Z",
+      "queryTimestamp": "2020-01-11T17:05:27.1486897Z",
+      "fileCount": 1,
+      "fileSize": 43662
     },
     {
       "folderName": "ironchest-1.12.2-7.0.72.847.jar",
@@ -1518,7 +1518,7 @@
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
       "manifestName": null,
-      "installedTargets": []
+      "installedTargets": null
     },
     {
       "addonID": 238222,
@@ -1748,7 +1748,7 @@
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
       "manifestName": null,
-      "installedTargets": []
+      "installedTargets": null
     },
     {
       "addonID": 226321,
@@ -2618,7 +2618,7 @@
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
       "manifestName": null,
-      "installedTargets": []
+      "installedTargets": null
     },
     {
       "addonID": 302254,
@@ -3384,7 +3384,7 @@
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
       "manifestName": null,
-      "installedTargets": []
+      "installedTargets": null
     },
     {
       "addonID": 298969,
@@ -3883,7 +3883,7 @@
         "gameVersionDateReleased": "2008-03-01T06:00:00Z",
         "gameId": 0,
         "isServerPack": false,
-        "FileNameOnDisk": "ImmersiveEngineering-0.12-92.jar"
+        "FileNameOnDisk": "ImmersiveEngineering-0.12-92.jar.disabled"
       },
       "dateInstalled": "2020-01-11T16:26:02.1885453Z",
       "dateUpdated": "2020-01-11T16:26:02.2005138Z",
@@ -3897,7 +3897,7 @@
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
       "manifestName": null,
-      "installedTargets": []
+      "installedTargets": null
     },
     {
       "addonID": 235279,
@@ -4078,7 +4078,7 @@
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
       "manifestName": null,
-      "installedTargets": []
+      "installedTargets": null
     },
     {
       "addonID": 223094,
@@ -4358,7 +4358,7 @@
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
       "manifestName": null,
-      "installedTargets": []
+      "installedTargets": null
     },
     {
       "addonID": 297057,
@@ -4747,7 +4747,7 @@
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
       "manifestName": null,
-      "installedTargets": []
+      "installedTargets": null
     },
     {
       "addonID": 306770,
@@ -4971,7 +4971,7 @@
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
       "manifestName": null,
-      "installedTargets": []
+      "installedTargets": null
     },
     {
       "addonID": 224791,
@@ -5462,7 +5462,7 @@
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
       "manifestName": null,
-      "installedTargets": []
+      "installedTargets": null
     },
     {
       "addonID": 243363,
@@ -6008,7 +6008,7 @@
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
       "manifestName": null,
-      "installedTargets": []
+      "installedTargets": null
     },
     {
       "addonID": 290201,
@@ -6088,7 +6088,7 @@
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
       "manifestName": null,
-      "installedTargets": []
+      "installedTargets": null
     },
     {
       "addonID": 227877,
@@ -6165,7 +6165,7 @@
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
       "manifestName": null,
-      "installedTargets": []
+      "installedTargets": null
     },
     {
       "addonID": 220954,
@@ -6453,7 +6453,7 @@
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
       "manifestName": null,
-      "installedTargets": []
+      "installedTargets": null
     },
     {
       "addonID": 220698,
@@ -6705,7 +6705,7 @@
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
       "manifestName": null,
-      "installedTargets": []
+      "installedTargets": null
     },
     {
       "addonID": 284139,
@@ -6778,7 +6778,7 @@
         "gameVersionDateReleased": "2008-03-01T06:00:00Z",
         "gameId": 0,
         "isServerPack": false,
-        "FileNameOnDisk": "multiblockstages-1.2.0.jar"
+        "FileNameOnDisk": "multiblockstages-1.2.0.jar.disabled"
       },
       "dateInstalled": "2020-01-11T16:26:02.5281992Z",
       "dateUpdated": "2020-01-11T16:26:02.5301866Z",
@@ -6792,7 +6792,7 @@
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
       "manifestName": null,
-      "installedTargets": []
+      "installedTargets": null
     },
     {
       "addonID": 227083,
@@ -6988,7 +6988,7 @@
         "gameVersionDateReleased": "2008-03-01T06:00:00Z",
         "gameId": 0,
         "isServerPack": false,
-        "FileNameOnDisk": "twilightforest-1.12.2-3.10.1013-universal.jar"
+        "FileNameOnDisk": "twilightforest-1.12.2-3.10.1013-universal.jar.disabled"
       },
       "dateInstalled": "2020-01-09T19:35:01.4701696Z",
       "dateUpdated": "2020-01-09T19:35:01.5020618Z",
@@ -7263,86 +7263,7 @@
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
       "manifestName": null,
-      "installedTargets": []
-    },
-    {
-      "addonID": 324598,
-      "gameInstanceID": "670196a3-c61a-4c57-aa38-1e50776546fd",
-      "installedFile": {
-        "id": 2726023,
-        "displayName": "Hardcore Item Stages MC1.12.2 v1.0",
-        "fileName": "HardcoreItemStages MC1.12.2 v1.0.jar",
-        "fileDate": "2019-06-17T20:28:43.513Z",
-        "fileLength": 13350,
-        "releaseType": 1,
-        "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/2726/23/HardcoreItemStages MC1.12.2 v1.0.jar",
-        "isAlternate": false,
-        "alternateFileId": 0,
-        "dependencies": [
-          {
-            "id": 0,
-            "addonId": 280316,
-            "type": 3,
-            "fileId": 0
-          }
-        ],
-        "isAvailable": true,
-        "modules": [
-          {
-            "foldername": "META-INF",
-            "fingerprint": 3111592488,
-            "type": 0
-          },
-          {
-            "foldername": "tschipp",
-            "fingerprint": 1718123660,
-            "type": 0
-          },
-          {
-            "foldername": "assets",
-            "fingerprint": 3989082297,
-            "type": 0
-          },
-          {
-            "foldername": "mcmod.info",
-            "fingerprint": 4132459991,
-            "type": 0
-          },
-          {
-            "foldername": "pack.mcmeta",
-            "fingerprint": 3273911401,
-            "type": 0
-          }
-        ],
-        "packageFingerprint": 1935166692,
-        "gameVersion": [
-          "1.12.2"
-        ],
-        "hasInstallScript": false,
-        "isCompatibleWithClient": false,
-        "categorySectionPackageType": 0,
-        "restrictProjectFileAccess": 0,
-        "projectStatus": 0,
-        "projectId": 0,
-        "gameVersionDateReleased": "2017-09-18T05:00:00Z",
-        "gameId": 0,
-        "isServerPack": false,
-        "FileNameOnDisk": "HardcoreItemStages MC1.12.2 v1.0.jar"
-      },
-      "dateInstalled": "2020-01-11T16:28:37.8015658Z",
-      "dateUpdated": "2020-01-11T16:28:37.8055805Z",
-      "dateLastUpdateAttempted": "2020-01-11T16:28:37.8055805Z",
-      "status": 4,
-      "preferenceAutoInstallUpdates": false,
-      "preferenceAlternateFile": false,
-      "preferenceIsIgnored": false,
-      "isModified": false,
-      "isWorkingCopy": false,
-      "isFuzzyMatch": false,
-      "preferenceReleaseType": null,
-      "manifestName": null,
-      "installedTargets": []
+      "installedTargets": null
     },
     {
       "addonID": 228756,
@@ -7429,79 +7350,74 @@
       "installedTargets": null
     },
     {
-      "addonID": 314904,
+      "addonID": 324598,
       "gameInstanceID": "670196a3-c61a-4c57-aa38-1e50776546fd",
       "installedFile": {
-        "id": 2819669,
-        "displayName": "FTBBackups-1.1.0.1.jar",
-        "fileName": "FTBBackups-1.1.0.1.jar",
-        "fileDate": "2019-10-31T20:25:08.137Z",
-        "fileLength": 43764,
+        "id": 2726023,
+        "displayName": "Hardcore Item Stages MC1.12.2 v1.0",
+        "fileName": "HardcoreItemStages MC1.12.2 v1.0.jar",
+        "fileDate": "2019-06-17T20:28:43.513Z",
+        "fileLength": 13350,
         "releaseType": 1,
         "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/2819/669/FTBBackups-1.1.0.1.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/2726/23/HardcoreItemStages MC1.12.2 v1.0.jar",
         "isAlternate": false,
-        "alternateFileId": 2819670,
-        "dependencies": [],
+        "alternateFileId": 0,
+        "dependencies": [
+          {
+            "id": 0,
+            "addonId": 280316,
+            "type": 3,
+            "fileId": 0
+          }
+        ],
         "isAvailable": true,
         "modules": [
           {
             "foldername": "META-INF",
-            "fingerprint": 3896838891,
-            "type": 3
+            "fingerprint": 3111592488,
+            "type": 0
           },
           {
-            "foldername": "com",
-            "fingerprint": 409143337,
-            "type": 3
+            "foldername": "tschipp",
+            "fingerprint": 1718123660,
+            "type": 0
           },
           {
             "foldername": "assets",
-            "fingerprint": 4225148106,
-            "type": 3
-          },
-          {
-            "foldername": "pack.mcmeta",
-            "fingerprint": 3152582459,
-            "type": 3
+            "fingerprint": 3989082297,
+            "type": 0
           },
           {
             "foldername": "mcmod.info",
-            "fingerprint": 812656482,
-            "type": 3
+            "fingerprint": 4132459991,
+            "type": 0
+          },
+          {
+            "foldername": "pack.mcmeta",
+            "fingerprint": 3273911401,
+            "type": 0
           }
         ],
-        "packageFingerprint": 752442057,
+        "packageFingerprint": 1935166692,
         "gameVersion": [
           "1.12.2"
         ],
-        "sortableGameVersion": [
-          {
-            "gameVersionPadded": "0000000001.0000000012.0000000002",
-            "gameVersion": "1.12.2",
-            "gameVersionReleaseDate": "2017-09-18T05:00:00Z",
-            "gameVersionName": "1.12.2"
-          }
-        ],
         "hasInstallScript": false,
         "isCompatibleWithClient": false,
-        "categorySectionPackageType": 6,
-        "restrictProjectFileAccess": 1,
-        "projectStatus": 4,
-        "renderCacheId": 1693418,
-        "projectId": 314904,
-        "packageFingerprintId": 372959736,
-        "gameVersionDateReleased": "2008-03-01T06:00:00Z",
-        "gameVersionMappingId": 1988512,
-        "gameVersionId": 4458,
-        "gameId": 432,
+        "categorySectionPackageType": 0,
+        "restrictProjectFileAccess": 0,
+        "projectStatus": 0,
+        "projectId": 0,
+        "gameVersionDateReleased": "2017-09-18T05:00:00Z",
+        "gameId": 0,
         "isServerPack": false,
-        "FileNameOnDisk": "FTBBackups-1.1.0.1.jar"
+        "FileNameOnDisk": "HardcoreItemStages MC1.12.2 v1.0.jar"
       },
-      "dateInstalled": "2020-01-08T19:47:41.0910307Z",
-      "dateUpdated": "2019-01-08T19:47:41.0910307Z",
-      "dateLastUpdateAttempted": "0001-01-01T00:00:00",
-      "status": 5,
+      "dateInstalled": "2020-01-11T16:28:37.8015658Z",
+      "dateUpdated": "2020-01-11T16:28:37.8055805Z",
+      "dateLastUpdateAttempted": "2020-01-11T16:28:37.8055805Z",
+      "status": 4,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -7633,6 +7549,90 @@
       "installedTargets": null
     },
     {
+      "addonID": 314904,
+      "gameInstanceID": "670196a3-c61a-4c57-aa38-1e50776546fd",
+      "installedFile": {
+        "id": 2819669,
+        "displayName": "FTBBackups-1.1.0.1.jar",
+        "fileName": "FTBBackups-1.1.0.1.jar",
+        "fileDate": "2019-10-31T20:25:08.137Z",
+        "fileLength": 43764,
+        "releaseType": 1,
+        "fileStatus": 4,
+        "downloadUrl": "https://edge.forgecdn.net/files/2819/669/FTBBackups-1.1.0.1.jar",
+        "isAlternate": false,
+        "alternateFileId": 2819670,
+        "dependencies": [],
+        "isAvailable": true,
+        "modules": [
+          {
+            "foldername": "META-INF",
+            "fingerprint": 3896838891,
+            "type": 3
+          },
+          {
+            "foldername": "com",
+            "fingerprint": 409143337,
+            "type": 3
+          },
+          {
+            "foldername": "assets",
+            "fingerprint": 4225148106,
+            "type": 3
+          },
+          {
+            "foldername": "pack.mcmeta",
+            "fingerprint": 3152582459,
+            "type": 3
+          },
+          {
+            "foldername": "mcmod.info",
+            "fingerprint": 812656482,
+            "type": 3
+          }
+        ],
+        "packageFingerprint": 752442057,
+        "gameVersion": [
+          "1.12.2"
+        ],
+        "sortableGameVersion": [
+          {
+            "gameVersionPadded": "0000000001.0000000012.0000000002",
+            "gameVersion": "1.12.2",
+            "gameVersionReleaseDate": "2017-09-18T05:00:00Z",
+            "gameVersionName": "1.12.2"
+          }
+        ],
+        "hasInstallScript": false,
+        "isCompatibleWithClient": false,
+        "categorySectionPackageType": 6,
+        "restrictProjectFileAccess": 1,
+        "projectStatus": 4,
+        "renderCacheId": 1693418,
+        "projectId": 314904,
+        "packageFingerprintId": 372959736,
+        "gameVersionDateReleased": "2008-03-01T06:00:00Z",
+        "gameVersionMappingId": 1988512,
+        "gameVersionId": 4458,
+        "gameId": 432,
+        "isServerPack": false,
+        "FileNameOnDisk": "FTBBackups-1.1.0.1.jar"
+      },
+      "dateInstalled": "2020-01-08T19:47:41.0910307Z",
+      "dateUpdated": "2019-01-08T19:47:41.0910307Z",
+      "dateLastUpdateAttempted": "0001-01-01T00:00:00",
+      "status": 5,
+      "preferenceAutoInstallUpdates": false,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null,
+      "installedTargets": null
+    },
+    {
       "addonID": 268655,
       "gameInstanceID": "670196a3-c61a-4c57-aa38-1e50776546fd",
       "installedFile": {
@@ -7714,7 +7714,7 @@
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
       "manifestName": null,
-      "installedTargets": []
+      "installedTargets": null
     },
     {
       "addonID": 264231,
@@ -7971,68 +7971,6 @@
       "installedTargets": null
     },
     {
-      "addonID": 221585,
-      "gameInstanceID": "670196a3-c61a-4c57-aa38-1e50776546fd",
-      "installedFile": {
-        "id": 2492586,
-        "displayName": "RoguelikeDungeons-1.12.2-1.8.0.jar",
-        "fileName": "RoguelikeDungeons-1.12.2-1.8.0.jar",
-        "fileDate": "2017-10-20T19:07:15.16Z",
-        "fileLength": 701215,
-        "releaseType": 1,
-        "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/2492/586/RoguelikeDungeons-1.12.2-1.8.0.jar",
-        "isAlternate": false,
-        "alternateFileId": 0,
-        "dependencies": [],
-        "isAvailable": true,
-        "modules": [
-          {
-            "foldername": "META-INF",
-            "fingerprint": 2464251221,
-            "type": 0
-          },
-          {
-            "foldername": "greymerk",
-            "fingerprint": 4210190164,
-            "type": 0
-          },
-          {
-            "foldername": "mcmod.info",
-            "fingerprint": 42257697,
-            "type": 0
-          }
-        ],
-        "packageFingerprint": 4054234996,
-        "gameVersion": [
-          "1.12.2"
-        ],
-        "hasInstallScript": false,
-        "isCompatibleWithClient": false,
-        "categorySectionPackageType": 0,
-        "restrictProjectFileAccess": 0,
-        "projectStatus": 0,
-        "projectId": 0,
-        "gameVersionDateReleased": "2008-03-01T06:00:00Z",
-        "gameId": 0,
-        "isServerPack": false,
-        "FileNameOnDisk": "RoguelikeDungeons-1.12.2-1.8.0.jar"
-      },
-      "dateInstalled": "2020-01-11T16:38:51.3866395Z",
-      "dateUpdated": "2020-01-11T16:38:51.3906284Z",
-      "dateLastUpdateAttempted": "2020-01-11T16:38:51.3906284Z",
-      "status": 4,
-      "preferenceAutoInstallUpdates": false,
-      "preferenceAlternateFile": false,
-      "preferenceIsIgnored": false,
-      "isModified": false,
-      "isWorkingCopy": false,
-      "isFuzzyMatch": false,
-      "preferenceReleaseType": null,
-      "manifestName": null,
-      "installedTargets": []
-    },
-    {
       "addonID": 226294,
       "gameInstanceID": "670196a3-c61a-4c57-aa38-1e50776546fd",
       "installedFile": {
@@ -8100,77 +8038,40 @@
       "installedTargets": null
     },
     {
-      "addonID": 340977,
+      "addonID": 221585,
       "gameInstanceID": "670196a3-c61a-4c57-aa38-1e50776546fd",
       "installedFile": {
-        "id": 2795709,
-        "displayName": "Tektopia Information 1.4.0 for Tektopia 1.1.0",
-        "fileName": "TektopiaInformation-1.12.2-1.1.0-1.4.0.jar",
-        "fileDate": "2019-09-26T11:26:02.193Z",
-        "fileLength": 1122936,
+        "id": 2492586,
+        "displayName": "RoguelikeDungeons-1.12.2-1.8.0.jar",
+        "fileName": "RoguelikeDungeons-1.12.2-1.8.0.jar",
+        "fileDate": "2017-10-20T19:07:15.16Z",
+        "fileLength": 701215,
         "releaseType": 1,
         "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/2795/709/TektopiaInformation-1.12.2-1.1.0-1.4.0.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/2492/586/RoguelikeDungeons-1.12.2-1.8.0.jar",
         "isAlternate": false,
         "alternateFileId": 0,
-        "dependencies": [
-          {
-            "id": 0,
-            "addonId": 238222,
-            "type": 2,
-            "fileId": 0
-          },
-          {
-            "id": 0,
-            "addonId": 333029,
-            "type": 3,
-            "fileId": 0
-          },
-          {
-            "id": 0,
-            "addonId": 73488,
-            "type": 2,
-            "fileId": 0
-          },
-          {
-            "id": 0,
-            "addonId": 245211,
-            "type": 2,
-            "fileId": 0
-          },
-          {
-            "id": 0,
-            "addonId": 253449,
-            "type": 2,
-            "fileId": 0
-          }
-        ],
+        "dependencies": [],
         "isAvailable": true,
         "modules": [
           {
             "foldername": "META-INF",
-            "fingerprint": 3789974369,
+            "fingerprint": 2464251221,
             "type": 0
           },
           {
-            "foldername": "bletch",
-            "fingerprint": 2174716463,
-            "type": 0
-          },
-          {
-            "foldername": "assets",
-            "fingerprint": 2564361011,
+            "foldername": "greymerk",
+            "fingerprint": 4210190164,
             "type": 0
           },
           {
             "foldername": "mcmod.info",
-            "fingerprint": 4227427772,
+            "fingerprint": 42257697,
             "type": 0
           }
         ],
-        "packageFingerprint": 1079814017,
+        "packageFingerprint": 4054234996,
         "gameVersion": [
-          "Forge",
           "1.12.2"
         ],
         "hasInstallScript": false,
@@ -8182,91 +8083,12 @@
         "gameVersionDateReleased": "2008-03-01T06:00:00Z",
         "gameId": 0,
         "isServerPack": false,
-        "FileNameOnDisk": "TektopiaInformation-1.12.2-1.1.0-1.4.0.jar"
+        "FileNameOnDisk": "RoguelikeDungeons-1.12.2-1.8.0.jar"
       },
-      "dateInstalled": "2020-01-09T18:53:17.5410279Z",
-      "dateUpdated": "2020-01-09T18:53:17.5440097Z",
-      "dateLastUpdateAttempted": "2020-01-09T18:53:17.5440097Z",
-      "status": 5,
-      "preferenceAutoInstallUpdates": false,
-      "preferenceAlternateFile": false,
-      "preferenceIsIgnored": false,
-      "isModified": false,
-      "isWorkingCopy": false,
-      "isFuzzyMatch": false,
-      "preferenceReleaseType": null,
-      "manifestName": null,
-      "installedTargets": null
-    },
-    {
-      "addonID": 250398,
-      "gameInstanceID": "670196a3-c61a-4c57-aa38-1e50776546fd",
-      "installedFile": {
-        "id": 2731319,
-        "displayName": "Controlling-3.0.7",
-        "fileName": "Controlling-3.0.7.jar",
-        "fileDate": "2019-06-27T09:25:29.777Z",
-        "fileLength": 27162,
-        "releaseType": 1,
-        "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/2731/319/Controlling-3.0.7.jar",
-        "isAlternate": false,
-        "alternateFileId": 0,
-        "dependencies": [],
-        "isAvailable": true,
-        "modules": [
-          {
-            "foldername": "META-INF",
-            "fingerprint": 3475994140,
-            "type": 3
-          },
-          {
-            "foldername": "us",
-            "fingerprint": 2410164597,
-            "type": 3
-          },
-          {
-            "foldername": "assets",
-            "fingerprint": 1022131806,
-            "type": 3
-          },
-          {
-            "foldername": "mcmod.info",
-            "fingerprint": 3193961234,
-            "type": 3
-          }
-        ],
-        "packageFingerprint": 2962360278,
-        "gameVersion": [
-          "1.12.2"
-        ],
-        "sortableGameVersion": [
-          {
-            "gameVersionPadded": "0000000001.0000000012.0000000002",
-            "gameVersion": "1.12.2",
-            "gameVersionReleaseDate": "2017-09-18T05:00:00Z",
-            "gameVersionName": "1.12.2"
-          }
-        ],
-        "hasInstallScript": false,
-        "isCompatibleWithClient": false,
-        "categorySectionPackageType": 6,
-        "restrictProjectFileAccess": 1,
-        "projectStatus": 4,
-        "renderCacheId": 1583643,
-        "projectId": 250398,
-        "packageFingerprintId": 327723223,
-        "gameVersionDateReleased": "2008-03-01T06:00:00Z",
-        "gameVersionMappingId": 1844864,
-        "gameVersionId": 4458,
-        "gameId": 432,
-        "isServerPack": false,
-        "FileNameOnDisk": "Controlling-3.0.7.jar"
-      },
-      "dateInstalled": "2020-01-08T19:47:41.0870404Z",
-      "dateUpdated": "2019-01-08T19:47:41.0870404Z",
-      "dateLastUpdateAttempted": "0001-01-01T00:00:00",
-      "status": 3,
+      "dateInstalled": "2020-01-11T16:38:51.3866395Z",
+      "dateUpdated": "2020-01-11T16:38:51.3906284Z",
+      "dateLastUpdateAttempted": "2020-01-11T16:38:51.3906284Z",
+      "status": 4,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -8381,6 +8203,184 @@
       "installedTargets": null
     },
     {
+      "addonID": 250398,
+      "gameInstanceID": "670196a3-c61a-4c57-aa38-1e50776546fd",
+      "installedFile": {
+        "id": 2731319,
+        "displayName": "Controlling-3.0.7",
+        "fileName": "Controlling-3.0.7.jar",
+        "fileDate": "2019-06-27T09:25:29.777Z",
+        "fileLength": 27162,
+        "releaseType": 1,
+        "fileStatus": 4,
+        "downloadUrl": "https://edge.forgecdn.net/files/2731/319/Controlling-3.0.7.jar",
+        "isAlternate": false,
+        "alternateFileId": 0,
+        "dependencies": [],
+        "isAvailable": true,
+        "modules": [
+          {
+            "foldername": "META-INF",
+            "fingerprint": 3475994140,
+            "type": 3
+          },
+          {
+            "foldername": "us",
+            "fingerprint": 2410164597,
+            "type": 3
+          },
+          {
+            "foldername": "assets",
+            "fingerprint": 1022131806,
+            "type": 3
+          },
+          {
+            "foldername": "mcmod.info",
+            "fingerprint": 3193961234,
+            "type": 3
+          }
+        ],
+        "packageFingerprint": 2962360278,
+        "gameVersion": [
+          "1.12.2"
+        ],
+        "sortableGameVersion": [
+          {
+            "gameVersionPadded": "0000000001.0000000012.0000000002",
+            "gameVersion": "1.12.2",
+            "gameVersionReleaseDate": "2017-09-18T05:00:00Z",
+            "gameVersionName": "1.12.2"
+          }
+        ],
+        "hasInstallScript": false,
+        "isCompatibleWithClient": false,
+        "categorySectionPackageType": 6,
+        "restrictProjectFileAccess": 1,
+        "projectStatus": 4,
+        "renderCacheId": 1583643,
+        "projectId": 250398,
+        "packageFingerprintId": 327723223,
+        "gameVersionDateReleased": "2008-03-01T06:00:00Z",
+        "gameVersionMappingId": 1844864,
+        "gameVersionId": 4458,
+        "gameId": 432,
+        "isServerPack": false,
+        "FileNameOnDisk": "Controlling-3.0.7.jar"
+      },
+      "dateInstalled": "2020-01-08T19:47:41.0870404Z",
+      "dateUpdated": "2019-01-08T19:47:41.0870404Z",
+      "dateLastUpdateAttempted": "0001-01-01T00:00:00",
+      "status": 3,
+      "preferenceAutoInstallUpdates": false,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null,
+      "installedTargets": null
+    },
+    {
+      "addonID": 340977,
+      "gameInstanceID": "670196a3-c61a-4c57-aa38-1e50776546fd",
+      "installedFile": {
+        "id": 2795709,
+        "displayName": "Tektopia Information 1.4.0 for Tektopia 1.1.0",
+        "fileName": "TektopiaInformation-1.12.2-1.1.0-1.4.0.jar",
+        "fileDate": "2019-09-26T11:26:02.193Z",
+        "fileLength": 1122936,
+        "releaseType": 1,
+        "fileStatus": 4,
+        "downloadUrl": "https://edge.forgecdn.net/files/2795/709/TektopiaInformation-1.12.2-1.1.0-1.4.0.jar",
+        "isAlternate": false,
+        "alternateFileId": 0,
+        "dependencies": [
+          {
+            "id": 0,
+            "addonId": 238222,
+            "type": 2,
+            "fileId": 0
+          },
+          {
+            "id": 0,
+            "addonId": 333029,
+            "type": 3,
+            "fileId": 0
+          },
+          {
+            "id": 0,
+            "addonId": 73488,
+            "type": 2,
+            "fileId": 0
+          },
+          {
+            "id": 0,
+            "addonId": 245211,
+            "type": 2,
+            "fileId": 0
+          },
+          {
+            "id": 0,
+            "addonId": 253449,
+            "type": 2,
+            "fileId": 0
+          }
+        ],
+        "isAvailable": true,
+        "modules": [
+          {
+            "foldername": "META-INF",
+            "fingerprint": 3789974369,
+            "type": 0
+          },
+          {
+            "foldername": "bletch",
+            "fingerprint": 2174716463,
+            "type": 0
+          },
+          {
+            "foldername": "assets",
+            "fingerprint": 2564361011,
+            "type": 0
+          },
+          {
+            "foldername": "mcmod.info",
+            "fingerprint": 4227427772,
+            "type": 0
+          }
+        ],
+        "packageFingerprint": 1079814017,
+        "gameVersion": [
+          "Forge",
+          "1.12.2"
+        ],
+        "hasInstallScript": false,
+        "isCompatibleWithClient": false,
+        "categorySectionPackageType": 0,
+        "restrictProjectFileAccess": 0,
+        "projectStatus": 0,
+        "projectId": 0,
+        "gameVersionDateReleased": "2008-03-01T06:00:00Z",
+        "gameId": 0,
+        "isServerPack": false,
+        "FileNameOnDisk": "TektopiaInformation-1.12.2-1.1.0-1.4.0.jar"
+      },
+      "dateInstalled": "2020-01-09T18:53:17.5410279Z",
+      "dateUpdated": "2020-01-09T18:53:17.5440097Z",
+      "dateLastUpdateAttempted": "2020-01-09T18:53:17.5440097Z",
+      "status": 5,
+      "preferenceAutoInstallUpdates": false,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null,
+      "installedTargets": null
+    },
+    {
       "addonID": 280316,
       "gameInstanceID": "670196a3-c61a-4c57-aa38-1e50776546fd",
       "installedFile": {
@@ -8463,7 +8463,7 @@
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
       "manifestName": null,
-      "installedTargets": []
+      "installedTargets": null
     },
     {
       "addonID": 253449,
