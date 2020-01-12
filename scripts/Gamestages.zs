@@ -1,0 +1,2 @@
+stage|Gut
+stage|Böse

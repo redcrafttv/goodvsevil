@@ -47,6 +47,12 @@
     },
     "done": true
   },
+  "ebwizardry:anger_wizard": {
+    "criteria": {
+      "criteria_0": "2020-01-12 18:55:40 +0100"
+    },
+    "done": true
+  },
   "mysticalworld:root": {
     "criteria": {
       "auto": "2020-01-09 20:43:41 +0100"
@@ -56,12 +62,6 @@
   "minecraft:recipes/transportation/acacia_boat": {
     "criteria": {
       "entered_water": "2020-01-09 19:10:06 +0100"
-    },
-    "done": true
-  },
-  "twilightforest:alt/compat/ie_shaders": {
-    "criteria": {
-      "tf_shader_bag": "2020-01-11 18:27:17 +0100"
     },
     "done": true
   },
@@ -77,16 +77,16 @@
     },
     "done": true
   },
-  "twilightforest:progress_troll": {
-    "criteria": {
-      "lamp": "2020-01-11 18:27:50 +0100"
-    },
-    "done": false
-  },
   "ebwizardry:all_spells": {
     "criteria": {
       "flight": "2020-01-11 18:26:51 +0100",
       "lightning_arrow": "2020-01-11 18:26:48 +0100"
+    },
+    "done": false
+  },
+  "twilightforest:progress_troll": {
+    "criteria": {
+      "lamp": "2020-01-11 18:27:50 +0100"
     },
     "done": false
   },
