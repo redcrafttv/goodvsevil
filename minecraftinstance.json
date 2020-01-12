@@ -3817,74 +3817,7 @@
     {
       "addonID": 231951,
       "gameInstanceID": "670196a3-c61a-4c57-aa38-1e50776546fd",
-      "installedFile": {
-        "id": 2799143,
-        "displayName": "Immersive Engineering 0.12 - 92",
-        "fileName": "ImmersiveEngineering-0.12-92.jar",
-        "fileDate": "2019-09-30T18:25:57.95Z",
-        "fileLength": 6802153,
-        "releaseType": 1,
-        "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/2799/143/ImmersiveEngineering-0.12-92.jar",
-        "isAlternate": false,
-        "alternateFileId": 0,
-        "dependencies": [
-          {
-            "id": 0,
-            "addonId": 267602,
-            "type": 2,
-            "fileId": 0
-          }
-        ],
-        "isAvailable": true,
-        "modules": [
-          {
-            "foldername": "META-INF",
-            "fingerprint": 2347371583,
-            "type": 0
-          },
-          {
-            "foldername": "assets",
-            "fingerprint": 1036822632,
-            "type": 0
-          },
-          {
-            "foldername": "blusunrize",
-            "fingerprint": 1859369350,
-            "type": 0
-          },
-          {
-            "foldername": "invtweaks",
-            "fingerprint": 783127171,
-            "type": 0
-          },
-          {
-            "foldername": "mcmod.info",
-            "fingerprint": 476805138,
-            "type": 0
-          },
-          {
-            "foldername": "pack.mcmeta",
-            "fingerprint": 2007758541,
-            "type": 0
-          }
-        ],
-        "packageFingerprint": 1384009829,
-        "gameVersion": [
-          "Forge",
-          "1.12.2"
-        ],
-        "hasInstallScript": false,
-        "isCompatibleWithClient": false,
-        "categorySectionPackageType": 0,
-        "restrictProjectFileAccess": 0,
-        "projectStatus": 0,
-        "projectId": 0,
-        "gameVersionDateReleased": "2008-03-01T06:00:00Z",
-        "gameId": 0,
-        "isServerPack": false,
-        "FileNameOnDisk": "ImmersiveEngineering-0.12-92.jar.disabled"
-      },
+      "installedFile": null,
       "dateInstalled": "2020-01-11T16:26:02.1885453Z",
       "dateUpdated": "2020-01-11T16:26:02.2005138Z",
       "dateLastUpdateAttempted": "2020-01-11T16:26:02.2005138Z",
@@ -4069,7 +4002,7 @@
       "dateInstalled": "2020-01-11T16:52:33.892676Z",
       "dateUpdated": "2020-01-11T16:52:33.8986839Z",
       "dateLastUpdateAttempted": "2020-01-11T16:52:33.8986839Z",
-      "status": 4,
+      "status": 3,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -6710,76 +6643,7 @@
     {
       "addonID": 284139,
       "gameInstanceID": "670196a3-c61a-4c57-aa38-1e50776546fd",
-      "installedFile": {
-        "id": 2821069,
-        "displayName": "multiblockstages-1.2.0.jar",
-        "fileName": "multiblockstages-1.2.0.jar",
-        "fileDate": "2019-11-03T00:52:03.957Z",
-        "fileLength": 16601,
-        "releaseType": 1,
-        "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/2821/69/multiblockstages-1.2.0.jar",
-        "isAlternate": false,
-        "alternateFileId": 0,
-        "dependencies": [
-          {
-            "id": 0,
-            "addonId": 239197,
-            "type": 3,
-            "fileId": 0
-          },
-          {
-            "id": 0,
-            "addonId": 231951,
-            "type": 3,
-            "fileId": 0
-          },
-          {
-            "id": 0,
-            "addonId": 268655,
-            "type": 3,
-            "fileId": 0
-          }
-        ],
-        "isAvailable": true,
-        "modules": [
-          {
-            "foldername": "META-INF",
-            "fingerprint": 4131736794,
-            "type": 0
-          },
-          {
-            "foldername": "com",
-            "fingerprint": 2393940083,
-            "type": 0
-          },
-          {
-            "foldername": "mcmod.info",
-            "fingerprint": 44941095,
-            "type": 0
-          },
-          {
-            "foldername": "logo.png",
-            "fingerprint": 3360789047,
-            "type": 0
-          }
-        ],
-        "packageFingerprint": 2683046958,
-        "gameVersion": [
-          "Forge",
-          "1.12.2"
-        ],
-        "hasInstallScript": false,
-        "isCompatibleWithClient": false,
-        "categorySectionPackageType": 0,
-        "restrictProjectFileAccess": 0,
-        "projectStatus": 0,
-        "projectId": 0,
-        "gameVersionDateReleased": "2008-03-01T06:00:00Z",
-        "gameId": 0,
-        "isServerPack": false,
-        "FileNameOnDisk": "multiblockstages-1.2.0.jar.disabled"
-      },
+      "installedFile": null,
       "dateInstalled": "2020-01-11T16:26:02.5281992Z",
       "dateUpdated": "2020-01-11T16:26:02.5301866Z",
       "dateLastUpdateAttempted": "2020-01-11T16:26:02.5301866Z",
@@ -6988,7 +6852,7 @@
         "gameVersionDateReleased": "2008-03-01T06:00:00Z",
         "gameId": 0,
         "isServerPack": false,
-        "FileNameOnDisk": "twilightforest-1.12.2-3.10.1013-universal.jar.disabled"
+        "FileNameOnDisk": "twilightforest-1.12.2-3.10.1013-universal.jar"
       },
       "dateInstalled": "2020-01-09T19:35:01.4701696Z",
       "dateUpdated": "2020-01-09T19:35:01.5020618Z",
