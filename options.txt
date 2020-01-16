@@ -96,13 +96,13 @@ key_key.ebwizardry.previous_spell:48
 key_keybind.baublesinventory:48
 key_roots.keybinds.pouch:0
 key_roots.keybinds.quiver:0
-key_roots.keybinds.spell_slot_4:0
 key_roots.keybinds.spell_slot_3:0
-key_roots.keybinds.spell_slot_1:0
 key_roots.keybinds.spell_slot_previous:0
+key_roots.keybinds.spell_slot_4:0
 key_roots.keybinds.spell_slot_5:0
-key_roots.keybinds.spell_slot_2:0
 key_roots.keybinds.spell_slot_next:0
+key_roots.keybinds.spell_slot_2:0
+key_roots.keybinds.spell_slot_1:0
 key_key.erebus.glide:34
 key_key.erebus.poweredglide:35
 key_key.erebus.beetleram:19
@@ -170,8 +170,6 @@ key_key.dragon_strike:34
 key_key.dragon_down:45
 key_key.dragon_change_view:65
 key_invtweaks.key.sort:19
-key_key.immersiveengineering.magnetEquip:31
-key_key.immersiveengineering.chemthrowerSwitch:0
 key_key.radial_menu:0
 key_key.use_ring:19
 key_key.use_secondary_ring:0
