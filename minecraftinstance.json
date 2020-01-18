@@ -6669,77 +6669,7 @@
     {
       "addonID": 225957,
       "gameInstanceID": "397f7f17-62f4-404c-a0f3-30c2bc52ddd5",
-      "installedFile": {
-        "id": 2499443,
-        "displayName": "HardcoreDarkness-MC1.12.2-2.0.jar",
-        "fileName": "HardcoreDarkness-MC1.12.2-2.0.jar",
-        "fileDate": "2017-11-12T12:49:18.307Z",
-        "fileLength": 32327,
-        "releaseType": 1,
-        "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/2499/443/HardcoreDarkness-MC1.12.2-2.0.jar",
-        "isAlternate": false,
-        "alternateFileId": 0,
-        "dependencies": [],
-        "isAvailable": true,
-        "modules": [
-          {
-            "foldername": "META-INF",
-            "fingerprint": 1045281428,
-            "type": 3
-          },
-          {
-            "foldername": "lumien",
-            "fingerprint": 845476084,
-            "type": 3
-          },
-          {
-            "foldername": "mcmod.info",
-            "fingerprint": 1640070401,
-            "type": 3
-          }
-        ],
-        "packageFingerprint": 1381892724,
-        "gameVersion": [
-          "1.12",
-          "1.12.1",
-          "1.12.2"
-        ],
-        "sortableGameVersion": [
-          {
-            "gameVersionPadded": "0000000001.0000000012",
-            "gameVersion": "1.12",
-            "gameVersionReleaseDate": "2017-06-07T05:00:00Z",
-            "gameVersionName": "1.12"
-          },
-          {
-            "gameVersionPadded": "0000000001.0000000012.0000000001",
-            "gameVersion": "1.12.1",
-            "gameVersionReleaseDate": "2017-08-03T05:00:00Z",
-            "gameVersionName": "1.12.1"
-          },
-          {
-            "gameVersionPadded": "0000000001.0000000012.0000000002",
-            "gameVersion": "1.12.2",
-            "gameVersionReleaseDate": "2017-09-18T05:00:00Z",
-            "gameVersionName": "1.12.2"
-          }
-        ],
-        "hasInstallScript": false,
-        "isCompatibleWithClient": true,
-        "categorySectionPackageType": 6,
-        "restrictProjectFileAccess": 1,
-        "projectStatus": 4,
-        "renderCacheId": 1304748,
-        "projectId": 225957,
-        "packageFingerprintId": 209372649,
-        "gameVersionDateReleased": "2006-12-11T00:00:00Z",
-        "gameVersionMappingId": 1472692,
-        "gameVersionId": 4456,
-        "gameId": 432,
-        "isServerPack": false,
-        "FileNameOnDisk": "HardcoreDarkness-MC1.12.2-2.0.jar"
-      },
+      "installedFile": null,
       "dateInstalled": "2020-01-12T17:37:11.3707952Z",
       "dateUpdated": "2019-01-12T17:37:11.3707952Z",
       "dateLastUpdateAttempted": "0001-01-01T00:00:00",
