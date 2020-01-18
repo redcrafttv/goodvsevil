@@ -7,7 +7,101 @@
 [INITIALIZATION][CLIENT][INFO] Current loaders after merging: [[preinit], [recipeevent | crafttweaker]]
 [INITIALIZATION][CLIENT][INFO] Loading scripts for loader with names [crafttweaker | recipeevent]
 [INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: Gamestages.zs}
-[INITIALIZATION][CLIENT][ERROR] [crafttweaker | SIDE_CLIENT]: Error parsing Gamestages.zs:2 -- ; expected
-[INITIALIZATION][CLIENT][INFO] Completed script loading in: 4601ms
+[INITIALIZATION][CLIENT][ERROR] Gamestages.zs:2 > could not find addGameStage
+[INITIALIZATION][CLIENT][ERROR] Gamestages.zs:3 > could not find addGameStage
+[INITIALIZATION][CLIENT][ERROR] [crafttweaker]: Error executing {[0:crafttweaker]: Gamestages.zs}: Bad type on operand stack
+Exception Details:
+  Location:
+    Gamestages.__script__()V @23: invokestatic
+  Reason:
+    Type 'stanhebben/zenscript/value/IAny' (current frame, stack[4]) is not assignable to 'java/lang/String'
+  Current Frame:
+    bci: @23
+    flags: { }
+    locals: { }
+    stack: { null, '[Lstanhebben/zenscript/value/IAny;', '[Lstanhebben/zenscript/value/IAny;', integer, 'stanhebben/zenscript/value/IAny' }
+  Bytecode:
+    0x0000000: 0112 0abd 000c 5912 0d12 0f59 c700 0857
+    0x0000010: 01a7 0006 b800 15b8 001b 53b9 001f 0200
+    0x0000020: 5701 120a bd00 0c59 120d 1221 59c7 0008
+    0x0000030: 5701 a700 06b8 0015 b800 1b53 b900 1f02
+    0x0000040: 0057 1223 1224 b800 2a12 2c12 2db8 002a
+    0x0000050: 122f 1230 b800 2a12 3212 33b8 002a 120f
+    0x0000060: 1235 b800 3b12 0f12 3db8 003b 120f 123f
+    0x0000070: b800 3b12 0f12 41b8 003b 120f 1243 b800
+    0x0000080: 3b12 0f12 45b8 003b 120f 1247 b800 3b12
+    0x0000090: 0f12 49b8 003b 120f 124b b800 3b12 0f12
+    0x00000a0: 4db8 003b 120f 124f b800 3b12 0f12 51b8
+    0x00000b0: 003b 120f 1253 b800 3b12 0f12 55b8 003b
+    0x00000c0: 120f 1257 b800 3b12 0f12 59b8 003b 120f
+    0x00000d0: 125b b800 3b12 2112 5db8 003b 1221 125f
+    0x00000e0: b800 3b12 2112 61b8 003b 1221 1263 b800
+    0x00000f0: 3b12 2112 65b8 003b 1221 1267 b800 3b12
+    0x0000100: 2112 69b8 003b 1221 126b b800 3b12 2112
+    0x0000110: 6db8 003b b1                           
+  Stackmap Table:
+    full_frame(@20,{},{Null,Object[#111],Object[#111],Integer,Object[#113]})
+    full_frame(@23,{},{Null,Object[#111],Object[#111],Integer,Object[#12]})
+    full_frame(@53,{},{Null,Object[#111],Object[#111],Integer,Object[#113]})
+    full_frame(@56,{},{Null,Object[#111],Object[#111],Integer,Object[#12]})
+
+java.lang.VerifyError: Bad type on operand stack
+Exception Details:
+  Location:
+    Gamestages.__script__()V @23: invokestatic
+  Reason:
+    Type 'stanhebben/zenscript/value/IAny' (current frame, stack[4]) is not assignable to 'java/lang/String'
+  Current Frame:
+    bci: @23
+    flags: { }
+    locals: { }
+    stack: { null, '[Lstanhebben/zenscript/value/IAny;', '[Lstanhebben/zenscript/value/IAny;', integer, 'stanhebben/zenscript/value/IAny' }
+  Bytecode:
+    0x0000000: 0112 0abd 000c 5912 0d12 0f59 c700 0857
+    0x0000010: 01a7 0006 b800 15b8 001b 53b9 001f 0200
+    0x0000020: 5701 120a bd00 0c59 120d 1221 59c7 0008
+    0x0000030: 5701 a700 06b8 0015 b800 1b53 b900 1f02
+    0x0000040: 0057 1223 1224 b800 2a12 2c12 2db8 002a
+    0x0000050: 122f 1230 b800 2a12 3212 33b8 002a 120f
+    0x0000060: 1235 b800 3b12 0f12 3db8 003b 120f 123f
+    0x0000070: b800 3b12 0f12 41b8 003b 120f 1243 b800
+    0x0000080: 3b12 0f12 45b8 003b 120f 1247 b800 3b12
+    0x0000090: 0f12 49b8 003b 120f 124b b800 3b12 0f12
+    0x00000a0: 4db8 003b 120f 124f b800 3b12 0f12 51b8
+    0x00000b0: 003b 120f 1253 b800 3b12 0f12 55b8 003b
+    0x00000c0: 120f 1257 b800 3b12 0f12 59b8 003b 120f
+    0x00000d0: 125b b800 3b12 2112 5db8 003b 1221 125f
+    0x00000e0: b800 3b12 2112 61b8 003b 1221 1263 b800
+    0x00000f0: 3b12 2112 65b8 003b 1221 1267 b800 3b12
+    0x0000100: 2112 69b8 003b 1221 126b b800 3b12 2112
+    0x0000110: 6db8 003b b1                           
+  Stackmap Table:
+    full_frame(@20,{},{Null,Object[#111],Object[#111],Integer,Object[#113]})
+    full_frame(@23,{},{Null,Object[#111],Object[#111],Integer,Object[#12]})
+    full_frame(@53,{},{Null,Object[#111],Object[#111],Integer,Object[#113]})
+    full_frame(@56,{},{Null,Object[#111],Object[#111],Integer,Object[#12]})
+
+	at __ZenMain__.run(Gamestages)
+	at crafttweaker.runtime.CrTTweaker.loadScript(CrTTweaker.java:225)
+	at crafttweaker.runtime.CrTTweaker.loadScript(CrTTweaker.java:105)
+	at crafttweaker.mc1120.events.CommonEventHandler.registerRecipes(CommonEventHandler.java:69)
+	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler_733_CommonEventHandler_registerRecipes_Register.invoke(.dynamic)
+	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler.invoke(ASMEventHandler.java:90)
+	at net.minecraftforge.fml.common.eventhandler.EventBus$1.invoke(EventBus.java:144)
+	at net.minecraftforge.fml.common.eventhandler.EventBus.post(EventBus.java:182)
+	at net.minecraftforge.registries.GameData.fireRegistryEvents(GameData.java:857)
+	at net.minecraftforge.common.crafting.CraftingHelper.loadRecipes(CraftingHelper.java:636)
+	at net.minecraftforge.fml.common.Loader.initializeMods(Loader.java:747)
+	at net.minecraftforge.fml.client.FMLClientHandler.finishMinecraftLoading(FMLClientHandler.java:336)
+	at net.minecraft.client.Minecraft.func_71384_a(Minecraft.java:535)
+	at net.minecraft.client.Minecraft.func_99999_d(Minecraft.java:378)
+	at net.minecraft.client.main.Main.main(SourceFile:123)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:497)
+	at net.minecraft.launchwrapper.Launch.launch(Launch.java:135)
+	at net.minecraft.launchwrapper.Launch.main(Launch.java:28)
+[INITIALIZATION][CLIENT][INFO] Completed script loading in: 342ms
 [POSTINITIALIZATION][CLIENT][INFO] Removing recipes for various outputs
 [AVAILABLE][CLIENT][INFO] Fixed the RecipeBook

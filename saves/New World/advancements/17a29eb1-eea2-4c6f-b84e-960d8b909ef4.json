@@ -11,12 +11,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/item_frame": {
-    "criteria": {
-      "has_leather": "2020-01-16 18:29:19 +0100"
-    },
-    "done": true
-  },
   "aether_legacy:recipes/combat/gravitite_sword": {
     "criteria": {
       "has_grav": "2020-01-16 18:31:48 +0100"
@@ -29,21 +23,15 @@
     },
     "done": true
   },
-  "aether_legacy:recipes/tools/gravitite_axe": {
+  "minecraft:recipes/redstone/tnt": {
     "criteria": {
-      "has_enchanted_gravitite": "2020-01-16 18:31:48 +0100"
+      "has_gunpowder": "2020-01-18 14:02:06 +0100"
     },
     "done": true
   },
   "minecraft:recipes/combat/leather_chestplate": {
     "criteria": {
       "has_leather": "2020-01-16 18:29:19 +0100"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/dark_oak_boat": {
-    "criteria": {
-      "entered_water": "2020-01-09 19:10:06 +0100"
     },
     "done": true
   },
@@ -65,12 +53,6 @@
     },
     "done": true
   },
-  "aether_legacy:recipes/combat/leather_gloves": {
-    "criteria": {
-      "has_leather": "2020-01-16 18:29:19 +0100"
-    },
-    "done": true
-  },
   "twilightforest:alt/treasures/uncrafting_table": {
     "criteria": {
       "uncrafting_table": "2020-01-16 18:28:16 +0100"
@@ -89,6 +71,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/snow": {
+    "criteria": {
+      "has_snowball": "2020-01-18 13:46:40 +0100"
+    },
+    "done": true
+  },
   "astralsorcery:root": {
     "criteria": {
       "astralsorcery_present": "2020-01-09 20:43:42 +0100"
@@ -98,6 +86,7 @@
   "ebwizardry:all_spells": {
     "criteria": {
       "flight": "2020-01-11 18:26:51 +0100",
+      "summon_phoenix": "2020-01-18 13:46:45 +0100",
       "lightning_arrow": "2020-01-11 18:26:48 +0100"
     },
     "done": false
@@ -114,15 +103,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/combat/leather_helmet": {
+  "thebetweenlands:fighter/fashionable_warrior": {
     "criteria": {
-      "has_the_recipe": "2020-01-16 18:28:23 +0100"
+      "hurt_mob_default": "2020-01-18 14:05:44 +0100"
     },
     "done": true
   },
-  "iceandfire:iceandfire/kill_if_dragon": {
+  "minecraft:recipes/combat/leather_helmet": {
     "criteria": {
-      "killed_ice_dragon": "2020-01-16 18:29:46 +0100"
+      "has_the_recipe": "2020-01-16 18:28:23 +0100"
     },
     "done": true
   },
@@ -137,12 +126,6 @@
       "river": "2020-01-09 19:10:02 +0100"
     },
     "done": false
-  },
-  "aether_legacy:recipes/combat/gravitite_chestplate": {
-    "criteria": {
-      "has_enchanted_gravitite": "2020-01-16 18:31:48 +0100"
-    },
-    "done": true
   },
   "aether_legacy:recipes/combat/gravitite_leggings": {
     "criteria": {
@@ -174,51 +157,15 @@
     },
     "done": true
   },
-  "ebwizardry:wizard_tower": {
-    "criteria": {
-      "criteria_0": "2020-01-11 18:30:19 +0100"
-    },
-    "done": true
-  },
-  "ebwizardry:anger_wizard": {
-    "criteria": {
-      "criteria_0": "2020-01-12 18:55:40 +0100"
-    },
-    "done": true
-  },
-  "twilightforest:arborist": {
-    "criteria": {
-      "mangrove_sapling": "2020-01-16 19:16:18 +0100"
-    },
-    "done": false
-  },
   "twilightforest:alt/treasures/maze_map": {
     "criteria": {
       "maze_map_focus": "2020-01-16 18:41:56 +0100"
     },
     "done": true
   },
-  "minecraft:story/root": {
-    "criteria": {
-      "crafting_table": "2020-01-16 18:41:56 +0100"
-    },
-    "done": true
-  },
   "minecraft:recipes/transportation/acacia_boat": {
     "criteria": {
       "entered_water": "2020-01-09 19:10:06 +0100"
-    },
-    "done": true
-  },
-  "aether_legacy:recipes/tools/gravitite_pickaxe": {
-    "criteria": {
-      "has_enchanted_gravitite": "2020-01-16 18:31:48 +0100"
-    },
-    "done": true
-  },
-  "ebwizardry:master": {
-    "criteria": {
-      "lightning": "2020-01-16 19:45:49 +0100"
     },
     "done": true
   },
@@ -234,21 +181,27 @@
     },
     "done": false
   },
-  "twilightforest:alt/treasures/maps": {
-    "criteria": {
-      "1": "2020-01-16 18:41:56 +0100"
-    },
-    "done": true
-  },
   "aether_legacy:recipes/combat/gravitite_gloves": {
     "criteria": {
       "has_enchanted_gravitite": "2020-01-16 18:31:48 +0100"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_slab": {
+    "criteria": {
+      "has_stone": "2020-01-18 13:55:30 +0100"
+    },
+    "done": true
+  },
   "minecraft:adventure/root": {
     "criteria": {
       "killed_something": "2020-01-09 20:05:26 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/stone_pressure_plate": {
+    "criteria": {
+      "has_stone": "2020-01-18 13:55:30 +0100"
     },
     "done": true
   },
@@ -270,27 +223,135 @@
     },
     "done": true
   },
-  "aether_legacy:recipes/combat/gravitite_boots": {
-    "criteria": {
-      "has_enchanted_gravitite": "2020-01-16 18:31:48 +0100"
-    },
-    "done": true
-  },
   "minecraft:recipes/transportation/spruce_boat": {
     "criteria": {
       "entered_water": "2020-01-09 19:10:06 +0100"
     },
     "done": true
   },
-  "minecraft:recipes/combat/leather_leggings": {
+  "minecraft:recipes/decorations/snow_layer": {
     "criteria": {
-      "has_leather": "2020-01-16 18:29:19 +0100"
+      "has_snowball": "2020-01-18 13:46:40 +0100"
     },
     "done": true
   },
   "roots:root": {
     "criteria": {
       "auto": "2020-01-09 20:43:41 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/item_frame": {
+    "criteria": {
+      "has_leather": "2020-01-16 18:29:19 +0100"
+    },
+    "done": true
+  },
+  "aether_legacy:recipes/tools/gravitite_axe": {
+    "criteria": {
+      "has_enchanted_gravitite": "2020-01-16 18:31:48 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_boat": {
+    "criteria": {
+      "entered_water": "2020-01-09 19:10:06 +0100"
+    },
+    "done": true
+  },
+  "aether_legacy:recipes/combat/leather_gloves": {
+    "criteria": {
+      "has_leather": "2020-01-16 18:29:19 +0100"
+    },
+    "done": true
+  },
+  "ebwizardry:handbook/magical_creatures": {
+    "criteria": {
+      "summon_phoenix": "2020-01-18 13:46:45 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stonebrick": {
+    "criteria": {
+      "has_stone": "2020-01-18 13:55:30 +0100"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_if_dragon": {
+    "criteria": {
+      "killed_ice_dragon": "2020-01-16 18:29:46 +0100"
+    },
+    "done": true
+  },
+  "aether_legacy:recipes/combat/gravitite_chestplate": {
+    "criteria": {
+      "has_enchanted_gravitite": "2020-01-16 18:31:48 +0100"
+    },
+    "done": true
+  },
+  "ebwizardry:wizard_tower": {
+    "criteria": {
+      "criteria_0": "2020-01-11 18:30:19 +0100"
+    },
+    "done": true
+  },
+  "ebwizardry:anger_wizard": {
+    "criteria": {
+      "criteria_0": "2020-01-12 18:55:40 +0100"
+    },
+    "done": true
+  },
+  "twilightforest:arborist": {
+    "criteria": {
+      "mangrove_sapling": "2020-01-16 19:16:18 +0100"
+    },
+    "done": false
+  },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2020-01-16 18:41:56 +0100"
+    },
+    "done": true
+  },
+  "ebwizardry:spell_failure": {
+    "criteria": {
+      "criteria_0": "2020-01-18 13:46:32 +0100"
+    },
+    "done": true
+  },
+  "aether_legacy:recipes/tools/gravitite_pickaxe": {
+    "criteria": {
+      "has_enchanted_gravitite": "2020-01-16 18:31:48 +0100"
+    },
+    "done": true
+  },
+  "ebwizardry:master": {
+    "criteria": {
+      "lightning": "2020-01-16 19:45:49 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/stone_button": {
+    "criteria": {
+      "has_stone": "2020-01-18 13:55:30 +0100"
+    },
+    "done": true
+  },
+  "twilightforest:alt/treasures/maps": {
+    "criteria": {
+      "1": "2020-01-16 18:41:56 +0100"
+    },
+    "done": true
+  },
+  "aether_legacy:recipes/combat/gravitite_boots": {
+    "criteria": {
+      "has_enchanted_gravitite": "2020-01-16 18:31:48 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_leggings": {
+    "criteria": {
+      "has_leather": "2020-01-16 18:29:19 +0100"
     },
     "done": true
   }

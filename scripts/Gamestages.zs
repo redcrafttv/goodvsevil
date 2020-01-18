@@ -43,4 +43,4 @@ mods.ItemStages.stageModItems("evil", "thebetweenlands");
 
 
 //ItemNamen verstecken
-mods.ItemStages.setUnfamiliarName("Du kennst dieses Item nicht", <ebwizardry:*>);
+//mods.ItemStages.setUnfamiliarName("Du kennst dieses Item nicht", <ebwizardry:*>);
