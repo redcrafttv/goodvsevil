@@ -1,7 +1,7 @@
 #priority 900
 #modloaded minecraft ebwizardry extra_spells t3s4ebw botania botania_tweaks roots mysticalworld mysticallib totemic embers astralsorcery aether_legacy aeadditions aetherworks aether_legacy_addon arcane_essentials twilightforest bloodmagic animus bloodarsenal abyssalcraft acintegration evilcraft witchery erebus thebetweenlands
-import mods.ItemStages
-import mods.recipestages
+import mods.ItemStages;
+import mods.recipestages;
 
 // Items Stagen
 
