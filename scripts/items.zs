@@ -58,4 +58,12 @@ mods.recipestages.Recipes.setRecipeStageByMod("good", "arcane_essentials");
 mods.recipestages.Recipes.setRecipeStageByMod("good", "twilightforest");
 
 // Böse
-// TODO
+mods.ItemStages.stageModItems("evil", "bloodmagic");
+mods.ItemStages.stageModItems("evil", "animus");
+mods.ItemStages.stageModItems("evil", "bloodarsenal");
+mods.ItemStages.stageModItems("evil", "abyssalcraft");
+mods.ItemStages.stageModItems("evil", "acintegration");
+mods.ItemStages.stageModItems("evil", "evilcraft");
+mods.ItemStages.stageModItems("evil", "witchery");
+mods.ItemStages.stageModItems("evil", "erebus");
+mods.ItemStages.stageModItems("evil", "thebetweenlands");

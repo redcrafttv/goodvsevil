@@ -1,4 +1,4 @@
-#priority 900
+#priority 880
 #modloaded minecraft twilightforest aether_legacy aeadditions aetherworks aether_legacy_addon thebetweenlands erebus
 import mods.DimensionStages;
 
