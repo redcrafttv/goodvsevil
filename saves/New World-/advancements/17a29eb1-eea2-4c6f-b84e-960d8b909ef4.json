@@ -29,6 +29,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2020-01-20 20:11:55 +0100"
+    },
+    "done": true
+  },
+  "ebwizardry:discover_master_spell": {
+    "criteria": {
+      "criteria_0": "2020-01-20 19:46:10 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/compass": {
     "criteria": {
       "has_redstone": "2020-01-19 11:48:06 +0100"
@@ -47,6 +59,12 @@
     },
     "done": true
   },
+  "botania:main/terrasteel_pickup": {
+    "criteria": {
+      "terrasteel": "2020-01-20 19:48:46 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/golden_pickaxe": {
     "criteria": {
       "has_gold_ingot": "2020-01-19 11:48:04 +0100"
@@ -62,6 +80,12 @@
   "minecraft:recipes/building_blocks/gold_block": {
     "criteria": {
       "has_at_least_9_gold_ingot": "2020-01-19 11:48:04 +0100"
+    },
+    "done": true
+  },
+  "evilcraft:evil_source": {
+    "criteria": {
+      "criteria_0": "2020-01-20 20:12:29 +0100"
     },
     "done": true
   },
@@ -97,6 +121,7 @@
   },
   "ebwizardry:all_spells": {
     "criteria": {
+      "diamondflesh": "2020-01-20 19:46:10 +0100",
       "conjure_sword": "2020-01-19 11:35:48 +0100"
     },
     "done": false
@@ -121,10 +146,13 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "forest": "2020-01-20 19:41:45 +0100",
       "birch_forest": "2020-01-19 11:28:47 +0100",
       "extreme_hills_with_trees": "2020-01-19 11:33:09 +0100",
       "forest_hills": "2020-01-19 11:49:10 +0100",
       "plains": "2020-01-19 11:26:44 +0100",
+      "taiga": "2020-01-20 20:06:01 +0100",
+      "taiga_hills": "2020-01-20 20:15:04 +0100",
       "birch_forest_hills": "2020-01-19 11:31:37 +0100",
       "extreme_hills": "2020-01-19 11:32:30 +0100",
       "roofed_forest": "2020-01-19 11:33:38 +0100",
@@ -180,6 +208,12 @@
     },
     "done": true
   },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_helmet": "2020-01-20 19:44:11 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/golden_apple": {
     "criteria": {
       "has_gold_ingot": "2020-01-19 11:48:04 +0100"
@@ -201,6 +235,12 @@
   "minecraft:recipes/transportation/acacia_boat": {
     "criteria": {
       "entered_water": "2020-01-19 11:28:06 +0100"
+    },
+    "done": true
+  },
+  "ebwizardry:handbook/obelisks": {
+    "criteria": {
+      "criteria_0": "2020-01-20 19:46:40 +0100"
     },
     "done": true
   },

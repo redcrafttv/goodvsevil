@@ -4720,3 +4720,702 @@ Caused by: java.lang.ArrayIndexOutOfBoundsException: -1
 [19:38:57] [Client thread/WARN]: GUI did not draw the dark background layer behind itself, this may result in display issues: com.blamejared.ctgui.client.gui.craftingtable.GuiCraftingTable
 [19:39:12] [Client thread/WARN]: GUI did not draw the dark background layer behind itself, this may result in display issues: com.blamejared.ctgui.client.gui.furnace.GuiFurnace
 [19:39:30] [Server thread/INFO]: Saved 0 stages for DieInsel.
+[19:40:15] [Server thread/INFO]: Saved 0 stages for DieInsel.
+[19:41:00] [Server thread/INFO]: Saved 0 stages for DieInsel.
+[19:41:46] [Server thread/INFO]: Saved 0 stages for DieInsel.
+[19:41:46] [Client thread/INFO]: Loaded 135 advancements
+[19:42:33] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2963ms behind, skipping 59 tick(s)
+[19:42:34] [Server thread/INFO]: Saved 0 stages for DieInsel.
+[19:42:48] [Client thread/INFO]: Handling crafting slots.
+[19:42:48] [Client thread/INFO]: Merging stacks.
+[19:42:48] [Client thread/INFO]: Applying rules.
+[19:42:48] [Client thread/INFO]: Locking stacks.
+[19:42:48] [Client thread/INFO]: Default sorting.
+[19:42:48] [Client thread/INFO]: Sorting done in 7523201ns
+[19:43:16] [Server thread/INFO]: Saved 0 stages for DieInsel.
+[19:44:01] [Server thread/INFO]: Saved 0 stages for DieInsel.
+[19:44:11] [Server thread/INFO]: DieInsel has made the advancement [Cover Me With Diamonds]
+[19:44:11] [Server thread/INFO]: Synchronising advancements for DieInsel
+[19:44:11] [Client thread/INFO]: [CHAT] DieInsel has made the advancement [Cover Me With Diamonds]
+[19:44:11] [Client thread/INFO]: Loaded 135 advancements
+[19:44:46] [Server thread/INFO]: Saved 0 stages for DieInsel.
+[19:45:31] [Server thread/INFO]: Saved 0 stages for DieInsel.
+[19:46:10] [Server thread/INFO]: DieInsel has completed the challenge [Dicing With Danger]
+[19:46:10] [Server thread/INFO]: Synchronising advancements for DieInsel
+[19:46:10] [Client thread/INFO]: [CHAT] DieInsel has completed the challenge [Dicing With Danger]
+[19:46:11] [Client thread/INFO]: Loaded 135 advancements
+[19:46:16] [Server thread/INFO]: Saved 0 stages for DieInsel.
+[19:46:21] [Server thread/INFO]: Generating dungeon Outposts at chunkX=-7, chunkZ=54
+[19:46:21] [Server thread/INFO]: Placing dungeon: Outposts
+[19:46:21] [Server thread/INFO]: Generating structure Camp1.nbt at X: -111  Y: 71  Z: 865  ...
+[19:46:21] [Server thread/INFO]: [com.teamcqr.chocolatequestrepoured.structuregen.PlateauBuilder:generateSupportHill:67]: Trying to construct support platform...
+[19:46:21] [Server thread/WARN]: Chocolate Quest Repoured Mod loaded a new chunk [-7, 53] in dimension 0 (overworld) while populating chunk [-7, 54], causing cascading worldgen lag.
+[19:46:21] [Server thread/WARN]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[19:46:21] [Server thread/WARN]: Chocolate Quest Repoured Mod loaded a new chunk [-6, 53] in dimension 0 (overworld) while populating chunk [-7, 54], causing cascading worldgen lag.
+[19:46:21] [Server thread/WARN]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[19:46:22] [Server thread/INFO]: [com.teamcqr.chocolatequestrepoured.util.data.CQRDataFileManager:handleDungeonGeneration:186]: Entry added!
+[19:46:40] [Server thread/INFO]: Synchronising advancements for DieInsel
+[19:46:40] [Client thread/INFO]: Loaded 136 advancements
+[19:46:53] [Server thread/INFO]: Generated structure: LizardmanRaidingWarband at -163, 70, 923, time: 50ms
+[19:46:59] [Server thread/INFO]: Created new marker #7"integration.antiqueatlas.marker.ebwizardry:obelisk"@(-82, 639)
+[19:47:01] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2469ms behind, skipping 49 tick(s)
+[19:47:03] [Server thread/INFO]: [atomicstryker.battletowers.common.AS_WorldGenTower:generate:538]: Dimension 0 Battle Tower type CobbleStone spawned at [ -48 | 640 ], underground: false
+[19:47:06] [Server thread/INFO]: Generated structure: EmpireVillageChurch at -3, 68, 802, time: 2ms
+[19:47:07] [Server thread/INFO]: Created new marker #8"integration.antiqueatlas.marker.ebwizardry:shrine"@(-211, 980)
+[19:47:08] [Server thread/INFO]: Saved 0 stages for DieInsel.
+[19:47:09] [Server thread/INFO]: Created new marker #9"gui.antiqueatlas.marker.village"@(181, 885)
+[19:47:11] [Server thread/INFO]: Generated structure: BarbarianVillage at -91, 70, 1021, time: 72ms
+[19:47:12] [Server thread/INFO]: Generated structure: EmpireCowBarn at -48, 70, 996, time: 1ms
+[19:47:14] [Server thread/INFO]: [atomicstryker.battletowers.common.AS_WorldGenTower:generate:538]: Dimension 0 Battle Tower type CobbleStone spawned at [ 64 | 816 ], underground: true
+[19:47:16] [Server thread/INFO]: [atomicstryker.battletowers.common.AS_WorldGenTower:generate:538]: Dimension 0 Battle Tower type CobbleStone spawned at [ -32 | 1040 ], underground: false
+[19:47:22] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3127ms behind, skipping 62 tick(s)
+[19:47:27] [Server thread/WARN]: Tried to over-fill a container
+[19:47:29] [Client thread/INFO]: Default sorting.
+[19:47:29] [Client thread/INFO]: Sorting done in 5315801ns
+[19:47:42] [Server thread/INFO]: Generated structure: ELBEarthMageGoodWizardMansion at 58, 69, 1064, time: 3ms
+[19:47:43] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2329ms behind, skipping 46 tick(s)
+[19:47:48] [Server thread/INFO]: Saved 0 stages for DieInsel.
+[19:48:20] [Client thread/INFO]: Handling crafting slots.
+[19:48:20] [Client thread/INFO]: Merging stacks.
+[19:48:20] [Client thread/INFO]: Applying rules.
+[19:48:20] [Client thread/INFO]: Locking stacks.
+[19:48:20] [Client thread/INFO]: Default sorting.
+[19:48:20] [Client thread/INFO]: Sorting done in 1693100ns
+[19:48:24] [Client thread/INFO]: Handling crafting slots.
+[19:48:24] [Client thread/INFO]: Merging stacks.
+[19:48:24] [Client thread/INFO]: Applying rules.
+[19:48:24] [Client thread/INFO]: Locking stacks.
+[19:48:24] [Client thread/INFO]: Default sorting.
+[19:48:24] [Client thread/INFO]: Sorting done in 1425200ns
+[19:48:33] [Server thread/INFO]: Saved 0 stages for DieInsel.
+[19:48:46] [Server thread/INFO]: DieInsel has made the advancement [Dancer in the Dark]
+[19:48:46] [Server thread/INFO]: Synchronising advancements for DieInsel
+[19:48:46] [Client thread/INFO]: [CHAT] DieInsel has made the advancement [Dancer in the Dark]
+[19:48:46] [Client thread/INFO]: Loaded 149 advancements
+[19:49:18] [Server thread/INFO]: Saved 0 stages for DieInsel.
+[19:49:33] [Client thread/INFO]: Handling crafting slots.
+[19:49:33] [Client thread/INFO]: Merging stacks.
+[19:49:33] [Client thread/INFO]: Applying rules.
+[19:49:33] [Client thread/INFO]: Locking stacks.
+[19:49:33] [Client thread/INFO]: Default sorting.
+[19:49:33] [Client thread/INFO]: Sorting done in 1739200ns
+[19:49:48] [Client thread/INFO]: Handling crafting slots.
+[19:49:48] [Client thread/INFO]: Merging stacks.
+[19:49:48] [Client thread/INFO]: Applying rules.
+[19:49:48] [Client thread/INFO]: Locking stacks.
+[19:49:48] [Client thread/INFO]: Default sorting.
+[19:49:48] [Client thread/INFO]: Sorting done in 1168100ns
+[19:49:57] [Client thread/INFO]: Handling crafting slots.
+[19:49:57] [Client thread/INFO]: Merging stacks.
+[19:49:57] [Client thread/INFO]: Applying rules.
+[19:49:57] [Client thread/INFO]: Locking stacks.
+[19:49:57] [Client thread/INFO]: Default sorting.
+[19:49:57] [Client thread/INFO]: Sorting done in 1564100ns
+[19:50:02] [Client thread/INFO]: Handling crafting slots.
+[19:50:02] [Client thread/INFO]: Merging stacks.
+[19:50:02] [Client thread/INFO]: Applying rules.
+[19:50:02] [Client thread/INFO]: Locking stacks.
+[19:50:02] [Client thread/INFO]: Default sorting.
+[19:50:02] [Client thread/INFO]: Sorting done in 1431701ns
+[19:50:03] [Server thread/INFO]: Saved 0 stages for DieInsel.
+[19:50:03] [Server thread/INFO]: Saving local markers data to NBT
+[19:50:10] [Client thread/INFO]: Handling crafting slots.
+[19:50:10] [Client thread/INFO]: Merging stacks.
+[19:50:10] [Client thread/INFO]: Applying rules.
+[19:50:10] [Client thread/INFO]: Locking stacks.
+[19:50:10] [Client thread/INFO]: Default sorting.
+[19:50:10] [Client thread/INFO]: Sorting done in 1870801ns
+[19:50:20] [Client thread/INFO]: Handling crafting slots.
+[19:50:20] [Client thread/INFO]: Merging stacks.
+[19:50:20] [Client thread/INFO]: Applying rules.
+[19:50:20] [Client thread/INFO]: Locking stacks.
+[19:50:20] [Client thread/INFO]: Default sorting.
+[19:50:20] [Client thread/INFO]: Sorting done in 3525000ns
+[19:50:36] [Client thread/INFO]: Handling crafting slots.
+[19:50:36] [Client thread/INFO]: Merging stacks.
+[19:50:36] [Client thread/INFO]: Applying rules.
+[19:50:36] [Client thread/INFO]: Locking stacks.
+[19:50:36] [Client thread/INFO]: Default sorting.
+[19:50:36] [Client thread/INFO]: Sorting done in 3592700ns
+[19:50:48] [Server thread/INFO]: Saved 0 stages for DieInsel.
+[19:51:33] [Server thread/INFO]: Saved 0 stages for DieInsel.
+[19:51:54] [Client thread/INFO]: Handling crafting slots.
+[19:51:54] [Client thread/INFO]: Merging stacks.
+[19:51:54] [Client thread/INFO]: Applying rules.
+[19:51:54] [Client thread/INFO]: Locking stacks.
+[19:51:54] [Client thread/INFO]: Default sorting.
+[19:51:54] [Client thread/INFO]: Sorting done in 1197800ns
+[19:52:18] [Server thread/INFO]: Saved 0 stages for DieInsel.
+[19:53:03] [Server thread/INFO]: Saved 0 stages for DieInsel.
+[19:53:48] [Server thread/INFO]: Saved 0 stages for DieInsel.
+[19:54:33] [Server thread/INFO]: Saved 0 stages for DieInsel.
+[19:54:55] [Client thread/INFO]: Handling crafting slots.
+[19:54:55] [Client thread/INFO]: Merging stacks.
+[19:54:55] [Client thread/INFO]: Applying rules.
+[19:54:55] [Client thread/INFO]: Locking stacks.
+[19:54:55] [Client thread/INFO]: Default sorting.
+[19:54:55] [Client thread/INFO]: Sorting done in 1539000ns
+[19:54:56] [Client thread/INFO]: Handling crafting slots.
+[19:54:56] [Client thread/INFO]: Merging stacks.
+[19:54:56] [Client thread/INFO]: Applying rules.
+[19:54:56] [Client thread/INFO]: Locking stacks.
+[19:54:56] [Client thread/INFO]: Default sorting.
+[19:54:56] [Client thread/INFO]: Sorting done in 1423000ns
+[19:55:08] [Server thread/INFO]: [atomicstryker.battletowers.common.AS_WorldGenTower:generate:538]: Dimension 0 Battle Tower type SmoothStone spawned at [ -224 | 1088 ], underground: false
+[19:55:18] [Server thread/INFO]: Saved 0 stages for DieInsel.
+[19:55:20] [Client thread/INFO]: Handling crafting slots.
+[19:55:20] [Client thread/INFO]: Merging stacks.
+[19:55:20] [Client thread/INFO]: Applying rules.
+[19:55:20] [Client thread/INFO]: Locking stacks.
+[19:55:20] [Client thread/INFO]: Default sorting.
+[19:55:20] [Client thread/INFO]: Sorting done in 1723800ns
+[19:55:59] [Client thread/INFO]: Handling crafting slots.
+[19:55:59] [Client thread/INFO]: Merging stacks.
+[19:55:59] [Client thread/INFO]: Applying rules.
+[19:55:59] [Client thread/INFO]: Locking stacks.
+[19:55:59] [Client thread/INFO]: Default sorting.
+[19:55:59] [Client thread/INFO]: Sorting done in 1100400ns
+[19:56:03] [Server thread/INFO]: Saved 0 stages for DieInsel.
+[19:56:17] [Client thread/INFO]: Handling crafting slots.
+[19:56:17] [Client thread/INFO]: Merging stacks.
+[19:56:17] [Client thread/INFO]: Applying rules.
+[19:56:17] [Client thread/INFO]: Locking stacks.
+[19:56:17] [Client thread/INFO]: Default sorting.
+[19:56:17] [Client thread/INFO]: Sorting done in 1032900ns
+[19:56:48] [Server thread/INFO]: Saved 0 stages for DieInsel.
+[19:57:33] [Server thread/INFO]: Saved 0 stages for DieInsel.
+[19:57:59] [Client thread/INFO]: Handling crafting slots.
+[19:57:59] [Client thread/INFO]: Merging stacks.
+[19:57:59] [Client thread/INFO]: Applying rules.
+[19:57:59] [Client thread/INFO]: Locking stacks.
+[19:57:59] [Client thread/INFO]: Default sorting.
+[19:57:59] [Client thread/INFO]: Sorting done in 1263800ns
+[19:58:02] [Client thread/INFO]: Handling crafting slots.
+[19:58:02] [Client thread/INFO]: Merging stacks.
+[19:58:02] [Client thread/INFO]: Applying rules.
+[19:58:02] [Client thread/INFO]: Locking stacks.
+[19:58:02] [Client thread/INFO]: Default sorting.
+[19:58:02] [Client thread/INFO]: Sorting done in 1397799ns
+[19:58:05] [Client thread/INFO]: Handling crafting slots.
+[19:58:05] [Client thread/INFO]: Merging stacks.
+[19:58:05] [Client thread/INFO]: Applying rules.
+[19:58:05] [Client thread/INFO]: Locking stacks.
+[19:58:05] [Client thread/INFO]: Default sorting.
+[19:58:05] [Client thread/INFO]: Sorting done in 1136099ns
+[19:58:11] [Client thread/INFO]: Handling crafting slots.
+[19:58:11] [Client thread/INFO]: Merging stacks.
+[19:58:11] [Client thread/INFO]: Applying rules.
+[19:58:11] [Client thread/INFO]: Locking stacks.
+[19:58:11] [Client thread/INFO]: Default sorting.
+[19:58:11] [Client thread/INFO]: Sorting done in 1276700ns
+[19:58:18] [Server thread/INFO]: Saved 0 stages for DieInsel.
+[19:59:03] [Server thread/INFO]: Saved 0 stages for DieInsel.
+[19:59:48] [Server thread/INFO]: Saved 0 stages for DieInsel.
+[20:00:10] [Client thread/INFO]: Handling crafting slots.
+[20:00:10] [Client thread/INFO]: Merging stacks.
+[20:00:10] [Client thread/INFO]: Applying rules.
+[20:00:10] [Client thread/INFO]: Locking stacks.
+[20:00:10] [Client thread/INFO]: Default sorting.
+[20:00:10] [Client thread/INFO]: Sorting done in 1510800ns
+[20:00:11] [Client thread/INFO]: Handling crafting slots.
+[20:00:11] [Client thread/INFO]: Merging stacks.
+[20:00:11] [Client thread/INFO]: Applying rules.
+[20:00:11] [Client thread/INFO]: Locking stacks.
+[20:00:11] [Client thread/INFO]: Default sorting.
+[20:00:11] [Client thread/INFO]: Sorting done in 1722300ns
+[20:00:13] [Client thread/INFO]: Handling crafting slots.
+[20:00:13] [Client thread/INFO]: Merging stacks.
+[20:00:13] [Client thread/INFO]: Applying rules.
+[20:00:13] [Client thread/INFO]: Locking stacks.
+[20:00:13] [Client thread/INFO]: Default sorting.
+[20:00:13] [Client thread/INFO]: Sorting done in 1879200ns
+[20:00:33] [Server thread/INFO]: Saved 0 stages for DieInsel.
+[20:01:00] [Client thread/INFO]: Handling crafting slots.
+[20:01:00] [Client thread/INFO]: Merging stacks.
+[20:01:00] [Client thread/INFO]: Applying rules.
+[20:01:00] [Client thread/INFO]: Locking stacks.
+[20:01:00] [Client thread/INFO]: Default sorting.
+[20:01:00] [Client thread/INFO]: Sorting done in 1971400ns
+[20:01:18] [Server thread/INFO]: Saved 0 stages for DieInsel.
+[20:02:03] [Server thread/INFO]: Saved 0 stages for DieInsel.
+[20:02:38] [Client thread/INFO]: Handling crafting slots.
+[20:02:38] [Client thread/INFO]: Merging stacks.
+[20:02:38] [Client thread/INFO]: Applying rules.
+[20:02:38] [Client thread/INFO]: Locking stacks.
+[20:02:38] [Client thread/INFO]: Default sorting.
+[20:02:38] [Client thread/INFO]: Sorting done in 3547799ns
+[20:02:41] [Client thread/INFO]: Handling crafting slots.
+[20:02:41] [Client thread/INFO]: Merging stacks.
+[20:02:41] [Client thread/INFO]: Applying rules.
+[20:02:41] [Client thread/INFO]: Locking stacks.
+[20:02:41] [Client thread/INFO]: Default sorting.
+[20:02:41] [Client thread/INFO]: Sorting done in 3822600ns
+[20:02:48] [Server thread/INFO]: Saved 0 stages for DieInsel.
+[20:02:57] [Client thread/INFO]: Handling crafting slots.
+[20:02:57] [Client thread/INFO]: Merging stacks.
+[20:02:57] [Client thread/INFO]: Applying rules.
+[20:02:57] [Client thread/INFO]: Locking stacks.
+[20:02:57] [Client thread/INFO]: Default sorting.
+[20:02:57] [Client thread/INFO]: Sorting done in 1533300ns
+[20:03:18] [Client thread/INFO]: Handling crafting slots.
+[20:03:18] [Client thread/INFO]: Merging stacks.
+[20:03:18] [Client thread/INFO]: Applying rules.
+[20:03:18] [Client thread/INFO]: Locking stacks.
+[20:03:18] [Client thread/INFO]: Default sorting.
+[20:03:18] [Client thread/INFO]: Sorting done in 1447000ns
+[20:03:33] [Server thread/INFO]: Saved 0 stages for DieInsel.
+[20:04:18] [Server thread/INFO]: Saved 0 stages for DieInsel.
+[20:04:32] [Client thread/INFO]: Handling crafting slots.
+[20:04:32] [Client thread/INFO]: Merging stacks.
+[20:04:32] [Client thread/INFO]: Applying rules.
+[20:04:32] [Client thread/INFO]: Locking stacks.
+[20:04:32] [Client thread/INFO]: Default sorting.
+[20:04:32] [Client thread/INFO]: Sorting done in 1340200ns
+[20:05:03] [Server thread/INFO]: Saved 0 stages for DieInsel.
+[20:05:45] [Server thread/INFO]: [atomicstryker.battletowers.common.AS_WorldGenTower:generate:538]: Dimension 0 Battle Tower type CobbleStone spawned at [ 144 | 1152 ], underground: false
+[20:05:45] [Server thread/INFO]: Generated structure: BarbarianCapital at 142, 71, 1160, time: 76ms
+[20:05:56] [Server thread/WARN]: Could not create entity for name: primitivemobs:harpy Entity skipped during structure creation.
+[20:05:56] [Server thread/WARN]: Could not create entity for name: mocreatures:minigolem Entity skipped during structure creation.
+[20:05:56] [Server thread/WARN]: Could not create entity for name: primitivemobs:harpy Entity skipped during structure creation.
+[20:06:01] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 15539ms behind, skipping 310 tick(s)
+[20:06:01] [Client thread/INFO]: Loaded 149 advancements
+[20:06:01] [Server thread/INFO]: Generated structure: BarbarianWarParty at 144, 80, 1180, time: 1ms
+[20:06:04] [Server thread/WARN]: Roguelike Dungeons loaded a new chunk [16, 53] in dimension 0 (overworld) while populating chunk [11, 55], causing cascading worldgen lag.
+[20:06:04] [Server thread/WARN]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[20:06:04] [Server thread/WARN]: Roguelike Dungeons loaded a new chunk [16, 54] in dimension 0 (overworld) while populating chunk [11, 55], causing cascading worldgen lag.
+[20:06:04] [Server thread/WARN]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[20:06:04] [Server thread/WARN]: Roguelike Dungeons loaded a new chunk [16, 50] in dimension 0 (overworld) while populating chunk [11, 55], causing cascading worldgen lag.
+[20:06:04] [Server thread/WARN]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[20:06:04] [Server thread/WARN]: Roguelike Dungeons loaded a new chunk [17, 50] in dimension 0 (overworld) while populating chunk [11, 55], causing cascading worldgen lag.
+[20:06:04] [Server thread/WARN]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[20:06:04] [Server thread/WARN]: Battle Towers loaded a new chunk [16, 49] in dimension 0 (overworld) while populating chunk [17, 50], causing cascading worldgen lag.
+[20:06:04] [Server thread/WARN]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[20:06:04] [Server thread/WARN]: Roguelike Dungeons loaded a new chunk [16, 52] in dimension 0 (overworld) while populating chunk [11, 55], causing cascading worldgen lag.
+[20:06:04] [Server thread/WARN]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[20:06:04] [Server thread/WARN]: Roguelike Dungeons loaded a new chunk [16, 51] in dimension 0 (overworld) while populating chunk [11, 55], causing cascading worldgen lag.
+[20:06:04] [Server thread/WARN]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[20:06:04] [Server thread/WARN]: Roguelike Dungeons loaded a new chunk [15, 51] in dimension 0 (overworld) while populating chunk [11, 55], causing cascading worldgen lag.
+[20:06:04] [Server thread/WARN]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[20:06:04] [Server thread/WARN]: Roguelike Dungeons loaded a new chunk [13, 48] in dimension 0 (overworld) while populating chunk [11, 55], causing cascading worldgen lag.
+[20:06:04] [Server thread/WARN]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[20:06:04] [Server thread/WARN]: Roguelike Dungeons loaded a new chunk [17, 49] in dimension 0 (overworld) while populating chunk [11, 55], causing cascading worldgen lag.
+[20:06:04] [Server thread/WARN]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[20:06:05] [Server thread/INFO]: [atomicstryker.battletowers.common.AS_WorldGenTower:generate:538]: Dimension 0 Battle Tower type CobbleStone spawned at [ 272 | 784 ], underground: false
+[20:06:05] [Server thread/WARN]: Roguelike Dungeons loaded a new chunk [18, 50] in dimension 0 (overworld) while populating chunk [11, 55], causing cascading worldgen lag.
+[20:06:05] [Server thread/WARN]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[20:06:05] [Server thread/WARN]: Roguelike Dungeons loaded a new chunk [19, 50] in dimension 0 (overworld) while populating chunk [11, 55], causing cascading worldgen lag.
+[20:06:05] [Server thread/WARN]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[20:06:05] [Server thread/WARN]: Roguelike Dungeons loaded a new chunk [17, 52] in dimension 0 (overworld) while populating chunk [11, 55], causing cascading worldgen lag.
+[20:06:05] [Server thread/WARN]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[20:06:05] [Server thread/WARN]: Roguelike Dungeons loaded a new chunk [17, 51] in dimension 0 (overworld) while populating chunk [11, 55], causing cascading worldgen lag.
+[20:06:05] [Server thread/WARN]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[20:06:05] [Server thread/WARN]: Roguelike Dungeons loaded a new chunk [18, 52] in dimension 0 (overworld) while populating chunk [11, 55], causing cascading worldgen lag.
+[20:06:05] [Server thread/WARN]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[20:06:05] [Server thread/WARN]: Roguelike Dungeons loaded a new chunk [18, 51] in dimension 0 (overworld) while populating chunk [11, 55], causing cascading worldgen lag.
+[20:06:05] [Server thread/WARN]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[20:06:05] [Server thread/WARN]: Roguelike Dungeons loaded a new chunk [14, 51] in dimension 0 (overworld) while populating chunk [11, 55], causing cascading worldgen lag.
+[20:06:05] [Server thread/WARN]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[20:06:05] [Server thread/WARN]: Roguelike Dungeons loaded a new chunk [14, 50] in dimension 0 (overworld) while populating chunk [11, 55], causing cascading worldgen lag.
+[20:06:05] [Server thread/WARN]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[20:06:05] [Server thread/WARN]: Roguelike Dungeons loaded a new chunk [13, 51] in dimension 0 (overworld) while populating chunk [11, 55], causing cascading worldgen lag.
+[20:06:05] [Server thread/WARN]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[20:06:05] [Server thread/WARN]: Roguelike Dungeons loaded a new chunk [13, 50] in dimension 0 (overworld) while populating chunk [11, 55], causing cascading worldgen lag.
+[20:06:05] [Server thread/WARN]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[20:06:05] [Server thread/WARN]: Roguelike Dungeons loaded a new chunk [13, 49] in dimension 0 (overworld) while populating chunk [11, 55], causing cascading worldgen lag.
+[20:06:05] [Server thread/WARN]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[20:06:05] [Server thread/WARN]: Roguelike Dungeons loaded a new chunk [12, 50] in dimension 0 (overworld) while populating chunk [11, 55], causing cascading worldgen lag.
+[20:06:05] [Server thread/WARN]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[20:06:05] [Server thread/WARN]: Roguelike Dungeons loaded a new chunk [13, 52] in dimension 0 (overworld) while populating chunk [11, 55], causing cascading worldgen lag.
+[20:06:05] [Server thread/WARN]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[20:06:05] [Server thread/WARN]: Roguelike Dungeons loaded a new chunk [15, 53] in dimension 0 (overworld) while populating chunk [11, 55], causing cascading worldgen lag.
+[20:06:05] [Server thread/WARN]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[20:06:05] [Server thread/WARN]: Roguelike Dungeons loaded a new chunk [14, 53] in dimension 0 (overworld) while populating chunk [11, 55], causing cascading worldgen lag.
+[20:06:05] [Server thread/WARN]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[20:06:05] [Server thread/WARN]: Roguelike Dungeons loaded a new chunk [15, 52] in dimension 0 (overworld) while populating chunk [11, 55], causing cascading worldgen lag.
+[20:06:05] [Server thread/WARN]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[20:06:05] [Server thread/WARN]: Roguelike Dungeons loaded a new chunk [14, 52] in dimension 0 (overworld) while populating chunk [11, 55], causing cascading worldgen lag.
+[20:06:05] [Server thread/WARN]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[20:06:05] [Server thread/WARN]: Roguelike Dungeons loaded a new chunk [12, 52] in dimension 0 (overworld) while populating chunk [11, 55], causing cascading worldgen lag.
+[20:06:05] [Server thread/WARN]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[20:06:05] [Server thread/WARN]: Roguelike Dungeons loaded a new chunk [12, 51] in dimension 0 (overworld) while populating chunk [11, 55], causing cascading worldgen lag.
+[20:06:05] [Server thread/WARN]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[20:06:05] [Server thread/WARN]: Roguelike Dungeons loaded a new chunk [13, 53] in dimension 0 (overworld) while populating chunk [11, 55], causing cascading worldgen lag.
+[20:06:05] [Server thread/WARN]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[20:06:05] [Server thread/WARN]: Roguelike Dungeons loaded a new chunk [12, 53] in dimension 0 (overworld) while populating chunk [11, 55], causing cascading worldgen lag.
+[20:06:05] [Server thread/WARN]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[20:06:05] [Server thread/WARN]: Roguelike Dungeons loaded a new chunk [15, 54] in dimension 0 (overworld) while populating chunk [11, 55], causing cascading worldgen lag.
+[20:06:05] [Server thread/WARN]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[20:06:05] [Server thread/WARN]: Roguelike Dungeons loaded a new chunk [15, 55] in dimension 0 (overworld) while populating chunk [11, 55], causing cascading worldgen lag.
+[20:06:05] [Server thread/WARN]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[20:06:05] [Server thread/WARN]: Roguelike Dungeons loaded a new chunk [14, 47] in dimension 0 (overworld) while populating chunk [11, 55], causing cascading worldgen lag.
+[20:06:05] [Server thread/WARN]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[20:06:05] [Server thread/WARN]: Roguelike Dungeons loaded a new chunk [12, 49] in dimension 0 (overworld) while populating chunk [11, 55], causing cascading worldgen lag.
+[20:06:05] [Server thread/WARN]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[20:06:05] [Server thread/WARN]: Roguelike Dungeons loaded a new chunk [14, 54] in dimension 0 (overworld) while populating chunk [11, 55], causing cascading worldgen lag.
+[20:06:05] [Server thread/WARN]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[20:06:05] [Server thread/WARN]: Roguelike Dungeons loaded a new chunk [14, 55] in dimension 0 (overworld) while populating chunk [11, 55], causing cascading worldgen lag.
+[20:06:05] [Server thread/WARN]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[20:06:05] [Server thread/WARN]: Roguelike Dungeons loaded a new chunk [15, 56] in dimension 0 (overworld) while populating chunk [11, 55], causing cascading worldgen lag.
+[20:06:05] [Server thread/WARN]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[20:06:05] [Server thread/WARN]: Roguelike Dungeons loaded a new chunk [14, 56] in dimension 0 (overworld) while populating chunk [11, 55], causing cascading worldgen lag.
+[20:06:05] [Server thread/WARN]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[20:06:06] [Server thread/WARN]: Roguelike Dungeons loaded a new chunk [18, 49] in dimension 0 (overworld) while populating chunk [11, 55], causing cascading worldgen lag.
+[20:06:06] [Server thread/WARN]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[20:06:06] [Server thread/WARN]: Roguelike Dungeons loaded a new chunk [13, 54] in dimension 0 (overworld) while populating chunk [11, 55], causing cascading worldgen lag.
+[20:06:06] [Server thread/WARN]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[20:06:06] [Server thread/WARN]: Roguelike Dungeons loaded a new chunk [12, 54] in dimension 0 (overworld) while populating chunk [11, 55], causing cascading worldgen lag.
+[20:06:06] [Server thread/WARN]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[20:06:06] [Server thread/WARN]: Roguelike Dungeons loaded a new chunk [9, 52] in dimension 0 (overworld) while populating chunk [11, 55], causing cascading worldgen lag.
+[20:06:06] [Server thread/WARN]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[20:06:06] [Server thread/WARN]: Roguelike Dungeons loaded a new chunk [11, 52] in dimension 0 (overworld) while populating chunk [11, 55], causing cascading worldgen lag.
+[20:06:06] [Server thread/WARN]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[20:06:06] [Server thread/WARN]: Roguelike Dungeons loaded a new chunk [10, 52] in dimension 0 (overworld) while populating chunk [11, 55], causing cascading worldgen lag.
+[20:06:06] [Server thread/WARN]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[20:06:06] [Server thread/WARN]: Roguelike Dungeons loaded a new chunk [9, 54] in dimension 0 (overworld) while populating chunk [11, 55], causing cascading worldgen lag.
+[20:06:06] [Server thread/WARN]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[20:06:06] [Server thread/WARN]: Roguelike Dungeons loaded a new chunk [9, 53] in dimension 0 (overworld) while populating chunk [11, 55], causing cascading worldgen lag.
+[20:06:06] [Server thread/WARN]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[20:06:06] [Server thread/WARN]: Roguelike Dungeons loaded a new chunk [11, 54] in dimension 0 (overworld) while populating chunk [11, 55], causing cascading worldgen lag.
+[20:06:06] [Server thread/WARN]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[20:06:06] [Server thread/WARN]: Roguelike Dungeons loaded a new chunk [10, 54] in dimension 0 (overworld) while populating chunk [11, 55], causing cascading worldgen lag.
+[20:06:06] [Server thread/WARN]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[20:06:06] [Server thread/WARN]: Roguelike Dungeons loaded a new chunk [11, 53] in dimension 0 (overworld) while populating chunk [11, 55], causing cascading worldgen lag.
+[20:06:06] [Server thread/WARN]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[20:06:07] [Server thread/WARN]: Roguelike Dungeons loaded a new chunk [10, 53] in dimension 0 (overworld) while populating chunk [11, 55], causing cascading worldgen lag.
+[20:06:07] [Server thread/WARN]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[20:06:07] [Server thread/WARN]: Roguelike Dungeons loaded a new chunk [15, 46] in dimension 0 (overworld) while populating chunk [11, 55], causing cascading worldgen lag.
+[20:06:07] [Server thread/WARN]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[20:06:07] [Server thread/WARN]: Roguelike Dungeons loaded a new chunk [14, 46] in dimension 0 (overworld) while populating chunk [11, 55], causing cascading worldgen lag.
+[20:06:07] [Server thread/WARN]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[20:06:09] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 8875ms behind, skipping 177 tick(s)
+[20:06:10] [Server thread/INFO]: Saved 0 stages for DieInsel.
+[20:06:50] [Client thread/INFO]: Handling crafting slots.
+[20:06:50] [Client thread/INFO]: Merging stacks.
+[20:06:50] [Client thread/INFO]: Applying rules.
+[20:06:50] [Client thread/INFO]: Locking stacks.
+[20:06:50] [Client thread/INFO]: Default sorting.
+[20:06:50] [Client thread/INFO]: Sorting done in 1730899ns
+[20:06:54] [Server thread/INFO]: Saved 0 stages for DieInsel.
+[20:07:39] [Server thread/INFO]: Saved 0 stages for DieInsel.
+[20:07:48] [Server thread/INFO]: Generating dungeon Volcano at chunkX=-7, chunkZ=74
+[20:07:48] [Server thread/INFO]: [com.teamcqr.chocolatequestrepoured.structuregen.dungeons.VolcanoDungeon:generate:162]: Generating dungeon Volcano... 
+[20:07:48] [Server thread/WARN]: Chocolate Quest Repoured Mod loaded a new chunk [-10, 74] in dimension 0 (overworld) while populating chunk [-7, 74], causing cascading worldgen lag.
+[20:07:48] [Server thread/WARN]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[20:07:48] [Server thread/WARN]: Chocolate Quest Repoured Mod loaded a new chunk [-11, 74] in dimension 0 (overworld) while populating chunk [-7, 74], causing cascading worldgen lag.
+[20:07:48] [Server thread/WARN]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[20:07:48] [Server thread/WARN]: Chocolate Quest Repoured Mod loaded a new chunk [-10, 75] in dimension 0 (overworld) while populating chunk [-7, 74], causing cascading worldgen lag.
+[20:07:48] [Server thread/WARN]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[20:07:48] [Server thread/WARN]: Chocolate Quest Repoured Mod loaded a new chunk [-10, 76] in dimension 0 (overworld) while populating chunk [-7, 74], causing cascading worldgen lag.
+[20:07:48] [Server thread/WARN]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[20:07:48] [Server thread/WARN]: Chocolate Quest Repoured Mod loaded a new chunk [-8, 74] in dimension 0 (overworld) while populating chunk [-7, 74], causing cascading worldgen lag.
+[20:07:48] [Server thread/WARN]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[20:07:48] [Server thread/WARN]: Chocolate Quest Repoured Mod loaded a new chunk [-9, 74] in dimension 0 (overworld) while populating chunk [-7, 74], causing cascading worldgen lag.
+[20:07:48] [Server thread/WARN]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[20:07:48] [Server thread/WARN]: Chocolate Quest Repoured Mod loaded a new chunk [-9, 75] in dimension 0 (overworld) while populating chunk [-7, 74], causing cascading worldgen lag.
+[20:07:48] [Server thread/WARN]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[20:07:48] [Server thread/WARN]: Chocolate Quest Repoured Mod loaded a new chunk [-9, 76] in dimension 0 (overworld) while populating chunk [-7, 74], causing cascading worldgen lag.
+[20:07:48] [Server thread/WARN]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[20:07:48] [Server thread/WARN]: Chocolate Quest Repoured Mod loaded a new chunk [-8, 75] in dimension 0 (overworld) while populating chunk [-7, 74], causing cascading worldgen lag.
+[20:07:48] [Server thread/WARN]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[20:07:48] [Server thread/WARN]: Chocolate Quest Repoured Mod loaded a new chunk [-8, 76] in dimension 0 (overworld) while populating chunk [-7, 74], causing cascading worldgen lag.
+[20:07:48] [Server thread/WARN]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[20:07:48] [Server thread/WARN]: Chocolate Quest Repoured Mod loaded a new chunk [-7, 75] in dimension 0 (overworld) while populating chunk [-7, 74], causing cascading worldgen lag.
+[20:07:48] [Server thread/WARN]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[20:07:48] [Server thread/WARN]: Chocolate Quest Repoured Mod loaded a new chunk [-7, 76] in dimension 0 (overworld) while populating chunk [-7, 74], causing cascading worldgen lag.
+[20:07:48] [Server thread/WARN]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[20:07:48] [Server thread/WARN]: Chocolate Quest Repoured Mod loaded a new chunk [-6, 75] in dimension 0 (overworld) while populating chunk [-7, 74], causing cascading worldgen lag.
+[20:07:48] [Server thread/WARN]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[20:07:48] [Server thread/WARN]: Chocolate Quest Repoured Mod loaded a new chunk [-6, 76] in dimension 0 (overworld) while populating chunk [-7, 74], causing cascading worldgen lag.
+[20:07:48] [Server thread/WARN]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[20:07:48] [Server thread/WARN]: Chocolate Quest Repoured Mod loaded a new chunk [-5, 75] in dimension 0 (overworld) while populating chunk [-7, 74], causing cascading worldgen lag.
+[20:07:48] [Server thread/WARN]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[20:07:48] [Server thread/WARN]: Chocolate Quest Repoured Mod loaded a new chunk [-5, 76] in dimension 0 (overworld) while populating chunk [-7, 74], causing cascading worldgen lag.
+[20:07:48] [Server thread/WARN]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[20:07:49] [Server thread/WARN]: Chocolate Quest Repoured Mod loaded a new chunk [-13, 75] in dimension 0 (overworld) while populating chunk [-7, 74], causing cascading worldgen lag.
+[20:07:49] [Server thread/WARN]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[20:07:49] [Server thread/WARN]: Chocolate Quest Repoured Mod loaded a new chunk [-13, 76] in dimension 0 (overworld) while populating chunk [-7, 74], causing cascading worldgen lag.
+[20:07:49] [Server thread/WARN]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[20:07:49] [Server thread/WARN]: Chocolate Quest Repoured Mod loaded a new chunk [-11, 76] in dimension 0 (overworld) while populating chunk [-7, 74], causing cascading worldgen lag.
+[20:07:49] [Server thread/WARN]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[20:07:50] [Server thread/WARN]: Chocolate Quest Repoured Mod loaded a new chunk [-12, 76] in dimension 0 (overworld) while populating chunk [-7, 74], causing cascading worldgen lag.
+[20:07:50] [Server thread/WARN]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[20:07:50] [Server thread/WARN]: Chocolate Quest Repoured Mod loaded a new chunk [-11, 75] in dimension 0 (overworld) while populating chunk [-7, 74], causing cascading worldgen lag.
+[20:07:50] [Server thread/WARN]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[20:07:50] [Server thread/WARN]: Chocolate Quest Repoured Mod loaded a new chunk [-12, 75] in dimension 0 (overworld) while populating chunk [-7, 74], causing cascading worldgen lag.
+[20:07:50] [Server thread/WARN]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[20:07:50] [Server thread/WARN]: Chocolate Quest Repoured Mod loaded a new chunk [-12, 77] in dimension 0 (overworld) while populating chunk [-7, 74], causing cascading worldgen lag.
+[20:07:50] [Server thread/WARN]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[20:07:50] [Server thread/WARN]: Chocolate Quest Repoured Mod loaded a new chunk [-11, 77] in dimension 0 (overworld) while populating chunk [-7, 74], causing cascading worldgen lag.
+[20:07:50] [Server thread/WARN]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[20:07:50] [Server thread/WARN]: Chocolate Quest Repoured Mod loaded a new chunk [-11, 78] in dimension 0 (overworld) while populating chunk [-7, 74], causing cascading worldgen lag.
+[20:07:50] [Server thread/WARN]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[20:07:50] [Server thread/WARN]: Chocolate Quest Repoured Mod loaded a new chunk [-10, 77] in dimension 0 (overworld) while populating chunk [-7, 74], causing cascading worldgen lag.
+[20:07:50] [Server thread/WARN]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[20:07:50] [Server thread/WARN]: Chocolate Quest Repoured Mod loaded a new chunk [-10, 78] in dimension 0 (overworld) while populating chunk [-7, 74], causing cascading worldgen lag.
+[20:07:50] [Server thread/WARN]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[20:07:50] [Server thread/WARN]: Chocolate Quest Repoured Mod loaded a new chunk [-9, 77] in dimension 0 (overworld) while populating chunk [-7, 74], causing cascading worldgen lag.
+[20:07:50] [Server thread/WARN]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[20:07:50] [Server thread/WARN]: Chocolate Quest Repoured Mod loaded a new chunk [-9, 78] in dimension 0 (overworld) while populating chunk [-7, 74], causing cascading worldgen lag.
+[20:07:50] [Server thread/WARN]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[20:07:50] [Server thread/WARN]: Chocolate Quest Repoured Mod loaded a new chunk [-8, 77] in dimension 0 (overworld) while populating chunk [-7, 74], causing cascading worldgen lag.
+[20:07:50] [Server thread/WARN]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[20:07:50] [Server thread/WARN]: Chocolate Quest Repoured Mod loaded a new chunk [-8, 78] in dimension 0 (overworld) while populating chunk [-7, 74], causing cascading worldgen lag.
+[20:07:50] [Server thread/WARN]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[20:07:50] [Server thread/WARN]: Chocolate Quest Repoured Mod loaded a new chunk [-8, 79] in dimension 0 (overworld) while populating chunk [-7, 74], causing cascading worldgen lag.
+[20:07:50] [Server thread/WARN]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[20:07:50] [Server thread/WARN]: Chocolate Quest Repoured Mod loaded a new chunk [-7, 77] in dimension 0 (overworld) while populating chunk [-7, 74], causing cascading worldgen lag.
+[20:07:50] [Server thread/WARN]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[20:07:50] [Server thread/WARN]: Chocolate Quest Repoured Mod loaded a new chunk [-7, 78] in dimension 0 (overworld) while populating chunk [-7, 74], causing cascading worldgen lag.
+[20:07:50] [Server thread/WARN]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[20:07:50] [Server thread/WARN]: Chocolate Quest Repoured Mod loaded a new chunk [-7, 79] in dimension 0 (overworld) while populating chunk [-7, 74], causing cascading worldgen lag.
+[20:07:50] [Server thread/WARN]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[20:07:50] [Server thread/INFO]: [atomicstryker.battletowers.common.AS_WorldGenTower:generate:538]: Dimension 0 Battle Tower type CobbleStone spawned at [ -112 | 1264 ], underground: false
+[20:07:50] [Server thread/WARN]: Chocolate Quest Repoured Mod loaded a new chunk [-6, 78] in dimension 0 (overworld) while populating chunk [-7, 74], causing cascading worldgen lag.
+[20:07:50] [Server thread/WARN]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[20:07:50] [Server thread/WARN]: Chocolate Quest Repoured Mod loaded a new chunk [-6, 77] in dimension 0 (overworld) while populating chunk [-7, 74], causing cascading worldgen lag.
+[20:07:50] [Server thread/WARN]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[20:07:50] [Server thread/WARN]: Chocolate Quest Repoured Mod loaded a new chunk [-5, 77] in dimension 0 (overworld) while populating chunk [-7, 74], causing cascading worldgen lag.
+[20:07:50] [Server thread/WARN]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[20:07:51] [Server thread/WARN]: Chocolate Quest Repoured Mod loaded a new chunk [-5, 78] in dimension 0 (overworld) while populating chunk [-7, 74], causing cascading worldgen lag.
+[20:07:51] [Server thread/WARN]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[20:07:51] [Server thread/WARN]: Chocolate Quest Repoured Mod loaded a new chunk [-4, 75] in dimension 0 (overworld) while populating chunk [-7, 74], causing cascading worldgen lag.
+[20:07:51] [Server thread/WARN]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[20:07:51] [Server thread/WARN]: Chocolate Quest Repoured Mod loaded a new chunk [-4, 76] in dimension 0 (overworld) while populating chunk [-7, 74], causing cascading worldgen lag.
+[20:07:51] [Server thread/WARN]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[20:07:51] [Server thread/WARN]: Chocolate Quest Repoured Mod loaded a new chunk [-4, 77] in dimension 0 (overworld) while populating chunk [-7, 74], causing cascading worldgen lag.
+[20:07:51] [Server thread/WARN]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[20:07:51] [Server thread/WARN]: Chocolate Quest Repoured Mod loaded a new chunk [-3, 75] in dimension 0 (overworld) while populating chunk [-7, 74], causing cascading worldgen lag.
+[20:07:51] [Server thread/WARN]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[20:07:51] [Server thread/WARN]: Chocolate Quest Repoured Mod loaded a new chunk [-3, 76] in dimension 0 (overworld) while populating chunk [-7, 74], causing cascading worldgen lag.
+[20:07:51] [Server thread/WARN]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[20:08:19] [Server thread/INFO]: [com.teamcqr.chocolatequestrepoured.util.data.CQRDataFileManager:handleDungeonGeneration:186]: Entry added!
+[20:08:19] [Server thread/INFO]: [com.teamcqr.chocolatequestrepoured.structuregen.generators.volcano.brickfortress.SpiralStrongholdFloor:calculateRoomGrid:81]: Done
+[20:08:19] [Server thread/INFO]: [com.teamcqr.chocolatequestrepoured.structuregen.generators.volcano.brickfortress.SpiralStrongholdFloor:calculateRoomGrid:81]: Done
+[20:08:19] [Server thread/INFO]: [com.teamcqr.chocolatequestrepoured.structuregen.generators.volcano.brickfortress.SpiralStrongholdFloor:calculateRoomGrid:81]: Done
+[20:08:19] [Server thread/INFO]: [com.teamcqr.chocolatequestrepoured.structuregen.generators.volcano.brickfortress.SpiralStrongholdFloor:calculateRoomGrid:81]: Done
+[20:08:19] [Server thread/INFO]: [com.teamcqr.chocolatequestrepoured.structuregen.generators.volcano.brickfortress.SpiralStrongholdFloor:calculateRoomGrid:81]: Done
+[20:08:19] [Server thread/INFO]: [com.teamcqr.chocolatequestrepoured.structuregen.dungeons.VolcanoDungeon:generate:168]: Done!
+[20:08:19] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 31401ms behind, skipping 628 tick(s)
+[20:08:22] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3320ms behind, skipping 66 tick(s)
+[20:08:54] [Server thread/INFO]: Saved 0 stages for DieInsel.
+[20:09:33] [Server thread/INFO]: Generating dungeon Castles at chunkX=13, chunkZ=74
+[20:09:34] [Server thread/INFO]: Placing dungeon: Castles
+[20:09:34] [Server thread/INFO]: Generating structure Castle_Lake_Alpha.nbt at X: 209  Y: 58  Z: 1185  ...
+[20:09:34] [Server thread/INFO]: [com.teamcqr.chocolatequestrepoured.structuregen.PlateauBuilder:generateSupportHill:67]: Trying to construct support platform...
+[20:09:34] [Server thread/WARN]: Chocolate Quest Repoured Mod loaded a new chunk [14, 70] in dimension 0 (overworld) while populating chunk [13, 74], causing cascading worldgen lag.
+[20:09:34] [Server thread/WARN]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[20:09:34] [Server thread/WARN]: Chocolate Quest Repoured Mod loaded a new chunk [14, 71] in dimension 0 (overworld) while populating chunk [13, 74], causing cascading worldgen lag.
+[20:09:34] [Server thread/WARN]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[20:09:34] [Server thread/WARN]: Chocolate Quest Repoured Mod loaded a new chunk [14, 72] in dimension 0 (overworld) while populating chunk [13, 74], causing cascading worldgen lag.
+[20:09:34] [Server thread/WARN]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[20:09:34] [Server thread/WARN]: Chocolate Quest Repoured Mod loaded a new chunk [14, 73] in dimension 0 (overworld) while populating chunk [13, 74], causing cascading worldgen lag.
+[20:09:34] [Server thread/WARN]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[20:09:34] [Server thread/WARN]: Chocolate Quest Repoured Mod loaded a new chunk [15, 70] in dimension 0 (overworld) while populating chunk [13, 74], causing cascading worldgen lag.
+[20:09:34] [Server thread/WARN]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[20:09:34] [Server thread/WARN]: Chocolate Quest Repoured Mod loaded a new chunk [15, 71] in dimension 0 (overworld) while populating chunk [13, 74], causing cascading worldgen lag.
+[20:09:34] [Server thread/WARN]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[20:09:34] [Server thread/WARN]: Chocolate Quest Repoured Mod loaded a new chunk [15, 72] in dimension 0 (overworld) while populating chunk [13, 74], causing cascading worldgen lag.
+[20:09:34] [Server thread/WARN]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[20:09:34] [Server thread/WARN]: Chocolate Quest Repoured Mod loaded a new chunk [15, 73] in dimension 0 (overworld) while populating chunk [13, 74], causing cascading worldgen lag.
+[20:09:34] [Server thread/WARN]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[20:09:35] [Server thread/INFO]: [com.teamcqr.chocolatequestrepoured.util.data.CQRDataFileManager:handleDungeonGeneration:186]: Entry added!
+[20:09:36] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3597ms behind, skipping 71 tick(s)
+[20:09:37] [Server thread/INFO]: Generated structure: EmpireMineSpruce at 243, 68, 1197, time: 1ms
+[20:09:39] [Server thread/INFO]: [atomicstryker.battletowers.common.AS_WorldGenTower:generate:538]: Dimension 0 Battle Tower type CobbleStone spawned at [ 272 | 992 ], underground: false
+[20:09:57] [Server thread/INFO]: Saving and pausing game...
+[20:09:57] [Server thread/INFO]: Saved 0 stages for DieInsel.
+[20:09:57] [Server thread/INFO]: Saving chunks for level 'New World'/overworld
+[20:09:58] [Server thread/INFO]: Saving chunks for level 'New World'/thedungeon
+[20:09:59] [Server thread/INFO]: Generated structure: EmpireCharcoalBurnersSpruce at 302, 65, 1275, time: 67ms
+[20:10:01] [Server thread/INFO]: [atomicstryker.battletowers.common.AS_WorldGenTower:generate:538]: Dimension 0 Battle Tower type Netherrack spawned at [ 304 | 1280 ], underground: false
+[20:10:02] [Server thread/INFO]: [@: Teleported DieInsel to 138.80800795374657, 57.0, 1120.406418905614]
+[20:10:02] [Client thread/INFO]: [CHAT] [@: Teleported DieInsel to 138.80800795374657, 57.0, 1120.406418905614]
+[20:10:03] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3847ms behind, skipping 76 tick(s)
+[20:10:04] [Server thread/INFO]: Generated structure: OrcRaidersGeneric at 302, 65, 1307, time: 1ms
+[20:10:05] [Server thread/WARN]: Roguelike Dungeons loaded a new chunk [5, 85] in dimension 0 (overworld) while populating chunk [7, 82], causing cascading worldgen lag.
+[20:10:05] [Server thread/WARN]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[20:10:05] [Server thread/WARN]: Battle Towers loaded a new chunk [4, 84] in dimension 0 (overworld) while populating chunk [5, 85], causing cascading worldgen lag.
+[20:10:05] [Server thread/WARN]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[20:10:05] [Server thread/INFO]: [atomicstryker.battletowers.common.AS_WorldGenTower:generate:538]: Dimension 0 Battle Tower type CobbleStone spawned at [ 80 | 1360 ], underground: false
+[20:10:05] [Server thread/WARN]: Roguelike Dungeons loaded a new chunk [6, 85] in dimension 0 (overworld) while populating chunk [7, 82], causing cascading worldgen lag.
+[20:10:05] [Server thread/WARN]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[20:10:05] [Server thread/WARN]: Roguelike Dungeons loaded a new chunk [6, 86] in dimension 0 (overworld) while populating chunk [7, 82], causing cascading worldgen lag.
+[20:10:05] [Server thread/WARN]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[20:10:05] [Server thread/WARN]: Roguelike Dungeons loaded a new chunk [6, 87] in dimension 0 (overworld) while populating chunk [7, 82], causing cascading worldgen lag.
+[20:10:05] [Server thread/WARN]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[20:10:05] [Server thread/WARN]: Roguelike Dungeons loaded a new chunk [4, 85] in dimension 0 (overworld) while populating chunk [7, 82], causing cascading worldgen lag.
+[20:10:05] [Server thread/WARN]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[20:10:05] [Server thread/WARN]: Roguelike Dungeons loaded a new chunk [6, 82] in dimension 0 (overworld) while populating chunk [7, 82], causing cascading worldgen lag.
+[20:10:05] [Server thread/WARN]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[20:10:05] [Server thread/WARN]: Roguelike Dungeons loaded a new chunk [5, 82] in dimension 0 (overworld) while populating chunk [7, 82], causing cascading worldgen lag.
+[20:10:05] [Server thread/WARN]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[20:10:05] [Server thread/WARN]: Roguelike Dungeons loaded a new chunk [5, 84] in dimension 0 (overworld) while populating chunk [7, 82], causing cascading worldgen lag.
+[20:10:05] [Server thread/WARN]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[20:10:05] [Server thread/WARN]: Roguelike Dungeons loaded a new chunk [5, 83] in dimension 0 (overworld) while populating chunk [7, 82], causing cascading worldgen lag.
+[20:10:05] [Server thread/WARN]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[20:10:05] [Server thread/WARN]: Roguelike Dungeons loaded a new chunk [6, 84] in dimension 0 (overworld) while populating chunk [7, 82], causing cascading worldgen lag.
+[20:10:05] [Server thread/WARN]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[20:10:05] [Server thread/WARN]: Roguelike Dungeons loaded a new chunk [6, 83] in dimension 0 (overworld) while populating chunk [7, 82], causing cascading worldgen lag.
+[20:10:05] [Server thread/WARN]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[20:10:05] [Server thread/WARN]: Roguelike Dungeons loaded a new chunk [4, 83] in dimension 0 (overworld) while populating chunk [7, 82], causing cascading worldgen lag.
+[20:10:05] [Server thread/WARN]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[20:10:05] [Server thread/WARN]: Roguelike Dungeons loaded a new chunk [4, 82] in dimension 0 (overworld) while populating chunk [7, 82], causing cascading worldgen lag.
+[20:10:05] [Server thread/WARN]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[20:10:05] [Server thread/WARN]: Roguelike Dungeons loaded a new chunk [7, 84] in dimension 0 (overworld) while populating chunk [7, 82], causing cascading worldgen lag.
+[20:10:05] [Server thread/WARN]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[20:10:05] [Server thread/WARN]: Roguelike Dungeons loaded a new chunk [7, 83] in dimension 0 (overworld) while populating chunk [7, 82], causing cascading worldgen lag.
+[20:10:05] [Server thread/WARN]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[20:10:05] [Server thread/WARN]: Roguelike Dungeons loaded a new chunk [8, 82] in dimension 0 (overworld) while populating chunk [7, 82], causing cascading worldgen lag.
+[20:10:05] [Server thread/WARN]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[20:10:05] [Server thread/WARN]: Roguelike Dungeons loaded a new chunk [8, 84] in dimension 0 (overworld) while populating chunk [7, 82], causing cascading worldgen lag.
+[20:10:05] [Server thread/WARN]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[20:10:05] [Server thread/WARN]: Roguelike Dungeons loaded a new chunk [8, 83] in dimension 0 (overworld) while populating chunk [7, 82], causing cascading worldgen lag.
+[20:10:05] [Server thread/WARN]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[20:10:05] [Server thread/WARN]: Roguelike Dungeons loaded a new chunk [5, 86] in dimension 0 (overworld) while populating chunk [7, 82], causing cascading worldgen lag.
+[20:10:05] [Server thread/WARN]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[20:10:05] [Server thread/WARN]: Roguelike Dungeons loaded a new chunk [5, 87] in dimension 0 (overworld) while populating chunk [7, 82], causing cascading worldgen lag.
+[20:10:05] [Server thread/WARN]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[20:10:05] [Server thread/WARN]: Roguelike Dungeons loaded a new chunk [3, 85] in dimension 0 (overworld) while populating chunk [7, 82], causing cascading worldgen lag.
+[20:10:05] [Server thread/WARN]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[20:10:06] [Server thread/WARN]: Roguelike Dungeons loaded a new chunk [3, 82] in dimension 0 (overworld) while populating chunk [7, 82], causing cascading worldgen lag.
+[20:10:06] [Server thread/WARN]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[20:10:06] [Server thread/WARN]: Roguelike Dungeons loaded a new chunk [3, 84] in dimension 0 (overworld) while populating chunk [7, 82], causing cascading worldgen lag.
+[20:10:06] [Server thread/WARN]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[20:10:06] [Server thread/WARN]: Roguelike Dungeons loaded a new chunk [3, 83] in dimension 0 (overworld) while populating chunk [7, 82], causing cascading worldgen lag.
+[20:10:06] [Server thread/WARN]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[20:10:06] [Server thread/WARN]: Roguelike Dungeons loaded a new chunk [9, 82] in dimension 0 (overworld) while populating chunk [7, 82], causing cascading worldgen lag.
+[20:10:06] [Server thread/WARN]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[20:10:06] [Server thread/WARN]: Roguelike Dungeons loaded a new chunk [9, 83] in dimension 0 (overworld) while populating chunk [7, 82], causing cascading worldgen lag.
+[20:10:06] [Server thread/WARN]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[20:10:06] [Server thread/WARN]: Roguelike Dungeons loaded a new chunk [10, 82] in dimension 0 (overworld) while populating chunk [7, 82], causing cascading worldgen lag.
+[20:10:06] [Server thread/WARN]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[20:10:06] [Server thread/WARN]: Roguelike Dungeons loaded a new chunk [10, 83] in dimension 0 (overworld) while populating chunk [7, 82], causing cascading worldgen lag.
+[20:10:06] [Server thread/WARN]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[20:10:06] [Server thread/WARN]: Roguelike Dungeons loaded a new chunk [4, 86] in dimension 0 (overworld) while populating chunk [7, 82], causing cascading worldgen lag.
+[20:10:06] [Server thread/WARN]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[20:10:06] [Server thread/WARN]: Roguelike Dungeons loaded a new chunk [3, 86] in dimension 0 (overworld) while populating chunk [7, 82], causing cascading worldgen lag.
+[20:10:06] [Server thread/WARN]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[20:10:06] [Server thread/WARN]: Roguelike Dungeons loaded a new chunk [2, 82] in dimension 0 (overworld) while populating chunk [7, 82], causing cascading worldgen lag.
+[20:10:06] [Server thread/WARN]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[20:10:06] [Server thread/WARN]: Roguelike Dungeons loaded a new chunk [9, 84] in dimension 0 (overworld) while populating chunk [7, 82], causing cascading worldgen lag.
+[20:10:06] [Server thread/WARN]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[20:10:06] [Server thread/WARN]: Roguelike Dungeons loaded a new chunk [2, 83] in dimension 0 (overworld) while populating chunk [7, 82], causing cascading worldgen lag.
+[20:10:06] [Server thread/WARN]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[20:10:07] [Server thread/WARN]: Roguelike Dungeons loaded a new chunk [8, 85] in dimension 0 (overworld) while populating chunk [7, 82], causing cascading worldgen lag.
+[20:10:07] [Server thread/WARN]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[20:10:07] [Server thread/WARN]: Roguelike Dungeons loaded a new chunk [7, 85] in dimension 0 (overworld) while populating chunk [7, 82], causing cascading worldgen lag.
+[20:10:07] [Server thread/WARN]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[20:10:07] [Server thread/WARN]: Roguelike Dungeons loaded a new chunk [9, 85] in dimension 0 (overworld) while populating chunk [7, 82], causing cascading worldgen lag.
+[20:10:07] [Server thread/WARN]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[20:10:07] [Server thread/WARN]: Roguelike Dungeons loaded a new chunk [9, 86] in dimension 0 (overworld) while populating chunk [7, 82], causing cascading worldgen lag.
+[20:10:07] [Server thread/WARN]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[20:10:07] [Server thread/WARN]: Roguelike Dungeons loaded a new chunk [8, 86] in dimension 0 (overworld) while populating chunk [7, 82], causing cascading worldgen lag.
+[20:10:07] [Server thread/WARN]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[20:10:07] [Server thread/WARN]: Roguelike Dungeons loaded a new chunk [7, 86] in dimension 0 (overworld) while populating chunk [7, 82], causing cascading worldgen lag.
+[20:10:07] [Server thread/WARN]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[20:10:08] [Server thread/WARN]: Roguelike Dungeons loaded a new chunk [2, 84] in dimension 0 (overworld) while populating chunk [7, 82], causing cascading worldgen lag.
+[20:10:08] [Server thread/WARN]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[20:10:08] [Server thread/INFO]: Saved 0 stages for DieInsel.
+[20:10:37] [Server thread/INFO]: Generated structure: OrcVillageSmallRoofedForest at 328, 64, 1186, time: 1ms
+[20:10:38] [Server thread/INFO]: Created new marker #10"integration.antiqueatlas.marker.ebwizardry:obelisk"@(343, 1072)
+[20:10:38] [Server thread/WARN]: Electroblob's Wizardry loaded a new chunk [21, 66] in dimension 0 (overworld) while populating chunk [20, 66], causing cascading worldgen lag.
+[20:10:38] [Server thread/WARN]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[20:10:49] [Server thread/INFO]: Saved 0 stages for DieInsel.
+[20:11:34] [Server thread/INFO]: Saved 0 stages for DieInsel.
+[20:11:55] [Server thread/INFO]: Synchronising advancements for DieInsel
+[20:11:55] [Client thread/INFO]: Loaded 150 advancements
+[20:12:19] [Server thread/INFO]: Saved 0 stages for DieInsel.
+[20:12:26] [Client thread/INFO]: Handling crafting slots.
+[20:12:26] [Client thread/INFO]: Merging stacks.
+[20:12:26] [Client thread/INFO]: Applying rules.
+[20:12:26] [Client thread/INFO]: Locking stacks.
+[20:12:26] [Client thread/INFO]: Default sorting.
+[20:12:26] [Client thread/INFO]: Sorting done in 600099ns
+[20:12:27] [Client thread/INFO]: Handling crafting slots.
+[20:12:27] [Client thread/INFO]: Merging stacks.
+[20:12:27] [Client thread/INFO]: Applying rules.
+[20:12:27] [Client thread/INFO]: Locking stacks.
+[20:12:27] [Client thread/INFO]: Default sorting.
+[20:12:27] [Client thread/INFO]: Sorting done in 315100ns
+[20:12:29] [Server thread/INFO]: DieInsel has made the advancement [A True Source of Evil]
+[20:12:29] [Server thread/INFO]: Synchronising advancements for DieInsel
+[20:12:29] [Client thread/INFO]: [CHAT] DieInsel has made the advancement [A True Source of Evil]
+[20:12:29] [Client thread/INFO]: Loaded 152 advancements
+[20:12:33] [Client thread/INFO]: Handling crafting slots.
+[20:12:33] [Client thread/INFO]: Merging stacks.
+[20:12:33] [Client thread/INFO]: Applying rules.
+[20:12:33] [Client thread/INFO]: Locking stacks.
+[20:12:33] [Client thread/INFO]: Default sorting.
+[20:12:33] [Client thread/INFO]: Sorting done in 712200ns
+[20:12:37] [Client thread/INFO]: Default sorting.
+[20:12:37] [Client thread/INFO]: Sorting done in 807900ns
+[20:12:39] [Client thread/INFO]: Default sorting.
+[20:12:39] [Client thread/INFO]: Sorting done in 764100ns
+[20:12:40] [Client thread/INFO]: Default sorting.
+[20:12:40] [Client thread/INFO]: Sorting done in 424301ns
+[20:12:52] [Server thread/INFO]: Created new marker #11"integration.antiqueatlas.marker.ebwizardry:obelisk"@(300, 899)
+[20:12:56] [Server thread/INFO]: [atomicstryker.battletowers.common.AS_WorldGenTower:generate:538]: Dimension 0 Battle Tower type CobbleStone spawned at [ 448 | 880 ], underground: false
+[20:12:57] [Server thread/INFO]: [atomicstryker.battletowers.common.AS_WorldGenTower:generate:538]: Dimension 0 Battle Tower type CobbleStone spawned at [ 448 | 1088 ], underground: false
+[20:12:57] [Server thread/INFO]: Generated structure: OrcTraderRoofedForest at 406, 71, 1008, time: 1ms
+[20:12:57] [Server thread/INFO]: Generated structure: OrcMineLargeRoofedForest at 459, 63, 871, time: 35ms
+[20:12:57] [Server thread/INFO]: Created new marker #12"gui.antiqueatlas.marker.village"@(549, 1381)
+[20:12:59] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 7993ms behind, skipping 159 tick(s)
+[20:13:10] [Server thread/INFO]: Saved 0 stages for DieInsel.
+[20:13:10] [Client thread/INFO]: Default sorting.
+[20:13:10] [Client thread/INFO]: Sorting done in 3636900ns
+[20:13:29] [Client thread/WARN]: GUI did not draw the dark background layer behind itself, this may result in display issues: com.teamcqr.chocolatequestrepoured.client.gui.GuiCQREntity
+[20:13:55] [Server thread/INFO]: Saved 0 stages for DieInsel.
+[20:13:55] [Server thread/INFO]: Saving local markers data to NBT
+[20:13:58] [Client thread/INFO]: Handling crafting slots.
+[20:13:58] [Client thread/INFO]: Merging stacks.
+[20:13:58] [Client thread/INFO]: Applying rules.
+[20:13:58] [Client thread/INFO]: Locking stacks.
+[20:13:58] [Client thread/INFO]: Default sorting.
+[20:13:58] [Client thread/INFO]: Sorting done in 5151900ns
+[20:14:03] [Server thread/INFO]: [DieInsel: Set own game mode to Survival Mode]
+[20:14:03] [Client thread/INFO]: [CHAT] Your game mode has been updated to Survival Mode
+[20:14:05] [Server thread/WARN]: DieInsel moved wrongly!
+[20:14:08] [Server thread/INFO]: [DieInsel: Set own game mode to Creative Mode]
+[20:14:08] [Client thread/INFO]: [CHAT] Your game mode has been updated to Creative Mode
+[20:14:40] [Server thread/INFO]: Saved 0 stages for DieInsel.
+[20:15:04] [Client thread/INFO]: Loaded 152 advancements
+[20:15:08] [Server thread/INFO]: [atomicstryker.battletowers.common.AS_WorldGenTower:generate:538]: Dimension 0 Battle Tower type CobbleStone spawned at [ 448 | 1424 ], underground: false
+[20:15:08] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3287ms behind, skipping 65 tick(s)
+[20:15:09] [Server thread/INFO]: [DieInsel: Set own game mode to Survival Mode]
+[20:15:09] [Client thread/INFO]: [CHAT] Your game mode has been updated to Survival Mode
+[20:15:15] [Server thread/WARN]: Doomlike Dungeons loaded a new chunk [14, 90] in dimension 0 (overworld) while populating chunk [15, 90], causing cascading worldgen lag.
+[20:15:15] [Server thread/WARN]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[20:15:15] [Server thread/WARN]: Doomlike Dungeons loaded a new chunk [13, 90] in dimension 0 (overworld) while populating chunk [15, 90], causing cascading worldgen lag.
+[20:15:15] [Server thread/WARN]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[20:15:15] [Server thread/WARN]: Doomlike Dungeons loaded a new chunk [12, 90] in dimension 0 (overworld) while populating chunk [15, 90], causing cascading worldgen lag.
+[20:15:15] [Server thread/WARN]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[20:15:15] [Server thread/WARN]: Doomlike Dungeons loaded a new chunk [15, 91] in dimension 0 (overworld) while populating chunk [15, 90], causing cascading worldgen lag.
+[20:15:15] [Server thread/WARN]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[20:15:15] [Server thread/WARN]: Doomlike Dungeons loaded a new chunk [16, 91] in dimension 0 (overworld) while populating chunk [15, 90], causing cascading worldgen lag.
+[20:15:15] [Server thread/WARN]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[20:15:20] [Client thread/INFO]: [CHAT] Unknown command. Try /help for a list of commands
+[20:15:23] [Client thread/INFO]: [CHAT] Unknown command. Try /help for a list of commands
+[20:15:24] [Client thread/INFO]: [CHAT] Unknown command. Try /help for a list of commands
+[20:15:27] [Server thread/INFO]: Saved 0 stages for DieInsel.
+[20:16:02] [Server thread/INFO]: Saving and pausing game...
+[20:16:02] [Server thread/INFO]: Saved 0 stages for DieInsel.
+[20:16:02] [Server thread/INFO]: Saving chunks for level 'New World'/overworld
+[20:16:03] [Netty Local Client IO #0/INFO]: Cleaning client cache...
+[20:16:03] [Netty Local Client IO #0/INFO]: Cleared cached client data! Disconnected from server.
+[20:16:03] [Server thread/INFO]: Saving chunks for level 'New World'/thedungeon
+[20:16:03] [Server thread/INFO]: Stopping server
+[20:16:03] [Server thread/INFO]: Saving players
+[20:16:03] [Server thread/INFO]: Saved 0 stages for DieInsel.
+[20:16:03] [Server thread/INFO]: DieInsel lost connection: Disconnected
+[20:16:03] [Server thread/INFO]: DieInsel left the game
+[20:16:03] [Server thread/INFO]: Stopping singleplayer server as player logged out
+[20:16:03] [Server thread/INFO]: Saving worlds
+[20:16:03] [Server thread/INFO]: Saving chunks for level 'New World'/overworld
+[20:16:03] [Server thread/INFO]: Saving chunks for level 'New World'/thedungeon
+[20:16:04] [Server thread/INFO]: Unloading dimension 0
+[20:16:04] [Server thread/INFO]: Unloading dimension 3
+[20:16:09] [Server thread/INFO]: Applying holder lookups
+[20:16:09] [Server thread/INFO]: Holder lookups applied
+[20:16:22] [Client thread/INFO]: Stopping!
+[20:16:22] [Client thread/INFO]: SoundSystem shutting down...
+[20:16:23] [Client thread/WARN]: Author: Paul Lamb, www.paulscode.com
