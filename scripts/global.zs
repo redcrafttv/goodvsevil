@@ -4,5 +4,5 @@ import crafttweaker.player.IPlayer;
 
 enableDebug();
 
-mods.gamestages.addGameStage("good");
-mods.gamestages.addGameStage("evil");
+//mods.gamestages.addGameStage("good");
+//mods.gamestages.addGameStage("evil");
