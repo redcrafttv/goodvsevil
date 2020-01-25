@@ -1,5 +1,0 @@
-#Dynamically calculated blood values - DON'T EDIT
-iceandfire:hippogryph=15
-blocklings:entity_blockling=3
-mysticalworld:entity_deer=10
-mysticalworld:entity_beetle=4

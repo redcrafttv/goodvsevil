@@ -11,7 +11,7 @@ bobView:true
 anaglyph3d:false
 maxFps:260
 fboEnable:true
-difficulty:0
+difficulty:2
 fancyGraphics:true
 ao:2
 renderClouds:true
@@ -96,13 +96,13 @@ key_key.ebwizardry.previous_spell:48
 key_keybind.baublesinventory:48
 key_roots.keybinds.pouch:0
 key_roots.keybinds.quiver:0
-key_roots.keybinds.spell_slot_1:0
-key_roots.keybinds.spell_slot_3:0
-key_roots.keybinds.spell_slot_2:0
 key_roots.keybinds.spell_slot_previous:0
 key_roots.keybinds.spell_slot_5:0
-key_roots.keybinds.spell_slot_next:0
 key_roots.keybinds.spell_slot_4:0
+key_roots.keybinds.spell_slot_2:0
+key_roots.keybinds.spell_slot_1:0
+key_roots.keybinds.spell_slot_3:0
+key_roots.keybinds.spell_slot_next:0
 key_key.erebus.glide:34
 key_key.erebus.poweredglide:35
 key_key.erebus.beetleram:19
@@ -140,6 +140,8 @@ key_keybind.vehicle.turret.right:205
 key_keybind.vehicle.mouse.aim:0
 key_keybind.vehicle.ammo.select:47
 key_keybind.awAutomation.toggle_workbounds_render:66
+key_bbw.key.mode:50
+key_bbw.key.fluidmode:33
 key_nei.options.keys.gui.botania_corporea_request:0
 key_mod.chiselsandbits.chiselmode.single:0
 key_mod.chiselsandbits.chiselmode.snap2:0
@@ -181,7 +183,9 @@ key_key.dragon_fireAttack:19
 key_key.dragon_strike:34
 key_key.dragon_down:45
 key_key.dragon_change_view:65
+key_key.categories.naming:49
 key_invtweaks.key.sort:19
+key_xreliquary.keybind.fortune_coin:0
 key_key.radial_menu:0
 key_key.use_ring:19
 key_key.use_secondary_ring:0
