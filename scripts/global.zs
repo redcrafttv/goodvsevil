@@ -1,4 +1,5 @@
 #priority 1000
+#modloaded minecraft
 import crafttweaker.player.IPlayer;
 
 enableDebug();
