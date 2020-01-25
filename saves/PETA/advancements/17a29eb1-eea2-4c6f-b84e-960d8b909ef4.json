@@ -1,0 +1,234 @@
+{
+  "minecraft:recipes/redstone/noteblock": {
+    "criteria": {
+      "has_redstone": "2020-01-25 16:51:21 +0100"
+    },
+    "done": true
+  },
+  "inventorypets:inventorypets/root": {
+    "criteria": {
+      "auto": "2020-01-25 16:49:36 +0100"
+    },
+    "done": true
+  },
+  "ebwizardry:handbook/scrolls": {
+    "criteria": {
+      "criteria_0": "2020-01-25 16:51:21 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2020-01-25 16:51:21 +0100"
+    },
+    "done": true
+  },
+  "ebwizardry:arcane_initiate": {
+    "criteria": {
+      "criteria_0": "2020-01-25 16:54:34 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/clock": {
+    "criteria": {
+      "has_redstone": "2020-01-25 16:51:21 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_boat": {
+    "criteria": {
+      "entered_water": "2020-01-25 17:02:52 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/compass": {
+    "criteria": {
+      "has_redstone": "2020-01-25 16:51:21 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/repeater": {
+    "criteria": {
+      "has_redstone_torch": "2020-01-25 16:58:33 +0100"
+    },
+    "done": true
+  },
+  "roots:pacifist": {
+    "criteria": {
+      "book": "2020-01-25 16:52:47 +0100"
+    },
+    "done": true
+  },
+  "lootgames:minesweeper/minesweeper": {
+    "criteria": {
+      "click_on_puzzle_master": "2020-01-25 16:59:58 +0100"
+    },
+    "done": true
+  },
+  "lootgames:game_lost": {
+    "criteria": {
+      "lose": "2020-01-25 17:02:34 +0100"
+    },
+    "done": true
+  },
+  "mysticalworld:root": {
+    "criteria": {
+      "auto": "2020-01-25 16:49:36 +0100"
+    },
+    "done": true
+  },
+  "sereneseasons:recipes/tools/season_clock": {
+    "criteria": {
+      "has_redstone": "2020-01-25 16:51:21 +0100"
+    },
+    "done": true
+  },
+  "astralsorcery:root": {
+    "criteria": {
+      "astralsorcery_present": "2020-01-25 16:49:39 +0100"
+    },
+    "done": true
+  },
+  "ebwizardry:all_spells": {
+    "criteria": {
+      "force_arrow": "2020-01-25 16:52:44 +0100"
+    },
+    "done": false
+  },
+  "lootgames:find_dungeon": {
+    "criteria": {
+      "click_on_puzzle_master": "2020-01-25 16:58:30 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/piston": {
+    "criteria": {
+      "has_redstone": "2020-01-25 16:51:21 +0100"
+    },
+    "done": true
+  },
+  "ebwizardry:discover_spell": {
+    "criteria": {
+      "criteria_0": "2020-01-25 16:52:44 +0100"
+    },
+    "done": true
+  },
+  "ebwizardry:defeat_evil_wizard": {
+    "criteria": {
+      "criteria_0": "2020-01-25 17:04:29 +0100"
+    },
+    "done": true
+  },
+  "ebwizardry:handbook/elements": {
+    "criteria": {
+      "necromancy": "2020-01-25 16:51:21 +0100"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "forest": "2020-01-25 16:49:36 +0100",
+      "forest_hills": "2020-01-25 16:54:31 +0100",
+      "plains": "2020-01-25 16:50:21 +0100",
+      "extreme_hills": "2020-01-25 16:53:23 +0100",
+      "river": "2020-01-25 16:50:23 +0100"
+    },
+    "done": false
+  },
+  "ebwizardry:root": {
+    "criteria": {
+      "criteria_0": "2020-01-25 16:51:21 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal_from_bone": {
+    "criteria": {
+      "has_bone": "2020-01-25 16:51:21 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/bread": {
+    "criteria": {
+      "has_wheat": "2020-01-25 16:51:21 +0100"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/root": {
+    "criteria": {
+      "tick": "2020-01-25 16:49:39 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_torch": {
+    "criteria": {
+      "has_redstone": "2020-01-25 16:51:21 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2020-01-25 16:51:21 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_boat": {
+    "criteria": {
+      "entered_water": "2020-01-25 17:02:52 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_boat": {
+    "criteria": {
+      "entered_water": "2020-01-25 17:02:52 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dropper": {
+    "criteria": {
+      "has_redstone": "2020-01-25 16:51:21 +0100"
+    },
+    "done": true
+  },
+  "wrd:wesleysdungeonmod": {
+    "criteria": {
+      "wesleysdungeonmod": "2020-01-25 16:49:36 +0100"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2020-01-25 16:52:47 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/boat": {
+    "criteria": {
+      "entered_water": "2020-01-25 17:02:52 +0100"
+    },
+    "done": true
+  },
+  "lootgames:gol/game_of_light": {
+    "criteria": {
+      "click_on_puzzle_master": "2020-01-25 16:58:51 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_boat": {
+    "criteria": {
+      "entered_water": "2020-01-25 17:02:52 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_boat": {
+    "criteria": {
+      "entered_water": "2020-01-25 17:02:52 +0100"
+    },
+    "done": true
+  },
+  "roots:root": {
+    "criteria": {
+      "auto": "2020-01-25 16:49:36 +0100"
+    },
+    "done": true
+  }
+}
