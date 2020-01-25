@@ -1,3 +1,3 @@
 #priority 1000
-#modloaded minecraft
+//modloaded minecraft
 enableDebug();
