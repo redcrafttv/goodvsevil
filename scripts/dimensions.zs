@@ -1,5 +1,5 @@
 #priority 880
-#modloaded minecraft twilightforest aether_legacy aeadditions aetherworks aether_legacy_addon thebetweenlands erebus
+#modloaded minecraft twilightforest aether_legacy aeadditions aether_legacy_addon thebetweenlands erebus
 import mods.DimensionStages;
 
 //TODO: Prüfen ob als Stage good oder evil reicht oder ob wirklich alle Dimensionen eine Stage benötigen
