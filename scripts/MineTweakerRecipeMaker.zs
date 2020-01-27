@@ -12,6 +12,7 @@
 
 // ================================================================================
 //#MARKER REMOVE
+//inventory pets
 recipes.remove(<inventorypets:wither_pet>);
 recipes.remove(<inventorypets:sun_pet>);
 recipes.remove(<inventorypets:april_fool_pet>);
@@ -69,6 +70,8 @@ recipes.remove(<inventorypets:mooshroom_pet>);
 recipes.remove(<inventorypets:cow_pet>);
 recipes.remove(<inventorypets:chicken_pet>);
 recipes.remove(<inventorypets:squid_pet>);
+
+
 
 // ================================================================================
 //#MARKER REMOVE SHAPELESS
