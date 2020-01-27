@@ -11,6 +11,12 @@
     },
     "done": true
   },
+  "inventorypets:inventorypets/cats": {
+    "criteria": {
+      "crafting_table": "2020-01-26 18:11:52 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/lever": {
     "criteria": {
       "has_cobblestone": "2020-01-25 19:20:08 +0100"
@@ -29,15 +35,27 @@
     },
     "done": true
   },
+  "inventorypets:inventorypets/5": {
+    "criteria": {
+      "example": "2020-01-26 18:03:40 +0100"
+    },
+    "done": true
+  },
   "mysticalworld:root": {
     "criteria": {
       "auto": "2020-01-25 19:15:25 +0100"
     },
     "done": true
   },
-  "minecraft:recipes/combat/golden_chestplate": {
+  "minecraft:recipes/redstone/observer": {
     "criteria": {
-      "has_gold_ingot": "2020-01-25 19:54:25 +0100"
+      "has_quartz": "2020-01-26 18:02:34 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/snow": {
+    "criteria": {
+      "has_snowball": "2020-01-26 18:02:34 +0100"
     },
     "done": true
   },
@@ -47,21 +65,9 @@
     },
     "done": true
   },
-  "ebwizardry:all_spells": {
-    "criteria": {
-      "freeze": "2020-01-25 19:54:46 +0100"
-    },
-    "done": false
-  },
   "lootgames:find_dungeon": {
     "criteria": {
       "click_on_puzzle_master": "2020-01-25 19:41:54 +0100"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/diamond_axe": {
-    "criteria": {
-      "has_diamond": "2020-01-25 19:54:25 +0100"
     },
     "done": true
   },
@@ -71,9 +77,33 @@
     },
     "done": true
   },
+  "inventorypets:inventorypets/doublechest": {
+    "criteria": {
+      "crafting_table": "2020-01-26 18:07:01 +0100"
+    },
+    "done": true
+  },
+  "inventorypets:inventorypets/sun": {
+    "criteria": {
+      "crafting_table": "2020-01-26 18:13:01 +0100"
+    },
+    "done": true
+  },
+  "inventorypets:inventorypets/lead": {
+    "criteria": {
+      "crafting_table": "2020-01-26 18:07:05 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_helmet": {
     "criteria": {
       "has_leather": "2020-01-25 20:01:52 +0100"
+    },
+    "done": true
+  },
+  "inventorypets:inventorypets/netherportal": {
+    "criteria": {
+      "crafting_table": "2020-01-26 18:07:06 +0100"
     },
     "done": true
   },
@@ -83,9 +113,33 @@
     },
     "done": true
   },
+  "inventorypets:inventorypets/pacman": {
+    "criteria": {
+      "crafting_table": "2020-01-26 18:08:12 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/golden_hoe": {
     "criteria": {
       "has_gold_ingot": "2020-01-25 19:54:25 +0100"
+    },
+    "done": true
+  },
+  "inventorypets:inventorypets/jukebox": {
+    "criteria": {
+      "crafting_table": "2020-01-26 18:07:04 +0100"
+    },
+    "done": true
+  },
+  "inventorypets:inventorypets/specialist": {
+    "criteria": {
+      "crafting_table": "2020-01-26 18:10:31 +0100"
+    },
+    "done": true
+  },
+  "inventorypets:inventorypets/wither": {
+    "criteria": {
+      "crafting_table": "2020-01-26 18:13:01 +0100"
     },
     "done": true
   },
@@ -113,21 +167,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/iron_block": {
+  "inventorypets:inventorypets/flyingsaddle": {
     "criteria": {
-      "has_at_least_9_iron_ingot": "2020-01-25 19:25:13 +0100"
+      "crafting_table": "2020-01-26 18:09:23 +0100"
     },
     "done": true
   },
   "minecraft:recipes/combat/diamond_sword": {
     "criteria": {
       "has_diamond": "2020-01-25 19:54:26 +0100"
-    },
-    "done": true
-  },
-  "wrd:wesleysdungeonmod": {
-    "criteria": {
-      "wesleysdungeonmod": "2020-01-25 19:15:25 +0100"
     },
     "done": true
   },
@@ -143,21 +191,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/combat/arrow": {
+  "inventorypets:inventorypets/10": {
     "criteria": {
-      "has_feather": "2020-01-25 20:02:01 +0100"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/stone_slab": {
-    "criteria": {
-      "has_stone": "2020-01-25 19:50:40 +0100"
-    },
-    "done": true
-  },
-  "lootgames:gol/game_of_light": {
-    "criteria": {
-      "click_on_puzzle_master": "2020-01-25 19:42:00 +0100"
+      "example": "2020-01-26 18:03:51 +0100"
     },
     "done": true
   },
@@ -173,9 +209,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/light_weighted_pressure_plate": {
+  "minecraft:recipes/building_blocks/diorite": {
     "criteria": {
-      "has_gold_ingot": "2020-01-25 19:54:25 +0100"
+      "has_quartz": "2020-01-26 18:02:34 +0100"
     },
     "done": true
   },
@@ -185,21 +221,33 @@
     },
     "done": true
   },
-  "minecraft:recipes/tools/stone_shovel": {
-    "criteria": {
-      "has_cobblestone": "2020-01-25 19:20:08 +0100"
-    },
-    "done": true
-  },
   "iceandfire:iceandfire/dragon_egg": {
     "criteria": {
       "red": "2020-01-25 19:49:43 +0100"
     },
     "done": true
   },
+  "inventorypets:inventorypets/enchantingtable": {
+    "criteria": {
+      "crafting_table": "2020-01-26 18:07:02 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/emerald_block": {
     "criteria": {
       "has_at_least_9_emerald": "2020-01-25 19:23:52 +0100"
+    },
+    "done": true
+  },
+  "inventorypets:inventorypets/magmacube": {
+    "criteria": {
+      "crafting_table": "2020-01-26 18:05:46 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2020-01-26 18:14:39 +0100"
     },
     "done": true
   },
@@ -221,15 +269,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/tools/golden_axe": {
+  "inventorypets:inventorypets/pufferfish": {
     "criteria": {
-      "has_gold_ingot": "2020-01-25 19:54:25 +0100"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/iron_axe": {
-    "criteria": {
-      "has_iron_ingot": "2020-01-25 19:25:13 +0100"
+      "crafting_table": "2020-01-26 18:13:00 +0100"
     },
     "done": true
   },
@@ -239,15 +281,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/cobblestone_slab": {
+  "inventorypets:inventorypets/bed": {
     "criteria": {
-      "has_cobblestone": "2020-01-25 19:20:08 +0100"
+      "crafting_table": "2020-01-26 18:05:52 +0100"
     },
     "done": true
   },
-  "minecraft:recipes/combat/golden_helmet": {
+  "minecraft:recipes/building_blocks/cobblestone_slab": {
     "criteria": {
-      "has_gold_ingot": "2020-01-25 19:54:25 +0100"
+      "has_cobblestone": "2020-01-25 19:20:08 +0100"
     },
     "done": true
   },
@@ -257,9 +299,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/tripwire_hook": {
+  "inventorypets:inventorypets/politicallycorrect": {
     "criteria": {
-      "has_string": "2020-01-25 19:25:30 +0100"
+      "crafting_table": "2020-01-26 18:11:57 +0100"
     },
     "done": true
   },
@@ -269,9 +311,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/combat/iron_boots": {
+  "inventorypets:inventorypets/mishumaasaba": {
     "criteria": {
-      "has_iron_ingot": "2020-01-25 19:25:13 +0100"
+      "crafting_table": "2020-01-26 18:11:56 +0100"
     },
     "done": true
   },
@@ -281,27 +323,21 @@
     },
     "done": true
   },
-  "minecraft:story/root": {
+  "inventorypets:inventorypets/moon": {
     "criteria": {
-      "crafting_table": "2020-01-25 19:25:38 +0100"
+      "crafting_table": "2020-01-26 18:10:33 +0100"
     },
     "done": true
   },
-  "minecraft:recipes/redstone/stone_button": {
+  "inventorypets:inventorypets/blackhole": {
     "criteria": {
-      "has_stone": "2020-01-25 19:50:40 +0100"
+      "crafting_table": "2020-01-26 18:12:02 +0100"
     },
     "done": true
   },
-  "minecraft:recipes/redstone/dropper": {
+  "inventorypets:inventorypets/illuminati": {
     "criteria": {
-      "has_redstone": "2020-01-25 19:25:08 +0100"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/iron_chestplate": {
-    "criteria": {
-      "has_iron_ingot": "2020-01-25 19:25:13 +0100"
+      "crafting_table": "2020-01-26 18:10:34 +0100"
     },
     "done": true
   },
@@ -329,12 +365,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/noteblock": {
-    "criteria": {
-      "has_redstone": "2020-01-25 19:25:08 +0100"
-    },
-    "done": true
-  },
   "minecraft:recipes/combat/bow": {
     "criteria": {
       "has_string": "2020-01-25 19:25:30 +0100"
@@ -353,12 +383,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/string_to_wool": {
-    "criteria": {
-      "has_string": "2020-01-25 19:25:30 +0100"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/tnt": {
     "criteria": {
       "has_gunpowder": "2020-01-25 19:54:27 +0100"
@@ -371,15 +395,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/combat/leather_chestplate": {
+  "minecraft:recipes/building_blocks/granite": {
     "criteria": {
-      "has_leather": "2020-01-25 20:01:52 +0100"
+      "has_quartz": "2020-01-26 18:02:34 +0100"
     },
     "done": true
   },
-  "minecraft:recipes/tools/compass": {
+  "inventorypets:inventorypets/creeper": {
     "criteria": {
-      "has_redstone": "2020-01-25 19:25:08 +0100"
+      "crafting_table": "2020-01-26 18:03:51 +0100"
     },
     "done": true
   },
@@ -389,9 +413,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/tools/golden_pickaxe": {
+  "inventorypets:inventorypets/slime": {
     "criteria": {
-      "has_gold_ingot": "2020-01-25 19:54:25 +0100"
+      "crafting_table": "2020-01-26 18:13:00 +0100"
+    },
+    "done": true
+  },
+  "inventorypets:inventorypets/house": {
+    "criteria": {
+      "crafting_table": "2020-01-26 18:08:10 +0100"
     },
     "done": true
   },
@@ -413,21 +443,21 @@
     },
     "done": true
   },
-  "aether_legacy:recipes/tools/gold_ring": {
+  "minecraft:recipes/redstone/comparator": {
     "criteria": {
-      "has_gold": "2020-01-25 19:54:25 +0100"
+      "has_quartz": "2020-01-26 18:02:34 +0100"
+    },
+    "done": true
+  },
+  "inventorypets:inventorypets/40": {
+    "criteria": {
+      "example": "2020-01-26 18:09:23 +0100"
     },
     "done": true
   },
   "minecraft:story/mine_stone": {
     "criteria": {
       "get_stone": "2020-01-25 19:20:08 +0100"
-    },
-    "done": true
-  },
-  "ebwizardry:discover_spell": {
-    "criteria": {
-      "criteria_0": "2020-01-25 19:54:46 +0100"
     },
     "done": true
   },
@@ -443,31 +473,21 @@
     },
     "done": true
   },
-  "minecraft:adventure/adventuring_time": {
+  "inventorypets:inventorypets/cobblestone": {
     "criteria": {
-      "ice_flats": "2020-01-25 19:18:44 +0100",
-      "forest": "2020-01-25 19:17:54 +0100",
-      "swampland": "2020-01-25 19:51:54 +0100",
-      "beaches": "2020-01-25 19:24:09 +0100",
-      "forest_hills": "2020-01-25 19:48:09 +0100",
-      "plains": "2020-01-25 19:18:38 +0100",
-      "ocean": "2020-01-25 19:23:45 +0100",
-      "extreme_hills": "2020-01-25 19:23:31 +0100",
-      "roofed_forest": "2020-01-25 19:22:21 +0100",
-      "river": "2020-01-25 19:28:19 +0100",
-      "stone_beach": "2020-01-25 19:23:33 +0100"
-    },
-    "done": false
-  },
-  "minecraft:recipes/redstone/iron_door": {
-    "criteria": {
-      "has_iron_ingot": "2020-01-25 19:25:13 +0100"
+      "crafting_table": "2020-01-26 18:11:53 +0100"
     },
     "done": true
   },
   "minecraft:recipes/combat/diamond_leggings": {
     "criteria": {
       "has_diamond": "2020-01-25 19:54:25 +0100"
+    },
+    "done": true
+  },
+  "inventorypets:inventorypets/chest": {
+    "criteria": {
+      "crafting_table": "2020-01-26 18:07:00 +0100"
     },
     "done": true
   },
@@ -489,15 +509,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/golden_apple": {
+  "inventorypets:inventorypets/torch": {
     "criteria": {
-      "has_gold_ingot": "2020-01-25 19:54:25 +0100"
+      "crafting_table": "2020-01-26 18:08:19 +0100"
     },
     "done": true
   },
-  "minecraft:recipes/combat/stone_sword": {
+  "minecraft:recipes/food/golden_apple": {
     "criteria": {
-      "has_cobblestone": "2020-01-25 19:20:08 +0100"
+      "has_gold_ingot": "2020-01-25 19:54:25 +0100"
     },
     "done": true
   },
@@ -508,15 +528,9 @@
     },
     "done": false
   },
-  "minecraft:recipes/decorations/cobblestone_wall": {
+  "inventorypets:inventorypets/banana": {
     "criteria": {
-      "has_cobblestone": "2020-01-25 19:20:08 +0100"
-    },
-    "done": true
-  },
-  "ebwizardry:handbook/spells": {
-    "criteria": {
-      "criteria_0": "2020-01-25 19:54:25 +0100"
+      "crafting_table": "2020-01-26 18:09:22 +0100"
     },
     "done": true
   },
@@ -532,27 +546,614 @@
     },
     "done": true
   },
-  "minecraft:recipes/tools/stone_pickaxe": {
-    "criteria": {
-      "has_cobblestone": "2020-01-25 19:20:08 +0100"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/iron_trapdoor": {
     "criteria": {
       "has_iron_ingot": "2020-01-25 19:25:13 +0100"
     },
     "done": true
   },
-  "minecraft:recipes/redstone/stone_pressure_plate": {
+  "inventorypets:inventorypets/50": {
     "criteria": {
-      "has_stone": "2020-01-25 19:50:40 +0100"
+      "example": "2020-01-26 18:10:32 +0100"
+    },
+    "done": true
+  },
+  "inventorypets:inventorypets/all": {
+    "criteria": {
+      "example": "2020-01-26 18:13:01 +0100"
     },
     "done": true
   },
   "minecraft:adventure/root": {
     "criteria": {
       "killed_something": "2020-01-25 20:01:16 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/item_frame": {
+    "criteria": {
+      "has_leather": "2020-01-25 20:01:52 +0100"
+    },
+    "done": true
+  },
+  "inventorypets:inventorypets/quiver": {
+    "criteria": {
+      "crafting_table": "2020-01-26 18:10:31 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_hoe": {
+    "criteria": {
+      "has_cobblestone": "2020-01-25 19:20:08 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/clock": {
+    "criteria": {
+      "has_redstone": "2020-01-25 19:25:08 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_hoe": {
+    "criteria": {
+      "has_diamond": "2020-01-25 19:54:25 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_pickaxe": {
+    "criteria": {
+      "has_diamond": "2020-01-25 19:54:26 +0100"
+    },
+    "done": true
+  },
+  "inventorypets:inventorypets/loot": {
+    "criteria": {
+      "crafting_table": "2020-01-26 18:09:24 +0100"
+    },
+    "done": true
+  },
+  "roots:pacifist": {
+    "criteria": {
+      "book": "2020-01-25 20:01:16 +0100"
+    },
+    "done": true
+  },
+  "aether_legacy:recipes/tools/iron_pendant": {
+    "criteria": {
+      "has_iron": "2020-01-25 19:25:13 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_shovel": {
+    "criteria": {
+      "has_diamond": "2020-01-25 19:54:26 +0100"
+    },
+    "done": true
+  },
+  "inventorypets:inventorypets/aoe": {
+    "criteria": {
+      "crafting_table": "2020-01-26 18:10:34 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_block": {
+    "criteria": {
+      "has_at_least_9_redstone": "2020-01-25 19:25:08 +0100"
+    },
+    "done": true
+  },
+  "inventorypets:inventorypets/20": {
+    "criteria": {
+      "example": "2020-01-26 18:07:00 +0100"
+    },
+    "done": true
+  },
+  "aether_legacy:recipes/combat/diamond_gloves": {
+    "criteria": {
+      "has_diamond": "2020-01-25 19:54:26 +0100"
+    },
+    "done": true
+  },
+  "inventorypets:inventorypets/juggernaut": {
+    "criteria": {
+      "crafting_table": "2020-01-26 18:10:35 +0100"
+    },
+    "done": true
+  },
+  "aether_legacy:recipes/tools/gold_pendant": {
+    "criteria": {
+      "has_gold": "2020-01-25 19:54:25 +0100"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2020-01-25 19:54:25 +0100"
+    },
+    "done": true
+  },
+  "inventorypets:inventorypets/aprilfool": {
+    "criteria": {
+      "crafting_table": "2020-01-26 18:12:01 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_helmet": {
+    "criteria": {
+      "has_diamond": "2020-01-25 19:54:25 +0100"
+    },
+    "done": true
+  },
+  "aether_legacy:recipes/tools/iron_ring": {
+    "criteria": {
+      "has_iron": "2020-01-25 19:25:13 +0100"
+    },
+    "done": true
+  },
+  "inventorypets:inventorypets/apple": {
+    "criteria": {
+      "crafting_table": "2020-01-26 18:08:09 +0100"
+    },
+    "done": true
+  },
+  "inventorypets:inventorypets/30": {
+    "criteria": {
+      "example": "2020-01-26 18:08:09 +0100"
+    },
+    "done": true
+  },
+  "sereneseasons:recipes/redstone/season_sensor": {
+    "criteria": {
+      "has_quartz": "2020-01-26 18:02:34 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_block": {
+    "criteria": {
+      "has_the_recipe": "2020-01-25 19:54:25 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_boots": {
+    "criteria": {
+      "has_gold_ingot": "2020-01-25 19:54:25 +0100"
+    },
+    "done": true
+  },
+  "inventorypets:inventorypets/irongolem": {
+    "criteria": {
+      "crafting_table": "2020-01-26 18:05:45 +0100"
+    },
+    "done": true
+  },
+  "inventorypets:inventorypets/legend": {
+    "criteria": {
+      "crafting_table": "2020-01-26 18:13:01 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_chestplate": {
+    "criteria": {
+      "has_gold_ingot": "2020-01-25 19:54:25 +0100"
+    },
+    "done": true
+  },
+  "inventorypets:inventorypets/wolf": {
+    "criteria": {
+      "crafting_table": "2020-01-26 18:08:19 +0100"
+    },
+    "done": true
+  },
+  "ebwizardry:all_spells": {
+    "criteria": {
+      "freeze": "2020-01-25 19:54:46 +0100"
+    },
+    "done": false
+  },
+  "minecraft:recipes/tools/diamond_axe": {
+    "criteria": {
+      "has_diamond": "2020-01-25 19:54:25 +0100"
+    },
+    "done": true
+  },
+  "inventorypets:inventorypets/squid": {
+    "criteria": {
+      "crafting_table": "2020-01-26 18:02:34 +0100"
+    },
+    "done": true
+  },
+  "inventorypets:inventorypets/fan": {
+    "criteria": {
+      "crafting_table": "2020-01-26 18:08:19 +0100"
+    },
+    "done": true
+  },
+  "inventorypets:inventorypets/solstice": {
+    "criteria": {
+      "crafting_table": "2020-01-26 18:03:24 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/iron_block": {
+    "criteria": {
+      "has_at_least_9_iron_ingot": "2020-01-25 19:25:13 +0100"
+    },
+    "done": true
+  },
+  "inventorypets:inventorypets/enderman": {
+    "criteria": {
+      "crafting_table": "2020-01-26 18:05:43 +0100"
+    },
+    "done": true
+  },
+  "inventorypets:inventorypets/furnace": {
+    "criteria": {
+      "crafting_table": "2020-01-26 18:07:03 +0100"
+    },
+    "done": true
+  },
+  "inventorypets:inventorypets/silverfish": {
+    "criteria": {
+      "crafting_table": "2020-01-26 18:08:18 +0100"
+    },
+    "done": true
+  },
+  "wrd:wesleysdungeonmod": {
+    "criteria": {
+      "wesleysdungeonmod": "2020-01-25 19:15:25 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_slab": {
+    "criteria": {
+      "has_stone": "2020-01-25 19:50:40 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/arrow": {
+    "criteria": {
+      "has_feather": "2020-01-25 20:02:01 +0100"
+    },
+    "done": true
+  },
+  "inventorypets:inventorypets/utilitarian": {
+    "criteria": {
+      "crafting_table": "2020-01-26 18:08:08 +0100"
+    },
+    "done": true
+  },
+  "lootgames:gol/game_of_light": {
+    "criteria": {
+      "click_on_puzzle_master": "2020-01-25 19:42:00 +0100"
+    },
+    "done": true
+  },
+  "inventorypets:inventorypets/menorah": {
+    "criteria": {
+      "crafting_table": "2020-01-26 18:11:55 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/light_weighted_pressure_plate": {
+    "criteria": {
+      "has_gold_ingot": "2020-01-25 19:54:25 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/snow_layer": {
+    "criteria": {
+      "has_snowball": "2020-01-26 18:02:34 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_shovel": {
+    "criteria": {
+      "has_cobblestone": "2020-01-25 19:20:08 +0100"
+    },
+    "done": true
+  },
+  "inventorypets:inventorypets/pingot": {
+    "criteria": {
+      "crafting_table": "2020-01-26 18:09:27 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_axe": {
+    "criteria": {
+      "has_gold_ingot": "2020-01-25 19:54:25 +0100"
+    },
+    "done": true
+  },
+  "inventorypets:inventorypets/60": {
+    "criteria": {
+      "example": "2020-01-26 18:11:56 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/iron_axe": {
+    "criteria": {
+      "has_iron_ingot": "2020-01-25 19:25:13 +0100"
+    },
+    "done": true
+  },
+  "inventorypets:inventorypets/biome": {
+    "criteria": {
+      "crafting_table": "2020-01-26 18:09:22 +0100"
+    },
+    "done": true
+  },
+  "inventorypets:inventorypets/snowgolem": {
+    "criteria": {
+      "crafting_table": "2020-01-26 18:05:51 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_helmet": {
+    "criteria": {
+      "has_gold_ingot": "2020-01-25 19:54:25 +0100"
+    },
+    "done": true
+  },
+  "inventorypets:inventorypets/chicken": {
+    "criteria": {
+      "crafting_table": "2020-01-26 18:03:39 +0100"
+    },
+    "done": true
+  },
+  "inventorypets:inventorypets/cow": {
+    "criteria": {
+      "crafting_table": "2020-01-26 18:03:40 +0100"
+    },
+    "done": true
+  },
+  "inventorypets:inventorypets/pig": {
+    "criteria": {
+      "crafting_table": "2020-01-26 18:03:42 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tripwire_hook": {
+    "criteria": {
+      "has_string": "2020-01-25 19:25:30 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/iron_boots": {
+    "criteria": {
+      "has_iron_ingot": "2020-01-25 19:25:13 +0100"
+    },
+    "done": true
+  },
+  "inventorypets:inventorypets/mooshroom": {
+    "criteria": {
+      "crafting_table": "2020-01-26 18:03:40 +0100"
+    },
+    "done": true
+  },
+  "inventorypets:inventorypets/cheetah": {
+    "criteria": {
+      "crafting_table": "2020-01-26 18:08:09 +0100"
+    },
+    "done": true
+  },
+  "inventorypets:inventorypets/youtuber": {
+    "criteria": {
+      "crafting_table": "2020-01-26 18:11:53 +0100"
+    },
+    "done": true
+  },
+  "inventorypets:inventorypets/meta": {
+    "criteria": {
+      "crafting_table": "2020-01-26 18:09:25 +0100"
+    },
+    "done": true
+  },
+  "inventorypets:inventorypets/pixie": {
+    "criteria": {
+      "crafting_table": "2020-01-26 18:08:17 +0100"
+    },
+    "done": true
+  },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2020-01-25 19:25:38 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/stone_button": {
+    "criteria": {
+      "has_stone": "2020-01-25 19:50:40 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dropper": {
+    "criteria": {
+      "has_redstone": "2020-01-25 19:25:08 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/iron_chestplate": {
+    "criteria": {
+      "has_iron_ingot": "2020-01-25 19:25:13 +0100"
+    },
+    "done": true
+  },
+  "inventorypets:inventorypets/blaze": {
+    "criteria": {
+      "crafting_table": "2020-01-26 18:03:49 +0100"
+    },
+    "done": true
+  },
+  "inventorypets:inventorypets/christmastree": {
+    "criteria": {
+      "crafting_table": "2020-01-26 18:11:54 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/noteblock": {
+    "criteria": {
+      "has_redstone": "2020-01-25 19:25:08 +0100"
+    },
+    "done": true
+  },
+  "inventorypets:inventorypets/peaceful": {
+    "criteria": {
+      "crafting_table": "2020-01-26 18:03:47 +0100"
+    },
+    "done": true
+  },
+  "inventorypets:inventorypets/saddle": {
+    "criteria": {
+      "crafting_table": "2020-01-26 18:08:08 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/string_to_wool": {
+    "criteria": {
+      "has_string": "2020-01-25 19:25:30 +0100"
+    },
+    "done": true
+  },
+  "inventorypets:inventorypets/anvil": {
+    "criteria": {
+      "crafting_table": "2020-01-26 18:05:52 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_chestplate": {
+    "criteria": {
+      "has_leather": "2020-01-25 20:01:52 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/compass": {
+    "criteria": {
+      "has_redstone": "2020-01-25 19:25:08 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_pickaxe": {
+    "criteria": {
+      "has_gold_ingot": "2020-01-25 19:54:25 +0100"
+    },
+    "done": true
+  },
+  "inventorypets:inventorypets/siamese": {
+    "criteria": {
+      "crafting_table": "2020-01-26 18:11:52 +0100"
+    },
+    "done": true
+  },
+  "aether_legacy:recipes/tools/gold_ring": {
+    "criteria": {
+      "has_gold": "2020-01-25 19:54:25 +0100"
+    },
+    "done": true
+  },
+  "inventorypets:inventorypets/dubstep": {
+    "criteria": {
+      "crafting_table": "2020-01-26 18:10:32 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_block": {
+    "criteria": {
+      "has_quartz": "2020-01-26 18:02:34 +0100"
+    },
+    "done": true
+  },
+  "ebwizardry:discover_spell": {
+    "criteria": {
+      "criteria_0": "2020-01-25 19:54:46 +0100"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "ice_flats": "2020-01-25 19:18:44 +0100",
+      "forest": "2020-01-25 19:17:54 +0100",
+      "swampland": "2020-01-25 19:51:54 +0100",
+      "beaches": "2020-01-25 19:24:09 +0100",
+      "forest_hills": "2020-01-25 19:48:09 +0100",
+      "plains": "2020-01-25 19:18:38 +0100",
+      "taiga_cold": "2020-01-26 18:02:13 +0100",
+      "ocean": "2020-01-25 19:23:45 +0100",
+      "extreme_hills": "2020-01-25 19:23:31 +0100",
+      "roofed_forest": "2020-01-25 19:22:21 +0100",
+      "river": "2020-01-25 19:28:19 +0100",
+      "stone_beach": "2020-01-25 19:23:33 +0100"
+    },
+    "done": false
+  },
+  "minecraft:recipes/redstone/iron_door": {
+    "criteria": {
+      "has_iron_ingot": "2020-01-25 19:25:13 +0100"
+    },
+    "done": true
+  },
+  "inventorypets:inventorypets/purpliciouscow": {
+    "criteria": {
+      "crafting_table": "2020-01-26 18:09:32 +0100"
+    },
+    "done": true
+  },
+  "inventorypets:inventorypets/heart": {
+    "criteria": {
+      "crafting_table": "2020-01-26 18:10:32 +0100"
+    },
+    "done": true
+  },
+  "inventorypets:inventorypets/generalist": {
+    "criteria": {
+      "example": "2020-01-26 18:11:54 +0100"
+    },
+    "done": true
+  },
+  "inventorypets:inventorypets/qcm": {
+    "criteria": {
+      "crafting_table": "2020-01-26 18:10:30 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/stone_sword": {
+    "criteria": {
+      "has_cobblestone": "2020-01-25 19:20:08 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cobblestone_wall": {
+    "criteria": {
+      "has_cobblestone": "2020-01-25 19:20:08 +0100"
+    },
+    "done": true
+  },
+  "ebwizardry:handbook/spells": {
+    "criteria": {
+      "criteria_0": "2020-01-25 19:54:25 +0100"
+    },
+    "done": true
+  },
+  "inventorypets:inventorypets/ocelot": {
+    "criteria": {
+      "crafting_table": "2020-01-26 18:03:41 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_pickaxe": {
+    "criteria": {
+      "has_cobblestone": "2020-01-25 19:20:08 +0100"
+    },
+    "done": true
+  },
+  "inventorypets:inventorypets/craftingtable": {
+    "criteria": {
+      "crafting_table": "2020-01-26 18:07:00 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/stone_pressure_plate": {
+    "criteria": {
+      "has_stone": "2020-01-25 19:50:40 +0100"
     },
     "done": true
   },
@@ -580,9 +1181,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/item_frame": {
+  "inventorypets:inventorypets/shield": {
     "criteria": {
-      "has_leather": "2020-01-25 20:01:52 +0100"
+      "crafting_table": "2020-01-26 18:10:34 +0100"
     },
     "done": true
   },
@@ -592,63 +1193,45 @@
     },
     "done": true
   },
-  "minecraft:recipes/tools/stone_hoe": {
-    "criteria": {
-      "has_cobblestone": "2020-01-25 19:20:08 +0100"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/clock": {
-    "criteria": {
-      "has_redstone": "2020-01-25 19:25:08 +0100"
-    },
-    "done": true
-  },
   "minecraft:recipes/transportation/dark_oak_boat": {
     "criteria": {
       "entered_water": "2020-01-25 19:18:51 +0100"
     },
     "done": true
   },
-  "minecraft:recipes/tools/diamond_pickaxe": {
+  "minecraft:recipes/redstone/daylight_detector": {
     "criteria": {
-      "has_diamond": "2020-01-25 19:54:26 +0100"
+      "has_quartz": "2020-01-26 18:02:34 +0100"
     },
     "done": true
   },
-  "minecraft:recipes/tools/diamond_hoe": {
+  "inventorypets:inventorypets/sponge": {
     "criteria": {
-      "has_diamond": "2020-01-25 19:54:25 +0100"
+      "crafting_table": "2020-01-26 18:10:31 +0100"
     },
     "done": true
   },
-  "roots:pacifist": {
+  "inventorypets:inventorypets/brewingstand": {
     "criteria": {
-      "book": "2020-01-25 20:01:16 +0100"
+      "crafting_table": "2020-01-26 18:05:53 +0100"
     },
     "done": true
   },
-  "aether_legacy:recipes/tools/iron_pendant": {
+  "inventorypets:inventorypets/mob": {
     "criteria": {
-      "has_iron": "2020-01-25 19:25:13 +0100"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/diamond_shovel": {
-    "criteria": {
-      "has_diamond": "2020-01-25 19:54:26 +0100"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/redstone_block": {
-    "criteria": {
-      "has_at_least_9_redstone": "2020-01-25 19:25:08 +0100"
+      "crafting_table": "2020-01-26 18:05:51 +0100"
     },
     "done": true
   },
   "minecraft:recipes/building_blocks/stonebrick": {
     "criteria": {
       "has_stone": "2020-01-25 19:50:40 +0100"
+    },
+    "done": true
+  },
+  "inventorypets:inventorypets/holiday": {
+    "criteria": {
+      "crafting_table": "2020-01-26 18:12:01 +0100"
     },
     "done": true
   },
@@ -664,9 +1247,9 @@
     },
     "done": true
   },
-  "aether_legacy:recipes/combat/diamond_gloves": {
+  "inventorypets:inventorypets/spider": {
     "criteria": {
-      "has_diamond": "2020-01-25 19:54:26 +0100"
+      "crafting_table": "2020-01-26 18:05:46 +0100"
     },
     "done": true
   },
@@ -676,33 +1259,9 @@
     },
     "done": true
   },
-  "aether_legacy:recipes/tools/gold_pendant": {
-    "criteria": {
-      "has_gold": "2020-01-25 19:54:25 +0100"
-    },
-    "done": true
-  },
   "minecraft:recipes/combat/diamond_boots": {
     "criteria": {
       "has_diamond": "2020-01-25 19:54:26 +0100"
-    },
-    "done": true
-  },
-  "minecraft:story/mine_diamond": {
-    "criteria": {
-      "diamond": "2020-01-25 19:54:25 +0100"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/diamond_helmet": {
-    "criteria": {
-      "has_diamond": "2020-01-25 19:54:25 +0100"
-    },
-    "done": true
-  },
-  "aether_legacy:recipes/tools/iron_ring": {
-    "criteria": {
-      "has_iron": "2020-01-25 19:25:13 +0100"
     },
     "done": true
   },
@@ -730,15 +1289,39 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/gold_ingot_from_block": {
+  "inventorypets:inventorypets/ghast": {
     "criteria": {
-      "has_the_recipe": "2020-01-25 19:54:25 +0100"
+      "crafting_table": "2020-01-26 18:05:44 +0100"
     },
     "done": true
   },
-  "minecraft:recipes/combat/golden_boots": {
+  "inventorypets:inventorypets/grave": {
     "criteria": {
-      "has_gold_ingot": "2020-01-25 19:54:25 +0100"
+      "crafting_table": "2020-01-26 18:09:23 +0100"
+    },
+    "done": true
+  },
+  "inventorypets:inventorypets/dirt": {
+    "criteria": {
+      "crafting_table": "2020-01-26 18:11:52 +0100"
+    },
+    "done": true
+  },
+  "inventorypets:inventorypets/enderchest": {
+    "criteria": {
+      "crafting_table": "2020-01-26 18:07:02 +0100"
+    },
+    "done": true
+  },
+  "inventorypets:inventorypets/sheep": {
+    "criteria": {
+      "crafting_table": "2020-01-26 18:03:47 +0100"
+    },
+    "done": true
+  },
+  "inventorypets:inventorypets/mickerson": {
+    "criteria": {
+      "crafting_table": "2020-01-26 18:09:26 +0100"
     },
     "done": true
   }
