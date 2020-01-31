@@ -1,9 +1,10 @@
-<book title="Grundwesen der Magie" cover="gbook:cover">
+<book title="Grundwesen der Magie" cover="gbook:cover" home="0.0" xmlns="http://localhost/gbook/base" xmlns:minecraft="http://localhost/gbook/minecraft-addons">
+  <include ref="gbook:xml/standard.xml"/>
   <chapter id="index">
     <page>
-      <title>Titel Tag</title>
+      <title>Index</title>
       <p color="#606060" align="center" scale="2">Index</p>
-      <p>Test</p>
+      <p>Willkommen</p>
       <image src="minecraft:items/coal" tw="16" th="16" />
       <link ref="ch2">Book Link</link>
       <link href="http://github.com/">Web Link</link>
