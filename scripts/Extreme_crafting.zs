@@ -1,3 +1,6 @@
+import mods.avaritia;
+
+
  mods.avaritia.ExtremeCrafting.addShaped (<spartanfire:greatsword_fire_dragonsteel>,
  [[null, null, null, null, null, null, null, <iceandfire:dragonsteel_fire_ingot>, <iceandfire:dragonsteel_fire_ingot>],
   [null, null, null, null, null, null, <iceandfire:dragonsteel_fire_ingot>, <iceandfire:dragonsteel_fire_ingot>, <iceandfire:dragonsteel_fire_ingot>],
