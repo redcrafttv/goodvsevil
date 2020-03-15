@@ -1,4 +1,6 @@
-import mods.avaritia;
+#priority 600
+#modloaded minecraft avaritia
+import mods.avaritia.ExtremeCrafting;
 
 
  mods.avaritia.ExtremeCrafting.addShaped (<spartanfire:greatsword_fire_dragonsteel>,

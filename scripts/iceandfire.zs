@@ -1,11 +1,12 @@
 #priority 700
 #modloaded minecraft iceandfire
+import mods.iceandfire;
 import mods.iceandfire.recipes;
 
 
 //alte rezepte löschen
-mods.iceandfire.recipes.removeFireDragonRecipe(<iceandfire:dragonsteel_fire_ingot>);
-mods.iceandfire.recipes.removeIceDragonRecipe(<iceandfire:dragonsteel_ice_ingot>);
+mods.iceandfire.recipes.removeFireDragonRecipe([<iceandfire:dragonsteel_fire_ingot>]);
+mods.iceandfire.recipes.removeIceDragonRecipe([<iceandfire:dragonsteel_ice_ingot>]);
 
 
 //Neue Feuer Rezepte

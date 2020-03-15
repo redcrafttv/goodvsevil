@@ -27,7 +27,6 @@
 [INITIALIZATION][CLIENT][INFO] Dimension 53 has been added to stage evil
 [INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[800:crafttweaker]: items.zs}
 [INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[700:crafttweaker]: iceandfire.zs}
-[INITIALIZATION][CLIENT][ERROR] iceandfire.zs:3 > Not a valid type
 [INITIALIZATION][CLIENT][ERROR] iceandfire.zs:7 > No such static member in mods.iceandfire.recipes: removeFireDragonRecipe
 [INITIALIZATION][CLIENT][ERROR] iceandfire.zs:8 > No such static member in mods.iceandfire.recipes: removeIceDragonRecipe
 [INITIALIZATION][CLIENT][ERROR] [crafttweaker]: Error executing {[700:crafttweaker]: iceandfire.zs}: Truncated class file
@@ -41,7 +40,7 @@ java.lang.ClassFormatError: Truncated class file
 	at crafttweaker.runtime.CrTTweaker.loadScript(CrTTweaker.java:225)
 	at crafttweaker.runtime.CrTTweaker.loadScript(CrTTweaker.java:105)
 	at crafttweaker.mc1120.events.CommonEventHandler.registerRecipes(CommonEventHandler.java:69)
-	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler_717_CommonEventHandler_registerRecipes_Register.invoke(.dynamic)
+	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler_749_CommonEventHandler_registerRecipes_Register.invoke(.dynamic)
 	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler.invoke(ASMEventHandler.java:90)
 	at net.minecraftforge.fml.common.eventhandler.EventBus$1.invoke(EventBus.java:144)
 	at net.minecraftforge.fml.common.eventhandler.EventBus.post(EventBus.java:182)
@@ -66,7 +65,7 @@ java.lang.ClassFormatError: Truncated class file
 This is usually an error in your script, not in the mod
 addShaped(string, ZenTypeNative: crafttweaker.item.IItemStack, ZenTypeNative: crafttweaker.item.IIngredient[][])
 [INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: MineTweakerRecipeMaker.zs}
-[INITIALIZATION][CLIENT][INFO] Completed script loading in: 404ms
+[INITIALIZATION][CLIENT][INFO] Completed script loading in: 467ms
 [POSTINITIALIZATION][CLIENT][INFO] Removing recipes for various outputs
 [POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Fire Dragonsteel Sword with name ct_shaped-1675001488
 [AVAILABLE][CLIENT][INFO] Fixed the RecipeBook
