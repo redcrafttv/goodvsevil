@@ -5085,3 +5085,39 @@ Caused by: java.lang.ArrayIndexOutOfBoundsException: -1
 [17:35:39] [Server thread/INFO]: Saved 0 stages for DieInsel.
 [17:36:24] [Server thread/INFO]: Saved 0 stages for DieInsel.
 [17:37:09] [Server thread/INFO]: Saved 0 stages for DieInsel.
+[17:37:54] [Server thread/INFO]: Saved 0 stages for DieInsel.
+[17:38:39] [Server thread/INFO]: Saved 0 stages for DieInsel.
+[17:38:47] [Server thread/INFO]: Saving and pausing game...
+[17:38:47] [Server thread/INFO]: Saved 0 stages for DieInsel.
+[17:38:47] [Server thread/INFO]: Saving chunks for level 'New World'/overworld
+[17:38:48] [Server thread/INFO]: Saving chunks for level 'New World'/thedungeon
+[17:39:55] [Server thread/INFO]: Saved 0 stages for DieInsel.
+[17:40:40] [Server thread/INFO]: Saving and pausing game...
+[17:40:40] [Server thread/INFO]: Saved 0 stages for DieInsel.
+[17:40:40] [Server thread/INFO]: Saving chunks for level 'New World'/overworld
+[17:40:40] [Server thread/INFO]: Saving chunks for level 'New World'/thedungeon
+[17:40:43] [Server thread/INFO]: Changing difficulty to PEACEFUL, from NORMAL
+[17:40:44] [Server thread/INFO]: Saved 0 stages for DieInsel.
+[17:41:29] [Server thread/INFO]: Saved 0 stages for DieInsel.
+[17:41:57] [Server thread/INFO]: Saving and pausing game...
+[17:41:57] [Server thread/INFO]: Saved 0 stages for DieInsel.
+[17:41:57] [Server thread/INFO]: Saving chunks for level 'New World'/overworld
+[17:41:57] [Server thread/INFO]: Saving chunks for level 'New World'/thedungeon
+[17:41:57] [Netty Local Client IO #0/INFO]: Cleaning client cache...
+[17:41:57] [Netty Local Client IO #0/INFO]: Cleared cached client data! Disconnected from server.
+[17:41:58] [Server thread/INFO]: Stopping server
+[17:41:58] [Server thread/INFO]: Saving players
+[17:41:58] [Server thread/INFO]: Saved 0 stages for DieInsel.
+[17:41:58] [Server thread/INFO]: DieInsel lost connection: Disconnected
+[17:41:58] [Server thread/INFO]: DieInsel left the game
+[17:41:58] [Server thread/INFO]: Stopping singleplayer server as player logged out
+[17:41:58] [Server thread/INFO]: Saving worlds
+[17:41:58] [Server thread/INFO]: Saving chunks for level 'New World'/overworld
+[17:41:58] [Server thread/INFO]: Saving chunks for level 'New World'/thedungeon
+[17:41:59] [Server thread/INFO]: Unloading dimension 0
+[17:41:59] [Server thread/INFO]: Unloading dimension 3
+[17:42:04] [Server thread/INFO]: Applying holder lookups
+[17:42:04] [Server thread/INFO]: Holder lookups applied
+[17:42:25] [Client thread/INFO]: Stopping!
+[17:42:25] [Client thread/INFO]: SoundSystem shutting down...
+[17:42:25] [Client thread/WARN]: Author: Paul Lamb, www.paulscode.com
