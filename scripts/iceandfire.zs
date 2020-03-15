@@ -1,7 +1,11 @@
-//alte rezepte löschen
+#priority 700
+import mods.iceandfire
 
+
+//alte rezepte löschen
 mods.iceandfire.recipes.removeFireDragonRecipe(<iceandfire:dragonsteel_fire_ingot>);
 mods.iceandfire.recipes.removeIceDragonRecipe(<iceandfire:dragonsteel_ice_ingot>);
+
 
 //Neue Feuer Rezepte
     //good
