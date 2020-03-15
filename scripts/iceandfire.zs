@@ -1,6 +1,6 @@
 #priority 700
 #modloaded minecraft iceandfire
-import mods.iceandfire;
+import mods.iceandfire.recipes;
 
 
 //alte rezepte löschen
