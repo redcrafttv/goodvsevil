@@ -12,6 +12,7 @@
 
 // ================================================================================
 //#MARKER REMOVE
+recipes.remove(<iceandfire:dragonsteel_fire_sword>);
 //inventory pets
 recipes.remove(<inventorypets:wither_pet>);
 recipes.remove(<inventorypets:sun_pet>);
@@ -87,4 +88,5 @@ recipes.remove(<inventorypets:squid_pet>);
 
 // ================================================================================
 //#MARKER ADD SHAPED
+recipes.addShaped(<iceandfire:dragonsteel_fire_sword>, [[<iceandfire:dragonsteel_fire_ingot>], [<iceandfire:dragonsteel_fire_ingot>], [<iceandfire:dragonbone_sword_fire>]]);
 
