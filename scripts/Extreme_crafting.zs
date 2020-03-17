@@ -1,6 +1,7 @@
 #priority 600
 #modloaded minecraft avaritia
-import mods.avaritia;
+//import mods.avaritia;
+import crafttweaker.item.IItemStack;
 import mods.avaritia.ExtremeCrafting;
 
 

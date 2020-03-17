@@ -6,9 +6,9 @@
 [PREINITIALIZATION][CLIENT][INFO] [preinit | SIDE_CLIENT]: Skipping file {[800:crafttweaker]: items.zs} as we are currently loading with a different loader
 [PREINITIALIZATION][CLIENT][INFO] [preinit | SIDE_CLIENT]: Skipping file {[700:crafttweaker]: recipes.zs} as we are currently loading with a different loader
 [PREINITIALIZATION][CLIENT][INFO] [preinit | SIDE_CLIENT]: Skipping file {[600:crafttweaker]: EXTREME_crafting.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][CLIENT][INFO] [preinit | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: bloodmagic.zs} as we are currently loading with a different loader
 [PREINITIALIZATION][CLIENT][INFO] [preinit | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: Botaniacrafting.zs} as we are currently loading with a different loader
 [PREINITIALIZATION][CLIENT][INFO] [preinit | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: disabled_gamestages.zs} as we are currently loading with a different loader
-[PREINITIALIZATION][CLIENT][INFO] [preinit | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: iceandfire.zs} as we are currently loading with a different loader
 [PREINITIALIZATION][CLIENT][INFO] [preinit | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: MineTweakerRecipeMaker.zs} as we are currently loading with a different loader
 [PREINITIALIZATION][CLIENT][INFO] Completed script loading in: 1ms
 [INITIALIZATION][CLIENT][INFO] CraftTweaker: Building registry
@@ -28,18 +28,18 @@
 [INITIALIZATION][CLIENT][INFO] Dimension 53 has been added to stage evil
 [INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[800:crafttweaker]: items.zs}
 [INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[700:crafttweaker]: recipes.zs}
-[INITIALIZATION][CLIENT][ERROR] recipes.zs:4 > Not a valid type
 [INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[600:crafttweaker]: EXTREME_crafting.zs}
-[INITIALIZATION][CLIENT][ERROR] EXTREME_crafting.zs:3 > Not a valid type
 [INITIALIZATION][CLIENT][ERROR] EXTREME_crafting.zs:7 > a method available but none matches the parameters (ZenTypeNative: crafttweaker.item.IItemStack, any[])
 This is usually an error in your script, not in the mod
 addShaped(string, ZenTypeNative: crafttweaker.item.IItemStack, ZenTypeNative: crafttweaker.item.IIngredient[][])
+[INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: bloodmagic.zs}
 [INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: Botaniacrafting.zs}
 [INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: disabled_gamestages.zs}
-[INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: iceandfire.zs}
 [INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: MineTweakerRecipeMaker.zs}
-[INITIALIZATION][CLIENT][INFO] Completed script loading in: 410ms
+[INITIALIZATION][CLIENT][INFO] Completed script loading in: 645ms
 [POSTINITIALIZATION][CLIENT][INFO] Removing recipes for various outputs
 [POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Fire Dragonsteel Sword with name ct_shaped-1675001488
 [AVAILABLE][CLIENT][INFO] Fixed the RecipeBook
+[AVAILABLE][CLIENT][INFO] Removing TartaricForge recipe for: [1xitem.bloodmagic.baseComponent@8,1xitem.forge.bucketFilled@0,1xitem.ingotIron@0,1xitem.bloodarsenal.base_item@2]
+[AVAILABLE][CLIENT][INFO] Adding TartaricForge recipe for: 1xitem.bloodarsenal.base_item@3 from: [1xitem.steel_ingot@0,1xitem.bloodarsenal.base_item@2,1xitem.bloodmagic.baseComponent@8,1xitem.forge.bucketFilled@0] minSouls: 105.0, soulDrain: 105.0
 [AVAILABLE][CLIENT][INFO] Adding 1 Botania Mana Infusion Recipe(s) for <minecraft:golden_apple:1>
