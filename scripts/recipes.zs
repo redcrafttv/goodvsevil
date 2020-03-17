@@ -1,7 +1,6 @@
 #priority 700
 #modloaded minecraft iceandfire
 import crafttweaker.item.IItemStack;
-import mods.iceandfire;
 import mods.iceandfire.recipes;
 
 

@@ -29,7 +29,7 @@
   "isUnlocked": true,
   "javaArgsOverride": null,
   "javaDirOverride": null,
-  "lastPlayed": "2020-03-17T15:02:20.5641613Z",
+  "lastPlayed": "2020-03-17T15:17:21.5654793Z",
   "manifest": null,
   "fileDate": "0001-01-01T00:00:00",
   "installedModpack": null,
@@ -1291,19 +1291,19 @@
       "fileSize": 18422
     },
     {
-      "folderName": "FTBLib-5.4.4.5.jar",
-      "fingerprint": 3921299937,
-      "fileDateHash": 3060209777,
+      "folderName": "Baubles-1.12-1.5.2.jar",
+      "fingerprint": 4247051032,
+      "fileDateHash": 3889221927,
       "sectionID": 8,
       "individualFingerprints": [
-        3921299937
+        4247051032
       ],
       "status": 1,
-      "timestamp": "2020-01-12T17:37:09.108407Z",
-      "lastWriteTimeUtc": "2020-01-08T18:59:41Z",
-      "queryTimestamp": "2020-03-15T12:44:42.8883595Z",
+      "timestamp": "2020-01-12T17:37:08.7738245Z",
+      "lastWriteTimeUtc": "2020-01-09T18:39:26.7397004Z",
+      "queryTimestamp": "2020-03-15T12:44:42.8868311Z",
       "fileCount": 1,
-      "fileSize": 934358
+      "fileSize": 108450
     },
     {
       "folderName": "aether_legacy-1.12.2-v1.4.4.jar",
@@ -1321,19 +1321,19 @@
       "fileSize": 14129163
     },
     {
-      "folderName": "Baubles-1.12-1.5.2.jar",
-      "fingerprint": 4247051032,
-      "fileDateHash": 3889221927,
+      "folderName": "FTBLib-5.4.4.5.jar",
+      "fingerprint": 3921299937,
+      "fileDateHash": 3060209777,
       "sectionID": 8,
       "individualFingerprints": [
-        4247051032
+        3921299937
       ],
       "status": 1,
-      "timestamp": "2020-01-12T17:37:08.7738245Z",
-      "lastWriteTimeUtc": "2020-01-09T18:39:26.7397004Z",
-      "queryTimestamp": "2020-03-15T12:44:42.8868311Z",
+      "timestamp": "2020-01-12T17:37:09.108407Z",
+      "lastWriteTimeUtc": "2020-01-08T18:59:41Z",
+      "queryTimestamp": "2020-03-15T12:44:42.8883595Z",
       "fileCount": 1,
-      "fileSize": 108450
+      "fileSize": 934358
     },
     {
       "folderName": "ResourceLoader-MC1.12.1-1.5.3.jar",
@@ -1381,19 +1381,19 @@
       "fileSize": 129433
     },
     {
-      "folderName": "RecipeStages-1.1.3.jar",
-      "fingerprint": 3275707186,
-      "fileDateHash": 3842663356,
+      "folderName": "inventorypets-1.12-2.0.3.jar",
+      "fingerprint": 2839158062,
+      "fileDateHash": 2645686683,
       "sectionID": 8,
       "individualFingerprints": [
-        3275707186
+        2839158062
       ],
       "status": 1,
-      "timestamp": "2020-01-12T17:37:09.3168534Z",
-      "lastWriteTimeUtc": "2020-01-11T16:24:58.4868697Z",
-      "queryTimestamp": "2020-03-15T12:44:42.8893355Z",
+      "timestamp": "2020-01-25T15:54:22.0745766Z",
+      "lastWriteTimeUtc": "2020-01-22T19:41:35.165859Z",
+      "queryTimestamp": "2020-03-15T12:44:42.8883595Z",
       "fileCount": 1,
-      "fileSize": 43662
+      "fileSize": 7296520
     },
     {
       "folderName": "spartanfire-0.07.jar",
@@ -1411,19 +1411,19 @@
       "fileSize": 708329
     },
     {
-      "folderName": "inventorypets-1.12-2.0.3.jar",
-      "fingerprint": 2839158062,
-      "fileDateHash": 2645686683,
+      "folderName": "RecipeStages-1.1.3.jar",
+      "fingerprint": 3275707186,
+      "fileDateHash": 3842663356,
       "sectionID": 8,
       "individualFingerprints": [
-        2839158062
+        3275707186
       ],
       "status": 1,
-      "timestamp": "2020-01-25T15:54:22.0745766Z",
-      "lastWriteTimeUtc": "2020-01-22T19:41:35.165859Z",
-      "queryTimestamp": "2020-03-15T12:44:42.8883595Z",
+      "timestamp": "2020-01-12T17:37:09.3168534Z",
+      "lastWriteTimeUtc": "2020-01-11T16:24:58.4868697Z",
+      "queryTimestamp": "2020-03-15T12:44:42.8893355Z",
       "fileCount": 1,
-      "fileSize": 7296520
+      "fileSize": 43662
     },
     {
       "folderName": "ironchest-1.12.2-7.0.72.847.jar",
@@ -8258,6 +8258,90 @@
       "installedTargets": null
     },
     {
+      "addonID": 228756,
+      "gameInstanceID": "397f7f17-62f4-404c-a0f3-30c2bc52ddd5",
+      "installedFile": {
+        "id": 2747935,
+        "displayName": "ironchest-1.12.2-7.0.72.847.jar",
+        "fileName": "ironchest-1.12.2-7.0.72.847.jar",
+        "fileDate": "2019-07-25T01:20:59.067Z",
+        "fileLength": 956692,
+        "releaseType": 1,
+        "fileStatus": 4,
+        "downloadUrl": "https://edge.forgecdn.net/files/2747/935/ironchest-1.12.2-7.0.72.847.jar",
+        "isAlternate": false,
+        "alternateFileId": 0,
+        "dependencies": [],
+        "isAvailable": true,
+        "modules": [
+          {
+            "foldername": "META-INF",
+            "fingerprint": 312784702,
+            "type": 3
+          },
+          {
+            "foldername": "cpw",
+            "fingerprint": 71079651,
+            "type": 3
+          },
+          {
+            "foldername": "mcmod.info",
+            "fingerprint": 4099547818,
+            "type": 3
+          },
+          {
+            "foldername": "version.properties",
+            "fingerprint": 3889772354,
+            "type": 3
+          },
+          {
+            "foldername": "assets",
+            "fingerprint": 1407243087,
+            "type": 3
+          }
+        ],
+        "packageFingerprint": 3272096001,
+        "gameVersion": [
+          "1.12.2"
+        ],
+        "sortableGameVersion": [
+          {
+            "gameVersionPadded": "0000000001.0000000012.0000000002",
+            "gameVersion": "1.12.2",
+            "gameVersionReleaseDate": "2017-09-18T05:00:00Z",
+            "gameVersionName": "1.12.2"
+          }
+        ],
+        "hasInstallScript": false,
+        "isCompatibleWithClient": false,
+        "categorySectionPackageType": 6,
+        "restrictProjectFileAccess": 1,
+        "projectStatus": 4,
+        "renderCacheId": 1606892,
+        "projectId": 228756,
+        "packageFingerprintId": 336564521,
+        "gameVersionDateReleased": "2008-03-01T06:00:00Z",
+        "gameVersionMappingId": 1871791,
+        "gameVersionId": 4458,
+        "gameId": 432,
+        "isServerPack": false,
+        "FileNameOnDisk": "ironchest-1.12.2-7.0.72.847.jar"
+      },
+      "dateInstalled": "2020-01-12T17:37:11.3976924Z",
+      "dateUpdated": "2019-01-12T17:37:11.3976924Z",
+      "dateLastUpdateAttempted": "0001-01-01T00:00:00",
+      "status": 5,
+      "preferenceAutoInstallUpdates": false,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null,
+      "installedTargets": null
+    },
+    {
       "addonID": 324598,
       "gameInstanceID": "397f7f17-62f4-404c-a0f3-30c2bc52ddd5",
       "installedFile": {
@@ -8349,49 +8433,56 @@
       "installedTargets": null
     },
     {
-      "addonID": 228756,
+      "addonID": 224602,
       "gameInstanceID": "397f7f17-62f4-404c-a0f3-30c2bc52ddd5",
       "installedFile": {
-        "id": 2747935,
-        "displayName": "ironchest-1.12.2-7.0.72.847.jar",
-        "fileName": "ironchest-1.12.2-7.0.72.847.jar",
-        "fileDate": "2019-07-25T01:20:59.067Z",
-        "fileLength": 956692,
+        "id": 2766432,
+        "displayName": "ancientwarfare-1.12.2-2.7.0.772.jar",
+        "fileName": "ancientwarfare-1.12.2-2.7.0.772.jar",
+        "fileDate": "2019-08-20T21:55:49.727Z",
+        "fileLength": 28006491,
         "releaseType": 1,
         "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/2747/935/ironchest-1.12.2-7.0.72.847.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/2766/432/ancientwarfare-1.12.2-2.7.0.772.jar",
         "isAlternate": false,
         "alternateFileId": 0,
-        "dependencies": [],
+        "dependencies": [
+          {
+            "id": 29839812,
+            "addonId": 242818,
+            "type": 3,
+            "fileId": 2766432
+          }
+        ],
         "isAvailable": true,
         "modules": [
           {
             "foldername": "META-INF",
-            "fingerprint": 312784702,
+            "fingerprint": 2475827093,
             "type": 3
           },
           {
-            "foldername": "cpw",
-            "fingerprint": 71079651,
-            "type": 3
-          },
-          {
-            "foldername": "mcmod.info",
-            "fingerprint": 4099547818,
-            "type": 3
-          },
-          {
-            "foldername": "version.properties",
-            "fingerprint": 3889772354,
+            "foldername": "net",
+            "fingerprint": 3576917328,
             "type": 3
           },
           {
             "foldername": "assets",
-            "fingerprint": 1407243087,
+            "fingerprint": 3747944450,
+            "type": 3
+          },
+          {
+            "foldername": "mcmod.info",
+            "fingerprint": 2484842808,
+            "type": 3
+          },
+          {
+            "foldername": "AW-logo.png",
+            "fingerprint": 136642248,
             "type": 3
           }
         ],
-        "packageFingerprint": 3272096001,
+        "packageFingerprint": 2006098778,
         "gameVersion": [
           "1.12.2"
         ],
@@ -8408,102 +8499,18 @@
         "categorySectionPackageType": 6,
         "restrictProjectFileAccess": 1,
         "projectStatus": 4,
-        "renderCacheId": 1606892,
-        "projectId": 228756,
-        "packageFingerprintId": 336564521,
-        "gameVersionDateReleased": "2008-03-01T06:00:00Z",
-        "gameVersionMappingId": 1871791,
-        "gameVersionId": 4458,
+        "renderCacheId": 1629901,
+        "projectId": 224602,
+        "packageFingerprintId": 347198073,
+        "gameVersionDateReleased": "2017-09-18T05:00:00Z",
+        "gameVersionMappingId": 1903757,
+        "gameVersionId": 6756,
         "gameId": 432,
         "isServerPack": false,
-        "FileNameOnDisk": "ironchest-1.12.2-7.0.72.847.jar"
+        "FileNameOnDisk": "ancientwarfare-1.12.2-2.7.0.772.jar"
       },
-      "dateInstalled": "2020-01-12T17:37:11.3976924Z",
-      "dateUpdated": "2019-01-12T17:37:11.3976924Z",
-      "dateLastUpdateAttempted": "0001-01-01T00:00:00",
-      "status": 5,
-      "preferenceAutoInstallUpdates": false,
-      "preferenceAlternateFile": false,
-      "preferenceIsIgnored": false,
-      "isModified": false,
-      "isWorkingCopy": false,
-      "isFuzzyMatch": false,
-      "preferenceReleaseType": null,
-      "manifestName": null,
-      "installedTargets": null
-    },
-    {
-      "addonID": 314904,
-      "gameInstanceID": "397f7f17-62f4-404c-a0f3-30c2bc52ddd5",
-      "installedFile": {
-        "id": 2819669,
-        "displayName": "FTBBackups-1.1.0.1.jar",
-        "fileName": "FTBBackups-1.1.0.1.jar",
-        "fileDate": "2019-10-31T20:25:08.137Z",
-        "fileLength": 43764,
-        "releaseType": 1,
-        "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/2819/669/FTBBackups-1.1.0.1.jar",
-        "isAlternate": false,
-        "alternateFileId": 2819670,
-        "dependencies": [],
-        "isAvailable": true,
-        "modules": [
-          {
-            "foldername": "META-INF",
-            "fingerprint": 3896838891,
-            "type": 3
-          },
-          {
-            "foldername": "com",
-            "fingerprint": 409143337,
-            "type": 3
-          },
-          {
-            "foldername": "assets",
-            "fingerprint": 4225148106,
-            "type": 3
-          },
-          {
-            "foldername": "pack.mcmeta",
-            "fingerprint": 3152582459,
-            "type": 3
-          },
-          {
-            "foldername": "mcmod.info",
-            "fingerprint": 812656482,
-            "type": 3
-          }
-        ],
-        "packageFingerprint": 752442057,
-        "gameVersion": [
-          "1.12.2"
-        ],
-        "sortableGameVersion": [
-          {
-            "gameVersionPadded": "0000000001.0000000012.0000000002",
-            "gameVersion": "1.12.2",
-            "gameVersionReleaseDate": "2017-09-18T05:00:00Z",
-            "gameVersionName": "1.12.2"
-          }
-        ],
-        "hasInstallScript": false,
-        "isCompatibleWithClient": false,
-        "categorySectionPackageType": 6,
-        "restrictProjectFileAccess": 1,
-        "projectStatus": 4,
-        "renderCacheId": 1693418,
-        "projectId": 314904,
-        "packageFingerprintId": 372959736,
-        "gameVersionDateReleased": "2008-03-01T06:00:00Z",
-        "gameVersionMappingId": 1988512,
-        "gameVersionId": 4458,
-        "gameId": 432,
-        "isServerPack": false,
-        "FileNameOnDisk": "FTBBackups-1.1.0.1.jar"
-      },
-      "dateInstalled": "2020-01-12T17:37:11.3987187Z",
-      "dateUpdated": "2019-01-12T17:37:11.3987187Z",
+      "dateInstalled": "2020-01-16T18:06:51.7241781Z",
+      "dateUpdated": "2019-01-16T18:06:51.7241781Z",
       "dateLastUpdateAttempted": "0001-01-01T00:00:00",
       "status": 5,
       "preferenceAutoInstallUpdates": false,
@@ -8649,56 +8656,49 @@
       "installedTargets": null
     },
     {
-      "addonID": 224602,
+      "addonID": 314904,
       "gameInstanceID": "397f7f17-62f4-404c-a0f3-30c2bc52ddd5",
       "installedFile": {
-        "id": 2766432,
-        "displayName": "ancientwarfare-1.12.2-2.7.0.772.jar",
-        "fileName": "ancientwarfare-1.12.2-2.7.0.772.jar",
-        "fileDate": "2019-08-20T21:55:49.727Z",
-        "fileLength": 28006491,
+        "id": 2819669,
+        "displayName": "FTBBackups-1.1.0.1.jar",
+        "fileName": "FTBBackups-1.1.0.1.jar",
+        "fileDate": "2019-10-31T20:25:08.137Z",
+        "fileLength": 43764,
         "releaseType": 1,
         "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/2766/432/ancientwarfare-1.12.2-2.7.0.772.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/2819/669/FTBBackups-1.1.0.1.jar",
         "isAlternate": false,
-        "alternateFileId": 0,
-        "dependencies": [
-          {
-            "id": 29839812,
-            "addonId": 242818,
-            "type": 3,
-            "fileId": 2766432
-          }
-        ],
+        "alternateFileId": 2819670,
+        "dependencies": [],
         "isAvailable": true,
         "modules": [
           {
             "foldername": "META-INF",
-            "fingerprint": 2475827093,
+            "fingerprint": 3896838891,
             "type": 3
           },
           {
-            "foldername": "net",
-            "fingerprint": 3576917328,
+            "foldername": "com",
+            "fingerprint": 409143337,
             "type": 3
           },
           {
             "foldername": "assets",
-            "fingerprint": 3747944450,
+            "fingerprint": 4225148106,
+            "type": 3
+          },
+          {
+            "foldername": "pack.mcmeta",
+            "fingerprint": 3152582459,
             "type": 3
           },
           {
             "foldername": "mcmod.info",
-            "fingerprint": 2484842808,
-            "type": 3
-          },
-          {
-            "foldername": "AW-logo.png",
-            "fingerprint": 136642248,
+            "fingerprint": 812656482,
             "type": 3
           }
         ],
-        "packageFingerprint": 2006098778,
+        "packageFingerprint": 752442057,
         "gameVersion": [
           "1.12.2"
         ],
@@ -8715,18 +8715,18 @@
         "categorySectionPackageType": 6,
         "restrictProjectFileAccess": 1,
         "projectStatus": 4,
-        "renderCacheId": 1629901,
-        "projectId": 224602,
-        "packageFingerprintId": 347198073,
-        "gameVersionDateReleased": "2017-09-18T05:00:00Z",
-        "gameVersionMappingId": 1903757,
-        "gameVersionId": 6756,
+        "renderCacheId": 1693418,
+        "projectId": 314904,
+        "packageFingerprintId": 372959736,
+        "gameVersionDateReleased": "2008-03-01T06:00:00Z",
+        "gameVersionMappingId": 1988512,
+        "gameVersionId": 4458,
         "gameId": 432,
         "isServerPack": false,
-        "FileNameOnDisk": "ancientwarfare-1.12.2-2.7.0.772.jar"
+        "FileNameOnDisk": "FTBBackups-1.1.0.1.jar"
       },
-      "dateInstalled": "2020-01-16T18:06:51.7241781Z",
-      "dateUpdated": "2019-01-16T18:06:51.7241781Z",
+      "dateInstalled": "2020-01-12T17:37:11.3987187Z",
+      "dateUpdated": "2019-01-12T17:37:11.3987187Z",
       "dateLastUpdateAttempted": "0001-01-01T00:00:00",
       "status": 5,
       "preferenceAutoInstallUpdates": false,
@@ -9132,85 +9132,6 @@
       "installedTargets": null
     },
     {
-      "addonID": 226294,
-      "gameInstanceID": "397f7f17-62f4-404c-a0f3-30c2bc52ddd5",
-      "installedFile": {
-        "id": 2497436,
-        "displayName": "MineTweakerRecipeMaker-1.12.2-1.2.2.30.jar",
-        "fileName": "MineTweakerRecipeMaker-1.12.2-1.2.2.30.jar",
-        "fileDate": "2017-11-05T10:22:33.247Z",
-        "fileLength": 33240,
-        "releaseType": 1,
-        "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/2497/436/MineTweakerRecipeMaker-1.12.2-1.2.2.30.jar",
-        "isAlternate": false,
-        "alternateFileId": 0,
-        "dependencies": [],
-        "isAvailable": true,
-        "modules": [
-          {
-            "foldername": "META-INF",
-            "fingerprint": 2464251221,
-            "type": 3
-          },
-          {
-            "foldername": "net",
-            "fingerprint": 307671051,
-            "type": 3
-          },
-          {
-            "foldername": "mcmod.info",
-            "fingerprint": 4073972111,
-            "type": 3
-          },
-          {
-            "foldername": "assets",
-            "fingerprint": 994252901,
-            "type": 3
-          }
-        ],
-        "packageFingerprint": 2660857366,
-        "gameVersion": [
-          "1.12.2"
-        ],
-        "sortableGameVersion": [
-          {
-            "gameVersionPadded": "0000000001.0000000012.0000000002",
-            "gameVersion": "1.12.2",
-            "gameVersionReleaseDate": "2017-09-18T05:00:00Z",
-            "gameVersionName": "1.12.2"
-          }
-        ],
-        "hasInstallScript": false,
-        "isCompatibleWithClient": true,
-        "categorySectionPackageType": 6,
-        "restrictProjectFileAccess": 1,
-        "projectStatus": 4,
-        "renderCacheId": 705633,
-        "projectId": 226294,
-        "packageFingerprintId": 208624721,
-        "gameVersionDateReleased": "2017-09-18T05:00:00Z",
-        "gameVersionMappingId": 1469415,
-        "gameVersionId": 6756,
-        "gameId": 432,
-        "isServerPack": false,
-        "FileNameOnDisk": "MineTweakerRecipeMaker-1.12.2-1.2.2.30.jar"
-      },
-      "dateInstalled": "2020-01-12T17:37:11.3976924Z",
-      "dateUpdated": "2019-01-12T17:37:11.3976924Z",
-      "dateLastUpdateAttempted": "0001-01-01T00:00:00",
-      "status": 5,
-      "preferenceAutoInstallUpdates": false,
-      "preferenceAlternateFile": false,
-      "preferenceIsIgnored": false,
-      "isModified": false,
-      "isWorkingCopy": false,
-      "isFuzzyMatch": false,
-      "preferenceReleaseType": null,
-      "manifestName": null,
-      "installedTargets": null
-    },
-    {
       "addonID": 221585,
       "gameInstanceID": "397f7f17-62f4-404c-a0f3-30c2bc52ddd5",
       "installedFile": {
@@ -9285,17 +9206,17 @@
       "installedTargets": null
     },
     {
-      "addonID": 250398,
+      "addonID": 226294,
       "gameInstanceID": "397f7f17-62f4-404c-a0f3-30c2bc52ddd5",
       "installedFile": {
-        "id": 2731319,
-        "displayName": "Controlling-3.0.7",
-        "fileName": "Controlling-3.0.7.jar",
-        "fileDate": "2019-06-27T09:25:29.777Z",
-        "fileLength": 27162,
+        "id": 2497436,
+        "displayName": "MineTweakerRecipeMaker-1.12.2-1.2.2.30.jar",
+        "fileName": "MineTweakerRecipeMaker-1.12.2-1.2.2.30.jar",
+        "fileDate": "2017-11-05T10:22:33.247Z",
+        "fileLength": 33240,
         "releaseType": 1,
         "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/2731/319/Controlling-3.0.7.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/2497/436/MineTweakerRecipeMaker-1.12.2-1.2.2.30.jar",
         "isAlternate": false,
         "alternateFileId": 0,
         "dependencies": [],
@@ -9303,26 +9224,26 @@
         "modules": [
           {
             "foldername": "META-INF",
-            "fingerprint": 3475994140,
+            "fingerprint": 2464251221,
             "type": 3
           },
           {
-            "foldername": "us",
-            "fingerprint": 2410164597,
-            "type": 3
-          },
-          {
-            "foldername": "assets",
-            "fingerprint": 1022131806,
+            "foldername": "net",
+            "fingerprint": 307671051,
             "type": 3
           },
           {
             "foldername": "mcmod.info",
-            "fingerprint": 3193961234,
+            "fingerprint": 4073972111,
+            "type": 3
+          },
+          {
+            "foldername": "assets",
+            "fingerprint": 994252901,
             "type": 3
           }
         ],
-        "packageFingerprint": 2962360278,
+        "packageFingerprint": 2660857366,
         "gameVersion": [
           "1.12.2"
         ],
@@ -9335,24 +9256,24 @@
           }
         ],
         "hasInstallScript": false,
-        "isCompatibleWithClient": false,
+        "isCompatibleWithClient": true,
         "categorySectionPackageType": 6,
         "restrictProjectFileAccess": 1,
         "projectStatus": 4,
-        "renderCacheId": 1583643,
-        "projectId": 250398,
-        "packageFingerprintId": 327723223,
-        "gameVersionDateReleased": "2008-03-01T06:00:00Z",
-        "gameVersionMappingId": 1844864,
-        "gameVersionId": 4458,
+        "renderCacheId": 705633,
+        "projectId": 226294,
+        "packageFingerprintId": 208624721,
+        "gameVersionDateReleased": "2017-09-18T05:00:00Z",
+        "gameVersionMappingId": 1469415,
+        "gameVersionId": 6756,
         "gameId": 432,
         "isServerPack": false,
-        "FileNameOnDisk": "Controlling-3.0.7.jar"
+        "FileNameOnDisk": "MineTweakerRecipeMaker-1.12.2-1.2.2.30.jar"
       },
-      "dateInstalled": "2020-01-12T17:37:11.3727863Z",
-      "dateUpdated": "2019-01-12T17:37:11.3727863Z",
+      "dateInstalled": "2020-01-12T17:37:11.3976924Z",
+      "dateUpdated": "2019-01-12T17:37:11.3976924Z",
       "dateLastUpdateAttempted": "0001-01-01T00:00:00",
-      "status": 3,
+      "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -9456,6 +9377,85 @@
       "dateUpdated": "2019-01-12T17:37:11.3757785Z",
       "dateLastUpdateAttempted": "0001-01-01T00:00:00",
       "status": 5,
+      "preferenceAutoInstallUpdates": false,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null,
+      "installedTargets": null
+    },
+    {
+      "addonID": 250398,
+      "gameInstanceID": "397f7f17-62f4-404c-a0f3-30c2bc52ddd5",
+      "installedFile": {
+        "id": 2731319,
+        "displayName": "Controlling-3.0.7",
+        "fileName": "Controlling-3.0.7.jar",
+        "fileDate": "2019-06-27T09:25:29.777Z",
+        "fileLength": 27162,
+        "releaseType": 1,
+        "fileStatus": 4,
+        "downloadUrl": "https://edge.forgecdn.net/files/2731/319/Controlling-3.0.7.jar",
+        "isAlternate": false,
+        "alternateFileId": 0,
+        "dependencies": [],
+        "isAvailable": true,
+        "modules": [
+          {
+            "foldername": "META-INF",
+            "fingerprint": 3475994140,
+            "type": 3
+          },
+          {
+            "foldername": "us",
+            "fingerprint": 2410164597,
+            "type": 3
+          },
+          {
+            "foldername": "assets",
+            "fingerprint": 1022131806,
+            "type": 3
+          },
+          {
+            "foldername": "mcmod.info",
+            "fingerprint": 3193961234,
+            "type": 3
+          }
+        ],
+        "packageFingerprint": 2962360278,
+        "gameVersion": [
+          "1.12.2"
+        ],
+        "sortableGameVersion": [
+          {
+            "gameVersionPadded": "0000000001.0000000012.0000000002",
+            "gameVersion": "1.12.2",
+            "gameVersionReleaseDate": "2017-09-18T05:00:00Z",
+            "gameVersionName": "1.12.2"
+          }
+        ],
+        "hasInstallScript": false,
+        "isCompatibleWithClient": false,
+        "categorySectionPackageType": 6,
+        "restrictProjectFileAccess": 1,
+        "projectStatus": 4,
+        "renderCacheId": 1583643,
+        "projectId": 250398,
+        "packageFingerprintId": 327723223,
+        "gameVersionDateReleased": "2008-03-01T06:00:00Z",
+        "gameVersionMappingId": 1844864,
+        "gameVersionId": 4458,
+        "gameId": 432,
+        "isServerPack": false,
+        "FileNameOnDisk": "Controlling-3.0.7.jar"
+      },
+      "dateInstalled": "2020-01-12T17:37:11.3727863Z",
+      "dateUpdated": "2019-01-12T17:37:11.3727863Z",
+      "dateLastUpdateAttempted": "0001-01-01T00:00:00",
+      "status": 3,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
