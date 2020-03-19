@@ -12,6 +12,7 @@
 
 // ================================================================================
 //#MARKER REMOVE
+recipes.remove(<abyssalcraft:necronomicon>);
 recipes.remove(<iceandfire:dragonsteel_fire_sword>);
 //inventory pets
 recipes.remove(<inventorypets:wither_pet>);
@@ -85,8 +86,11 @@ recipes.remove(<inventorypets:squid_pet>);
 
 // ================================================================================
 //#MARKER ADD SHAPELESS
+recipes.addShapeless(<chisel:marble2:7>, [<astralsorcery:blockmarble>]);
+recipes.addShapeless(<astralsorcery:blockmarble>, [<ore:stoneMarble>]);
 
 // ================================================================================
 //#MARKER ADD SHAPED
+recipes.addShaped(<abyssalcraft:necronomicon>, [[<ore:materialFlesh>, <minecraft:ender_pearl>, <ore:materialFlesh>], [<ore:bone>, <minecraft:book>, <ore:slimeball>], [<ore:materialFlesh>, <minecraft:gunpowder>, <minecraft:rotten_flesh>]]);
 recipes.addShaped(<iceandfire:dragonsteel_fire_sword>, [[<iceandfire:dragonsteel_fire_ingot>], [<iceandfire:dragonsteel_fire_ingot>], [<iceandfire:dragonbone_sword_fire>]]);
 
