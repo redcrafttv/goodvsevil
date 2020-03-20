@@ -29,7 +29,7 @@
   "isUnlocked": true,
   "javaArgsOverride": null,
   "javaDirOverride": null,
-  "lastPlayed": "2020-03-20T09:49:11.4748974Z",
+  "lastPlayed": "2020-03-20T17:55:45.9092845Z",
   "manifest": null,
   "fileDate": "0001-01-01T00:00:00",
   "installedModpack": null,
@@ -746,21 +746,6 @@
       "queryTimestamp": "2020-03-15T12:44:42.8768563Z",
       "fileCount": 1,
       "fileSize": 183579
-    },
-    {
-      "folderName": "Avaritia-1.12.2-3.3.0.33-universal.jar",
-      "fingerprint": 2271638472,
-      "fileDateHash": 703515823,
-      "sectionID": 8,
-      "individualFingerprints": [
-        2271638472
-      ],
-      "status": 1,
-      "timestamp": "2020-01-25T15:54:22.0615721Z",
-      "lastWriteTimeUtc": "2020-01-20T19:17:44.1293002Z",
-      "queryTimestamp": "2020-03-15T12:44:42.8768563Z",
-      "fileCount": 1,
-      "fileSize": 972581
     },
     {
       "folderName": "BetterBuildersWands-1.12-0.11.1.245+69d0d70.jar",
@@ -2983,91 +2968,6 @@
       "dateInstalled": "2020-01-12T17:37:11.3717889Z",
       "dateUpdated": "2019-01-12T17:37:11.3717889Z",
       "dateLastUpdateAttempted": "0001-01-01T00:00:00",
-      "status": 5,
-      "preferenceAutoInstallUpdates": false,
-      "preferenceAlternateFile": false,
-      "preferenceIsIgnored": false,
-      "isModified": false,
-      "isWorkingCopy": false,
-      "isFuzzyMatch": false,
-      "preferenceReleaseType": null,
-      "manifestName": null,
-      "installedTargets": null
-    },
-    {
-      "addonID": 301144,
-      "gameInstanceID": "397f7f17-62f4-404c-a0f3-30c2bc52ddd5",
-      "installedFile": {
-        "id": 2605409,
-        "displayName": "1.0.0",
-        "fileName": "avaritiarecipemaker-1.0.0.jar",
-        "fileDate": "2018-08-19T03:46:27.377Z",
-        "fileLength": 40986,
-        "releaseType": 2,
-        "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/2605/409/avaritiarecipemaker-1.0.0.jar",
-        "isAlternate": false,
-        "alternateFileId": 0,
-        "dependencies": [
-          {
-            "id": 0,
-            "addonId": 261348,
-            "type": 2,
-            "fileId": 0
-          },
-          {
-            "id": 0,
-            "addonId": 239197,
-            "type": 3,
-            "fileId": 0
-          }
-        ],
-        "isAvailable": true,
-        "modules": [
-          {
-            "foldername": "META-INF",
-            "fingerprint": 701330445,
-            "type": 0
-          },
-          {
-            "foldername": "io",
-            "fingerprint": 3644703709,
-            "type": 0
-          },
-          {
-            "foldername": "assets",
-            "fingerprint": 309605294,
-            "type": 0
-          },
-          {
-            "foldername": "mcmod.info",
-            "fingerprint": 164366786,
-            "type": 0
-          },
-          {
-            "foldername": "pack.mcmeta",
-            "fingerprint": 3273911401,
-            "type": 0
-          }
-        ],
-        "packageFingerprint": 981646504,
-        "gameVersion": [
-          "1.12.2"
-        ],
-        "hasInstallScript": false,
-        "isCompatibleWithClient": false,
-        "categorySectionPackageType": 0,
-        "restrictProjectFileAccess": 0,
-        "projectStatus": 0,
-        "projectId": 0,
-        "gameVersionDateReleased": "2017-09-18T05:00:00Z",
-        "gameId": 0,
-        "isServerPack": false,
-        "FileNameOnDisk": "avaritiarecipemaker-1.0.0.jar"
-      },
-      "dateInstalled": "2020-03-17T16:06:41.4415081Z",
-      "dateUpdated": "2020-03-17T16:06:41.453454Z",
-      "dateLastUpdateAttempted": "2020-03-17T16:06:41.453454Z",
       "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
@@ -5450,85 +5350,6 @@
       "dateInstalled": "2020-01-22T19:41:38.5727532Z",
       "dateUpdated": "2020-01-22T19:41:38.5747465Z",
       "dateLastUpdateAttempted": "2020-01-22T19:41:38.5747465Z",
-      "status": 5,
-      "preferenceAutoInstallUpdates": false,
-      "preferenceAlternateFile": false,
-      "preferenceIsIgnored": false,
-      "isModified": false,
-      "isWorkingCopy": false,
-      "isFuzzyMatch": false,
-      "preferenceReleaseType": null,
-      "manifestName": null,
-      "installedTargets": null
-    },
-    {
-      "addonID": 261348,
-      "gameInstanceID": "397f7f17-62f4-404c-a0f3-30c2bc52ddd5",
-      "installedFile": {
-        "id": 2660801,
-        "displayName": "Avaritia-1.12.2-3.3.0.33-universal.jar",
-        "fileName": "Avaritia-1.12.2-3.3.0.33-universal.jar",
-        "fileDate": "2019-01-16T04:28:33.83Z",
-        "fileLength": 972581,
-        "releaseType": 1,
-        "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/2660/801/Avaritia-1.12.2-3.3.0.33-universal.jar",
-        "isAlternate": false,
-        "alternateFileId": 0,
-        "dependencies": [
-          {
-            "id": 0,
-            "addonId": 242818,
-            "type": 3,
-            "fileId": 0
-          }
-        ],
-        "isAvailable": true,
-        "modules": [
-          {
-            "foldername": "META-INF",
-            "fingerprint": 105650996,
-            "type": 0
-          },
-          {
-            "foldername": "net",
-            "fingerprint": 3245228629,
-            "type": 0
-          },
-          {
-            "foldername": "morph",
-            "fingerprint": 1847502797,
-            "type": 0
-          },
-          {
-            "foldername": "assets",
-            "fingerprint": 1906038834,
-            "type": 0
-          },
-          {
-            "foldername": "mcmod.info",
-            "fingerprint": 3120746959,
-            "type": 0
-          }
-        ],
-        "packageFingerprint": 2271638472,
-        "gameVersion": [
-          "1.12.2"
-        ],
-        "hasInstallScript": false,
-        "isCompatibleWithClient": false,
-        "categorySectionPackageType": 0,
-        "restrictProjectFileAccess": 0,
-        "projectStatus": 0,
-        "projectId": 0,
-        "gameVersionDateReleased": "2017-09-18T05:00:00Z",
-        "gameId": 0,
-        "isServerPack": false,
-        "FileNameOnDisk": "Avaritia-1.12.2-3.3.0.33-universal.jar"
-      },
-      "dateInstalled": "2020-01-20T19:17:44.1372575Z",
-      "dateUpdated": "2020-01-20T19:17:44.1542368Z",
-      "dateLastUpdateAttempted": "2020-01-20T19:17:44.1542368Z",
       "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
