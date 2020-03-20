@@ -2,8 +2,8 @@
 // Stages Hinzufügen
 //addGameStage("good");
 //addGameStage("evil");
-stage|good
-stage|evil
+stage|good;
+stage|evil;
 
 // Dimensionen Stagen
 mods.DimensionStages.addDimensionStage("dim_good_twilightforest", 7);
