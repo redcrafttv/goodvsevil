@@ -12,6 +12,12 @@
 
 // ================================================================================
 //#MARKER REMOVE
+recipes.remove(<iceandfire:dragonforge_fire_input>);
+recipes.remove(<iceandfire:dragonforge_ice_input>);
+recipes.remove(<abyssalcraft:abyssalnomicon>);
+recipes.remove(<abyssalcraft:necronomicon_omt>);
+recipes.remove(<abyssalcraft:necronomicon_dre>);
+recipes.remove(<abyssalcraft:necronomicon_cor>);
 recipes.remove(<abyssalcraft:necronomicon>);
 recipes.remove(<iceandfire:dragonsteel_fire_sword>);
 //inventory pets
@@ -91,6 +97,8 @@ recipes.addShapeless(<astralsorcery:blockmarble>, [<ore:stoneMarble>]);
 
 // ================================================================================
 //#MARKER ADD SHAPED
+recipes.addShaped(<iceandfire:dragonforge_ice_input>, [[<iceandfire:dragonforge_ice_brick>, <ore:ingotSteel>, <iceandfire:dragonforge_ice_brick>], [<ancientwarfare:steel_ingot>, <ore:netherStar>, <ancientwarfare:steel_ingot>], [<iceandfire:dragonforge_ice_brick>, <ancientwarfare:steel_ingot>, <iceandfire:dragonforge_ice_brick>]]);
+recipes.addShaped(<iceandfire:dragonforge_fire_input>, [[<iceandfire:dragonforge_fire_brick>, <ore:ingotSteel>, <iceandfire:dragonforge_fire_brick>], [<ancientwarfare:steel_ingot>, <ore:netherStar>, <ancientwarfare:steel_ingot>], [<iceandfire:dragonforge_fire_brick>, <ancientwarfare:steel_ingot>, <iceandfire:dragonforge_fire_brick>]]);
 recipes.addShaped(<abyssalcraft:necronomicon>, [[<ore:materialFlesh>, <minecraft:ender_pearl>, <ore:materialFlesh>], [<ore:bone>, <minecraft:book>, <ore:slimeball>], [<ore:materialFlesh>, <minecraft:gunpowder>, <minecraft:rotten_flesh>]]);
 recipes.addShaped(<iceandfire:dragonsteel_fire_sword>, [[<iceandfire:dragonsteel_fire_ingot>], [<iceandfire:dragonsteel_fire_ingot>], [<iceandfire:dragonbone_sword_fire>]]);
 
