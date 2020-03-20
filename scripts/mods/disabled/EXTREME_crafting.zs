@@ -1,3 +1,4 @@
+#norun
 #priority 600
 #modloaded minecraft avaritia
 //import mods.avaritia;

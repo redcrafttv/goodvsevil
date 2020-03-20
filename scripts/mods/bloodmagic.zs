@@ -1,3 +1,8 @@
+#priority 700
+import mods.bloodmagic.BloodAltar;
+import mods.bloodmagic.AlchemyTable;
+import mods.bloodmagic.TartaricForge;
+
 // Blood Altar
 //add
 mods.bloodmagic.BloodAltar.addRecipe(<abyssalcraft:necronomicon_dre>.withTag({PotEnergy: 0.0 as float}), <abyssalcraft:necronomicon_cor>.withTag({PotEnergy: 0.0 as float}), 3, 20000,20000, 400);
