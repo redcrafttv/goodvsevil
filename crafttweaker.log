@@ -31,15 +31,17 @@
 [INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: Botaniacrafting.zs}
 [INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: disabled_gamestages.zs}
 [INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: MineTweakerRecipeMaker.zs}
-[INITIALIZATION][CLIENT][INFO] Completed script loading in: 486ms
+[INITIALIZATION][CLIENT][INFO] Completed script loading in: 711ms
 [POSTINITIALIZATION][CLIENT][INFO] Removing recipes for various outputs
 [POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Marble with name ct_shapeless1014316862
 [POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Marble with name ct_shapeless-1478417122
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Dragonforge Ice Aperture with name ct_shaped-1045091777
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Dragonforge Fire Aperture with name ct_shaped-1166326218
 [POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Necronomicon with name ct_shaped-1426536110
 [POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Fire Dragonsteel Sword with name ct_shaped-1675001488
 [AVAILABLE][CLIENT][INFO] Fixed the RecipeBook
 [AVAILABLE][CLIENT][INFO] Removing TartaricForge recipe for: [1xitem.bloodmagic.baseComponent@8,1xitem.forge.bucketFilled@0,1xitem.ingotIron@0,1xitem.bloodarsenal.base_item@2]
-[AVAILABLE][CLIENT][INFO] Adding Blood Altar recipe for: 1xitem.necronomicon_dre@0 from: net.minecraft.item.crafting.Ingredient@11a89c6f minTier: 4, syphon: 20000, consumeRate: 20000, drainRate: 400
+[AVAILABLE][CLIENT][INFO] Adding Blood Altar recipe for: 1xitem.necronomicon_dre@0 from: net.minecraft.item.crafting.Ingredient@362d2400 minTier: 3, syphon: 20000, consumeRate: 20000, drainRate: 400
 [AVAILABLE][CLIENT][INFO] Adding AlchemyTable recipe for: 1xitem.necronomicon_omt@0 from: [1xtile.iceandfire.dragonsteel_fire_block@0,1xitem.cingot@0,1xtile.iceandfire.dragonsteel_fire_block@0,1xitem.cingot@0,1xitem.necronomicon_dre@0,1xitem.cingot@0] syphon: 20, ticks: 10, minTier: 5
 [AVAILABLE][CLIENT][INFO] Adding TartaricForge recipe for: 1xitem.bloodarsenal.base_item@3 from: [1xitem.steel_ingot@0,1xitem.bloodarsenal.base_item@2,1xitem.bloodmagic.baseComponent@8,1xitem.forge.bucketFilled@0] minSouls: 1005.0, soulDrain: 1005.0
 [AVAILABLE][CLIENT][INFO] Adding TartaricForge recipe for: 1xitem.necronomicon_cor@0 from: [1xitem.necronomicon@0,1xtile.dltlog@0,1xitem.shoggothflesh@0,1xtile.statue@0] minSouls: 200.0, soulDrain: 200.0
