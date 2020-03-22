@@ -12,6 +12,7 @@
 
 // ================================================================================
 //#MARKER REMOVE
+recipes.remove(<bloodmagic:altar>);
 recipes.remove(<iceandfire:dragonsteel_ice_sword>);
 recipes.remove(<minecraft:flint_and_steel>);
 recipes.remove(<eplus:decorative_book>);
