@@ -1,4 +1,4 @@
-//#norun
+#norun
 // Stages Hinzufügen
 //addGameStage("good");
 //addGameStage("evil");
