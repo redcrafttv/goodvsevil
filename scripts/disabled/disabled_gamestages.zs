@@ -1,4 +1,6 @@
-#norun
+#priority 800
+#modloaded minecraft recipestages ebwizardry extra_spells t3s4ebw botania botania_tweaks roots mysticalworld mysticallib astralsorcery aether_legacy aeadditions aether_legacy_addon arcane_essentials twilightforest bloodmagic animus bloodarsenal abyssalcraft acintegration evilcraft witchery erebus thebetweenlands
+
 // Stages Hinzufügen
 //addGameStage("good");
 //addGameStage("evil");
@@ -15,7 +17,7 @@ mods.DimensionStages.addDimensionStage("dim_evil_erebus", 666);
 //mod Items Stagen
 
 //Gut
-mods.ItemStages.stageModItems("good", "ebwizardry");
+mods.ItemStages.stageModItems("good", <ebwizardry:*>);
 mods.ItemStages.stageModItems("good", "extra_spells");
 mods.ItemStages.stageModItems("good", "t3s4ebw");
 mods.ItemStages.stageModItems("good", "botania");
@@ -46,4 +48,4 @@ mods.ItemStages.stageModItems("evil", "thebetweenlands");
 
 
 //ItemNamen verstecken
-//mods.ItemStages.setUnfamiliarName("Du kennst dieses Item nicht", <ebwizardry:*>);
+mods.ItemStages.setUnfamiliarName("Du kennst dieses Item nicht", <ebwizardry:*>);
