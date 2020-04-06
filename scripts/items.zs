@@ -1,8 +1,7 @@
-#norun
-#priority 800
-#modloaded minecraft recipestages ebwizardry extra_spells t3s4ebw botania botania_tweaks roots mysticalworld mysticallib astralsorcery aether_legacy aeadditions aether_legacy_addon arcane_essentials twilightforest bloodmagic animus bloodarsenal abyssalcraft acintegration evilcraft witchery erebus thebetweenlands
-import mods.ItemStages;
-import mods.recipestages;
+//#priority 800
+//#modloaded minecraft recipestages ebwizardry extra_spells t3s4ebw botania botania_tweaks roots mysticalworld mysticallib astralsorcery aether_legacy aeadditions aether_legacy_addon arcane_essentials twilightforest bloodmagic animus bloodarsenal abyssalcraft acintegration evilcraft witchery erebus thebetweenlands
+//import mods.ItemStages;
+//import mods.recipestages;
 
 // Items Stagen
 
