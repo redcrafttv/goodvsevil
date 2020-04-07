@@ -386,3 +386,52 @@ LoadingPlugin (Bloodmoon-MC1.12.2-1.5.3.jar)
 [18:49:29] [Client thread/WARN]: Replacing com.feed_the_beast.ftblib.lib.config.DefaultRankConfigHandler with com.feed_the_beast.ftbutilities.ranks.FTBUtilitiesPermissionHandler
 [18:49:30] [Client thread/WARN]: Replacing net.minecraftforge.server.permission.DefaultPermissionHandler with com.feed_the_beast.ftbutilities.ranks.FTBUtilitiesPermissionHandler
 [18:49:30] [Client thread/INFO]: TabulaModelHandler: Domain llibrary has been added.
+[18:49:30] [Client thread/INFO]: A raven flies from the north to the sea
+[18:49:30] [Client thread/INFO]: A dragon whispers her name in the east
+[18:49:31] [Client thread/INFO]: Loading configuration
+[18:49:31] [Client thread/INFO]: Pre-Initialization started
+[18:49:31] [Client thread/INFO]: Pre-Initialization process successfully done
+[18:49:31] [Client thread/INFO]: Pre-Initialization finished after 24ms
+[18:49:32] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `apple`, expected `harvestcraft`. This could be a intended override, but in most cases indicates a broken mod.
+[18:49:32] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `potato`, expected `harvestcraft`. This could be a intended override, but in most cases indicates a broken mod.
+[18:49:32] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `carrot`, expected `harvestcraft`. This could be a intended override, but in most cases indicates a broken mod.
+[18:49:32] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `beetroot`, expected `harvestcraft`. This could be a intended override, but in most cases indicates a broken mod.
+[18:49:32] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `melon`, expected `harvestcraft`. This could be a intended override, but in most cases indicates a broken mod.
+[18:49:32] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `beef`, expected `harvestcraft`. This could be a intended override, but in most cases indicates a broken mod.
+[18:49:32] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `cooked_beef`, expected `harvestcraft`. This could be a intended override, but in most cases indicates a broken mod.
+[18:49:32] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `chicken`, expected `harvestcraft`. This could be a intended override, but in most cases indicates a broken mod.
+[18:49:32] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `cooked_chicken`, expected `harvestcraft`. This could be a intended override, but in most cases indicates a broken mod.
+[18:49:32] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `porkchop`, expected `harvestcraft`. This could be a intended override, but in most cases indicates a broken mod.
+[18:49:32] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `cooked_porkchop`, expected `harvestcraft`. This could be a intended override, but in most cases indicates a broken mod.
+[18:49:32] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `rabbit`, expected `harvestcraft`. This could be a intended override, but in most cases indicates a broken mod.
+[18:49:32] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `cooked_rabbit`, expected `harvestcraft`. This could be a intended override, but in most cases indicates a broken mod.
+[18:49:32] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `mutton`, expected `harvestcraft`. This could be a intended override, but in most cases indicates a broken mod.
+[18:49:32] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `cooked_mutton`, expected `harvestcraft`. This could be a intended override, but in most cases indicates a broken mod.
+[18:49:32] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `cod`, expected `harvestcraft`. This could be a intended override, but in most cases indicates a broken mod.
+[18:49:32] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `cooked_cod`, expected `harvestcraft`. This could be a intended override, but in most cases indicates a broken mod.
+[18:49:32] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `salmon`, expected `harvestcraft`. This could be a intended override, but in most cases indicates a broken mod.
+[18:49:32] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `cooked_salmon`, expected `harvestcraft`. This could be a intended override, but in most cases indicates a broken mod.
+[18:49:32] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `clownfish`, expected `harvestcraft`. This could be a intended override, but in most cases indicates a broken mod.
+[18:49:32] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `pufferfish`, expected `harvestcraft`. This could be a intended override, but in most cases indicates a broken mod.
+[18:49:32] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `mushroom_stew`, expected `harvestcraft`. This could be a intended override, but in most cases indicates a broken mod.
+[18:49:32] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `bread`, expected `harvestcraft`. This could be a intended override, but in most cases indicates a broken mod.
+[18:49:32] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `cookie`, expected `harvestcraft`. This could be a intended override, but in most cases indicates a broken mod.
+[18:49:32] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `baked_potato`, expected `harvestcraft`. This could be a intended override, but in most cases indicates a broken mod.
+[18:49:32] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `pumpkin_pie`, expected `harvestcraft`. This could be a intended override, but in most cases indicates a broken mod.
+[18:49:32] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `rabbit_stew`, expected `harvestcraft`. This could be a intended override, but in most cases indicates a broken mod.
+[18:49:32] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `beetroot_soup`, expected `harvestcraft`. This could be a intended override, but in most cases indicates a broken mod.
+[18:49:32] [Client thread/INFO]: [xreliquary] XP Juice registered by Reliquary.
+[18:49:32] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `season_sensor`, expected `sereneseasons`. This could be a intended override, but in most cases indicates a broken mod.
+[18:49:32] [Client thread/INFO]: Starting up Spartan Weaponry!
+[18:49:32] [Client thread/INFO]: API: Loaded internal method handler. API functionality should work now!
+[18:49:32] [Client thread/INFO]: Defined config version: 2.0 - Loaded config version: 2.0
+[18:49:33] [Client thread/INFO]: Starting up Spartan Shields!
+[18:49:33] [Client thread/INFO]: Starting up Spartan Weaponry Arcana!
+[18:49:33] [Client thread/INFO]: Loaded compatibility for mod Baubles.
+[18:49:33] [Client thread/INFO]: Loaded compatibility for mod Chisel.
+[18:49:33] [Client thread/INFO]: Skipped compatibility for mod Forestry.
+[18:49:33] [Client thread/INFO]: Skipped compatibility for mod Immersive Engineering.
+[18:49:33] [Client thread/INFO]: Loaded compatibility for mod Just Enough Items.
+[18:49:33] [Client thread/INFO]: Skipped compatibility for mod Tinkers' Construct.
+[18:49:33] [Client thread/INFO]: Skipped compatibility for mod Thaumcraft.
+[18:49:35] [Client thread/INFO]: OBJLoader: Domain wrd has been added.
