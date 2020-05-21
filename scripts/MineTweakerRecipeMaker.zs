@@ -12,6 +12,21 @@
 
 // ================================================================================
 //#MARKER REMOVE
+recipes.remove(<botania:altar>);
+recipes.remove(<roots:pestle>);
+recipes.remove(<roots:mortar>);
+recipes.remove(<ebwizardry:novice_healing_wand>);
+recipes.remove(<ebwizardry:novice_sorcery_wand>);
+recipes.remove(<ebwizardry:novice_earth_wand>);
+recipes.remove(<ebwizardry:novice_necromancy_wand>);
+recipes.remove(<ebwizardry:novice_lightning_wand>);
+recipes.remove(<ebwizardry:novice_ice_wand>);
+recipes.remove(<ebwizardry:novice_fire_wand>);
+recipes.remove(<ebwizardry:magic_wand>);
+recipes.remove(<ancientwarfarenpc:coin>);
+recipes.remove(<ancientwarfarenpc:coin>);
+recipes.remove(<ancientwarfarenpc:coin>);
+recipes.remove(<cqrepoured:feather_golden>);
 recipes.remove(<bloodmagic:altar>);
 recipes.remove(<iceandfire:dragonsteel_ice_sword>);
 recipes.remove(<minecraft:flint_and_steel>);
@@ -102,6 +117,8 @@ recipes.addShapeless(<astralsorcery:blockmarble>, [<ore:stoneMarble>]);
 
 // ================================================================================
 //#MARKER ADD SHAPED
+recipes.addShaped(<roots:pestle>, [[null, null, <aether_legacy:holystone>], [<aether_legacy:holystone>, <aether_legacy:holystone>, null], [<aether_legacy:holystone>, <aether_legacy:holystone>, null]]);
+recipes.addShaped(<roots:mortar>, [[<ore:holystone>, null, <ore:holystone>], [<ore:holystone>, <ore:charcoal>, <ore:holystone>], [null, <aether_legacy:holystone>, null]]);
 recipes.addShaped(<iceandfire:dragonsteel_ice_sword>, [[<ore:ingotIceDragonsteel>], [<ore:ingotIceDragonsteel>], [<iceandfire:dragonbone_sword_ice>]]);
 recipes.addShaped(<eplus:decorative_book>, [[<abyssalcraft:statue:2>, null, <abyssalcraft:statue:5>], [<abyssalcraft:statue:1>, <abyssalcraft:necronomicon_omt>, <abyssalcraft:statue:4>], [<abyssalcraft:statue>, null, <abyssalcraft:statue:3>]]);
 recipes.addShaped(<iceandfire:dragonforge_ice_input>, [[<iceandfire:dragonforge_ice_brick>, <ore:ingotSteel>, <iceandfire:dragonforge_ice_brick>], [<ancientwarfare:steel_ingot>, <ore:netherStar>, <ancientwarfare:steel_ingot>], [<iceandfire:dragonforge_ice_brick>, <ancientwarfare:steel_ingot>, <iceandfire:dragonforge_ice_brick>]]);

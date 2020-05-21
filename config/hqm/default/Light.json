@@ -1,1 +1,1 @@
-{"name":"Light","description":"Er fand einen weg die Götter in Statuen zu sperren.\nNun nutzt er ihre Kraft um noch mächtiger zu werden, aber die monster waren noch da.","quests":[],"reputationBar":[]}
+{"name":"Light","description":"Er fand einen weg die Goetter in Statuen zu sperren.\nNun nutzt er ihre Kraft um noch maechtiger zu werden, aber die monster waren noch da.","quests":[{"uuid":"ae6f0ebb-6bdb-4814-84c6-89658dc33c6e","name":"Unnamed","x":159,"y":99,"prerequisites":["179820a3-2438-4bd9-bb89-bed4e148983a"],"commandrewards":[]}],"reputationBar":[]}
