@@ -1,1 +1,18 @@
-{"bookGuiScale":0,"clickedVisualize":false,"bookData":{}}
+{
+  "bookGuiScale": 4,
+  "clickedVisualize": false,
+  "bookData": {
+    "roots:roots_guide": {
+      "viewedEntries": [
+        "roots:basics/crafting",
+        "roots:spells/spell_grove_supplication"
+      ],
+      "bookmarks": [],
+      "history": [
+        "roots:basics/crafting",
+        "roots:spells/spell_grove_supplication"
+      ],
+      "completedManualQuests": []
+    }
+  }
+}

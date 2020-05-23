@@ -12,6 +12,10 @@
 
 // ================================================================================
 //#MARKER REMOVE
+recipes.remove(<botania:pylon:1>);
+recipes.remove(<botania:pylon>);
+recipes.remove(<astralsorcery:blockaltar>);
+recipes.remove(<botania:pool>);
 recipes.remove(<botania:altar>);
 recipes.remove(<roots:pestle>);
 recipes.remove(<roots:mortar>);
