@@ -154,6 +154,86 @@ import mods.astralsorcery.Altar;
             <botania:rune:8>, <botania:rune:11>,
             <botania:rune:9>, <botania:rune:10>]);
 
+        //elven gateway
+
+            mods.astralsorcery.Altar.addConstellationAltarRecipe("goodvsevil:documents/curse/minecraft/instances/goodvsevil/scripts/good", <botania:alfheimportal>, 2000, 10, [
+            <botania:livingwood>, <roots:bark_oak>, <botania:livingwood>,
+            <roots:bark_oak>, <botania:storage:1>, <roots:bark_oak>,
+            <botania:livingwood>, <roots:bark_oak>, <botania:livingwood>,
+            <astralsorcery:itemrockcrystalsimple>, <astralsorcery:itemrockcrystalsimple>, <astralsorcery:itemrockcrystalsimple>, <astralsorcery:itemrockcrystalsimple>,
+            <ebwizardry:magic_crystal:6>, <ebwizardry:magic_crystal:6>,
+            <ebwizardry:magic_crystal:6>, <ebwizardry:magic_crystal:6>,
+            <ebwizardry:magic_crystal:6>, <ebwizardry:magic_crystal:6>,
+            <ebwizardry:magic_crystal:6>, <ebwizardry:magic_crystal:6>]);
+
+
+//Altar Tier 4
+//terra steel Rüstung
+        mods.astralsorcery.Altar.addTraitAltarRecipe("mypackname:shaped/internal/altar/seemsalotforjusttnt", <botania:terrasteelhelm>, 4500, 100, [
+        <botania:storage>, <botania:manaresource:4>, <botania:storage>, 
+        <botania:manaresource:4>, <botania:manasteelhelm>, <botania:manaresource:4>, 
+        <botania:storage>, <botania:manaresource:4>, <botania:storage>, 
+        <botania:rune:4>, <botania:rune:4>, <botania:rune:4>, <botania:rune:4>, 
+        <ebwizardry:magic_crystal:6>, <ebwizardry:magic_crystal:6>, 
+        <ebwizardry:magic_crystal:6>, <ebwizardry:magic_crystal:6>, 
+        <ebwizardry:magic_crystal:6>, <ebwizardry:magic_crystal:6>,
+        <ebwizardry:magic_crystal:6>, <ebwizardry:magic_crystal:6>,
+        <botania:manaresource:13>, <botania:manaresource:13>,
+        <botania:manaresource:13>, <botania:manaresource:13>, 
+        //Outer Items, indices 25+
+        null, null, null, null, null, 
+                ],
+                "astralsorcery.constellation.evorsio");
+
+        mods.astralsorcery.Altar.addTraitAltarRecipe("mypackname:shaped/internal/altar/seemsalotforjusttnt", <botania:terrasteelchest>, 4500, 100, [
+        <botania:storage>, <botania:manaresource:4>, <botania:storage>, 
+        <botania:manaresource:4>, <botania:manasteelchest>, <botania:manaresource:4>, 
+        <botania:storage>, <botania:manaresource:4>, <botania:storage>, 
+        <botania:rune:5>, <botania:rune:5>, <botania:rune:5>, <botania:rune:5>,
+        <ebwizardry:magic_crystal:6>, <ebwizardry:magic_crystal:6>, 
+        <ebwizardry:magic_crystal:6>, <ebwizardry:magic_crystal:6>, 
+        <ebwizardry:magic_crystal:6>, <ebwizardry:magic_crystal:6>,
+        <ebwizardry:magic_crystal:6>, <ebwizardry:magic_crystal:6>,
+        <botania:manaresource:13>, <botania:manaresource:13>,
+        <botania:manaresource:13>, <botania:manaresource:13>, 
+        //Outer Items, indices 25+
+        null, null, null, null, null, 
+                ],
+                "astralsorcery.constellation.evorsio");
+
+
+        mods.astralsorcery.Altar.addTraitAltarRecipe("mypackname:shaped/internal/altar/seemsalotforjusttnt", <botania:terrasteellegs>, 4500, 100, [
+        <botania:storage>, <botania:manaresource:4>, <botania:storage>, 
+        <botania:manaresource:4>, <botania:manasteellegs>, <botania:manaresource:4>, 
+        <botania:storage>, <botania:manaresource:4>, <botania:storage>, 
+        <botania:rune:6>, <botania:rune:6>, <botania:rune:6>, <botania:rune:6>,
+        <ebwizardry:magic_crystal:6>, <ebwizardry:magic_crystal:6>, 
+        <ebwizardry:magic_crystal:6>, <ebwizardry:magic_crystal:6>, 
+        <ebwizardry:magic_crystal:6>, <ebwizardry:magic_crystal:6>,
+        <ebwizardry:magic_crystal:6>, <ebwizardry:magic_crystal:6>,
+        <botania:manaresource:13>, <botania:manaresource:13>,
+        <botania:manaresource:13>, <botania:manaresource:13>, 
+        //Outer Items, indices 25+
+        null, null, null, null, null, 
+                ],
+                "astralsorcery.constellation.evorsio");
+
+
+        mods.astralsorcery.Altar.addTraitAltarRecipe("mypackname:shaped/internal/altar/seemsalotforjusttnt", <botania:terrasteelboots>, 4500, 100, [
+        <botania:storage>, <botania:manaresource:4>, <botania:storage>, 
+        <botania:manaresource:4>, <botania:manasteelboots>, <botania:manaresource:4>, 
+        <botania:storage>, <botania:manaresource:4>, <botania:storage>, 
+        <botania:rune:7>, <botania:rune:7>, <botania:rune:7>, <botania:rune:7>,
+        <ebwizardry:magic_crystal:6>, <ebwizardry:magic_crystal:6>, 
+        <ebwizardry:magic_crystal:6>, <ebwizardry:magic_crystal:6>, 
+        <ebwizardry:magic_crystal:6>, <ebwizardry:magic_crystal:6>,
+        <ebwizardry:magic_crystal:6>, <ebwizardry:magic_crystal:6>,
+        <botania:manaresource:13>, <botania:manaresource:13>,
+        <botania:manaresource:13>, <botania:manaresource:13>, 
+        //Outer Items, indices 25+
+        null, null, null, null, null, 
+                ],
+                "astralsorcery.constellation.evorsio");
 
 
 

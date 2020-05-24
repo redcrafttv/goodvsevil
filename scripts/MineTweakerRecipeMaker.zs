@@ -12,6 +12,14 @@
 
 // ================================================================================
 //#MARKER REMOVE
+recipes.remove(<spartanweaponryarcana:material>);
+recipes.remove(<botania:terrasword>);
+recipes.remove(<botania:alfheimportal>);
+recipes.remove(<botania:terrasteelboots>);
+recipes.remove(<botania:terrasteellegs>);
+recipes.remove(<botania:terrasteelchest>);
+recipes.remove(<botania:terrasteelhelmreveal>);
+recipes.remove(<botania:runealtar>);
 recipes.remove(<botania:pylon:1>);
 recipes.remove(<botania:pylon>);
 recipes.remove(<astralsorcery:blockaltar>);
@@ -121,6 +129,11 @@ recipes.addShapeless(<astralsorcery:blockmarble>, [<ore:stoneMarble>]);
 
 // ================================================================================
 //#MARKER ADD SHAPED
+recipes.addShaped(<spartanweaponryarcana:material:1> * 4, [[<ore:dreamwoodTwig>, <ore:dreamwoodTwig>, <ore:stickWood>], [<ore:dreamwoodTwig>, <ore:string>, <ore:stickWood>], [<ore:dreamwoodTwig>, <ore:stickWood>, <aether_legacy:skyroot_stick>]]);
+recipes.addShaped(<spartanweaponryarcana:material> * 4, [[null, <ore:stickWood>, <ore:string>], [<aether_legacy:skyroot_stick>, <ore:string>, <ore:dreamwoodTwig>], [<minecraft:string>, <ore:dreamwoodTwig>, null]]);
+recipes.addShaped(<botania:terraaxe>, [[<ore:ingotTerrasteel>, <ore:ingotTerrasteel>, <botania:manatablet>], [<ore:ingotTerrasteel>, <ore:dreamwoodTwig>, <ore:ingotTerrasteel>], [null, <ore:dreamwoodTwig>, null]]);
+recipes.addShaped(<botania:terrapick>, [[<ore:ingotTerrasteel>, <botania:manatablet>, <ore:ingotTerrasteel>], [<ore:ingotTerrasteel>, <botania:manaresource:13>, <ore:ingotTerrasteel>], [null, <botania:manaresource:13>, null]]);
+recipes.addShaped(<botania:terrasword>, [[<ore:ingotTerrasteel>], [<botania:manaresource:4>], [<botania:manaresource:13>]]);
 recipes.addShaped(<roots:pestle>, [[null, null, <aether_legacy:holystone>], [<aether_legacy:holystone>, <aether_legacy:holystone>, null], [<aether_legacy:holystone>, <aether_legacy:holystone>, null]]);
 recipes.addShaped(<roots:mortar>, [[<ore:holystone>, null, <ore:holystone>], [<ore:holystone>, <ore:charcoal>, <ore:holystone>], [null, <aether_legacy:holystone>, null]]);
 recipes.addShaped(<iceandfire:dragonsteel_ice_sword>, [[<ore:ingotIceDragonsteel>], [<ore:ingotIceDragonsteel>], [<iceandfire:dragonbone_sword_ice>]]);
