@@ -12,6 +12,16 @@
 
 // ================================================================================
 //#MARKER REMOVE
+recipes.remove(<bloodmagic:blood_rune:10>);
+recipes.remove(<bloodmagic:blood_rune:8>);
+recipes.remove(<bloodmagic:blood_rune:9>);
+recipes.remove(<bloodmagic:blood_rune:7>);
+recipes.remove(<bloodmagic:blood_rune:6>);
+recipes.remove(<bloodmagic:blood_rune:5>);
+recipes.remove(<bloodmagic:blood_rune:4>);
+recipes.remove(<bloodmagic:blood_rune:3>);
+recipes.remove(<bloodmagic:blood_rune:1>);
+recipes.remove(<bloodmagic:soul_forge>);
 recipes.remove(<spartanweaponryarcana:material>);
 recipes.remove(<botania:terrasword>);
 recipes.remove(<botania:alfheimportal>);
@@ -129,6 +139,9 @@ recipes.addShapeless(<astralsorcery:blockmarble>, [<ore:stoneMarble>]);
 
 // ================================================================================
 //#MARKER ADD SHAPED
+recipes.addShaped(<bloodmagic:soul_forge>, [[<ore:ingotDragonbone>, null, <ore:ingotDragonbone>], [<bloodmagic:blood_rune>, <ore:gemGreenMiddleGem>, <bloodmagic:blood_rune>], [<bloodmagic:blood_rune>, <ore:ingotDragonbone>, <bloodmagic:blood_rune>]]);
+recipes.addShaped(<bloodmagic:soul_forge>, [[<ore:ingotDragonbone>, null, <ore:ingotDragonbone>], [<bloodmagic:blood_rune>, <ore:gemCrimsonMiddleGem>, <bloodmagic:blood_rune>], [<bloodmagic:blood_rune>, <ore:ingotDragonbone>, <bloodmagic:blood_rune>]]);
+recipes.addShaped(<bloodmagic:soul_forge>, [[<ore:ingotDragonbone>, null, <ore:ingotDragonbone>], [<bloodmagic:blood_rune>, <ore:gemAquaMiddleGem>, <bloodmagic:blood_rune>], [<bloodmagic:blood_rune>, <ore:ingotDragonbone>, <bloodmagic:blood_rune>]]);
 recipes.addShaped(<spartanweaponryarcana:material:1> * 4, [[<ore:dreamwoodTwig>, <ore:dreamwoodTwig>, <ore:stickWood>], [<ore:dreamwoodTwig>, <ore:string>, <ore:stickWood>], [<ore:dreamwoodTwig>, <ore:stickWood>, <aether_legacy:skyroot_stick>]]);
 recipes.addShaped(<spartanweaponryarcana:material> * 4, [[null, <ore:stickWood>, <ore:string>], [<aether_legacy:skyroot_stick>, <ore:string>, <ore:dreamwoodTwig>], [<minecraft:string>, <ore:dreamwoodTwig>, null]]);
 recipes.addShaped(<botania:terraaxe>, [[<ore:ingotTerrasteel>, <ore:ingotTerrasteel>, <botania:manatablet>], [<ore:ingotTerrasteel>, <ore:dreamwoodTwig>, <ore:ingotTerrasteel>], [null, <ore:dreamwoodTwig>, null]]);
