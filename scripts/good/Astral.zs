@@ -1,22 +1,13 @@
 import mods.astralsorcery.Altar;
 //remove recipes
 
-        mods.astralsorcery.Altar.removeAltarRecipe("astralsorcery:shaped/internal/altar/upgrade_tier3");
-        mods.astralsorcery.Altar.removeAltarRecipe("astralsorcery:shaped/internal/altar/upgrade_tier4");
-
-
+mods.astralsorcery.Altar.removeAltarRecipe("astralsorcery:shaped/internal/altar/upgrade_tier3");
+mods.astralsorcery.Altar.removeAltarRecipe("astralsorcery:shaped/internal/altar/upgrade_tier4");
 
 //Altar tier 1
-    //Botania Tweaken
-        mods.astralsorcery.Altar.addDiscoveryAltarRecipe("goodvsevil:documents/curse/minecraft/instances/goodvsevil/scripts/good", <botania:altar>, 200, 200, [
-            <aether_legacy:holystone>, <botania:petal>, <aether_legacy:holystone>,
-            null, <aether_legacy:holystone>, null,
-            <aether_legacy:holystone>, <aether_legacy:holystone>, <aether_legacy:holystone>]);
-
-        mods.astralsorcery.Altar.addDiscoveryAltarRecipe("goodvsevil:documents/curse/minecraft/instances/goodvsevil/scripts/good", <botania:pool>, 200, 200, [
-            null, null, null,
-            <botania:livingrock>, null, <botania:livingrock>,
-            <botania:livingrock>, <botania:livingrock>, <botania:livingrock>]);    
+//Botania Tweaken
+mods.astralsorcery.Altar.addDiscoveryAltarRecipe("goodvsevil:documents/curse/minecraft/instances/goodvsevil/scripts/good", <botania:altar>, 200, 200, [<aether_legacy:holystone>, <botania:petal>, <aether_legacy:holystone>, null, <aether_legacy:holystone>, null, <aether_legacy:holystone>, <aether_legacy:holystone>, <aether_legacy:holystone>]);
+mods.astralsorcery.Altar.addDiscoveryAltarRecipe("goodvsevil:documents/curse/minecraft/instances/goodvsevil/scripts/good", <botania:pool>, 200, 200, [ null, null, null, <botania:livingrock>, null, <botania:livingrock>, <botania:livingrock>, <botania:livingrock>, <botania:livingrock>]);    
 
 //altar tier 2
     //Wizzardry wands
