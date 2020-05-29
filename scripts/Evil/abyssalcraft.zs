@@ -95,13 +95,56 @@ mods.abyssalcraft.InfusionRitual.addRitual("BloodAltar", 0, -1, 2000, false,
 
 
 //Whetstones
+//1
 mods.abyssalcraft.InfusionRitual.addRitual("Schärfniss 1", 0, -1, 100, true, 
 <erebus:whetstone:1>, <erebus:jade_sword>, 
+[<minecraft:wooden_sword>, <erebus:materials:23>, <minecraft:wooden_sword>, <erebus:materials:23>, 
+<minecraft:wooden_sword>, <erebus:materials:23>, <minecraft:wooden_sword>, <erebus:materials:23>], false, ["ench"]); 
+
+//2
+mods.abyssalcraft.InfusionRitual.addRitual("Schärfniss 2", 0, -1, 200, true, 
+<erebus:whetstone:2>, <erebus:whetstone:1>, 
+[<minecraft:stone_sword>, <erebus:materials:23>, <minecraft:stone_sword>, <erebus:materials:23>, 
+<minecraft:stone_sword>, <erebus:materials:23>, <minecraft:stone_sword>, <erebus:materials:23>], false, ["ench"]); 
+
+//3
+mods.abyssalcraft.InfusionRitual.addRitual("Schärfniss 3", 0, -1, 400, true, 
+<erebus:whetstone:3>, <erebus:whetstone:2>, 
+[<minecraft:iron_sword>, <erebus:materials:23>, <minecraft:iron_sword>, <erebus:materials:23>, 
+<minecraft:iron_sword>, <erebus:materials:23>, <minecraft:iron_sword>, <erebus:materials:23>], false, ["ench"]);  
+
+//4
+mods.abyssalcraft.InfusionRitual.addRitual("Schärfniss 4", 0, -1, 800, true, 
+<erebus:whetstone:4>, <erebus:whetstone:3>, 
+[<minecraft:golden_sword>, <erebus:materials:23>, <minecraft:golden_sword>, <erebus:materials:23>, 
+<minecraft:golden_sword>, <erebus:materials:23>, <minecraft:golden_sword>, <erebus:materials:23>], false, ["ench"]); 
+
+//5
+mods.abyssalcraft.InfusionRitual.addRitual("Schärfniss 5", 0, -1, 1600, true, 
+<erebus:whetstone:5>, <erebus:whetstone:4>, 
 [<minecraft:diamond_sword>, <erebus:materials:23>, <minecraft:diamond_sword>, <erebus:materials:23>, 
-<minecraft:diamond_sword>, <erebus:materials:23>, <minecraft:diamond_sword>, <erebus:materials:23>], false, ["ench"]); 
+<minecraft:diamond_sword>, <erebus:materials:23>, <minecraft:diamond_sword>, <erebus:materials:23>], false, ["ench"]);  
+
 
 //necromancing staff
 mods.abyssalcraft.InfusionRitual.addRitual("Zombie", 0, -1, 100, true, 
 <evilcraft:necromancer_staff>.withTag({Fluid: {FluidName: "evilcraftblood", Amount: 0}}), <abyssalcraft:drainstaff:3>, 
 [<xreliquary:pyromancer_staff>.withTag({mode: "blaze"}), null, <xreliquary:ender_staff>.withTag({mode: "cast", count: 0}), null, 
 <cqrepoured:staff_thunder>, null, <cqrepoured:staff_vampiric>, null], false, ["ench"]); 
+
+//master
+mods.abyssalcraft.InfusionRitual.addRitual("Master stone shit", 0, -1, 1600, false, 
+<bloodmagic:ritual_controller>, <bloodmagic:ritual_stone>, 
+[<bloodmagic:ritual_stone>, <evilcraft:dark_power_gem>, <bloodmagic:ritual_stone>, <iceandfire:sapphire_gem>, 
+<bloodmagic:ritual_stone>, <bloodarsenal:blood_diamond>, <bloodmagic:ritual_stone>, <abyssalcraft:shadowgem>], false, ["ench"]);  
+
+
+
+
+
+
+
+
+
+
+

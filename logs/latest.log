@@ -5123,3 +5123,249 @@ Caused by: java.lang.ArrayIndexOutOfBoundsException: -1
 [17:12:55] [Client thread/INFO]: [CHAT] §3No OreDict Entries
 [17:13:21] [Server thread/INFO]: Saved 1 stages for DieInsel.
 [17:14:06] [Server thread/INFO]: Saved 1 stages for DieInsel.
+[17:14:51] [Server thread/INFO]: Saved 1 stages for DieInsel.
+[17:15:03] [Client thread/INFO]: Handling crafting slots.
+[17:15:03] [Client thread/INFO]: Merging stacks.
+[17:15:03] [Client thread/INFO]: Applying rules.
+[17:15:03] [Client thread/INFO]: Locking stacks.
+[17:15:03] [Client thread/INFO]: Default sorting.
+[17:15:03] [Client thread/INFO]: Sorting done in 1611200ns
+[17:15:13] [Client thread/INFO]: Handling crafting slots.
+[17:15:13] [Client thread/INFO]: Merging stacks.
+[17:15:13] [Client thread/INFO]: Applying rules.
+[17:15:13] [Client thread/INFO]: Locking stacks.
+[17:15:13] [Client thread/INFO]: Default sorting.
+[17:15:13] [Client thread/INFO]: Sorting done in 1305900ns
+[17:15:36] [Server thread/INFO]: Saved 1 stages for DieInsel.
+[17:15:58] [Client thread/INFO]: Handling crafting slots.
+[17:15:58] [Client thread/INFO]: Merging stacks.
+[17:15:58] [Client thread/INFO]: Applying rules.
+[17:15:58] [Client thread/INFO]: Locking stacks.
+[17:15:58] [Client thread/INFO]: Default sorting.
+[17:15:58] [Client thread/INFO]: Sorting done in 1107800ns
+[17:16:21] [Server thread/INFO]: Saved 1 stages for DieInsel.
+[17:16:46] [Client thread/INFO]: Handling crafting slots.
+[17:16:46] [Client thread/INFO]: Merging stacks.
+[17:16:46] [Client thread/INFO]: Applying rules.
+[17:16:46] [Client thread/INFO]: Locking stacks.
+[17:16:46] [Client thread/INFO]: Default sorting.
+[17:16:46] [Client thread/INFO]: Sorting done in 429800ns
+[17:17:06] [Server thread/INFO]: Saved 1 stages for DieInsel.
+[17:17:11] [Client thread/INFO]: Handling crafting slots.
+[17:17:11] [Client thread/INFO]: Merging stacks.
+[17:17:11] [Client thread/INFO]: Applying rules.
+[17:17:11] [Client thread/INFO]: Locking stacks.
+[17:17:11] [Client thread/INFO]: Default sorting.
+[17:17:11] [Client thread/INFO]: Sorting done in 982200ns
+[17:17:14] [Client thread/INFO]: Handling crafting slots.
+[17:17:14] [Client thread/INFO]: Merging stacks.
+[17:17:14] [Client thread/INFO]: Applying rules.
+[17:17:14] [Client thread/INFO]: Locking stacks.
+[17:17:14] [Client thread/INFO]: Default sorting.
+[17:17:14] [Client thread/INFO]: Sorting done in 1374800ns
+[17:17:15] [Client thread/INFO]: Handling crafting slots.
+[17:17:15] [Client thread/INFO]: Merging stacks.
+[17:17:15] [Client thread/INFO]: Applying rules.
+[17:17:15] [Client thread/INFO]: Locking stacks.
+[17:17:15] [Client thread/INFO]: Default sorting.
+[17:17:15] [Client thread/INFO]: Sorting done in 1138300ns
+[17:17:20] [Client thread/INFO]: Handling crafting slots.
+[17:17:20] [Client thread/INFO]: Merging stacks.
+[17:17:20] [Client thread/INFO]: Applying rules.
+[17:17:20] [Client thread/INFO]: Locking stacks.
+[17:17:20] [Client thread/INFO]: Default sorting.
+[17:17:20] [Client thread/INFO]: Sorting done in 1216200ns
+[17:17:51] [Server thread/INFO]: Saved 1 stages for DieInsel.
+[17:18:36] [Server thread/INFO]: Saved 1 stages for DieInsel.
+[17:19:21] [Server thread/INFO]: Saved 1 stages for DieInsel.
+[17:19:57] [Client thread/INFO]: [CHAT] Unknown command. Try /help for a list of commands
+[17:20:06] [Server thread/INFO]: Saved 1 stages for DieInsel.
+[17:20:37] [Client thread/INFO]: Handling crafting slots.
+[17:20:37] [Client thread/INFO]: Merging stacks.
+[17:20:37] [Client thread/INFO]: Applying rules.
+[17:20:37] [Client thread/INFO]: Locking stacks.
+[17:20:37] [Client thread/INFO]: Default sorting.
+[17:20:37] [Client thread/INFO]: Sorting done in 1344700ns
+[17:20:51] [Server thread/INFO]: Saved 1 stages for DieInsel.
+[17:21:03] [Client thread/INFO]: Handling crafting slots.
+[17:21:03] [Client thread/INFO]: Merging stacks.
+[17:21:03] [Client thread/INFO]: Applying rules.
+[17:21:03] [Client thread/INFO]: Locking stacks.
+[17:21:03] [Client thread/INFO]: Default sorting.
+[17:21:03] [Client thread/INFO]: Sorting done in 2242800ns
+[17:21:04] [Client thread/INFO]: Handling crafting slots.
+[17:21:04] [Client thread/INFO]: Merging stacks.
+[17:21:04] [Client thread/INFO]: Applying rules.
+[17:21:04] [Client thread/INFO]: Locking stacks.
+[17:21:04] [Client thread/INFO]: Default sorting.
+[17:21:04] [Client thread/INFO]: Sorting done in 1861100ns
+[17:21:04] [Client thread/INFO]: Handling crafting slots.
+[17:21:04] [Client thread/INFO]: Merging stacks.
+[17:21:04] [Client thread/INFO]: Applying rules.
+[17:21:04] [Client thread/INFO]: Locking stacks.
+[17:21:04] [Client thread/INFO]: Default sorting.
+[17:21:04] [Client thread/INFO]: Sorting done in 1407300ns
+[17:21:05] [Client thread/INFO]: Handling crafting slots.
+[17:21:05] [Client thread/INFO]: Merging stacks.
+[17:21:05] [Client thread/INFO]: Applying rules.
+[17:21:05] [Client thread/INFO]: Locking stacks.
+[17:21:05] [Client thread/INFO]: Default sorting.
+[17:21:05] [Client thread/INFO]: Sorting done in 1358400ns
+[17:21:05] [Client thread/INFO]: Handling crafting slots.
+[17:21:05] [Client thread/INFO]: Merging stacks.
+[17:21:05] [Client thread/INFO]: Applying rules.
+[17:21:05] [Client thread/INFO]: Locking stacks.
+[17:21:05] [Client thread/INFO]: Default sorting.
+[17:21:05] [Client thread/INFO]: Sorting done in 1394800ns
+[17:21:05] [Client thread/INFO]: Handling crafting slots.
+[17:21:05] [Client thread/INFO]: Merging stacks.
+[17:21:05] [Client thread/INFO]: Applying rules.
+[17:21:05] [Client thread/INFO]: Locking stacks.
+[17:21:05] [Client thread/INFO]: Default sorting.
+[17:21:05] [Client thread/INFO]: Sorting done in 1679500ns
+[17:21:06] [Client thread/INFO]: Handling crafting slots.
+[17:21:06] [Client thread/INFO]: Merging stacks.
+[17:21:06] [Client thread/INFO]: Applying rules.
+[17:21:06] [Client thread/INFO]: Locking stacks.
+[17:21:06] [Client thread/INFO]: Default sorting.
+[17:21:06] [Client thread/INFO]: Sorting done in 1595900ns
+[17:21:23] [Client thread/INFO]: Handling crafting slots.
+[17:21:23] [Client thread/INFO]: Merging stacks.
+[17:21:23] [Client thread/INFO]: Applying rules.
+[17:21:23] [Client thread/INFO]: Locking stacks.
+[17:21:23] [Client thread/INFO]: Default sorting.
+[17:21:23] [Client thread/INFO]: Sorting done in 530400ns
+[17:21:36] [Server thread/INFO]: Saved 1 stages for DieInsel.
+[17:22:21] [Server thread/INFO]: Saved 1 stages for DieInsel.
+[17:23:06] [Server thread/INFO]: Saved 1 stages for DieInsel.
+[17:23:40] [Client thread/INFO]: Handling crafting slots.
+[17:23:40] [Client thread/INFO]: Merging stacks.
+[17:23:40] [Client thread/INFO]: Applying rules.
+[17:23:40] [Client thread/INFO]: Locking stacks.
+[17:23:40] [Client thread/INFO]: Default sorting.
+[17:23:40] [Client thread/INFO]: Sorting done in 2087700ns
+[17:23:51] [Server thread/INFO]: Saved 1 stages for DieInsel.
+[17:24:36] [Server thread/INFO]: Saved 1 stages for DieInsel.
+[17:25:16] [Server thread/INFO]: DieInsel has made the advancement [Gems of pure darkness]
+[17:25:16] [Server thread/INFO]: Synchronising advancements for DieInsel
+[17:25:16] [Client thread/INFO]: [CHAT] DieInsel has made the advancement [Gems of pure darkness]
+[17:25:16] [Client thread/INFO]: Loaded 168 advancements
+[17:25:21] [Server thread/INFO]: Saved 1 stages for DieInsel.
+[17:26:06] [Server thread/INFO]: Saved 1 stages for DieInsel.
+[17:26:40] [Client thread/INFO]: [CHAT] Item §2<bloodmagic:ritual_controller>§a
+[17:26:40] [Client thread/INFO]: [CHAT] §3No OreDict Entries
+[17:26:47] [Client thread/INFO]: [CHAT] Item §2<bloodmagic:ritual_stone>§a
+[17:26:47] [Client thread/INFO]: [CHAT] §3No OreDict Entries
+[17:26:51] [Server thread/INFO]: Saved 1 stages for DieInsel.
+[17:27:34] [Client thread/INFO]: [CHAT] Item §2<evilcraft:dark_power_gem>§a
+[17:27:34] [Client thread/INFO]: [CHAT] §3OreDict Entries:
+[17:27:34] [Client thread/INFO]: [CHAT]     §e- §bgemDarkPower
+[17:27:36] [Server thread/INFO]: Saved 1 stages for DieInsel.
+[17:27:42] [Client thread/INFO]: [CHAT] Item §2<iceandfire:sapphire_gem>§a
+[17:27:42] [Client thread/INFO]: [CHAT] §3OreDict Entries:
+[17:27:42] [Client thread/INFO]: [CHAT]     §e- §bgemSapphire
+[17:27:49] [Client thread/INFO]: [CHAT] Item §2<bloodarsenal:blood_diamond>§a
+[17:27:49] [Client thread/INFO]: [CHAT] §3No OreDict Entries
+[17:27:56] [Client thread/INFO]: [CHAT] Item §2<abyssalcraft:shadowgem>§a
+[17:27:56] [Client thread/INFO]: [CHAT] §3OreDict Entries:
+[17:27:56] [Client thread/INFO]: [CHAT]     §e- §bgemShadow
+[17:28:21] [Server thread/INFO]: Saved 1 stages for DieInsel.
+[17:29:06] [Server thread/INFO]: Saved 1 stages for DieInsel.
+[17:29:51] [Server thread/INFO]: Saved 1 stages for DieInsel.
+[17:30:36] [Server thread/INFO]: Saved 1 stages for DieInsel.
+[17:31:21] [Server thread/INFO]: Saved 1 stages for DieInsel.
+[17:31:53] [Client thread/INFO]: Handling crafting slots.
+[17:31:53] [Client thread/INFO]: Merging stacks.
+[17:31:53] [Client thread/INFO]: Applying rules.
+[17:31:53] [Client thread/INFO]: Locking stacks.
+[17:31:53] [Client thread/INFO]: Default sorting.
+[17:31:53] [Client thread/INFO]: Sorting done in 2113400ns
+[17:32:02] [Client thread/INFO]: [CHAT] That only works in the Dreadlands
+[17:32:05] [Client thread/INFO]: [CHAT] That only works in the Dreadlands
+[17:32:05] [Client thread/INFO]: [CHAT] That still only works in the Dreadlands
+[17:32:05] [Client thread/INFO]: [CHAT] That only works in the Dreadlands
+[17:32:06] [Server thread/INFO]: Saved 1 stages for DieInsel.
+[17:32:46] [Server thread/INFO]: [DieInsel: Given Strength (ID 5) * 255 to DieInsel for 255 seconds]
+[17:32:46] [Client thread/INFO]: [CHAT] Given Strength (ID 5) * 255 to DieInsel for 255 seconds
+[17:32:51] [Server thread/INFO]: Saved 1 stages for DieInsel.
+[17:33:16] [Server thread/INFO]: DieInsel has made the advancement [Draconic Evolution]
+[17:33:16] [Server thread/INFO]: Synchronising advancements for DieInsel
+[17:33:16] [Client thread/INFO]: [CHAT] DieInsel has made the advancement [Draconic Evolution]
+[17:33:16] [Client thread/INFO]: Loaded 172 advancements
+[17:33:36] [Server thread/INFO]: Saved 1 stages for DieInsel.
+[17:34:02] [Client thread/INFO]: [CHAT] Cha'garoth: Here, have your key back, transmute it for a working one.
+[17:34:05] [Client thread/INFO]: [CHAT] Cha'garoth: The chest behind me holds "The Legendary Treasure of The Dreadlands",
+[17:34:08] [Client thread/INFO]: [CHAT] Cha'garoth: left by the ones who ran the mine before I came into the picture.
+[17:34:11] [Client thread/INFO]: [CHAT] Cha'garoth: Don't get your hopes up, I bet it's just a block of dirt or something.
+[17:34:15] [Server thread/INFO]: DieInsel has made the advancement [Plague-free Ingots]
+[17:34:15] [Server thread/INFO]: Synchronising advancements for DieInsel
+[17:34:15] [Client thread/INFO]: [CHAT] DieInsel has made the advancement [Plague-free Ingots]
+[17:34:15] [Client thread/INFO]: Loaded 175 advancements
+[17:34:21] [Server thread/INFO]: Saved 1 stages for DieInsel.
+[17:35:06] [Server thread/INFO]: Saved 1 stages for DieInsel.
+[17:35:51] [Server thread/INFO]: Saved 1 stages for DieInsel.
+[17:36:31] [Client thread/INFO]: [CHAT] Cha'garoth: Here, have your key back, transmute it for a working one.
+[17:36:34] [Client thread/INFO]: [CHAT] Cha'garoth: The chest behind me holds "The Legendary Treasure of The Dreadlands",
+[17:36:36] [Server thread/INFO]: Saved 1 stages for DieInsel.
+[17:36:37] [Client thread/INFO]: [CHAT] Cha'garoth: left by the ones who ran the mine before I came into the picture.
+[17:36:40] [Client thread/INFO]: [CHAT] Cha'garoth: Don't get your hopes up, I bet it's just a block of dirt or something.
+[17:37:21] [Server thread/INFO]: Saved 1 stages for DieInsel.
+[17:37:42] [Server thread/INFO]: DieInsel has made the advancement [Suit Up]
+[17:37:42] [Server thread/INFO]: Synchronising advancements for DieInsel
+[17:37:42] [Client thread/INFO]: [CHAT] DieInsel has made the advancement [Suit Up]
+[17:37:42] [Client thread/INFO]: Loaded 177 advancements
+[17:38:06] [Server thread/INFO]: Saved 1 stages for DieInsel.
+[17:38:51] [Server thread/INFO]: Saved 1 stages for DieInsel.
+[17:39:36] [Server thread/INFO]: Saved 1 stages for DieInsel.
+[17:40:21] [Server thread/INFO]: Saved 1 stages for DieInsel.
+[17:41:06] [Server thread/INFO]: Saved 1 stages for DieInsel.
+[17:41:45] [Client thread/INFO]: Handling crafting slots.
+[17:41:45] [Client thread/INFO]: Merging stacks.
+[17:41:45] [Client thread/INFO]: Applying rules.
+[17:41:45] [Client thread/INFO]: Locking stacks.
+[17:41:45] [Client thread/INFO]: Default sorting.
+[17:41:45] [Client thread/INFO]: Sorting done in 805200ns
+[17:41:51] [Server thread/INFO]: Saved 1 stages for DieInsel.
+[17:42:36] [Server thread/INFO]: Saved 1 stages for DieInsel.
+[17:43:21] [Server thread/INFO]: Saved 1 stages for DieInsel.
+[17:44:06] [Server thread/INFO]: Saved 1 stages for DieInsel.
+[17:44:51] [Server thread/INFO]: Saved 1 stages for DieInsel.
+[17:45:12] [Server thread/INFO]: DieInsel has made the advancement [Glorified Toothpick]
+[17:45:12] [Server thread/INFO]: Synchronising advancements for DieInsel
+[17:45:12] [Client thread/INFO]: [CHAT] DieInsel has made the advancement [Glorified Toothpick]
+[17:45:12] [Client thread/INFO]: Loaded 183 advancements
+[17:45:18] [Client thread/INFO]: Handling crafting slots.
+[17:45:18] [Client thread/INFO]: Merging stacks.
+[17:45:18] [Client thread/INFO]: Applying rules.
+[17:45:18] [Client thread/INFO]: Locking stacks.
+[17:45:18] [Client thread/INFO]: Default sorting.
+[17:45:18] [Client thread/INFO]: Sorting done in 836600ns
+[17:45:36] [Server thread/INFO]: Saved 1 stages for DieInsel.
+[17:45:40] [Client thread/INFO]: Handling crafting slots.
+[17:45:40] [Client thread/INFO]: Merging stacks.
+[17:45:40] [Client thread/INFO]: Applying rules.
+[17:45:40] [Client thread/INFO]: Locking stacks.
+[17:45:40] [Client thread/INFO]: Default sorting.
+[17:45:40] [Client thread/INFO]: Sorting done in 980200ns
+[17:45:47] [Client thread/WARN]: Recipe registry plugin is slow, took 12.82 ms. class mezz.jei.recipes.InternalRecipeRegistryPlugin
+[17:45:51] [Server thread/INFO]: DieInsel has made the advancement [Secret of the Crypt]
+[17:45:51] [Server thread/INFO]: Synchronising advancements for DieInsel
+[17:45:51] [Client thread/INFO]: [CHAT] DieInsel has made the advancement [Secret of the Crypt]
+[17:45:51] [Client thread/INFO]: Loaded 185 advancements
+[17:45:54] [Client thread/INFO]: Handling crafting slots.
+[17:45:54] [Client thread/INFO]: Merging stacks.
+[17:45:54] [Client thread/INFO]: Applying rules.
+[17:45:54] [Client thread/INFO]: Locking stacks.
+[17:45:54] [Client thread/INFO]: Default sorting.
+[17:45:54] [Client thread/INFO]: Sorting done in 1488700ns
+[17:46:21] [Server thread/INFO]: Saved 1 stages for DieInsel.
+[17:46:52] [Server thread/INFO]: Synchronising advancements for DieInsel
+[17:46:52] [Client thread/INFO]: Loaded 186 advancements
+[17:47:02] [Client thread/WARN]: Recipe registry plugin is slow, took 25.24 ms. class mezz.jei.recipes.InternalRecipeRegistryPlugin
+[17:47:05] [Server thread/INFO]: Unleashing hell shortly.
+[17:47:28] [Server thread/WARN]: Tried to over-fill a container
+[17:47:29] [Server thread/INFO]: Hell successfully unleashed.
+[17:47:29] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 23692ms behind, skipping 473 tick(s)
+[17:47:30] [Server thread/INFO]: Saved 1 stages for DieInsel.
+[17:47:32] [Client thread/INFO]: [CHAT] Sacthoth: I am unleashed! Feel the wrath of The Dark Realm, mortal.
+[17:47:32] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3106ms behind, skipping 62 tick(s)
