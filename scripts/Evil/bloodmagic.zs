@@ -5,8 +5,13 @@ import mods.bloodmagic.TartaricForge;
 
 // Blood Altar
 //add
-mods.bloodmagic.BloodAltar.addRecipe(<abyssalcraft:necronomicon_dre>.withTag({PotEnergy: 0.0 as float}), 
-<abyssalcraft:necronomicon_cor>.withTag({PotEnergy: 0.0 as float}), 3, 20000,20000, 400);
+mods.bloodmagic.BloodAltar.addRecipe(<abyssalcraft:necronomicon_dre>.withTag({PotEnergy: 0.0 as float}), <abyssalcraft:necronomicon_cor>.withTag({PotEnergy: 0.0 as float}), 3, 20000, 20000, 400);
+
+mods.bloodmagic.BloodAltar.addRecipe( <abyssalcraft:drainstaff>, <iceandfire:dragon_stick>, 2, 400, 200, 100);
+
+mods.bloodmagic.BloodAltar.addRecipe(<abyssalcraft:gatewaykeyjzh>, <abyssalcraft:dreadkey>, 3, 200, 100, 50);
+
+mods.bloodmagic.BloodAltar.addRecipe(<abyssalcraft:transmutator>, <minecraft:furnace>, 3, 400, 200, 100);
 //remove
 
 

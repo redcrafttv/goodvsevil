@@ -90,3 +90,18 @@ mods.abyssalcraft.InfusionRitual.addRitual("BloodAltar", 0, -1, 2000, false,
 <bloodmagic:altar>, <minecraft:enchanting_table>, 
 [<bloodmagic:monster_soul>, <abyssalcraft:shadowshard>, <bloodmagic:monster_soul>, <abyssalcraft:shadowshard>, 
 <bloodmagic:monster_soul>, <abyssalcraft:shadowshard>, <bloodmagic:monster_soul>, <abyssalcraft:shadowshard>], false, ["ench"]); 
+
+
+
+
+//Whetstones
+mods.abyssalcraft.InfusionRitual.addRitual("Schärfniss 1", 0, -1, 100, true, 
+<erebus:whetstone:1>, <erebus:jade_sword>, 
+[<minecraft:diamond_sword>, <erebus:materials:23>, <minecraft:diamond_sword>, <erebus:materials:23>, 
+<minecraft:diamond_sword>, <erebus:materials:23>, <minecraft:diamond_sword>, <erebus:materials:23>], false, ["ench"]); 
+
+//necromancing staff
+mods.abyssalcraft.InfusionRitual.addRitual("Zombie", 0, -1, 100, true, 
+<evilcraft:necromancer_staff>.withTag({Fluid: {FluidName: "evilcraftblood", Amount: 0}}), <abyssalcraft:drainstaff:3>, 
+[<xreliquary:pyromancer_staff>.withTag({mode: "blaze"}), null, <xreliquary:ender_staff>.withTag({mode: "cast", count: 0}), null, 
+<cqrepoured:staff_thunder>, null, <cqrepoured:staff_vampiric>, null], false, ["ench"]); 

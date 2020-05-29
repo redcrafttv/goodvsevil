@@ -11,49 +11,49 @@ mods.astralsorcery.Altar.addDiscoveryAltarRecipe("goodvsevil:documents/curse/min
 
 //altar tier 2
     //Wizzardry wands
-            mods.astralsorcery.Altar.addAttunmentAltarRecipe("goodvsevil:documents/curse/minecraft/instances/goodvsevil/scripts/good", <ebwizardry:magic_wand>, 250, 150, [
+            mods.astralsorcery.Altar.addAttunementAltarRecipe("goodvsevil:documents/curse/minecraft/instances/goodvsevil/scripts/good", <ebwizardry:magic_wand>, 250, 150, [
             null, null, null,
             null, <aether_legacy:skyroot_stick>, null,
             null, null, null,
              <ebwizardry:magic_crystal>, <ebwizardry:magic_crystal>, <ebwizardry:magic_crystal>, <ebwizardry:magic_crystal>]);
 
-            mods.astralsorcery.Altar.addAttunmentAltarRecipe("goodvsevil:documents/curse/minecraft/instances/goodvsevil/scripts/good", <ebwizardry:novice_fire_wand>, 250, 150, [
+            mods.astralsorcery.Altar.addAttunementAltarRecipe("goodvsevil:documents/curse/minecraft/instances/goodvsevil/scripts/good", <ebwizardry:novice_fire_wand>, 250, 150, [
             null, null, null,
             null, <ebwizardry:magic_wand>, null,
             null, null, null,
              <ebwizardry:magic_crystal:1>, <ebwizardry:magic_crystal:1>, <ebwizardry:magic_crystal:1>, <ebwizardry:magic_crystal:1>]);
            
-            mods.astralsorcery.Altar.addAttunmentAltarRecipe("goodvsevil:documents/curse/minecraft/instances/goodvsevil/scripts/good", <ebwizardry:novice_ice_wand>, 250, 150, [
+            mods.astralsorcery.Altar.addAttunementAltarRecipe("goodvsevil:documents/curse/minecraft/instances/goodvsevil/scripts/good", <ebwizardry:novice_ice_wand>, 250, 150, [
             null, null, null,
             null, <ebwizardry:magic_wand>, null,
             null, null, null,
             <ebwizardry:magic_crystal:2>, <ebwizardry:magic_crystal:2>, <ebwizardry:magic_crystal:2>, <ebwizardry:magic_crystal:2>]);
 
-            mods.astralsorcery.Altar.addAttunmentAltarRecipe("goodvsevil:documents/curse/minecraft/instances/goodvsevil/scripts/good", <ebwizardry:novice_lightning_wand>, 250, 150, [
+            mods.astralsorcery.Altar.addAttunementAltarRecipe("goodvsevil:documents/curse/minecraft/instances/goodvsevil/scripts/good", <ebwizardry:novice_lightning_wand>, 250, 150, [
             null, null, null,
             null, <ebwizardry:magic_wand>, null,
             null, null, null,
             <ebwizardry:magic_crystal:3>, <ebwizardry:magic_crystal:3>, <ebwizardry:magic_crystal:3>, <ebwizardry:magic_crystal:3>]);
 
-            mods.astralsorcery.Altar.addAttunmentAltarRecipe("goodvsevil:documents/curse/minecraft/instances/goodvsevil/scripts/good", <ebwizardry:novice_necromancy_wand>, 250, 150, [
+            mods.astralsorcery.Altar.addAttunementAltarRecipe("goodvsevil:documents/curse/minecraft/instances/goodvsevil/scripts/good", <ebwizardry:novice_necromancy_wand>, 250, 150, [
             null, null, null,
             null, <ebwizardry:magic_wand>, null,
             null, null, null,
             <ebwizardry:magic_crystal:4>, <ebwizardry:magic_crystal:4>, <ebwizardry:magic_crystal:4>, <ebwizardry:magic_crystal:4>]);
             
-            mods.astralsorcery.Altar.addAttunmentAltarRecipe("goodvsevil:documents/curse/minecraft/instances/goodvsevil/scripts/good", <ebwizardry:novice_earth_wand>, 250, 150, [
+            mods.astralsorcery.Altar.addAttunementAltarRecipe("goodvsevil:documents/curse/minecraft/instances/goodvsevil/scripts/good", <ebwizardry:novice_earth_wand>, 250, 150, [
             null, null, null,
             null, <ebwizardry:magic_wand>, null,
             null, null, null,
             <ebwizardry:magic_crystal:5>, <ebwizardry:magic_crystal:5>, <ebwizardry:magic_crystal:5>, <ebwizardry:magic_crystal:5>]);
 
-            mods.astralsorcery.Altar.addAttunmentAltarRecipe("goodvsevil:documents/curse/minecraft/instances/goodvsevil/scripts/good", <ebwizardry:novice_sorcery_wand>, 250, 150, [
+            mods.astralsorcery.Altar.addAttunementAltarRecipe("goodvsevil:documents/curse/minecraft/instances/goodvsevil/scripts/good", <ebwizardry:novice_sorcery_wand>, 250, 150, [
             null, null, null,
             null, <ebwizardry:magic_wand>, null,
             null, null, null,
             <ebwizardry:magic_crystal:6>, <ebwizardry:magic_crystal:6>, <ebwizardry:magic_crystal:6>, <ebwizardry:magic_crystal:6>]);#
             
-            mods.astralsorcery.Altar.addAttunmentAltarRecipe("goodvsevil:documents/curse/minecraft/instances/goodvsevil/scripts/good", <ebwizardry:novice_healing_wand>, 250, 150, [
+            mods.astralsorcery.Altar.addAttunementAltarRecipe("goodvsevil:documents/curse/minecraft/instances/goodvsevil/scripts/good", <ebwizardry:novice_healing_wand>, 250, 150, [
             null, null, null,
             null, <ebwizardry:magic_wand>, null,
             null, null, null,
@@ -62,69 +62,69 @@ mods.astralsorcery.Altar.addDiscoveryAltarRecipe("goodvsevil:documents/curse/min
 
 //arcane swords
 
-            mods.astralsorcery.Altar.addAttunmentAltarRecipe("goodvsevil:documents/curse/minecraft/instances/goodvsevil/scripts/good", <arcane_essentials:master_fire_sword>, 250, 150, [
+            mods.astralsorcery.Altar.addAttunementAltarRecipe("goodvsevil:documents/curse/minecraft/instances/goodvsevil/scripts/good", <arcane_essentials:master_fire_sword>, 250, 150, [
             null, null, null,
             null, <aether_legacy:gravitite_sword>, null,
             null, null, null,
              <ebwizardry:magic_crystal:1>, <ebwizardry:magic_crystal:1>, <ebwizardry:magic_crystal:1>, <ebwizardry:magic_crystal:1>]);
            
-            mods.astralsorcery.Altar.addAttunmentAltarRecipe("goodvsevil:documents/curse/minecraft/instances/goodvsevil/scripts/good", <arcane_essentials:master_ice_sword>, 250, 150, [
+            mods.astralsorcery.Altar.addAttunementAltarRecipe("goodvsevil:documents/curse/minecraft/instances/goodvsevil/scripts/good", <arcane_essentials:master_ice_sword>, 250, 150, [
             null, null, null,
             null, <aether_legacy:gravitite_sword>, null,
             null, null, null,
             <ebwizardry:magic_crystal:2>, <ebwizardry:magic_crystal:2>, <ebwizardry:magic_crystal:2>, <ebwizardry:magic_crystal:2>]);
 
-            mods.astralsorcery.Altar.addAttunmentAltarRecipe("goodvsevil:documents/curse/minecraft/instances/goodvsevil/scripts/good", <arcane_essentials:master_lightning_sword>, 250, 150, [
+            mods.astralsorcery.Altar.addAttunementAltarRecipe("goodvsevil:documents/curse/minecraft/instances/goodvsevil/scripts/good", <arcane_essentials:master_lightning_sword>, 250, 150, [
             null, null, null,
             null, <aether_legacy:gravitite_sword>, null,
             null, null, null,
             <ebwizardry:magic_crystal:3>, <ebwizardry:magic_crystal:3>, <ebwizardry:magic_crystal:3>, <ebwizardry:magic_crystal:3>]);
 
-            mods.astralsorcery.Altar.addAttunmentAltarRecipe("goodvsevil:documents/curse/minecraft/instances/goodvsevil/scripts/good", <arcane_essentials:master_necromancy_sword>, 250, 150, [
+            mods.astralsorcery.Altar.addAttunementAltarRecipe("goodvsevil:documents/curse/minecraft/instances/goodvsevil/scripts/good", <arcane_essentials:master_necromancy_sword>, 250, 150, [
             null, null, null,
             null, <aether_legacy:gravitite_sword>, null,
             null, null, null,
             <ebwizardry:magic_crystal:4>, <ebwizardry:magic_crystal:4>, <ebwizardry:magic_crystal:4>, <ebwizardry:magic_crystal:4>]);
             
-            mods.astralsorcery.Altar.addAttunmentAltarRecipe("goodvsevil:documents/curse/minecraft/instances/goodvsevil/scripts/good", <arcane_essentials:master_nature_sword>, 250, 150, [
+            mods.astralsorcery.Altar.addAttunementAltarRecipe("goodvsevil:documents/curse/minecraft/instances/goodvsevil/scripts/good", <arcane_essentials:master_nature_sword>, 250, 150, [
             null, null, null,
             null, <aether_legacy:gravitite_sword>, null,
             null, null, null,
             <ebwizardry:magic_crystal:5>, <ebwizardry:magic_crystal:5>, <ebwizardry:magic_crystal:5>, <ebwizardry:magic_crystal:5>]);
 
-            mods.astralsorcery.Altar.addAttunmentAltarRecipe("goodvsevil:documents/curse/minecraft/instances/goodvsevil/scripts/good", <arcane_essentials:master_sorcery_sword>, 250, 150, [
+            mods.astralsorcery.Altar.addAttunementAltarRecipe("goodvsevil:documents/curse/minecraft/instances/goodvsevil/scripts/good", <arcane_essentials:master_sorcery_sword>, 250, 150, [
             null, null, null,
             null, <aether_legacy:gravitite_sword>, null,
             null, null, null,
             <ebwizardry:magic_crystal:6>, <ebwizardry:magic_crystal:6>, <ebwizardry:magic_crystal:6>, <ebwizardry:magic_crystal:6>]);#
             
-            mods.astralsorcery.Altar.addAttunmentAltarRecipe("goodvsevil:documents/curse/minecraft/instances/goodvsevil/scripts/good", <arcane_essentials:master_healing_sword>, 250, 150, [
+            mods.astralsorcery.Altar.addAttunementAltarRecipe("goodvsevil:documents/curse/minecraft/instances/goodvsevil/scripts/good", <arcane_essentials:master_healing_sword>, 250, 150, [
             null, null, null,
             null, <aether_legacy:gravitite_sword>, null,
             null, null, null,
             <ebwizardry:magic_crystal:7>, <ebwizardry:magic_crystal:7>, <ebwizardry:magic_crystal:7>, <ebwizardry:magic_crystal:7>]);
 
     //Botania Tweaken
-            mods.astralsorcery.Altar.addAttunmentAltarRecipe("goodvsevil:documents/curse/minecraft/instances/goodvsevil/scripts/good", <botania:runealtar>, 250, 150, [
+            mods.astralsorcery.Altar.addAttunementAltarRecipe("goodvsevil:documents/curse/minecraft/instances/goodvsevil/scripts/good", <botania:runealtar>, 250, 150, [
             <botania:manaresource:2>, <botania:manaresource:1>, <botania:manaresource:16>,
             <botania:manaresource>, <botania:pool>, <botania:manaresource>,
             <botania:manaresource:16>, <botania:manaresource:1>, <botania:manaresource:2>,
             <botania:manatablet>.withTag({mana: 500000}), <botania:manatablet>.withTag({mana: 500000}), <botania:manatablet>.withTag({mana: 500000}), <botania:manatablet>.withTag({mana: 500000})]);
 
-            mods.astralsorcery.Altar.addAttunmentAltarRecipe("goodvsevil:documents/curse/minecraft/instances/goodvsevil/scripts/good", <botania:pylon>, 250, 150, [
+            mods.astralsorcery.Altar.addAttunementAltarRecipe("goodvsevil:documents/curse/minecraft/instances/goodvsevil/scripts/good", <botania:pylon>, 250, 150, [
             <ebwizardry:magic_crystal:3>, <ebwizardry:magic_crystal:3>, <ebwizardry:magic_crystal:3>,
             <ebwizardry:magic_crystal:2>, <astralsorcery:itemrockcrystalsimple>, <ebwizardry:magic_crystal:3>,
             <ebwizardry:magic_crystal:2>, <ebwizardry:magic_crystal:2>, <ebwizardry:magic_crystal:2>,
             <botania:manaresource:2>, <botania:manaresource:16>, <botania:manaresource>, <botania:manaresource:1>]);
 
-            mods.astralsorcery.Altar.addAttunmentAltarRecipe("goodvsevil:documents/curse/minecraft/instances/goodvsevil/scripts/good", <botania:pylon:1>, 250, 150, [
+            mods.astralsorcery.Altar.addAttunementAltarRecipe("goodvsevil:documents/curse/minecraft/instances/goodvsevil/scripts/good", <botania:pylon:1>, 250, 150, [
             null, <botania:manaresource:4>, null,
             <botania:manaresource:4>, <botania:pylon>, <botania:manaresource:4>,
             null, <botania:manaresource:4>, null,
             <botania:storage:1>, <botania:storage:1>, <botania:storage:1>, <botania:storage:1>]);
 
     //Upgrade zu tier 3
-            mods.astralsorcery.Altar.addAttunmentAltarRecipe("goodvsevil:documents/curse/minecraft/instances/goodvsevil/scripts/good", <astralsorcery:blockaltar:2>, 250, 150, [
+            mods.astralsorcery.Altar.addAttunementAltarRecipe("goodvsevil:documents/curse/minecraft/instances/goodvsevil/scripts/good", <astralsorcery:blockaltar:2>, 250, 150, [
             <botania:rune:3>, <botania:pylon>, <botania:rune>,
             <botania:pylon>, <botania:pylon:1>, <botania:pylon>,
             <botania:rune:2>, <botania:pylon>, <botania:rune:1>,

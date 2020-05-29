@@ -12,6 +12,8 @@
 
 // ================================================================================
 //#MARKER REMOVE
+recipes.remove(<abyssalcraft:transmutator>);
+recipes.remove(<abyssalcraft:drainstaff>);
 recipes.remove(<bloodmagic:blood_rune:10>);
 recipes.remove(<bloodmagic:blood_rune:8>);
 recipes.remove(<bloodmagic:blood_rune:9>);
