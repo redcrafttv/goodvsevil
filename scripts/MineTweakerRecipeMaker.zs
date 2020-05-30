@@ -12,6 +12,9 @@
 
 // ================================================================================
 //#MARKER REMOVE
+recipes.remove(<bloodmagic:soul_snare>);
+recipes.remove(<bloodmagic:ritual_controller>);
+recipes.remove(<abyssalcraft:odb>);
 recipes.remove(<abyssalcraft:transmutator>);
 recipes.remove(<abyssalcraft:drainstaff>);
 recipes.remove(<bloodmagic:blood_rune:10>);

@@ -33,4 +33,7 @@ mods.bloodmagic.TartaricForge.addRecipe(<abyssalcraft:necronomicon_cor>.withTag(
 200,200);
 //remove
 mods.bloodmagic.TartaricForge.removeRecipe(
-[<bloodmagic:component:8>,<forge:bucketfilled>.withTag({FluidName: "lifeessence", Amount: 1000}), <minecraft:iron_ingot>, <bloodarsenal:base_item:2>]);
+[<bloodmagic:component:8>, <forge:bucketfilled>.withTag({FluidName: "lifeessence", Amount: 1000}), <minecraft:iron_ingot>, <bloodarsenal:base_item:2>]);
+
+mods.bloodmagic.TartaricForge.removeRecipe(
+[<minecraft:gold_nugget>, <minecraft:gunpowder>, <minecraft:glowstone_dust>, <minecraft:redstone>]);

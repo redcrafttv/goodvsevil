@@ -1,7 +1,7 @@
 # recipes Registry Analysis
 
 This file contains information about how mods are using the recipes registry.
-67102503 out of 67108863 ids available. 99.991% of this registry is still
+67102508 out of 67108863 ids available. 99.991% of this registry is still
 available. This data is anonymous, and is not automatically submitted to any
 online service.
 
@@ -11,7 +11,7 @@ online service.
 | harvestcraft          | 1285    | 0.002%      |
 | botania               | 994     | 0.001%      |
 | minecraft             | 442     | <0.001%     |
-| abyssalcraft          | 433     | <0.001%     |
+| abyssalcraft          | 431     | <0.001%     |
 | thebetweenlands       | 369     | <0.001%     |
 | spartanweaponry       | 359     | <0.001%     |
 | erebus                | 289     | <0.001%     |
@@ -21,7 +21,7 @@ online service.
 | spartanfire           | 200     | <0.001%     |
 | xreliquary            | 179     | <0.001%     |
 | evilcraft             | 144     | <0.001%     |
-| bloodmagic            | 133     | <0.001%     |
+| bloodmagic            | 130     | <0.001%     |
 | aether_legacy         | 89      | <0.001%     |
 | spartanweaponryarcana | 76      | <0.001%     |
 | mysticalworld         | 74      | <0.001%     |

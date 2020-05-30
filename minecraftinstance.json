@@ -29,7 +29,7 @@
   "isUnlocked": true,
   "javaArgsOverride": null,
   "javaDirOverride": null,
-  "lastPlayed": "2020-05-29T14:53:12.0218789Z",
+  "lastPlayed": "2020-05-30T15:46:23.4811635Z",
   "manifest": null,
   "fileDate": "0001-01-01T00:00:00",
   "installedModpack": null,
@@ -55,7 +55,7 @@
       "status": 1,
       "timestamp": "2020-05-03T11:11:58.9038148Z",
       "lastWriteTimeUtc": "2020-01-09T18:41:01.926211Z",
-      "queryTimestamp": "2020-05-18T17:11:48.3853168Z",
+      "queryTimestamp": "2020-05-30T13:39:04.1875996Z",
       "fileCount": 1,
       "fileSize": 349854
     },
@@ -70,7 +70,7 @@
       "status": 1,
       "timestamp": "2020-05-03T11:11:58.6704392Z",
       "lastWriteTimeUtc": "2020-01-09T19:31:16.8184838Z",
-      "queryTimestamp": "2020-05-18T17:11:48.3863139Z",
+      "queryTimestamp": "2020-05-30T13:39:04.1875996Z",
       "fileCount": 1,
       "fileSize": 14129163
     },
@@ -85,7 +85,7 @@
       "status": 1,
       "timestamp": "2020-05-03T11:12:00.5078515Z",
       "lastWriteTimeUtc": "2020-01-28T17:52:11.2450683Z",
-      "queryTimestamp": "2020-05-18T17:11:48.3863139Z",
+      "queryTimestamp": "2020-05-30T13:39:04.1875996Z",
       "fileCount": 1,
       "fileSize": 16612
     },
@@ -100,7 +100,7 @@
       "status": 1,
       "timestamp": "2020-05-03T11:12:00.2196223Z",
       "lastWriteTimeUtc": "2020-01-09T18:45:06.8747194Z",
-      "queryTimestamp": "2020-05-18T17:11:48.3863139Z",
+      "queryTimestamp": "2020-05-30T13:39:04.1885957Z",
       "fileCount": 1,
       "fileSize": 2957006
     },
@@ -115,7 +115,7 @@
       "status": 1,
       "timestamp": "2020-05-03T11:12:00.5367737Z",
       "lastWriteTimeUtc": "2020-01-09T18:49:27.8524199Z",
-      "queryTimestamp": "2020-05-18T17:11:48.3863139Z",
+      "queryTimestamp": "2020-05-30T13:39:04.1885957Z",
       "fileCount": 1,
       "fileSize": 89378206
     },
@@ -130,7 +130,7 @@
       "status": 1,
       "timestamp": "2020-05-03T11:12:00.5118412Z",
       "lastWriteTimeUtc": "2020-01-09T19:26:37.9355272Z",
-      "queryTimestamp": "2020-05-18T17:11:48.3863139Z",
+      "queryTimestamp": "2020-05-30T13:39:04.1885957Z",
       "fileCount": 1,
       "fileSize": 1465641
     },
@@ -145,7 +145,7 @@
       "status": 1,
       "timestamp": "2020-05-03T11:11:59.2299791Z",
       "lastWriteTimeUtc": "2020-01-16T17:49:46.7471149Z",
-      "queryTimestamp": "2020-05-18T17:11:48.3873109Z",
+      "queryTimestamp": "2020-05-30T13:39:04.1885957Z",
       "fileCount": 1,
       "fileSize": 704330
     },
@@ -160,7 +160,7 @@
       "status": 1,
       "timestamp": "2020-05-03T11:11:59.2429332Z",
       "lastWriteTimeUtc": "2020-01-28T17:52:11.2311059Z",
-      "queryTimestamp": "2020-05-18T17:11:48.3873109Z",
+      "queryTimestamp": "2020-05-30T13:39:04.189593Z",
       "fileCount": 1,
       "fileSize": 91121
     },
@@ -175,7 +175,7 @@
       "status": 1,
       "timestamp": "2020-05-03T11:12:00.4699531Z",
       "lastWriteTimeUtc": "2020-01-09T18:31:40.8145645Z",
-      "queryTimestamp": "2020-05-18T17:11:48.3873109Z",
+      "queryTimestamp": "2020-05-30T13:39:04.189593Z",
       "fileCount": 1,
       "fileSize": 12684
     },
@@ -190,7 +190,7 @@
       "status": 1,
       "timestamp": "2020-05-03T11:11:59.069397Z",
       "lastWriteTimeUtc": "2020-01-09T18:37:41.9880983Z",
-      "queryTimestamp": "2020-05-18T17:11:48.3873109Z",
+      "queryTimestamp": "2020-05-30T13:39:04.189593Z",
       "fileCount": 1,
       "fileSize": 7208594
     },
@@ -205,7 +205,7 @@
       "status": 1,
       "timestamp": "2020-05-03T11:12:00.5198195Z",
       "lastWriteTimeUtc": "2020-01-09T19:22:29.0585132Z",
-      "queryTimestamp": "2020-05-18T17:11:48.3873109Z",
+      "queryTimestamp": "2020-05-30T13:39:04.189593Z",
       "fileCount": 1,
       "fileSize": 25313
     },
@@ -220,7 +220,7 @@
       "status": 1,
       "timestamp": "2020-05-03T11:12:00.500871Z",
       "lastWriteTimeUtc": "2020-01-11T16:24:58.4868697Z",
-      "queryTimestamp": "2020-05-18T17:11:48.3883085Z",
+      "queryTimestamp": "2020-05-30T13:39:04.1905915Z",
       "fileCount": 1,
       "fileSize": 43662
     },
@@ -235,7 +235,7 @@
       "status": 1,
       "timestamp": "2020-05-03T11:11:58.5736981Z",
       "lastWriteTimeUtc": "2020-01-09T18:44:38.7840474Z",
-      "queryTimestamp": "2020-05-18T17:11:48.3883085Z",
+      "queryTimestamp": "2020-05-30T13:39:04.1905915Z",
       "fileCount": 1,
       "fileSize": 464673
     },
@@ -250,7 +250,7 @@
       "status": 1,
       "timestamp": "2020-05-03T11:12:00.2475482Z",
       "lastWriteTimeUtc": "2020-01-11T16:16:05.0651249Z",
-      "queryTimestamp": "2020-05-18T17:11:48.3883085Z",
+      "queryTimestamp": "2020-05-30T13:39:04.1905915Z",
       "fileCount": 1,
       "fileSize": 248725
     },
@@ -265,7 +265,7 @@
       "status": 1,
       "timestamp": "2020-05-03T11:12:00.4190895Z",
       "lastWriteTimeUtc": "2020-01-09T18:49:30.8703045Z",
-      "queryTimestamp": "2020-05-18T17:11:48.3883085Z",
+      "queryTimestamp": "2020-05-30T13:39:04.1905915Z",
       "fileCount": 1,
       "fileSize": 884837
     },
@@ -280,7 +280,7 @@
       "status": 1,
       "timestamp": "2020-05-03T11:12:00.242561Z",
       "lastWriteTimeUtc": "2020-01-08T18:59:42Z",
-      "queryTimestamp": "2020-05-18T17:11:48.3883085Z",
+      "queryTimestamp": "2020-05-30T13:39:04.2135309Z",
       "fileCount": 1,
       "fileSize": 424109
     },
@@ -295,7 +295,7 @@
       "status": 1,
       "timestamp": "2020-05-03T11:12:00.2355801Z",
       "lastWriteTimeUtc": "2020-01-08T18:59:42Z",
-      "queryTimestamp": "2020-05-18T17:11:48.3893066Z",
+      "queryTimestamp": "2020-05-30T13:39:04.2135309Z",
       "fileCount": 1,
       "fileSize": 43764
     },
@@ -310,7 +310,7 @@
       "status": 1,
       "timestamp": "2020-05-03T11:11:59.1830927Z",
       "lastWriteTimeUtc": "2020-01-08T19:05:05.499902Z",
-      "queryTimestamp": "2020-05-18T17:11:48.3893066Z",
+      "queryTimestamp": "2020-05-30T13:39:04.214527Z",
       "fileCount": 1,
       "fileSize": 4754821
     },
@@ -325,7 +325,7 @@
       "status": 1,
       "timestamp": "2020-05-03T11:12:00.4081189Z",
       "lastWriteTimeUtc": "2020-01-08T19:07:55.1920778Z",
-      "queryTimestamp": "2020-05-18T17:11:48.3893066Z",
+      "queryTimestamp": "2020-05-30T13:39:04.214527Z",
       "fileCount": 1,
       "fileSize": 956692
     },
@@ -340,7 +340,7 @@
       "status": 1,
       "timestamp": "2020-05-03T11:12:00.3662306Z",
       "lastWriteTimeUtc": "2020-01-22T19:41:35.165859Z",
-      "queryTimestamp": "2020-05-18T17:11:48.3893066Z",
+      "queryTimestamp": "2020-05-30T13:39:04.214527Z",
       "fileCount": 1,
       "fileSize": 7296520
     },
@@ -355,7 +355,7 @@
       "status": 1,
       "timestamp": "2020-05-19T16:50:39.8668172Z",
       "lastWriteTimeUtc": "2020-05-18T17:39:46.3323673Z",
-      "queryTimestamp": "2020-05-19T16:50:41.8418317Z",
+      "queryTimestamp": "2020-05-30T13:39:04.214527Z",
       "fileCount": 1,
       "fileSize": 1321567
     },
@@ -370,7 +370,7 @@
       "status": 1,
       "timestamp": "2020-05-03T11:11:59.2070283Z",
       "lastWriteTimeUtc": "2020-01-08T19:05:06.8607716Z",
-      "queryTimestamp": "2020-05-18T17:11:48.3893066Z",
+      "queryTimestamp": "2020-05-30T13:39:04.214527Z",
       "fileCount": 1,
       "fileSize": 737407
     },
@@ -385,7 +385,7 @@
       "status": 1,
       "timestamp": "2020-05-03T11:12:00.4699531Z",
       "lastWriteTimeUtc": "2020-01-09T18:53:55.8019586Z",
-      "queryTimestamp": "2020-05-18T17:11:48.3903045Z",
+      "queryTimestamp": "2020-05-30T13:39:04.2155237Z",
       "fileCount": 1,
       "fileSize": 4907780
     },
@@ -400,7 +400,7 @@
       "status": 1,
       "timestamp": "2020-05-03T11:12:00.2375749Z",
       "lastWriteTimeUtc": "2020-01-08T18:59:41Z",
-      "queryTimestamp": "2020-05-18T17:11:48.3903045Z",
+      "queryTimestamp": "2020-05-30T13:39:04.2155237Z",
       "fileCount": 1,
       "fileSize": 934358
     },
@@ -415,7 +415,7 @@
       "status": 1,
       "timestamp": "2020-05-03T11:12:00.2355801Z",
       "lastWriteTimeUtc": "2020-01-08T19:02:49Z",
-      "queryTimestamp": "2020-05-18T17:11:48.3903045Z",
+      "queryTimestamp": "2020-05-30T13:39:04.2155237Z",
       "fileCount": 1,
       "fileSize": 272574
     },
@@ -430,7 +430,7 @@
       "status": 1,
       "timestamp": "2020-05-03T11:11:59.0609062Z",
       "lastWriteTimeUtc": "2020-01-09T18:39:26.7397004Z",
-      "queryTimestamp": "2020-05-18T17:11:48.3903045Z",
+      "queryTimestamp": "2020-05-30T13:39:04.2155237Z",
       "fileCount": 1,
       "fileSize": 108450
     },
@@ -445,7 +445,7 @@
       "status": 1,
       "timestamp": "2020-05-03T11:11:59.0654198Z",
       "lastWriteTimeUtc": "2020-01-09T18:39:27.7176212Z",
-      "queryTimestamp": "2020-05-18T17:11:48.3903045Z",
+      "queryTimestamp": "2020-05-30T13:39:04.2155237Z",
       "fileCount": 1,
       "fileSize": 665308
     },
@@ -460,7 +460,7 @@
       "status": 1,
       "timestamp": "2020-05-03T11:12:00.2595163Z",
       "lastWriteTimeUtc": "2020-01-09T18:49:46.2051612Z",
-      "queryTimestamp": "2020-05-18T17:11:48.3913009Z",
+      "queryTimestamp": "2020-05-30T13:39:04.2155237Z",
       "fileCount": 1,
       "fileSize": 19002941
     },
@@ -475,7 +475,7 @@
       "status": 1,
       "timestamp": "2020-05-03T11:12:00.4998729Z",
       "lastWriteTimeUtc": "2020-01-18T12:23:01.1485122Z",
-      "queryTimestamp": "2020-05-18T17:11:48.3913009Z",
+      "queryTimestamp": "2020-05-30T13:39:04.216521Z",
       "fileCount": 1,
       "fileSize": 17598
     },
@@ -490,7 +490,7 @@
       "status": 1,
       "timestamp": "2020-05-03T11:12:00.2555264Z",
       "lastWriteTimeUtc": "2020-01-10T16:22:46.8246802Z",
-      "queryTimestamp": "2020-05-18T17:11:48.3913009Z",
+      "queryTimestamp": "2020-05-30T13:39:04.216521Z",
       "fileCount": 1,
       "fileSize": 453778
     },
@@ -505,7 +505,7 @@
       "status": 1,
       "timestamp": "2020-05-18T17:11:45.1231858Z",
       "lastWriteTimeUtc": "2020-05-18T17:00:29.6175072Z",
-      "queryTimestamp": "2020-05-18T17:11:48.3913009Z",
+      "queryTimestamp": "2020-05-30T13:39:04.216521Z",
       "fileCount": 1,
       "fileSize": 78422
     },
@@ -520,7 +520,7 @@
       "status": 1,
       "timestamp": "2020-05-03T11:11:59.1810977Z",
       "lastWriteTimeUtc": "2020-01-09T19:24:30.0204272Z",
-      "queryTimestamp": "2020-05-18T17:11:48.3913009Z",
+      "queryTimestamp": "2020-05-30T13:39:04.216521Z",
       "fileCount": 1,
       "fileSize": 255295
     },
@@ -535,22 +535,9 @@
       "status": 1,
       "timestamp": "2020-05-03T11:12:01.0891185Z",
       "lastWriteTimeUtc": "2020-01-09T19:35:01.4692045Z",
-      "queryTimestamp": "2020-05-18T17:11:48.3922987Z",
+      "queryTimestamp": "2020-05-30T13:39:04.216521Z",
       "fileCount": 1,
       "fileSize": 28721750
-    },
-    {
-      "folderName": "good",
-      "fingerprint": 0,
-      "fileDateHash": 1633280522,
-      "sectionID": 10,
-      "individualFingerprints": null,
-      "status": 4,
-      "timestamp": "2020-05-19T16:50:39.9146901Z",
-      "lastWriteTimeUtc": "2020-05-19T16:47:28.033719Z",
-      "queryTimestamp": "0001-01-01T00:00:00",
-      "fileCount": 24,
-      "fileSize": 0
     },
     {
       "folderName": "SereneSeasons-1.12.2-1.2.18-universal.jar",
@@ -563,7 +550,7 @@
       "status": 1,
       "timestamp": "2020-05-03T11:12:00.5208177Z",
       "lastWriteTimeUtc": "2020-01-09T18:33:12.9797611Z",
-      "queryTimestamp": "2020-05-18T17:11:48.3922987Z",
+      "queryTimestamp": "2020-05-30T13:39:04.2175183Z",
       "fileCount": 1,
       "fileSize": 185187
     },
@@ -578,7 +565,7 @@
       "status": 1,
       "timestamp": "2020-05-03T11:12:00.500871Z",
       "lastWriteTimeUtc": "2020-01-22T19:41:21.3976616Z",
-      "queryTimestamp": "2020-05-18T17:11:48.3922987Z",
+      "queryTimestamp": "2020-05-30T13:39:04.2175183Z",
       "fileCount": 1,
       "fileSize": 1247278
     },
@@ -593,7 +580,7 @@
       "status": 1,
       "timestamp": "2020-05-03T11:12:01.02973Z",
       "lastWriteTimeUtc": "2020-01-22T19:41:15.5094016Z",
-      "queryTimestamp": "2020-05-18T17:11:48.3922987Z",
+      "queryTimestamp": "2020-05-30T13:39:04.2175183Z",
       "fileCount": 1,
       "fileSize": 7602172
     },
@@ -608,7 +595,7 @@
       "status": 1,
       "timestamp": "2020-05-03T11:11:58.90581Z",
       "lastWriteTimeUtc": "2020-01-08T18:58:18.4203276Z",
-      "queryTimestamp": "2020-05-18T17:11:48.3932953Z",
+      "queryTimestamp": "2020-05-30T13:39:04.2175183Z",
       "fileCount": 1,
       "fileSize": 1239580
     },
@@ -619,7 +606,7 @@
       "sectionID": 10,
       "individualFingerprints": null,
       "status": 3,
-      "timestamp": "2020-05-19T16:50:40.1769876Z",
+      "timestamp": "2020-05-30T13:39:03.1309805Z",
       "lastWriteTimeUtc": "2020-05-03T11:12:09.327201Z",
       "queryTimestamp": "0001-01-01T00:00:00",
       "fileCount": 2,
@@ -636,7 +623,7 @@
       "status": 1,
       "timestamp": "2020-05-03T11:12:00.4968829Z",
       "lastWriteTimeUtc": "2020-01-09T19:26:24.5368095Z",
-      "queryTimestamp": "2020-05-18T17:11:48.3932953Z",
+      "queryTimestamp": "2020-05-30T13:39:04.2185165Z",
       "fileCount": 1,
       "fileSize": 466243
     },
@@ -651,139 +638,9 @@
       "status": 1,
       "timestamp": "2020-05-03T11:12:00.439037Z",
       "lastWriteTimeUtc": "2020-01-09T19:26:23.6541115Z",
-      "queryTimestamp": "2020-05-18T17:11:48.3932953Z",
+      "queryTimestamp": "2020-05-30T13:39:04.2185165Z",
       "fileCount": 1,
       "fileSize": 355287
-    },
-    {
-      "folderName": "New World",
-      "fingerprint": 354885005,
-      "fileDateHash": 1226023961,
-      "sectionID": 10,
-      "individualFingerprints": [
-        209517219,
-        209517219,
-        209517219,
-        209517219,
-        209517219,
-        209517219,
-        209517219,
-        209517219,
-        209517219,
-        209517219,
-        209517219,
-        224413194,
-        283059913,
-        322988789,
-        489458212,
-        489458212,
-        489458212,
-        489458212,
-        489458212,
-        489458212,
-        489458212,
-        489458212,
-        489458212,
-        489458212,
-        500036828,
-        601817012,
-        612727197,
-        647375044,
-        758054953,
-        758054953,
-        758054953,
-        758054953,
-        758054953,
-        758054953,
-        758054953,
-        758054953,
-        758054953,
-        758054953,
-        758054953,
-        758054953,
-        816498232,
-        870906417,
-        980497593,
-        1159815875,
-        1237051392,
-        1308543920,
-        1344748117,
-        1344748117,
-        1344748117,
-        1344748117,
-        1344748117,
-        1344748117,
-        1344748117,
-        1344748117,
-        1344748117,
-        1344748117,
-        1357300992,
-        1373462027,
-        1497532023,
-        1508419976,
-        1540447798,
-        1540447798,
-        1540447798,
-        1540447798,
-        1540447798,
-        1540447798,
-        1540447798,
-        1540447798,
-        1540447798,
-        1540447798,
-        1540447798,
-        1609373743,
-        1679217585,
-        1836841487,
-        1838542949,
-        1934871902,
-        1951262889,
-        1962842392,
-        1962842392,
-        2128608841,
-        2148615989,
-        2328114230,
-        2346747118,
-        2356909514,
-        2392806285,
-        2435319556,
-        2575339579,
-        2640979324,
-        2729223129,
-        2763463119,
-        2804131522,
-        2811541431,
-        2858669314,
-        3091314152,
-        3231704530,
-        3246121379,
-        3579884940,
-        3692851951,
-        3759096743,
-        3786614441,
-        3804392564,
-        3835047787,
-        3852584312,
-        3954123295,
-        3954123295,
-        4012982987,
-        4155407267,
-        4186662986,
-        4186662986,
-        4186662986,
-        4186662986,
-        4192588768,
-        4213751341,
-        4213863462,
-        4228808913,
-        4272588933
-      ],
-      "status": 1,
-      "timestamp": "2020-05-19T16:50:40.1939632Z",
-      "lastWriteTimeUtc": "2020-05-18T18:13:43.595028Z",
-      "queryTimestamp": "2020-05-19T16:50:41.8498305Z",
-      "fileCount": 24,
-      "fileSize": 0
     },
     {
       "folderName": "BiomeSpecificDungeons-1.12.2-1.0.3.jar",
@@ -796,7 +653,7 @@
       "status": 1,
       "timestamp": "2020-05-03T11:11:59.0619036Z",
       "lastWriteTimeUtc": "2020-01-11T16:45:18.503014Z",
-      "queryTimestamp": "2020-05-18T17:11:48.3992804Z",
+      "queryTimestamp": "2020-05-30T13:39:04.2185165Z",
       "fileCount": 1,
       "fileSize": 38171
     },
@@ -811,7 +668,7 @@
       "status": 1,
       "timestamp": "2020-05-03T11:11:59.0619036Z",
       "lastWriteTimeUtc": "2020-01-11T15:58:17.7776048Z",
-      "queryTimestamp": "2020-05-18T17:11:48.3992804Z",
+      "queryTimestamp": "2020-05-30T13:39:04.2185165Z",
       "fileCount": 1,
       "fileSize": 560834
     },
@@ -826,7 +683,7 @@
       "status": 1,
       "timestamp": "2020-05-03T11:12:00.4699531Z",
       "lastWriteTimeUtc": "2020-01-11T16:27:34.3445584Z",
-      "queryTimestamp": "2020-05-18T17:11:48.3992804Z",
+      "queryTimestamp": "2020-05-30T13:39:04.2185165Z",
       "fileCount": 1,
       "fileSize": 31806
     },
@@ -841,7 +698,7 @@
       "status": 1,
       "timestamp": "2020-05-03T11:11:59.290804Z",
       "lastWriteTimeUtc": "2020-01-22T19:41:38.5727532Z",
-      "queryTimestamp": "2020-05-18T17:11:48.3992804Z",
+      "queryTimestamp": "2020-05-30T13:39:04.2195141Z",
       "fileCount": 1,
       "fileSize": 142767
     },
@@ -856,7 +713,7 @@
       "status": 1,
       "timestamp": "2020-05-03T11:11:59.2439292Z",
       "lastWriteTimeUtc": "2020-01-09T18:45:04.3040808Z",
-      "queryTimestamp": "2020-05-18T17:11:48.4002772Z",
+      "queryTimestamp": "2020-05-30T13:39:04.2195141Z",
       "fileCount": 1,
       "fileSize": 1060822
     },
@@ -871,7 +728,7 @@
       "status": 1,
       "timestamp": "2020-05-03T11:12:00.3652334Z",
       "lastWriteTimeUtc": "2020-01-11T16:37:55.6963411Z",
-      "queryTimestamp": "2020-05-18T17:11:48.4002772Z",
+      "queryTimestamp": "2020-05-30T13:39:04.2195141Z",
       "fileCount": 1,
       "fileSize": 183579
     },
@@ -886,7 +743,7 @@
       "status": 1,
       "timestamp": "2020-05-03T11:12:00.4350514Z",
       "lastWriteTimeUtc": "2020-01-11T16:34:55.5622448Z",
-      "queryTimestamp": "2020-05-18T17:11:48.4002772Z",
+      "queryTimestamp": "2020-05-30T13:39:04.2195141Z",
       "fileCount": 1,
       "fileSize": 25043
     },
@@ -901,7 +758,7 @@
       "status": 1,
       "timestamp": "2020-05-03T11:12:00.4350514Z",
       "lastWriteTimeUtc": "2020-01-09T18:34:31.5910194Z",
-      "queryTimestamp": "2020-05-18T17:11:48.4002772Z",
+      "queryTimestamp": "2020-05-30T13:39:04.2195141Z",
       "fileCount": 1,
       "fileSize": 33240
     },
@@ -916,9 +773,24 @@
       "status": 1,
       "timestamp": "2020-05-03T11:12:00.4141037Z",
       "lastWriteTimeUtc": "2020-01-11T16:25:25.7341324Z",
-      "queryTimestamp": "2020-05-18T17:11:48.4002772Z",
+      "queryTimestamp": "2020-05-30T13:39:04.2205113Z",
       "fileCount": 1,
       "fileSize": 43129
+    },
+    {
+      "folderName": "Caliper-1.12.2-1.1.44.jar",
+      "fingerprint": 3210025990,
+      "fileDateHash": 1374202509,
+      "sectionID": 8,
+      "individualFingerprints": [
+        3210025990
+      ],
+      "status": 1,
+      "timestamp": "2020-05-30T13:39:02.5191076Z",
+      "lastWriteTimeUtc": "2020-05-29T15:50:31.8074495Z",
+      "queryTimestamp": "2020-05-30T13:39:04.2205113Z",
+      "fileCount": 1,
+      "fileSize": 84159
     },
     {
       "folderName": "MTLib-3.0.6.jar",
@@ -931,7 +803,7 @@
       "status": 1,
       "timestamp": "2020-05-03T11:12:00.439037Z",
       "lastWriteTimeUtc": "2020-01-09T18:34:20.645524Z",
-      "queryTimestamp": "2020-05-18T17:11:48.4002772Z",
+      "queryTimestamp": "2020-05-30T13:39:04.2205113Z",
       "fileCount": 1,
       "fileSize": 30002
     },
@@ -946,7 +818,7 @@
       "status": 1,
       "timestamp": "2020-05-03T11:11:58.9197738Z",
       "lastWriteTimeUtc": "2020-01-09T19:28:32.4007215Z",
-      "queryTimestamp": "2020-05-18T17:11:48.4012743Z",
+      "queryTimestamp": "2020-05-30T13:39:04.2205113Z",
       "fileCount": 1,
       "fileSize": 24973981
     },
@@ -961,7 +833,7 @@
       "status": 1,
       "timestamp": "2020-05-03T11:12:00.415102Z",
       "lastWriteTimeUtc": "2020-01-08T18:57:35.8174952Z",
-      "queryTimestamp": "2020-05-18T17:11:48.4012743Z",
+      "queryTimestamp": "2020-05-30T13:39:04.2205113Z",
       "fileCount": 1,
       "fileSize": 651473
     },
@@ -976,7 +848,7 @@
       "status": 1,
       "timestamp": "2020-05-03T11:11:59.2419351Z",
       "lastWriteTimeUtc": "2020-01-08T19:05:03.6165345Z",
-      "queryTimestamp": "2020-05-18T17:11:48.4012743Z",
+      "queryTimestamp": "2020-05-30T13:39:04.2215092Z",
       "fileCount": 1,
       "fileSize": 199047
     },
@@ -991,7 +863,7 @@
       "status": 1,
       "timestamp": "2020-05-03T11:11:58.668446Z",
       "lastWriteTimeUtc": "2020-01-09T19:31:18.2781162Z",
-      "queryTimestamp": "2020-05-18T17:11:48.4012743Z",
+      "queryTimestamp": "2020-05-30T13:39:04.2215092Z",
       "fileCount": 1,
       "fileSize": 248923
     },
@@ -1006,7 +878,7 @@
       "status": 1,
       "timestamp": "2020-05-03T11:12:00.528796Z",
       "lastWriteTimeUtc": "2020-01-09T18:49:47.8642961Z",
-      "queryTimestamp": "2020-05-18T17:11:48.4012743Z",
+      "queryTimestamp": "2020-05-30T13:39:04.2215092Z",
       "fileCount": 1,
       "fileSize": 937558
     },
@@ -1021,7 +893,7 @@
       "status": 1,
       "timestamp": "2020-05-03T11:11:59.1053008Z",
       "lastWriteTimeUtc": "2020-01-09T18:54:31.9120136Z",
-      "queryTimestamp": "2020-05-18T17:11:48.402272Z",
+      "queryTimestamp": "2020-05-30T13:39:04.2215092Z",
       "fileCount": 1,
       "fileSize": 47505
     },
@@ -1036,7 +908,7 @@
       "status": 1,
       "timestamp": "2020-05-03T11:11:58.6624603Z",
       "lastWriteTimeUtc": "2020-01-09T19:31:26.8959801Z",
-      "queryTimestamp": "2020-05-18T17:11:48.402272Z",
+      "queryTimestamp": "2020-05-30T13:39:04.2225075Z",
       "fileCount": 1,
       "fileSize": 897780
     },
@@ -1051,7 +923,7 @@
       "status": 1,
       "timestamp": "2020-05-03T11:11:59.1082926Z",
       "lastWriteTimeUtc": "2020-01-09T19:24:28.2289381Z",
-      "queryTimestamp": "2020-05-18T17:11:48.402272Z",
+      "queryTimestamp": "2020-05-30T13:39:04.2225075Z",
       "fileCount": 1,
       "fileSize": 13814617
     },
@@ -1066,7 +938,7 @@
       "status": 1,
       "timestamp": "2020-05-03T11:11:59.2499158Z",
       "lastWriteTimeUtc": "2020-01-11T16:25:30.4053489Z",
-      "queryTimestamp": "2020-05-18T17:11:48.402272Z",
+      "queryTimestamp": "2020-05-30T13:39:04.2225075Z",
       "fileCount": 1,
       "fileSize": 18251
     },
@@ -1081,7 +953,7 @@
       "status": 1,
       "timestamp": "2020-05-03T11:11:58.912791Z",
       "lastWriteTimeUtc": "2020-01-09T19:22:18.528781Z",
-      "queryTimestamp": "2020-05-18T17:11:48.402272Z",
+      "queryTimestamp": "2020-05-30T13:39:04.2225075Z",
       "fileCount": 1,
       "fileSize": 1192524
     },
@@ -1096,7 +968,7 @@
       "status": 1,
       "timestamp": "2020-05-03T11:12:01.2656233Z",
       "lastWriteTimeUtc": "2020-01-11T16:24:33.2822092Z",
-      "queryTimestamp": "2020-05-18T17:11:48.402272Z",
+      "queryTimestamp": "2020-05-30T13:39:04.2225075Z",
       "fileCount": 1,
       "fileSize": 18422
     },
@@ -1111,7 +983,7 @@
       "status": 1,
       "timestamp": "2020-05-03T11:11:59.2110178Z",
       "lastWriteTimeUtc": "2020-01-11T16:52:33.892676Z",
-      "queryTimestamp": "2020-05-18T17:11:48.403271Z",
+      "queryTimestamp": "2020-05-30T13:39:04.2235032Z",
       "fileCount": 1,
       "fileSize": 3346609
     },
@@ -1126,7 +998,7 @@
       "status": 1,
       "timestamp": "2020-05-03T11:12:00.4410307Z",
       "lastWriteTimeUtc": "2020-01-09T19:26:31.2043972Z",
-      "queryTimestamp": "2020-05-18T17:11:48.403271Z",
+      "queryTimestamp": "2020-05-30T13:39:04.2235032Z",
       "fileCount": 1,
       "fileSize": 2746357
     },
@@ -1141,7 +1013,7 @@
       "status": 1,
       "timestamp": "2020-05-03T11:11:59.0619036Z",
       "lastWriteTimeUtc": "2020-01-18T13:17:42.7151572Z",
-      "queryTimestamp": "2020-05-18T17:11:48.403271Z",
+      "queryTimestamp": "2020-05-30T13:39:04.2235032Z",
       "fileCount": 1,
       "fileSize": 75709
     },
@@ -1156,7 +1028,7 @@
       "status": 1,
       "timestamp": "2020-05-03T11:11:59.233958Z",
       "lastWriteTimeUtc": "2020-01-08T19:07:48.6856706Z",
-      "queryTimestamp": "2020-05-18T17:11:48.403271Z",
+      "queryTimestamp": "2020-05-30T13:39:04.2235032Z",
       "fileCount": 1,
       "fileSize": 27162
     },
@@ -1171,7 +1043,7 @@
       "status": 1,
       "timestamp": "2020-05-03T11:11:59.2549008Z",
       "lastWriteTimeUtc": "2020-01-09T19:22:16.2223785Z",
-      "queryTimestamp": "2020-05-18T17:11:48.403271Z",
+      "queryTimestamp": "2020-05-30T13:39:04.2245005Z",
       "fileCount": 1,
       "fileSize": 6648694
     },
@@ -1186,7 +1058,7 @@
       "status": 1,
       "timestamp": "2020-05-03T11:12:00.4380385Z",
       "lastWriteTimeUtc": "2020-01-08T19:08:38.2429296Z",
-      "queryTimestamp": "2020-05-18T17:11:48.403271Z",
+      "queryTimestamp": "2020-05-30T13:39:04.2245005Z",
       "fileCount": 1,
       "fileSize": 21508
     },
@@ -1201,7 +1073,7 @@
       "status": 1,
       "timestamp": "2020-05-03T11:12:10.0168679Z",
       "lastWriteTimeUtc": "2020-01-11T16:38:50.055294Z",
-      "queryTimestamp": "2020-05-18T17:11:48.4042662Z",
+      "queryTimestamp": "2020-05-30T13:39:04.2245005Z",
       "fileCount": 1,
       "fileSize": 15568845
     },
@@ -1216,7 +1088,7 @@
       "status": 1,
       "timestamp": "2020-05-03T11:12:00.2465512Z",
       "lastWriteTimeUtc": "2020-01-09T18:37:35.3093059Z",
-      "queryTimestamp": "2020-05-18T17:11:48.4042662Z",
+      "queryTimestamp": "2020-05-30T13:39:04.2245005Z",
       "fileCount": 1,
       "fileSize": 169528
     },
@@ -1231,7 +1103,7 @@
       "status": 1,
       "timestamp": "2020-05-03T11:11:58.7492295Z",
       "lastWriteTimeUtc": "2019-12-16T15:00:04.8842548Z",
-      "queryTimestamp": "2020-05-18T17:11:48.4042662Z",
+      "queryTimestamp": "2020-05-30T13:39:04.2245005Z",
       "fileCount": 1,
       "fileSize": 28006491
     },
@@ -1246,7 +1118,7 @@
       "status": 1,
       "timestamp": "2020-05-03T11:11:59.0559209Z",
       "lastWriteTimeUtc": "2020-01-11T16:37:57.3660607Z",
-      "queryTimestamp": "2020-05-18T17:11:48.4042662Z",
+      "queryTimestamp": "2020-05-30T13:39:04.2254975Z",
       "fileCount": 1,
       "fileSize": 886037
     },
@@ -1261,7 +1133,7 @@
       "status": 1,
       "timestamp": "2020-05-03T11:12:00.2445558Z",
       "lastWriteTimeUtc": "2020-01-11T16:15:50.2015686Z",
-      "queryTimestamp": "2020-05-18T17:11:48.4042662Z",
+      "queryTimestamp": "2020-05-30T13:39:04.2254975Z",
       "fileCount": 1,
       "fileSize": 56291
     },
@@ -1276,7 +1148,7 @@
       "status": 1,
       "timestamp": "2020-05-03T11:12:00.2455534Z",
       "lastWriteTimeUtc": "2020-01-22T19:22:41.5681563Z",
-      "queryTimestamp": "2020-05-18T17:11:48.4052637Z",
+      "queryTimestamp": "2020-05-30T13:39:04.2254975Z",
       "fileCount": 1,
       "fileSize": 129433
     },
@@ -1291,7 +1163,7 @@
       "status": 1,
       "timestamp": "2020-05-03T11:12:00.2485452Z",
       "lastWriteTimeUtc": "2020-01-11T16:28:37.8015658Z",
-      "queryTimestamp": "2020-05-18T17:11:48.4052637Z",
+      "queryTimestamp": "2020-05-30T13:39:04.2254975Z",
       "fileCount": 1,
       "fileSize": 13350
     },
@@ -1306,7 +1178,7 @@
       "status": 1,
       "timestamp": "2020-05-03T11:12:00.4190895Z",
       "lastWriteTimeUtc": "2020-01-08T19:02:48Z",
-      "queryTimestamp": "2020-05-18T17:11:48.4052637Z",
+      "queryTimestamp": "2020-05-30T13:39:04.2254975Z",
       "fileCount": 1,
       "fileSize": 7091
     },
@@ -1321,7 +1193,7 @@
       "status": 1,
       "timestamp": "2020-05-03T11:12:00.5078515Z",
       "lastWriteTimeUtc": "2020-01-11T16:38:51.3866395Z",
-      "queryTimestamp": "2020-05-18T17:11:48.4052637Z",
+      "queryTimestamp": "2020-05-30T13:39:04.2254975Z",
       "fileCount": 1,
       "fileSize": 701215
     },
@@ -1336,7 +1208,7 @@
       "status": 1,
       "timestamp": "2020-05-03T11:12:00.5258036Z",
       "lastWriteTimeUtc": "2020-01-09T18:52:20.7882112Z",
-      "queryTimestamp": "2020-05-18T17:11:48.4052637Z",
+      "queryTimestamp": "2020-05-30T13:39:04.2264963Z",
       "fileCount": 1,
       "fileSize": 430944
     },
@@ -1351,7 +1223,7 @@
       "status": 1,
       "timestamp": "2020-05-03T11:12:00.4250738Z",
       "lastWriteTimeUtc": "2020-01-22T19:41:18.6341142Z",
-      "queryTimestamp": "2020-05-18T17:11:48.4052637Z",
+      "queryTimestamp": "2020-05-30T13:39:04.2274924Z",
       "fileCount": 1,
       "fileSize": 1549482
     },
@@ -1366,118 +1238,21 @@
       "status": 1,
       "timestamp": "2020-05-03T11:12:00.5347794Z",
       "lastWriteTimeUtc": "2020-01-09T18:52:22.2208428Z",
-      "queryTimestamp": "2020-05-18T17:11:48.4062615Z",
+      "queryTimestamp": "2020-05-30T13:39:04.2274924Z",
       "fileCount": 1,
       "fileSize": 373710
     },
     {
       "folderName": "evil",
-      "fingerprint": 2433319032,
-      "fileDateHash": 2247486395,
+      "fingerprint": 0,
+      "fileDateHash": 3028879253,
       "sectionID": 10,
-      "individualFingerprints": [
-        59947611,
-        132465322,
-        132465322,
-        161293647,
-        224413194,
-        309754616,
-        322988789,
-        489458212,
-        489458212,
-        489458212,
-        489458212,
-        489458212,
-        489458212,
-        489458212,
-        489458212,
-        489458212,
-        489458212,
-        500036828,
-        528454256,
-        591709182,
-        612727197,
-        750201251,
-        758054953,
-        758054953,
-        758054953,
-        758054953,
-        758054953,
-        758054953,
-        758054953,
-        758054953,
-        758054953,
-        758054953,
-        758054953,
-        758054953,
-        854738977,
-        987902244,
-        1145285098,
-        1170468234,
-        1278026239,
-        1378740186,
-        1414324697,
-        1540447798,
-        1540447798,
-        1540447798,
-        1540447798,
-        1540447798,
-        1540447798,
-        1540447798,
-        1540447798,
-        1540447798,
-        1540447798,
-        1540447798,
-        1540447798,
-        1547389853,
-        1590131525,
-        2316814055,
-        2430003878,
-        2539704772,
-        2539704772,
-        2539704772,
-        2539704772,
-        2539704772,
-        2539704772,
-        2539704772,
-        2539704772,
-        2539704772,
-        2539704772,
-        2592999635,
-        2592999635,
-        2636458583,
-        2684559053,
-        2763463119,
-        2976666854,
-        3108041872,
-        3491159705,
-        3491159705,
-        3491159705,
-        3491159705,
-        3491159705,
-        3491159705,
-        3491159705,
-        3491159705,
-        3491159705,
-        3491159705,
-        3491159705,
-        3533626746,
-        3709267854,
-        3727793951,
-        3831049891,
-        3937659072,
-        3953983656,
-        3954123295,
-        4109403879,
-        4213863462,
-        4228808913,
-        4272588933
-      ],
-      "status": 1,
-      "timestamp": "2020-05-18T17:11:45.3660468Z",
-      "lastWriteTimeUtc": "2020-05-18T17:00:11.9161681Z",
-      "queryTimestamp": "2020-05-18T17:11:48.4062615Z",
-      "fileCount": 23,
+      "individualFingerprints": null,
+      "status": 4,
+      "timestamp": "2020-05-30T13:39:02.5724741Z",
+      "lastWriteTimeUtc": "2020-05-30T13:39:01.3406635Z",
+      "queryTimestamp": "0001-01-01T00:00:00",
+      "fileCount": 24,
       "fileSize": 0
     },
     {
@@ -1491,7 +1266,7 @@
       "status": 1,
       "timestamp": "2020-05-03T11:12:00.1547971Z",
       "lastWriteTimeUtc": "2020-01-09T18:47:57.2618224Z",
-      "queryTimestamp": "2020-05-18T17:11:48.4062615Z",
+      "queryTimestamp": "2020-05-30T13:39:04.2274924Z",
       "fileCount": 1,
       "fileSize": 12363576
     },
@@ -1506,7 +1281,7 @@
       "status": 1,
       "timestamp": "2020-05-03T11:12:00.4061235Z",
       "lastWriteTimeUtc": "2020-01-08T19:05:22.5801005Z",
-      "queryTimestamp": "2020-05-18T17:11:48.4062615Z",
+      "queryTimestamp": "2020-05-30T13:39:04.2274924Z",
       "fileCount": 1,
       "fileSize": 263258
     },
@@ -1521,7 +1296,7 @@
       "status": 1,
       "timestamp": "2020-05-03T11:12:00.2345826Z",
       "lastWriteTimeUtc": "2020-01-09T19:22:26.3991269Z",
-      "queryTimestamp": "2020-05-18T17:11:48.4062615Z",
+      "queryTimestamp": "2020-05-30T13:39:04.2274924Z",
       "fileCount": 1,
       "fileSize": 95054
     },
@@ -1536,7 +1311,7 @@
       "status": 1,
       "timestamp": "2020-05-03T11:12:00.4559905Z",
       "lastWriteTimeUtc": "2020-01-09T19:09:57.6893601Z",
-      "queryTimestamp": "2020-05-18T17:11:48.4062615Z",
+      "queryTimestamp": "2020-05-30T13:39:04.2284896Z",
       "fileCount": 1,
       "fileSize": 2598821
     },
@@ -1551,7 +1326,7 @@
       "status": 1,
       "timestamp": "2020-05-03T11:11:59.2509115Z",
       "lastWriteTimeUtc": "2020-01-11T16:38:54.6380346Z",
-      "queryTimestamp": "2020-05-18T17:11:48.4072585Z",
+      "queryTimestamp": "2020-05-30T13:39:04.2284896Z",
       "fileCount": 1,
       "fileSize": 691858
     },
@@ -1566,7 +1341,7 @@
       "status": 1,
       "timestamp": "2020-05-03T11:11:59.106298Z",
       "lastWriteTimeUtc": "2020-01-11T16:15:37.4742807Z",
-      "queryTimestamp": "2020-05-18T17:11:48.4072585Z",
+      "queryTimestamp": "2020-05-30T13:39:04.2284896Z",
       "fileCount": 1,
       "fileSize": 266636
     },
@@ -1581,7 +1356,7 @@
       "status": 1,
       "timestamp": "2020-05-03T11:11:58.5786843Z",
       "lastWriteTimeUtc": "2020-01-09T18:43:56.8641493Z",
-      "queryTimestamp": "2020-05-18T17:11:48.4072585Z",
+      "queryTimestamp": "2020-05-30T13:39:04.2284896Z",
       "fileCount": 1,
       "fileSize": 13899068
     },
@@ -1596,7 +1371,7 @@
       "status": 1,
       "timestamp": "2020-05-03T11:12:00.5218151Z",
       "lastWriteTimeUtc": "2020-01-09T18:50:08.4253195Z",
-      "queryTimestamp": "2020-05-18T17:11:48.4072585Z",
+      "queryTimestamp": "2020-05-30T13:39:04.2284896Z",
       "fileCount": 1,
       "fileSize": 708329
     },
@@ -1611,7 +1386,7 @@
       "status": 1,
       "timestamp": "2020-05-03T11:12:00.4360466Z",
       "lastWriteTimeUtc": "2020-01-09T18:34:21.2636449Z",
-      "queryTimestamp": "2020-05-18T17:11:48.4072585Z",
+      "queryTimestamp": "2020-05-30T13:39:04.2294872Z",
       "fileCount": 1,
       "fileSize": 447874
     },
@@ -1626,13 +1401,13 @@
       "status": 1,
       "timestamp": "2020-05-03T11:11:59.2349583Z",
       "lastWriteTimeUtc": "2020-01-09T18:34:06.6206269Z",
-      "queryTimestamp": "2020-05-18T17:11:48.4072585Z",
+      "queryTimestamp": "2020-05-30T13:39:04.2294872Z",
       "fileCount": 1,
       "fileSize": 1363036
     }
   ],
   "isValid": true,
-  "lastPreviousMatchUpdate": "2020-05-19T16:50:42.3813877Z",
+  "lastPreviousMatchUpdate": "2020-05-30T13:39:04.8016899Z",
   "isEnabled": true,
   "isPinned": false,
   "gameVersion": "1.12.2",
@@ -3674,6 +3449,80 @@
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
       "isModified": true,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null,
+      "installedTargets": null
+    },
+    {
+      "addonID": 266824,
+      "gameInstanceID": "397f7f17-62f4-404c-a0f3-30c2bc52ddd5",
+      "installedFile": {
+        "id": 2705827,
+        "displayName": "Caliper-1.12.2-1.1.44.jar",
+        "fileName": "Caliper-1.12.2-1.1.44.jar",
+        "fileDate": "2019-05-01T04:52:49.667Z",
+        "fileLength": 84159,
+        "releaseType": 1,
+        "fileStatus": 4,
+        "downloadUrl": "https://edge.forgecdn.net/files/2705/827/Caliper-1.12.2-1.1.44.jar",
+        "isAlternate": false,
+        "alternateFileId": 2705828,
+        "dependencies": [
+          {
+            "id": 0,
+            "addonId": 228525,
+            "type": 3,
+            "fileId": 0
+          }
+        ],
+        "isAvailable": true,
+        "modules": [
+          {
+            "foldername": "META-INF",
+            "fingerprint": 1176611749,
+            "type": 0
+          },
+          {
+            "foldername": "LICENSE",
+            "fingerprint": 3634485962,
+            "type": 0
+          },
+          {
+            "foldername": "mcmod.info",
+            "fingerprint": 4282601666,
+            "type": 0
+          },
+          {
+            "foldername": "net",
+            "fingerprint": 2468134194,
+            "type": 0
+          }
+        ],
+        "packageFingerprint": 3210025990,
+        "gameVersion": [
+          "1.12.2"
+        ],
+        "hasInstallScript": false,
+        "isCompatibleWithClient": false,
+        "categorySectionPackageType": 0,
+        "restrictProjectFileAccess": 0,
+        "projectStatus": 0,
+        "projectId": 0,
+        "gameVersionDateReleased": "2008-03-01T06:00:00Z",
+        "gameId": 0,
+        "isServerPack": false,
+        "FileNameOnDisk": "Caliper-1.12.2-1.1.44.jar"
+      },
+      "dateInstalled": "2020-05-29T15:50:31.8104654Z",
+      "dateUpdated": "2020-05-29T15:50:31.8501499Z",
+      "dateLastUpdateAttempted": "2020-05-29T15:50:31.8501499Z",
+      "status": 4,
+      "preferenceAutoInstallUpdates": false,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
       "isWorkingCopy": false,
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
@@ -8531,90 +8380,6 @@
       "installedTargets": null
     },
     {
-      "addonID": 228756,
-      "gameInstanceID": "397f7f17-62f4-404c-a0f3-30c2bc52ddd5",
-      "installedFile": {
-        "id": 2747935,
-        "displayName": "ironchest-1.12.2-7.0.72.847.jar",
-        "fileName": "ironchest-1.12.2-7.0.72.847.jar",
-        "fileDate": "2019-07-25T01:20:59.067Z",
-        "fileLength": 956692,
-        "releaseType": 1,
-        "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/2747/935/ironchest-1.12.2-7.0.72.847.jar",
-        "isAlternate": false,
-        "alternateFileId": 0,
-        "dependencies": [],
-        "isAvailable": true,
-        "modules": [
-          {
-            "foldername": "META-INF",
-            "fingerprint": 312784702,
-            "type": 3
-          },
-          {
-            "foldername": "cpw",
-            "fingerprint": 71079651,
-            "type": 3
-          },
-          {
-            "foldername": "mcmod.info",
-            "fingerprint": 4099547818,
-            "type": 3
-          },
-          {
-            "foldername": "version.properties",
-            "fingerprint": 3889772354,
-            "type": 3
-          },
-          {
-            "foldername": "assets",
-            "fingerprint": 1407243087,
-            "type": 3
-          }
-        ],
-        "packageFingerprint": 3272096001,
-        "gameVersion": [
-          "1.12.2"
-        ],
-        "sortableGameVersion": [
-          {
-            "gameVersionPadded": "0000000001.0000000012.0000000002",
-            "gameVersion": "1.12.2",
-            "gameVersionReleaseDate": "2017-09-18T05:00:00Z",
-            "gameVersionName": "1.12.2"
-          }
-        ],
-        "hasInstallScript": false,
-        "isCompatibleWithClient": false,
-        "categorySectionPackageType": 6,
-        "restrictProjectFileAccess": 1,
-        "projectStatus": 4,
-        "renderCacheId": 1606892,
-        "projectId": 228756,
-        "packageFingerprintId": 336564521,
-        "gameVersionDateReleased": "2008-03-01T06:00:00Z",
-        "gameVersionMappingId": 1871791,
-        "gameVersionId": 4458,
-        "gameId": 432,
-        "isServerPack": false,
-        "FileNameOnDisk": "ironchest-1.12.2-7.0.72.847.jar"
-      },
-      "dateInstalled": "2020-05-03T11:11:43.6191627Z",
-      "dateUpdated": "2019-05-03T11:11:43.6191627Z",
-      "dateLastUpdateAttempted": "0001-01-01T00:00:00",
-      "status": 5,
-      "preferenceAutoInstallUpdates": false,
-      "preferenceAlternateFile": false,
-      "preferenceIsIgnored": false,
-      "isModified": true,
-      "isWorkingCopy": false,
-      "isFuzzyMatch": false,
-      "preferenceReleaseType": null,
-      "manifestName": null,
-      "installedTargets": null
-    },
-    {
       "addonID": 324598,
       "gameInstanceID": "397f7f17-62f4-404c-a0f3-30c2bc52ddd5",
       "installedFile": {
@@ -8706,56 +8471,49 @@
       "installedTargets": null
     },
     {
-      "addonID": 224602,
+      "addonID": 228756,
       "gameInstanceID": "397f7f17-62f4-404c-a0f3-30c2bc52ddd5",
       "installedFile": {
-        "id": 2766432,
-        "displayName": "ancientwarfare-1.12.2-2.7.0.772.jar",
-        "fileName": "ancientwarfare-1.12.2-2.7.0.772.jar",
-        "fileDate": "2019-08-20T21:55:49.727Z",
-        "fileLength": 28006491,
+        "id": 2747935,
+        "displayName": "ironchest-1.12.2-7.0.72.847.jar",
+        "fileName": "ironchest-1.12.2-7.0.72.847.jar",
+        "fileDate": "2019-07-25T01:20:59.067Z",
+        "fileLength": 956692,
         "releaseType": 1,
         "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/2766/432/ancientwarfare-1.12.2-2.7.0.772.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/2747/935/ironchest-1.12.2-7.0.72.847.jar",
         "isAlternate": false,
         "alternateFileId": 0,
-        "dependencies": [
-          {
-            "id": 29839812,
-            "addonId": 242818,
-            "type": 3,
-            "fileId": 2766432
-          }
-        ],
+        "dependencies": [],
         "isAvailable": true,
         "modules": [
           {
             "foldername": "META-INF",
-            "fingerprint": 2475827093,
+            "fingerprint": 312784702,
             "type": 3
           },
           {
-            "foldername": "net",
-            "fingerprint": 3576917328,
-            "type": 3
-          },
-          {
-            "foldername": "assets",
-            "fingerprint": 3747944450,
+            "foldername": "cpw",
+            "fingerprint": 71079651,
             "type": 3
           },
           {
             "foldername": "mcmod.info",
-            "fingerprint": 2484842808,
+            "fingerprint": 4099547818,
             "type": 3
           },
           {
-            "foldername": "AW-logo.png",
-            "fingerprint": 136642248,
+            "foldername": "version.properties",
+            "fingerprint": 3889772354,
+            "type": 3
+          },
+          {
+            "foldername": "assets",
+            "fingerprint": 1407243087,
             "type": 3
           }
         ],
-        "packageFingerprint": 2006098778,
+        "packageFingerprint": 3272096001,
         "gameVersion": [
           "1.12.2"
         ],
@@ -8772,18 +8530,102 @@
         "categorySectionPackageType": 6,
         "restrictProjectFileAccess": 1,
         "projectStatus": 4,
-        "renderCacheId": 1629901,
-        "projectId": 224602,
-        "packageFingerprintId": 347198073,
-        "gameVersionDateReleased": "2017-09-18T05:00:00Z",
-        "gameVersionMappingId": 1903757,
-        "gameVersionId": 6756,
+        "renderCacheId": 1606892,
+        "projectId": 228756,
+        "packageFingerprintId": 336564521,
+        "gameVersionDateReleased": "2008-03-01T06:00:00Z",
+        "gameVersionMappingId": 1871791,
+        "gameVersionId": 4458,
         "gameId": 432,
         "isServerPack": false,
-        "FileNameOnDisk": "ancientwarfare-1.12.2-2.7.0.772.jar"
+        "FileNameOnDisk": "ironchest-1.12.2-7.0.72.847.jar"
       },
-      "dateInstalled": "2020-05-03T11:11:43.5752807Z",
-      "dateUpdated": "2019-05-03T11:11:43.5752807Z",
+      "dateInstalled": "2020-05-03T11:11:43.6191627Z",
+      "dateUpdated": "2019-05-03T11:11:43.6191627Z",
+      "dateLastUpdateAttempted": "0001-01-01T00:00:00",
+      "status": 5,
+      "preferenceAutoInstallUpdates": false,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": true,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null,
+      "installedTargets": null
+    },
+    {
+      "addonID": 314904,
+      "gameInstanceID": "397f7f17-62f4-404c-a0f3-30c2bc52ddd5",
+      "installedFile": {
+        "id": 2819669,
+        "displayName": "FTBBackups-1.1.0.1.jar",
+        "fileName": "FTBBackups-1.1.0.1.jar",
+        "fileDate": "2019-10-31T20:25:08.137Z",
+        "fileLength": 43764,
+        "releaseType": 1,
+        "fileStatus": 4,
+        "downloadUrl": "https://edge.forgecdn.net/files/2819/669/FTBBackups-1.1.0.1.jar",
+        "isAlternate": false,
+        "alternateFileId": 2819670,
+        "dependencies": [],
+        "isAvailable": true,
+        "modules": [
+          {
+            "foldername": "META-INF",
+            "fingerprint": 3896838891,
+            "type": 3
+          },
+          {
+            "foldername": "com",
+            "fingerprint": 409143337,
+            "type": 3
+          },
+          {
+            "foldername": "assets",
+            "fingerprint": 4225148106,
+            "type": 3
+          },
+          {
+            "foldername": "pack.mcmeta",
+            "fingerprint": 3152582459,
+            "type": 3
+          },
+          {
+            "foldername": "mcmod.info",
+            "fingerprint": 812656482,
+            "type": 3
+          }
+        ],
+        "packageFingerprint": 752442057,
+        "gameVersion": [
+          "1.12.2"
+        ],
+        "sortableGameVersion": [
+          {
+            "gameVersionPadded": "0000000001.0000000012.0000000002",
+            "gameVersion": "1.12.2",
+            "gameVersionReleaseDate": "2017-09-18T05:00:00Z",
+            "gameVersionName": "1.12.2"
+          }
+        ],
+        "hasInstallScript": false,
+        "isCompatibleWithClient": false,
+        "categorySectionPackageType": 6,
+        "restrictProjectFileAccess": 1,
+        "projectStatus": 4,
+        "renderCacheId": 1693418,
+        "projectId": 314904,
+        "packageFingerprintId": 372959736,
+        "gameVersionDateReleased": "2008-03-01T06:00:00Z",
+        "gameVersionMappingId": 1988512,
+        "gameVersionId": 4458,
+        "gameId": 432,
+        "isServerPack": false,
+        "FileNameOnDisk": "FTBBackups-1.1.0.1.jar"
+      },
+      "dateInstalled": "2020-05-03T11:11:43.621157Z",
+      "dateUpdated": "2019-05-03T11:11:43.621157Z",
       "dateLastUpdateAttempted": "0001-01-01T00:00:00",
       "status": 5,
       "preferenceAutoInstallUpdates": false,
@@ -8929,49 +8771,56 @@
       "installedTargets": null
     },
     {
-      "addonID": 314904,
+      "addonID": 224602,
       "gameInstanceID": "397f7f17-62f4-404c-a0f3-30c2bc52ddd5",
       "installedFile": {
-        "id": 2819669,
-        "displayName": "FTBBackups-1.1.0.1.jar",
-        "fileName": "FTBBackups-1.1.0.1.jar",
-        "fileDate": "2019-10-31T20:25:08.137Z",
-        "fileLength": 43764,
+        "id": 2766432,
+        "displayName": "ancientwarfare-1.12.2-2.7.0.772.jar",
+        "fileName": "ancientwarfare-1.12.2-2.7.0.772.jar",
+        "fileDate": "2019-08-20T21:55:49.727Z",
+        "fileLength": 28006491,
         "releaseType": 1,
         "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/2819/669/FTBBackups-1.1.0.1.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/2766/432/ancientwarfare-1.12.2-2.7.0.772.jar",
         "isAlternate": false,
-        "alternateFileId": 2819670,
-        "dependencies": [],
+        "alternateFileId": 0,
+        "dependencies": [
+          {
+            "id": 29839812,
+            "addonId": 242818,
+            "type": 3,
+            "fileId": 2766432
+          }
+        ],
         "isAvailable": true,
         "modules": [
           {
             "foldername": "META-INF",
-            "fingerprint": 3896838891,
+            "fingerprint": 2475827093,
             "type": 3
           },
           {
-            "foldername": "com",
-            "fingerprint": 409143337,
+            "foldername": "net",
+            "fingerprint": 3576917328,
             "type": 3
           },
           {
             "foldername": "assets",
-            "fingerprint": 4225148106,
-            "type": 3
-          },
-          {
-            "foldername": "pack.mcmeta",
-            "fingerprint": 3152582459,
+            "fingerprint": 3747944450,
             "type": 3
           },
           {
             "foldername": "mcmod.info",
-            "fingerprint": 812656482,
+            "fingerprint": 2484842808,
+            "type": 3
+          },
+          {
+            "foldername": "AW-logo.png",
+            "fingerprint": 136642248,
             "type": 3
           }
         ],
-        "packageFingerprint": 752442057,
+        "packageFingerprint": 2006098778,
         "gameVersion": [
           "1.12.2"
         ],
@@ -8988,18 +8837,18 @@
         "categorySectionPackageType": 6,
         "restrictProjectFileAccess": 1,
         "projectStatus": 4,
-        "renderCacheId": 1693418,
-        "projectId": 314904,
-        "packageFingerprintId": 372959736,
-        "gameVersionDateReleased": "2008-03-01T06:00:00Z",
-        "gameVersionMappingId": 1988512,
-        "gameVersionId": 4458,
+        "renderCacheId": 1629901,
+        "projectId": 224602,
+        "packageFingerprintId": 347198073,
+        "gameVersionDateReleased": "2017-09-18T05:00:00Z",
+        "gameVersionMappingId": 1903757,
+        "gameVersionId": 6756,
         "gameId": 432,
         "isServerPack": false,
-        "FileNameOnDisk": "FTBBackups-1.1.0.1.jar"
+        "FileNameOnDisk": "ancientwarfare-1.12.2-2.7.0.772.jar"
       },
-      "dateInstalled": "2020-05-03T11:11:43.621157Z",
-      "dateUpdated": "2019-05-03T11:11:43.621157Z",
+      "dateInstalled": "2020-05-03T11:11:43.5752807Z",
+      "dateUpdated": "2019-05-03T11:11:43.5752807Z",
       "dateLastUpdateAttempted": "0001-01-01T00:00:00",
       "status": 5,
       "preferenceAutoInstallUpdates": false,
@@ -9405,80 +9254,6 @@
       "installedTargets": null
     },
     {
-      "addonID": 221585,
-      "gameInstanceID": "397f7f17-62f4-404c-a0f3-30c2bc52ddd5",
-      "installedFile": {
-        "id": 2492586,
-        "displayName": "RoguelikeDungeons-1.12.2-1.8.0.jar",
-        "fileName": "RoguelikeDungeons-1.12.2-1.8.0.jar",
-        "fileDate": "2017-10-20T19:07:15.16Z",
-        "fileLength": 701215,
-        "releaseType": 1,
-        "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/2492/586/RoguelikeDungeons-1.12.2-1.8.0.jar",
-        "isAlternate": false,
-        "alternateFileId": 0,
-        "dependencies": [],
-        "isAvailable": true,
-        "modules": [
-          {
-            "foldername": "META-INF",
-            "fingerprint": 2464251221,
-            "type": 3
-          },
-          {
-            "foldername": "greymerk",
-            "fingerprint": 4210190164,
-            "type": 3
-          },
-          {
-            "foldername": "mcmod.info",
-            "fingerprint": 42257697,
-            "type": 3
-          }
-        ],
-        "packageFingerprint": 4054234996,
-        "gameVersion": [
-          "1.12.2"
-        ],
-        "sortableGameVersion": [
-          {
-            "gameVersionPadded": "0000000001.0000000012.0000000002",
-            "gameVersion": "1.12.2",
-            "gameVersionReleaseDate": "2017-09-18T05:00:00Z",
-            "gameVersionName": "1.12.2"
-          }
-        ],
-        "hasInstallScript": false,
-        "isCompatibleWithClient": true,
-        "categorySectionPackageType": 6,
-        "restrictProjectFileAccess": 1,
-        "projectStatus": 4,
-        "renderCacheId": 591195,
-        "projectId": 221585,
-        "packageFingerprintId": 206679975,
-        "gameVersionDateReleased": "2008-03-01T06:00:00Z",
-        "gameVersionMappingId": 1460421,
-        "gameVersionId": 4458,
-        "gameId": 432,
-        "isServerPack": false,
-        "FileNameOnDisk": "RoguelikeDungeons-1.12.2-1.8.0.jar"
-      },
-      "dateInstalled": "2020-05-03T11:11:43.5842559Z",
-      "dateUpdated": "2019-05-03T11:11:43.5842559Z",
-      "dateLastUpdateAttempted": "0001-01-01T00:00:00",
-      "status": 5,
-      "preferenceAutoInstallUpdates": false,
-      "preferenceAlternateFile": false,
-      "preferenceIsIgnored": false,
-      "isModified": true,
-      "isWorkingCopy": false,
-      "isFuzzyMatch": false,
-      "preferenceReleaseType": null,
-      "manifestName": null,
-      "installedTargets": null
-    },
-    {
       "addonID": 226294,
       "gameInstanceID": "397f7f17-62f4-404c-a0f3-30c2bc52ddd5",
       "installedFile": {
@@ -9558,6 +9333,80 @@
       "installedTargets": null
     },
     {
+      "addonID": 221585,
+      "gameInstanceID": "397f7f17-62f4-404c-a0f3-30c2bc52ddd5",
+      "installedFile": {
+        "id": 2492586,
+        "displayName": "RoguelikeDungeons-1.12.2-1.8.0.jar",
+        "fileName": "RoguelikeDungeons-1.12.2-1.8.0.jar",
+        "fileDate": "2017-10-20T19:07:15.16Z",
+        "fileLength": 701215,
+        "releaseType": 1,
+        "fileStatus": 4,
+        "downloadUrl": "https://edge.forgecdn.net/files/2492/586/RoguelikeDungeons-1.12.2-1.8.0.jar",
+        "isAlternate": false,
+        "alternateFileId": 0,
+        "dependencies": [],
+        "isAvailable": true,
+        "modules": [
+          {
+            "foldername": "META-INF",
+            "fingerprint": 2464251221,
+            "type": 3
+          },
+          {
+            "foldername": "greymerk",
+            "fingerprint": 4210190164,
+            "type": 3
+          },
+          {
+            "foldername": "mcmod.info",
+            "fingerprint": 42257697,
+            "type": 3
+          }
+        ],
+        "packageFingerprint": 4054234996,
+        "gameVersion": [
+          "1.12.2"
+        ],
+        "sortableGameVersion": [
+          {
+            "gameVersionPadded": "0000000001.0000000012.0000000002",
+            "gameVersion": "1.12.2",
+            "gameVersionReleaseDate": "2017-09-18T05:00:00Z",
+            "gameVersionName": "1.12.2"
+          }
+        ],
+        "hasInstallScript": false,
+        "isCompatibleWithClient": true,
+        "categorySectionPackageType": 6,
+        "restrictProjectFileAccess": 1,
+        "projectStatus": 4,
+        "renderCacheId": 591195,
+        "projectId": 221585,
+        "packageFingerprintId": 206679975,
+        "gameVersionDateReleased": "2008-03-01T06:00:00Z",
+        "gameVersionMappingId": 1460421,
+        "gameVersionId": 4458,
+        "gameId": 432,
+        "isServerPack": false,
+        "FileNameOnDisk": "RoguelikeDungeons-1.12.2-1.8.0.jar"
+      },
+      "dateInstalled": "2020-05-03T11:11:43.5842559Z",
+      "dateUpdated": "2019-05-03T11:11:43.5842559Z",
+      "dateLastUpdateAttempted": "0001-01-01T00:00:00",
+      "status": 5,
+      "preferenceAutoInstallUpdates": false,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": true,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null,
+      "installedTargets": null
+    },
+    {
       "addonID": 309674,
       "gameInstanceID": "397f7f17-62f4-404c-a0f3-30c2bc52ddd5",
       "installedFile": {
@@ -9623,85 +9472,6 @@
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
       "isModified": false,
-      "isWorkingCopy": false,
-      "isFuzzyMatch": false,
-      "preferenceReleaseType": null,
-      "manifestName": null,
-      "installedTargets": null
-    },
-    {
-      "addonID": 250398,
-      "gameInstanceID": "397f7f17-62f4-404c-a0f3-30c2bc52ddd5",
-      "installedFile": {
-        "id": 2731319,
-        "displayName": "Controlling-3.0.7",
-        "fileName": "Controlling-3.0.7.jar",
-        "fileDate": "2019-06-27T09:25:29.777Z",
-        "fileLength": 27162,
-        "releaseType": 1,
-        "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/2731/319/Controlling-3.0.7.jar",
-        "isAlternate": false,
-        "alternateFileId": 0,
-        "dependencies": [],
-        "isAvailable": true,
-        "modules": [
-          {
-            "foldername": "META-INF",
-            "fingerprint": 3475994140,
-            "type": 3
-          },
-          {
-            "foldername": "us",
-            "fingerprint": 2410164597,
-            "type": 3
-          },
-          {
-            "foldername": "assets",
-            "fingerprint": 1022131806,
-            "type": 3
-          },
-          {
-            "foldername": "mcmod.info",
-            "fingerprint": 3193961234,
-            "type": 3
-          }
-        ],
-        "packageFingerprint": 2962360278,
-        "gameVersion": [
-          "1.12.2"
-        ],
-        "sortableGameVersion": [
-          {
-            "gameVersionPadded": "0000000001.0000000012.0000000002",
-            "gameVersion": "1.12.2",
-            "gameVersionReleaseDate": "2017-09-18T05:00:00Z",
-            "gameVersionName": "1.12.2"
-          }
-        ],
-        "hasInstallScript": false,
-        "isCompatibleWithClient": false,
-        "categorySectionPackageType": 6,
-        "restrictProjectFileAccess": 1,
-        "projectStatus": 4,
-        "renderCacheId": 1583643,
-        "projectId": 250398,
-        "packageFingerprintId": 327723223,
-        "gameVersionDateReleased": "2008-03-01T06:00:00Z",
-        "gameVersionMappingId": 1844864,
-        "gameVersionId": 4458,
-        "gameId": 432,
-        "isServerPack": false,
-        "FileNameOnDisk": "Controlling-3.0.7.jar"
-      },
-      "dateInstalled": "2020-05-03T11:11:43.5852529Z",
-      "dateUpdated": "2019-05-03T11:11:43.5852529Z",
-      "dateLastUpdateAttempted": "0001-01-01T00:00:00",
-      "status": 3,
-      "preferenceAutoInstallUpdates": false,
-      "preferenceAlternateFile": false,
-      "preferenceIsIgnored": false,
-      "isModified": true,
       "isWorkingCopy": false,
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
@@ -9801,6 +9571,85 @@
       "dateUpdated": "2019-05-03T11:11:43.5952263Z",
       "dateLastUpdateAttempted": "0001-01-01T00:00:00",
       "status": 5,
+      "preferenceAutoInstallUpdates": false,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": true,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null,
+      "installedTargets": null
+    },
+    {
+      "addonID": 250398,
+      "gameInstanceID": "397f7f17-62f4-404c-a0f3-30c2bc52ddd5",
+      "installedFile": {
+        "id": 2731319,
+        "displayName": "Controlling-3.0.7",
+        "fileName": "Controlling-3.0.7.jar",
+        "fileDate": "2019-06-27T09:25:29.777Z",
+        "fileLength": 27162,
+        "releaseType": 1,
+        "fileStatus": 4,
+        "downloadUrl": "https://edge.forgecdn.net/files/2731/319/Controlling-3.0.7.jar",
+        "isAlternate": false,
+        "alternateFileId": 0,
+        "dependencies": [],
+        "isAvailable": true,
+        "modules": [
+          {
+            "foldername": "META-INF",
+            "fingerprint": 3475994140,
+            "type": 3
+          },
+          {
+            "foldername": "us",
+            "fingerprint": 2410164597,
+            "type": 3
+          },
+          {
+            "foldername": "assets",
+            "fingerprint": 1022131806,
+            "type": 3
+          },
+          {
+            "foldername": "mcmod.info",
+            "fingerprint": 3193961234,
+            "type": 3
+          }
+        ],
+        "packageFingerprint": 2962360278,
+        "gameVersion": [
+          "1.12.2"
+        ],
+        "sortableGameVersion": [
+          {
+            "gameVersionPadded": "0000000001.0000000012.0000000002",
+            "gameVersion": "1.12.2",
+            "gameVersionReleaseDate": "2017-09-18T05:00:00Z",
+            "gameVersionName": "1.12.2"
+          }
+        ],
+        "hasInstallScript": false,
+        "isCompatibleWithClient": false,
+        "categorySectionPackageType": 6,
+        "restrictProjectFileAccess": 1,
+        "projectStatus": 4,
+        "renderCacheId": 1583643,
+        "projectId": 250398,
+        "packageFingerprintId": 327723223,
+        "gameVersionDateReleased": "2008-03-01T06:00:00Z",
+        "gameVersionMappingId": 1844864,
+        "gameVersionId": 4458,
+        "gameId": 432,
+        "isServerPack": false,
+        "FileNameOnDisk": "Controlling-3.0.7.jar"
+      },
+      "dateInstalled": "2020-05-03T11:11:43.5852529Z",
+      "dateUpdated": "2019-05-03T11:11:43.5852529Z",
+      "dateLastUpdateAttempted": "0001-01-01T00:00:00",
+      "status": 3,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,

@@ -5,17 +5,17 @@ While this information can be used to find things that can be optimized, it
 should never used used for a witch hunt. This data is anonymous, and is not
 automatically submitted to any online service.
 
-| Script Name                 | Time  |
-|-----------------------------|-------|
-| Evil\abyssalcraft.zs        | 362ms |
-| items.zs                    | 290ms |
-| global.zs                   | 236ms |
-| MineTweakerRecipeMaker.zs   | 92ms  |
-| good\Astral.zs              | 75ms  |
-| dimensions.zs               | 67ms  |
-| Evil\bloodmagic.zs          | 52ms  |
-| rename_items.zs             | 51ms  |
-| good\Roots\Fey crafting.zs  | 33ms  |
-| good\Roots\pyre crafting.zs | 29ms  |
-| good\botaniacrafting.zs     | 29ms  |
-| Ice_and_Fire.zs             | 29ms  |
+| Script Name                 | Time   |
+|-----------------------------|--------|
+| Evil\abyssalcraft.zs        | 1514ms |
+| items.zs                    | 268ms  |
+| global.zs                   | 264ms  |
+| Evil\bloodmagic.zs          | 84ms   |
+| good\Astral.zs              | 75ms   |
+| dimensions.zs               | 70ms   |
+| MineTweakerRecipeMaker.zs   | 61ms   |
+| good\Roots\pyre crafting.zs | 52ms   |
+| rename_items.zs             | 44ms   |
+| good\botaniacrafting.zs     | 41ms   |
+| Ice_and_Fire.zs             | 34ms   |
+| good\Roots\Fey crafting.zs  | 26ms   |
