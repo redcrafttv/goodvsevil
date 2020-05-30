@@ -5118,3 +5118,123 @@ Caused by: java.lang.ArrayIndexOutOfBoundsException: -1
 [21:02:31] [Server thread/INFO]: Saved 1 stages for DieInsel.
 [21:02:31] [Server thread/INFO]: Saving chunks for level 'evil'/overworld
 [21:02:31] [Server thread/INFO]: Saving chunks for level 'evil'/thedungeon
+[21:08:21] [Server thread/INFO]: Saved 1 stages for DieInsel.
+[21:09:06] [Server thread/INFO]: Saved 1 stages for DieInsel.
+[21:09:51] [Server thread/INFO]: Saved 1 stages for DieInsel.
+[21:10:36] [Server thread/INFO]: Saved 1 stages for DieInsel.
+[21:11:21] [Server thread/INFO]: Saved 1 stages for DieInsel.
+[21:12:06] [Server thread/INFO]: Saved 1 stages for DieInsel.
+[21:12:51] [Server thread/INFO]: Saved 1 stages for DieInsel.
+[21:13:36] [Server thread/INFO]: Saved 1 stages for DieInsel.
+[21:14:21] [Server thread/INFO]: Saved 1 stages for DieInsel.
+[21:15:06] [Server thread/INFO]: Saved 1 stages for DieInsel.
+[21:15:49] [Client thread/INFO]: [CHAT] Invalid subcommand 'evil'! Available subcommands: add, jeicategories, silentadd, clear, check, reloadfakes, silentremove, remove and info
+[21:15:51] [Server thread/INFO]: Saved 1 stages for DieInsel.
+[21:15:56] [Server thread/INFO]: Syncing 2 stages for DieInsel.
+[21:15:56] [Client thread/INFO]: Syncing 5697 items with JEI!.
+[21:15:56] [Client thread/INFO]: Ingredients are being added at runtime: 5697 net.minecraft.item.ItemStack
+[21:15:59] [Client thread/INFO]: Finished JEI Sync, took 2600ms. 0 hidden, 5697 shown.
+[21:15:59] [Client thread/INFO]: [CHAT] You unlocked stage evil!
+[21:16:36] [Server thread/INFO]: Saved 2 stages for DieInsel.
+[21:17:21] [Server thread/INFO]: Saved 2 stages for DieInsel.
+[21:18:06] [Server thread/INFO]: Saved 2 stages for DieInsel.
+[21:18:51] [Server thread/INFO]: Saved 2 stages for DieInsel.
+[21:19:36] [Server thread/INFO]: Saved 2 stages for DieInsel.
+[21:20:21] [Server thread/INFO]: Saved 2 stages for DieInsel.
+[21:21:06] [Server thread/INFO]: Saved 2 stages for DieInsel.
+[21:21:51] [Server thread/INFO]: Saved 2 stages for DieInsel.
+[21:22:36] [Server thread/INFO]: Saved 2 stages for DieInsel.
+[21:23:21] [Server thread/INFO]: Saved 2 stages for DieInsel.
+[21:23:21] [Client thread/INFO]: [CHAT] The Blood Moon is rising...
+[21:24:06] [Server thread/INFO]: Saved 2 stages for DieInsel.
+[21:24:51] [Server thread/INFO]: Saved 2 stages for DieInsel.
+[21:25:00] [Server thread/INFO]: [DieInsel: Toggled downfall]
+[21:25:00] [Client thread/INFO]: [CHAT] Toggled downfall
+[21:25:03] [Server thread/INFO]: [DieInsel: Set the time to 0]
+[21:25:03] [Client thread/INFO]: [CHAT] Set the time to 0
+[21:25:11] [Server thread/INFO]: [DieInsel: Game rule doDaylightCycle has been updated to false]
+[21:25:11] [Client thread/INFO]: [CHAT] Game rule doDaylightCycle has been updated to false
+[21:25:17] [Server thread/INFO]: [DieInsel: Game rule doWeatherCycle has been updated to false]
+[21:25:17] [Client thread/INFO]: [CHAT] Game rule doWeatherCycle has been updated to false
+[21:25:35] [Server thread/INFO]: Saving and pausing game...
+[21:25:35] [Server thread/INFO]: Saved 2 stages for DieInsel.
+[21:25:35] [Server thread/INFO]: Saving chunks for level 'evil'/overworld
+[21:25:35] [Server thread/INFO]: Saving chunks for level 'evil'/thedungeon
+[21:25:39] [Server thread/INFO]: Saved 2 stages for DieInsel.
+[21:25:46] [Server thread/INFO]: Saving and pausing game...
+[21:25:46] [Server thread/INFO]: Saved 2 stages for DieInsel.
+[21:25:46] [Server thread/INFO]: Saving chunks for level 'evil'/overworld
+[21:25:46] [Server thread/INFO]: Saving chunks for level 'evil'/thedungeon
+[21:26:27] [Server thread/INFO]: Saved 2 stages for DieInsel.
+[21:27:12] [Server thread/INFO]: Saved 2 stages for DieInsel.
+[21:27:48] [Server thread/INFO]: DieInsel has made the advancement [Heart Shooter]
+[21:27:48] [Client thread/INFO]: [CHAT] DieInsel has made the advancement [Heart Shooter]
+[21:27:48] [Server thread/INFO]: Synchronising advancements for DieInsel
+[21:27:49] [Client thread/INFO]: Loaded 229 advancements
+[21:27:57] [Server thread/INFO]: Saved 2 stages for DieInsel.
+[21:28:42] [Server thread/INFO]: Saved 2 stages for DieInsel.
+[21:29:27] [Server thread/INFO]: Saved 2 stages for DieInsel.
+[21:30:12] [Server thread/INFO]: Saved 2 stages for DieInsel.
+[21:30:57] [Server thread/INFO]: Saved 2 stages for DieInsel.
+[21:31:42] [Server thread/INFO]: Saved 2 stages for DieInsel.
+[21:32:27] [Server thread/INFO]: Saved 2 stages for DieInsel.
+[21:33:12] [Server thread/INFO]: Saved 2 stages for DieInsel.
+[21:33:57] [Server thread/INFO]: Saved 2 stages for DieInsel.
+[21:34:42] [Server thread/INFO]: Saved 2 stages for DieInsel.
+[21:35:27] [Server thread/INFO]: Saved 2 stages for DieInsel.
+[21:36:12] [Server thread/INFO]: Saved 2 stages for DieInsel.
+[21:36:57] [Server thread/INFO]: Saved 2 stages for DieInsel.
+[21:37:42] [Server thread/INFO]: Saved 2 stages for DieInsel.
+[21:38:27] [Server thread/INFO]: Saved 2 stages for DieInsel.
+[21:39:12] [Server thread/INFO]: Saved 2 stages for DieInsel.
+[21:39:57] [Server thread/INFO]: Saved 2 stages for DieInsel.
+[21:40:42] [Server thread/INFO]: Saved 2 stages for DieInsel.
+[21:41:27] [Server thread/INFO]: Saved 2 stages for DieInsel.
+[21:42:12] [Server thread/INFO]: Saved 2 stages for DieInsel.
+[21:42:57] [Server thread/INFO]: Saved 2 stages for DieInsel.
+[21:43:42] [Server thread/INFO]: Saved 2 stages for DieInsel.
+[21:44:27] [Server thread/INFO]: Saved 2 stages for DieInsel.
+[21:45:12] [Server thread/INFO]: Saved 2 stages for DieInsel.
+[21:45:57] [Server thread/INFO]: Saved 2 stages for DieInsel.
+[21:46:42] [Server thread/INFO]: Saved 2 stages for DieInsel.
+[21:47:27] [Server thread/INFO]: Saved 2 stages for DieInsel.
+[21:48:12] [Server thread/INFO]: Saved 2 stages for DieInsel.
+[21:48:57] [Server thread/INFO]: Saved 2 stages for DieInsel.
+[21:49:42] [Server thread/INFO]: Saved 2 stages for DieInsel.
+[21:50:27] [Server thread/INFO]: Saved 2 stages for DieInsel.
+[21:51:12] [Server thread/INFO]: Saved 2 stages for DieInsel.
+[21:51:57] [Server thread/INFO]: Saved 2 stages for DieInsel.
+[21:52:42] [Server thread/INFO]: Saved 2 stages for DieInsel.
+[21:53:27] [Server thread/INFO]: Saved 2 stages for DieInsel.
+[21:54:12] [Server thread/INFO]: Saved 2 stages for DieInsel.
+[21:54:57] [Server thread/INFO]: Saved 2 stages for DieInsel.
+[21:55:42] [Server thread/INFO]: Saved 2 stages for DieInsel.
+[21:56:27] [Server thread/INFO]: Saved 2 stages for DieInsel.
+[21:57:12] [Server thread/INFO]: Saved 2 stages for DieInsel.
+[21:57:57] [Server thread/INFO]: Saved 2 stages for DieInsel.
+[21:58:42] [Server thread/INFO]: Saved 2 stages for DieInsel.
+[21:59:27] [Server thread/INFO]: Saved 2 stages for DieInsel.
+[22:00:12] [Server thread/INFO]: Saved 2 stages for DieInsel.
+[22:00:57] [Server thread/INFO]: Saved 2 stages for DieInsel.
+[22:01:42] [Server thread/INFO]: Saved 2 stages for DieInsel.
+[22:02:27] [Server thread/INFO]: Saved 2 stages for DieInsel.
+[22:03:12] [Server thread/INFO]: Saved 2 stages for DieInsel.
+[22:03:57] [Server thread/INFO]: Saved 2 stages for DieInsel.
+[22:04:42] [Server thread/INFO]: Saved 2 stages for DieInsel.
+[22:04:50] [Server thread/INFO]: Saving and pausing game...
+[22:04:50] [Server thread/INFO]: Saved 2 stages for DieInsel.
+[22:04:50] [Server thread/INFO]: Saving chunks for level 'evil'/overworld
+[22:04:50] [Server thread/INFO]: Saving chunks for level 'evil'/thedungeon
+[22:05:28] [Server thread/INFO]: Saved 2 stages for DieInsel.
+[22:06:13] [Server thread/INFO]: Saved 2 stages for DieInsel.
+[22:06:58] [Server thread/INFO]: Saved 2 stages for DieInsel.
+[22:07:43] [Server thread/INFO]: Saved 2 stages for DieInsel.
+[22:08:28] [Server thread/INFO]: Saved 2 stages for DieInsel.
+[22:09:13] [Server thread/INFO]: Saved 2 stages for DieInsel.
+[22:09:58] [Server thread/INFO]: Saved 2 stages for DieInsel.
+[22:10:43] [Server thread/INFO]: Saved 2 stages for DieInsel.
+[22:11:28] [Server thread/INFO]: Saved 2 stages for DieInsel.
+[22:12:13] [Server thread/INFO]: Saved 2 stages for DieInsel.
+[22:12:58] [Server thread/INFO]: Saved 2 stages for DieInsel.
+[22:13:43] [Server thread/INFO]: Saved 2 stages for DieInsel.
+[22:14:28] [Server thread/INFO]: Saved 2 stages for DieInsel.
